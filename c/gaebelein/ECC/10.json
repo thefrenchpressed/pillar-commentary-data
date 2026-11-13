@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "gaebelein",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 10\n\nThis chapter contains a series of proverbs, expressing the wisdom and prudence of the natural man. Here are a number of observations and all show that there is a practical value in wisdom and that it has certain advantages. These maxims are of a different kind than the proverbs in the preceding book. There we are face to face with the wisdom which is from above, here it is the wisdom of man. The name of the Lord is not mentioned once, Similar philosophic utterances can be traced in the literature of other ancient nations. They need no detailed annotations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 11
+ }
+}

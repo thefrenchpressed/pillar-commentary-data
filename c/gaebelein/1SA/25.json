@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 25\n\n1. The death of Samuel (1 Samuel 25:1)\n\n2. Nabal and his refusal (1 Samuel 25:2-13)\n\n3. Abigail’s deed and her prayer (1 Samuel 25:14-31)\n\n4. David’s answer to Abigail (1 Samuel 25:32-35)\n\n5. Nabal’s death (1 Samuel 25:36-38)\n\n6. Abigail becomes David’s wife (1 Samuel 25:39-44)\n\nAfter the death of Samuel, briefly mentioned in the beginning of this chapter, David went still further south into the wilderness of Paran. An interesting story, the story of Nabal and Abigail, is told in this chapter. David had won a great victory over himself and over Saul. The next event records a great failure. He loses his self-control completely, and instead of manifesting the magnanimity he showed towards Saul, he breaks out in a rage and in the violence of his temper he was ready to kill Nabal and his entire household. God alone in His gracious intervention saved him from committing a crime as heinous as the one Saul committed when he slew Ahimelech, his fellow-priests and the inhabitants of Nob.\n\nHow he failed! How different He was, whose rejection and suffering David foreshadowed, our Lord! What a contrast with His meekness! David was out of touch with the Lord and we read nothing here of David asking the Lord about sending the ten young men to Carmel, nor did he enquire of the Lord, when in the heat of his spirit he ordered the four hundred men to proceed on their dreadful errand.\n\nIt is true the provocation was great. He had sent the young men with a message of peace to Nabal, requesting the rich man for a little help. David had regarded the property of Nabal and his shepherds were not molested. The exiled king had a right to expect the little help he asked. And Nabal was an unbeliever. He did not believe in David as the Lord’s anointed King, but looked upon him as a slave who had left his master.\n\nHe refused and insulted the King’s messengers. Nabal means “fool.” He is a type of natural man and especially those who reject the Lord and His message of peace. His words “my bread” --” my water” --” my flesh” --” my shearers” and the whole story reminds us of that other fool of whom our Lord spoke. He also spoke of “my barns” --” my fruits” --” my goods” (Luke 12:16-21).\n\nDavid was restrained from his evil purpose by the intervention of beautiful Abigail, the wife of Nabal. When she heard what her husband had done she at once prepared a magnificent present for David and his men. It was a princely gift, including two skins filled with wine. All this she did without consulting her husband. And the place she takes before David, her supplications, her confession, her humble prayer for forgiveness, her delicate reference to the king’s sinful haste to shed blood, her faith in David’s coming exaltation and her concluding request, “then remember thine handmaid” --all is so rich and beautiful. Abigail the woman with understanding and of a beautiful countenance typifies the true believer and may also be taken as a type of the church.\n\nNabal to whom she is bound as wife is typical of the old nature, the flesh. But Nabal died and Abigail was married to David; even as the believer is dead to sin, dead to the law and is now married to another, even to Christ (Romans 7:4). We leave it to the reader to follow these hints in their application."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 26
+ }
+}

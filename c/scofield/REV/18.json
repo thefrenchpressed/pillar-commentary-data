@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "scofield",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Babylon -- Babylon, \"confusion,\" is repeatedly used by the prophets in a symbolic sense ((See Scofield \"Isaiah 13:2\")), note 2. Two \"Babylons\" are to be distinguished in the Revelation: ecclesiastical babylon, which is apostate Christendom, headed up under the Papacy; and political babylon, which is the Beast's confederated empire, the last form of Gentile world-dominion. Ecclesiastical Babylon is \"the great whore\" Revelation 17:1 and is destroyed by political Babylon Revelation 17:15-18 that the beast may be the alone object of worship.; 2 Thessalonians 2:3,4; Revelation 13:15. The power of political Babylon is destroyed by the return of the Lord in glory. (See \"Armageddon,\"); Revelation 16:14; 19:17. The notion of a literal Babylon to be rebuilt on the site of ancient Babylon is in conflict with Isaiah 13:19-22. But the language of Revelation 18:10,16,18 seems beyond question to identify \"Babylon,\" the \"city\" of luxury and traffic, with \"Babylon\" the ecclesiastical centre, viz. Rome. The very kings who hate ecclesiastical Babylon deplore the destruction of commercial Babylon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Babylon -- (See Scofield \"Isaiah 13:1\"), note 2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "voice -- Cf. Isaiah 24:8 contra, Revelation 14:1-3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 19
+ }
+}

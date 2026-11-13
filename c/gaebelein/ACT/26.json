@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "gaebelein",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 26\n\n1. The Address of the Apostle Paul (Acts 26:2-23).\n\n2. The Interruption by Festus and the Appeal to the King (Acts 26:24-29).\n\n3. The Verdict (Acts 26:30-32).\n\nThe opening words of the Apostle are indeed gracious. Even as he stands in chains the great Apostle counts himself happy. His happiness consisted in the knowledge that he was now privileged to bear witness of His Lord and the Gospel committed to him before such an audience. What an opportunity it was to him, and how he rejoiced that he could speak of Him, whom he served. He also honored the King by a brief remark in which he expressed his delight in speaking before one who was so well acquainted with Jewish customs and questions. Then he restates his life as a Pharisee.\n\nAt once he touches upon the resurrection of the Lord Jesus Christ. Why should it be thought a thing incredible with you, that God should raise the dead? The whole history of Israel bears witness to the fact that God can bring life from the dead. The very origin of the nation demonstrates this, for Sarah’s womb was a grave, and God brought life out of that grave. Many promises of the past vouched for God’s power to raise the dead. The nation had this promise that spiritual and national death is to give way to spiritual and national life (Ezekiel 37:1-15; Hosea 6:1-3).\n\nThe resurrection of the Lord Jesus Christ proved Him to be the Holy One and the Hope of Israel. In this sense Peter speaks of His resurrection. Blessed be the God and Father of our Lord Jesus Christ, who according to His abundant mercy hath begotten us again to a living hope by the resurrection of Jesus Christ from the dead” (1 Peter 1:3). The grave of the Lord Jesus was for the disciples the grave of their national hope, but His resurrection from the dead the revival of that hope. Once more he also relates the sad story of how he persecuted the saints. Upon that dark background he can now flash forth again the story of his conversion.\n\nThen the proper moment had arrived to state the Gospel message before this company. It is a terse statement of the message which the Lord had committed unto him. All the elements of the Gospel are contained in the eighteenth verse. There is first the condition of man by nature. Eyes, which are blind, in darkness, under the power of Satan. The eyes are to be opened and through the Gospel man is turned from darkness to light, from the power of Satan unto God.\n\nIn Colossians 1:12 the same is stated. Then the blessings of conversion. Forgiveness of sins and an inheritance. Faith is the means of all this; sanctification, that is separation, in conversion “by faith that is in me.” One wonders if the Holy Spirit even then did not bless the message to some heart, and the Grace of God bestowed these blessings upon some believing sinners. It may have been so. The day will make it known.\n\nFestus interrupted him, and when Paul addressed the King directly, he answered him by saying: “Almost persuadest thou me to become a Christian.” The meaning is rather “by a little more persuasion you might make me a Christian.” No doubt conviction had taken hold on him. In this half mocking way he answers the Apostle. How many after him have acted in the same way and rejected the Grace, which stood ready to save.\n\nThe verdict of a private consultation is “This Man doeth nothing worthy of death.” Herod Agrippa said unto Festus “This man might have been set at liberty, if he had not appealed unto Caesar.” If Paul had not made his appeal to Caesar he might have then been freed. We have seen before that his appeal to Rome was according to the will of the Lord. To Rome then he goes. All is ordered by a gracious Lord."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 27
+ }
+}

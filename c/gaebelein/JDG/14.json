@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "gaebelein",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 14 The First Deeds of Samson\n\n1. The woman in Timnath (Judges 14:1-4)\n\n2. The killing of the young lion and the honey in the carcass (Judges 14:5-9)\n\n3. The marriage feast and the riddle (Judges 14:10-14)\n\n4. The riddle answered (Judges 14:15-18)\n\n5. Thirty Philistines slain by Samson (Judges 14:19-20)\n\nSamson was called of God to be a true Nazarite, but in his life which was to manifest the Nazarite character he failed. “He went down to Timnath” is a foreboding beginning. It was a step in the wrong direction. He stepped upon the territory of the enemy to enter into an alliance with the Philistines. He meets one of the daughters of the Philistines, a woman in Timnath. Two other women we find in Samson’s life, an harlot of Gaza and Delilah. They are alike, representing the “wiles of the devil.” They lead him down and ultimately accomplish his downfall and death.\n\nTimnath means “portion assigned.” He left his occupation to seek a portion with the Philistines. Yet it was of the Lord in the sense that He permitted it for a wise purpose. And in that wrong course he came to the vineyards of Timnath and met the roaring lion. The lion is the type of Satan (Amos 3:8; 1 Peter 5:8). He roared at the Nazarite, as Satan still roars against any one who bears the marks of separation unto God. Then in the power of the Spirit who came upon Samson he rent the lion as a kid.\n\nThen he saw the woman and she pleased him well. Strange contrast! In the power of the Spirit he tore the lion and then falls victim to the enemy in another form. How often this is the case in the experiences of God’s people. Afterwards he found in the carcass of the lion the swarm of bees and the honey, which he ate and also gave to his parents. “Out of the eater came forth meat, and out of the strong came forth sweetness.” Our blessed Lord has conquered Satan and as the result of that mighty overthrow and victory, accomplished on the Cross, we have our meat, our sweetness, our salvation and blessing.\n\nAnother application besides the above and also of the believer’s personal experience in conquering by faith the enemy and receiving sweetness through it, has been suggested: “The occurrences which took place when Samson visited Timnath, the residence of the woman (the lion, and the honey afterwards found in the carcass), were highly significant, and adapted to instruct both him and his people. He seems himself to be aware, in some degree, of their importance, as he introduces them in his riddle. The lion, namely, is an image of the kingdoms of the world which are hostile to the kingdom of God; the attack, the struggle, and the victory thus acquire a symbolical meaning. The riddle also includes a truth of great importance, the evidence of which is furnished in manifold ways by the history of the world, and which admits of an appropriate application even to our times. The attack of the lion was an image of the Philistine invasion; the eater famished Israel with meat and sweetness, the destroyer brought salvation and blessings with him; for the yoke of the Philistines was a chastisement, designed to lead the people to repentance, and terminate in their renewed acceptableness before God.”\n\nThen he is in very bad company. He went down to Timnath alone. He met the woman, then he made a feast and was surrounded by thirty Philistines as companions. He had allied himself with the enemy. And this compromise, this mingling with the enemies of the cross of Christ, is the common thing today and has led to the grieving of the Spirit and the loss of power. “For example, the modern system of revival--to which our Samson, in his failure, so closely answers--in which, whilst there doubtless often is more or less of true faithful service, yet to effect the end an alliance even with the enemy is sought; the aid of the world is sought in obtaining deliverance from the world! Fleshly attractions, eloquent speakers, exquisite music, cunning schemes for gathering crowds to attract crowds; all the churches closed except one, thus awakening a natural excitement; all these are daughters of the Philistine, very fair, all serving religion and pleasing us well; but very, very dangerous. For whilst at first they may not appear serious, they point to the possibility of their becoming so in the future; nor do they ever radically aid, but always hinder, the Nazarite.\n\nHe gives the riddle to the Philistines and makes a wager. The woman, now Samson’s wife, wept and continued till he told her the secret, “and she told the riddle to the children of her people.” Here was his weak point, which eventually resulted in his shameful downfall and humiliating experience. He could not keep a secret. But it was all the results of his going down, forming an alliance with the enemy he was called to overcome. He did not see that he had stepped in the wrong direction. He blamed the Philistines and not himself. “If ye had not plowed with my heifer, ye had not found out my riddle.” Then he slew thirty Philistines to make good his promise and thus openly declared his hatred and antagonism to the enemy for the first time."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 15
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "scofield",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "sheep -- The sheep for sacrifice were brought in here. (See Scofield \"John 5:2\").\n\ntower -- The towers appear to have been on either side the sheep gate."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Nethinims -- i.e. dedicated (persons), probably descendants of the Gibeonites 2 Samuel 21:1-3 devoted to the service of the Levites. But see Joshua 9:17-21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Ophel -- Trans. \"tower,\" 2 Kings 5:24; 2 Chronicles 27:3; 33:14. Perhaps part of the fort called Millo,; 1 Kings 9:15; 2 Chronicles 32:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 5
+ }
+}

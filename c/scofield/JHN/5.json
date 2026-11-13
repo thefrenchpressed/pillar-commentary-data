@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "scofield",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "market a pool -- Or, gate, Nehemiah 3:1; 12:39"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "waiting for -- The Sinai MS. omits \"waiting for the moving of the water.\" and all of John 5:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "For -- See margin ref. (See Scofield \"John 5:3\")\n\nangel -- See note, (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "sin -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "his Father -- (Greek - βιβλαρίδιον,\" his own Father). The Jews understood perfectly that Jesus was claiming to be God. Cf. John 10:33."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "witness -- Cf. John 8:14. In John 5:31 our Lord, defending His Messianic claims before Jews who denied those claims, accepts the biblical rule of evidence, which required \"two witnesses\"; John 8:17; Numbers 35:30; Deuteronomy 17:6. A paraphrase of verse John 5:31 would be: \"If I bear witness of myself ye will say my witness is not true.\" Cf. John 8:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "saved -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "seen -- Cf.\n\n(See Scofield \"John 1:18\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 6
+ }
+}

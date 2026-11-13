@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "scofield",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "salvation -- (See Scofield \"Romans 1:16\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "spirit -- That the Holy Spirit is meant is clear for John 4:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "God -- Cf. (See Scofield \"John 1:18\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "that he -- that he was talking with a woman."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Saviour -- (See Scofield \"Romans 1:16\")\n\nworld -- kosmos = mankind. (See Scofield \"Matthew 4:8\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "nobleman -- Or, courtier, or, ruler."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 5
+ }
+}

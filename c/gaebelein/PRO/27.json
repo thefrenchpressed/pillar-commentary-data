@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "V. GIVEN TO SOLOMONIn the three chapters which follow 27-29 we find the change we have noticed before. These proverbs are addressed to a person and the phrases “My son” and the personal address, “thou,” “thy” and “thyself,” are again used in these chapters. Like the previous sections, so here we find instructions which were given to Solomon.\n\nCHAPTER 27 Instructions and Warnings\n\nThe opening proverb warns against procrastination. No one can be sure of what the next day may bring forth.True wisdom is not to trust the future day, for it may never come, nor are we to dwell in the past. While it is today we must live and act and leave nothing undone which can be done today. How true this is of salvation which is offered for today--now is the day of salvation. How many have been lost forever by procrastination, by thinking a more convenient time would come. Well has one said, “The thief which cheats us of our days and beggars us of our wealth is the specious thought that tomorrow belongs to us.” The illusion is as old as the world, but is today as fresh and powerful as ever.\n\nJames 4:13-17 gives the same lesson. In the second verse we find a warning as to self-praise. Self-praise is one of the worst forms of pride, that pride which another proverb states Proverbs 16:18-33 “goeth before destruction, and a haughty spirit before a fall.”\n\n“Open rebuke is better than secret love” and “faithful are the wounds of a friend; but the kisses of an enemy are deceitful” Proverbs 27:5-27. A wise man welcomes open criticism and rebuke, though such rebuke may wound, yet being given by the faithfulness of a friend, it is far better than the deceitful kisses of a flattering enemy. The 14th (Proverbs 27:14) verse may be linked with these statements. “He that blesseth his friend with a loud voice rising early in the morning, it shall be counted a curse unto him.” Insincerity lurks behind such loud, pharisaical protestations of friendship.\n\nA great truth is given in Proverbs 27:19: “As in water face answereth face, so the heart of man to man.” The still pool of water was man’s first mirror. Gazing in it the face is reflected. As truly as the face seen in the pool is like the face which the water reflects, so truly does one man’s heart reflect the other’s. Though there may be culture, education and a certain refinement, underneath each human being there is the same corrupt, fallen human nature."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 28
+ }
+}

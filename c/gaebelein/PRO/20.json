@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 20 Proverbs as to Personal Conduct\n\nProverbs of warning and instructions as to personal conduct are found mostly in this chapter; a number of them are of special interest if applied to Solomon. The first one is concerning wine and strong drink. As the use of wine among the people of Israel was legitimate the warning is against intemperance Deuteronomy 14:26). The Bible gives many illustrations of the truth of this proverb-warning. We may think of Noah, Lot, Nabal, Ben-hadad, Belshazzar and others.\n\nFrom all the good things we select the following. In Proverbs 20:3 is instruction which makes for peace. It is the fool who meddles and thus produces strife, but it is an honor for man to cease from strife. In Proverbs 20:13 we find a warning against self-indulgence. In Proverbs 20:19 the talebearer and flatterer is mentioned. The sin of flattery should be avoided by all the godly for it nourisheth pride and works nothing but evil.\n\nMany great and noble men have been ruined by admiration and popularity, who might have thriven, growing greater and nobler, in the fiercest and most relentless criticism. Donatello, the great Florentine sculptor, went at one time of his life to Padua, where he was received with the utmost enthusiasm, and loaded with approbation and honors. But soon he declared his intention of returning to Florence, on the ground that the sharp assaults and the cutting criticisms which always assailed him in his native city were much more favorable to his art than the atmosphere of admiration and eulogy. In this way he thought that he would be stimulated to greater efforts, and ultimately attain to a surer reputation.\n\nProverbs 20:22 gives another beautiful instruction. “Say not, I will recompense evil; but wait on the LORD, and He shall save thee.” To put everything in the hands of the Lord, to trust Him and wait for His own time, that is true wisdom. But it is a lesson hard to learn. The twelfth chapter of Romans gives the same instruction. “Dearly beloved, avenge not yourselves, but rather give place unto wrath; for it is written, vengeance is mine; I will repay, saith the Lord.” Also 1 Thessalonians 5:15: “See that none render evil for evil;” and 1 Peter 3:9; “Not rendering evil for evil, or railing for railing.” How blessed it is to wait on the Lord, to bide His own time, and in waiting to know that He does all things well. Thrice in this chapter the king is mentioned: in Proverbs 20:2, Proverbs 20:26 and Proverbs 20:28. These verses may be applied to Him, who is greater than Solomon, the King of kings and the Lord of lords. When He comes again He will deal with the lawless and with His enemies, but His throne is not only a judgment throne, but it is also upheld by mercy."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 21
+ }
+}

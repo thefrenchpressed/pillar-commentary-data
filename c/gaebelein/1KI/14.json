@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "gaebelein",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 14 The Passing of Jeroboam and Rehoboam\n\n1. Sickness and death of Jeroboam’s son (1 Kings 14:1-18)\n\n2. Jeroboam’s reign and death (1 Kings 14:19-20)\n\n3. Rehoboam’s apostasy, punishment and death (1 Kings 14:21-31)\n\nWe come now to the passing of both kings, Jeroboam of Israel and Rehoboam of Judah. Abijah (Jehovah is my father), the son of wicked Jeroboam, was sick. “That child was the one green spot in Jeroboam’s life and home; the one germ of hope. And as his father loved him truly, so all Israel had set their hopes on him. Upon the inner life of this child, its struggles and its victories, lies the veil of Scripture silence; and best that it should be so. But now his pulses were beating quick and weak, and that life of love and hope seemed fast ebbing. None with the father in those hours of darkness, neither counsellor, courtier, prophet nor priest, save the child’s mother.” (A.\n\nEdersheim, Bible History) Then the unhappy king remembered Ahijah, who had first announced his exaltation to be king (11:31). Disguised the wife of Jeroboam proceeds to Shiloh not to ask prayer for the sick son but to find out (as if consulting a fortune teller) what should become of the child. Ahijah was blind. What need was there for Jeroboam’s wife to feign to be another? And the Lord saw her coming and announced her approach to blind Ahijah. She hears from his lips not good tidings, but a message of judgment.\n\nJudgment upon the house of Jeroboam is announced and when the feet of the mother entered Tirzah once more the child would die. Concerning the child, Ahijah, the prophet, said: “In him there is found some good thing toward the LORD God of Israel in the house of Jeroboam.” Thus the little one was saved and removed from the evil to come upon the house of Jeroboam. Then Jeroboam died. In 2 Chronicles 13:20 we read “the LORD struck him and he died.” Nadab reigned after him for only two years.\n\nThen follows the passing of Rehoboam. (in 2 Chronicles 11 we find the fuller record. He had 18 wives and 60 concubines. His family consisted of 28 sons and 60 daughters.) His reign was begun well, but he also turned against the Lord, and Judah did evil in the sight of the Lord. Idolatry and immorality flourished. A corrupted worship led to a corrupted life. Departure from God and His Word leads always to moral decline.\n\nOur times bear witness to this. Then the punishment came in the fifth year of his reign. Shishak, King of Egypt, took Jerusalem and carried away the treasures of the house of the LORD and of the King. He took away the golden shields of Solomon so that Rehoboam had to substitute shields of brass. Shishak was the founder of the twenty-second dynasty. Jeroboam had been with him (11:40), and it is not improbable that at his instigation Shishak made his expedition to Jerusalem.\n\nIn the temple ruins of Amon at Karnak, near Thebes, are recorded more than sixty Ephraimitic cities that paid tribute to Shishak, also the names of many more Judean cities; there also is a picture of Rehoboam. The detailed description of Shishak and his invasion, the work of Shemaiah the prophet in averting a greater disaster, we find in 2 Chronicles 12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 15
+ }
+}

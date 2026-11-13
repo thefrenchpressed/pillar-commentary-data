@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 11:1-9 The Tower of Babel and the Scattering of the Nations\n\n1. The unity of the nations in Shinar (Genesis 11:1-2)\n\n2. Their attempt: “Let us make” (Genesis 11:3-4)\n\n3. The divine answer: “Let us go down” (Genesis 11:5-7)\n\n4. The Result (Genesis 11:8-9)\n\nAll the earth had one language. This is also proven by philological research. The whole human family journeyed together. They left the mountainous regions and went down to the plain. This expresses their descent morally; they turned away from God, though they had the knowledge of God (Romans 1:18-19).\n\nNotice the absence of the name of God in the beginning of the chapter. They had excluded Him. “They said... let us make... and they had... let us build ourselves... let us make ourselves a name.” It is self-exaltation and defiance of God. It was full rebellion against God.\n\nThe tower they attempted to build was to reach into heaven. It is the first concentrated effort of man against God his maker and against Jehovah. It represents a God-defying and man-deifying confederacy. We cannot follow Babylon in its different aspects. There was the ancient city, the enemy of Jerusalem. There is the present day Babylon, a lifeless, professing Christendom, both Romanism and Protestantism.\n\nThere is the future Babylon (Rev. 17-18). Concentration and confusion marks Babylon. Compare the “Let us” here with the prophetic second Psalm, when in the future, nations will confederate against God and His anointed. God came down in divine irony to look at their city and tower and to scatter them by the confusion of languages. And when the rebellion of the second Psalm is reached, He will laugh and hold them in derision.\n\nVI. THE OF 11:10-26 From Shem to TERAH\n\nHere again we find ten names prominent. The same number we have in Genesis 5. Both genealogies in chapters 5 and 11 end with a man to whom God reveals Himself and with each a new dispensation begins, Noah and Abram. Notice the decreasing years of life. Shem was 600 years old, the grandfather of Abram only 148. The line of Shem was degenerating; some of the names indicate this. Terah (delay), the father of Abram, was an idolator. The descendants of Shem worshipped idols (Joshua 24:2). When the line of Shem had failed God called Abram.\n\nVII. THE OF 11:27-32 Terah’s Family and His Death\n\nTerah with the persons mentioned in Genesis 11:31 went forth from Ur to go into the land of Canaan. Terah died in Haran. Genesis 12:1 and Acts 7:1-4 makes it clear that this going forth was by divine revelation."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 12
+ }
+}

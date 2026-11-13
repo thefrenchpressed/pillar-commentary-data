@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "scofield",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "WRITER: The Apostle John (1:1)\n\nDATE: A.D. 96\n\nTHEME: The theme of the Revelation is Jesus Christ (1:1), presented in a threefold way:\n\nAs to time: \"which is, and which was, and which is to come\" (1:4);\n\nAs to relationships--the churches (1:9-3:22), to the tribulation (4:1-19:21), to the kingdom (20:1-22:21);\n\nIn His offices--High Priest (8:3-6), Bridegroom (19:7-9), King-Judge (20:1-15).\n\nBut while Christ is thus the central theme of the book, all of the events move toward one consummation, the bringing in of the covenanted kingdom. The key-phrase is the prophetic declaration of the \"great voices in heaven\" (Revelation 11:15), lit, \"The world kingdom of our Lord and of his Christ has come.\" The book is, therefore, a prophecy (Revelation 1:3).\n\nThe three major divisions of Revelation must be clearly held if the interpretation is to be sane and coherent. John was commanded to \"write\" concerning three classes of \"things\" (Revelation 1:19):\n\nThings past, \"the things thou hast seen,\" i.e. the Patmos vision, 1:1-20.\n\nThings present, \"the things which are,\" i.e. things then existing--obviously the churches. The temple had been destroyed, the Jews dispersed: the testimony of God had been committed to the Churches (1 Timothy 3:15). Accordingly we have seven messages to seven representative churches, 2:1-3:22. It is noteworthy that the church is not mentioned in chapters 5-18.\n\nThings future, \"things which shall be hereafter,\" lit. \"after these,\" i.e. after the church period ends, 4:1-22:21. The third major division, as Erdman (W.J.) has pointed out, falls into a series of six sevens, with parenthetical passages, making, with the church division, seven sevens.\n\nThe six sevens are:\n\nThe seals, 4:1-8:1.\n\nThe seven trumpets, 8:2-11:19.\n\nThe seven personages, 12:1-14,20.\n\nThe seven vials (bowls), 15:1-16:21.\n\nThe seven dooms, 17:1-20:15.\n\nThe seven new things, 21:1-22:21.\n\nThe parenthetical passages are:\n\nThe Jewish remnant and the tribulation saints, 7:1-17.\n\nThe angel, the little book, the two witnesses, 10:1-11:14.\n\nThe Lamb, the Remnant, and the everlasting Gospel, 14:1-13.\n\nThe gathering of the kings at Armageddon, 16:13-16.\n\nThe four alleluias in heaven, 19:1-6. These passages do not advance the prophetic narrative. Looking backward and forward they sum up results accomplished, and speak of results yet to come as if they had already come. In Re14:1, for example, the Lamb and Remnant are seen prophetically on Mount Sion, though they are not actually there till Re20:4-6.\n\nThe end of the church period (2-3.) is left indeterminate. It will end by the fulfilment of 1 Thessalonians 4:14-17. Chapters 4-19. are believed to synchronize with Daniel's Seventieth Week ((See Scofield \"Daniel 9:24\"). The great tribulation begins at the middle of the week,\" and continues three and a half years (Revelation 11:3-19:21). The tribulation is brought to an end by the appearing of the Lord and the battle of Armageddon (Matthew 24:29,30; Revelation 19:11-21). The kingdom follows (Revelation 20:4,5); after this the \"little season\" (Revelation 20:7-15), and then eternity.\n\nInterpreters of the Revelation should bear in mind two important passages: 1 Peter 1:12; 2 Peter 1:20,21. Doubtless much which is designedly obscure to us will be clear to those for whom it was written as the time approaches.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "isle -- From 1:1 to 1:20 the Seer is on the earth, looking at the vision of Christ.; 2:1 to 3:22 he is on the earth looking forward through the church-age.; 4:1 to 11:1 he is \"in the Spirit\" (Revelation 4:2; cf Ezekiel 3:12-14) observing things in heaven and on earth.; 11:1 to 11:12 he is in Jerusalem with the two witnesses. 11:13 to the end he is in heaven observing and recording things in heaven and upon the earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "voice -- The theophanies. Revelation 1:9-20; Genesis 12:7"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "hell -- Hades, (See Scofield \"Luke 16:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "hereafter -- things that are to be after these, i.e. after the churches."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "angels -- The natural explanation of the \"messengers\" is that they were men sent by the seven churches to ascertain the state of the aged apostle, now an exile in Patmos (cf) Philippians 4:18 but they figure any who bear God's messages to a church.\n\nchurches -- The messages to the seven churches have a fourfold application:\n\n(1) Local, to the churches actually addressed;\n\n(2) admonitory, to all churches in all time as tests by which they may discern their true spiritual state in the sight of God;\n\n(3) personal, in the exhortations to him \"that hath an ear,\" and in the promise \"to him that overcometh\";\n\n(4) prophetic, as disclosing seven phases of the spiritual history of the church from, say, A.D. 96 to the end. It is incredible that in a prophecy covering the church period, there should be no such foreview. These messages must contain that foreview if it is in the book at all, for the church does not appear after Revelation 3:22. Again, these messages by their very terms go beyond the local assemblies mentioned. Most conclusively of all, these messages do present an exact foreview of the spiritual history of the church, and in this precise order. Ephesus gives the general state at the date of the writing; Smyrna, the period of the great persecutions; Pergamos, the church settled down in the world, \"where Satan's throne is,\" after the conversion of Constantine, say A.D. 316. Thyatira is the Papacy, developed out of the Pergamos state: Balaamism (worldliness) and Nicolaitanism (priestly assumption) having conquered. As Jezebel brought idolatry into Israel, so Romanism weds Christian doctrine to pagan ceremonies. Sardis is the Protestant Reformation, whose works were not \"fulfilled.\" Philadelphia is whatever bears clear testimony to the Word and the Name in the time of self-satisfied profession represented by Laodicea.\n\nmystery -- (See Scofield \"Matthew 13:11\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JUD",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 2
+ }
+}

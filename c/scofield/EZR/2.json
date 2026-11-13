@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "scofield",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "are the children -- Probably individuals from all of the tribes returned to Jerusalem under Zerubbabel, Ezra and Nehemiah, but speaking broadly, the dispersion of the ten tribes (Ephraim- Israel) still continues; nor can they now be positively identified. They are, however, preserved distinct from other peoples and are known to God as such, though they themselves, few in number, know Him not Deuteronomy 28:62; Isaiah 11:11-13; Hosea 3:4; 8:8.\n\nThe order of the restoration was as follows:\n\n(1) The return of the first detachment under Zerubbabel and Jeshua (B.C. 536), Ezra 1.-6., and the books of Haggai and Zechariah;\n\n(2) the expedition of Ezra (B.C. 458), seventy-eight years later (Ezra 7.-10);\n\n(3) the commission of Nehemiah (B.C. 444), fourteen years after the expedition of Ezra. Nehemiah 2:1-5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Zerubbabel -- Called Zorobabel, Matthew 1:12,13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 63,
+    "content": [
+     {
+      "text": "Urim -- (See Scofield \"Exodus 28:30\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. Samuel’s Call and Prophetic Ministry CHAPTER 3\n\n1. Samuel’s call (1 Samuel 3:1-9)\n\n2. The message from Jehovah (1 Samuel 3:10-18)\n\n3. Samuel the prophet (1 Samuel 3:19-21)\n\nAfter the priesthood had so completely failed and divine judgment had been pronounced, Samuel receives his call to the prophetic office. He continued his ministrations as a Levite during the time that the word of the Lord was precious (literally, rare); there was no vision. Up to this time Samuel had not known the Lord nor had the word of the Lord been revealed to him (verse 7). It must have been near the hour of dawn, for the tabernacle lamp was not yet gone out, when the voice of Jehovah called Samuel by name. He knew him, as He knows all His own by name. Three times the voice called and three times he ran unto Eli.\n\nThen Eli understood that Jehovah called the child and he instructed him to answer at the next call--” Speak, Jehovah, for thy servant heareth.” Jehovah then appeared and stood and called again. Samuel in answering omits the word “Jehovah” Eli had told him to use. He may have omitted the name Jehovah out of reverential fear. He hears thus from Jehovah’s lips the message of doom for Eli and his house, which he faithfully transmitted to Eli in the morning. He kept nothing back and Eli bowed to it in resignation; however, he did not repent. “By the faithful discharge of a commission so painful, and involving such self-denial and courage, Samuel had stood the first test of his fitness for the prophetic office. Henceforth “the word of the LORD” was permanently with him.\n\nNot merely by isolated commissions, but in the discharge of a regular office, Samuel acted as prophet in Israel. A new period in the history of the kingdom of God had commenced, and all Israel, from Dan to Beer-sheba, knew that there was now a new link between them and their God, a living centre of guidance and fellowship, and a bond of union for all who were truly the Israel of God.” (A. Edersheim, Bible History.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 4
+ }
+}

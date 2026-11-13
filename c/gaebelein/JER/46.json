@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "IV. THE THE GENTILE 46\n\nConcerning Egypt\n\n1. Prophecy about Pharaoh-Necho (Jeremiah 46:1-12)\n\n2. Nebuchadnezzar’s invasion of Egypt (Jeremiah 46:13-26)\n\n3. A message of comfort (Jeremiah 46:27-28)\n\nJeremiah 46:1-5. This Pharaoh made an attempt to invade the territory of the king of Babylon, but was defeated by Nebuchadrezzar in a battle on the river Euphrates at Carchemish. This prophecy was given about eighteen years before the fall of Jerusalem. All was literally fulfilled.\n\nJeremiah 46:13-26. This was given after the fall of Jerusalem, when the remnant had gone to Egypt. (See chapters 43 and 44.) This also was fulfilled. Jeremiah 46:26 promises a future restoration of Egypt. Compare this with Isaiah’s prophecy (Isaiah 19:19-25).\n\nJeremiah 46:27-28. This blessed message of comfort also awaits its final great fulfillment in the coming days of promised blessing for Jacob’s seed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 47
+ }
+}

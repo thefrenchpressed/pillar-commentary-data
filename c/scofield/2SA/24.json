@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "scofield",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "in Israel -- Cf. 1 Chronicles 21:5. The total military strength of Israel (the northern kingdom) was 1,100,000, and of Judah 500,000. The numbers actually set in array were, of Israel, 800,000; of Judah, 470,000."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "famine -- Scofield \"Genesis 12:10\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\").\n\nrepent -- (See Scofield \"Zechariah 8:14\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "saw -- Here read 1 Chronicles 21:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "offer -- (See Scofield \"2 Corinthians 8:1\").\n\nthreshingfloor -- Cf. 1 Chronicles 21:25. (See Scofield \"1 Chronicles 21:25\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1KI",
+  "chapter": 1
+ }
+}

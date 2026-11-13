@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "scofield",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "river -- \"The river,\" i.e. Euphrates, to the border of Egypt, but not to the \"river of Egypt.\" Cf. Genesis 15:18 yet to be fulfilled:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "rest of -- These books have perished. 1 Kings 11:29."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 10
+ }
+}

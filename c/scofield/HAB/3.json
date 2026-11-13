@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HAB",
+  "commentaryId": "scofield",
+  "name": "Habakkuk",
+  "commonName": "Habakkuk",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Prayer -- Prayer in the O.T. is in contrast with prayer in the N.T. in two respects:\n\n(1) In the former the basis of prayer is a covenant of God, or an appeal to his revealed character as merciful, gracious, etc. In the latter the basis is relationship: \"When ye pray, say, Our Father\" Matthew 6:9.\n\n(2) A comparison, e.g. of the prayers of Moses and Paul, will show that one was praying for an earthly people whose dangers and blessings were earthly; the other for a heavenly people whose dangers and blessings were spiritual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Cushan -- Or, Ethiopia."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "at the light -- Or, thine arrows walked in the light, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Although -- i.e. despite the afflictions of Israel in dispersion, the prophet will rejoice because of the Lord, as yet to return to His temple."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAB",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAB",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEP",
+  "chapter": 1
+ }
+}

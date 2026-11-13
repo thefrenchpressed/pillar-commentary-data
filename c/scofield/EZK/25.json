@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "scofield",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Thus -- The prophecies upon Gentile powers, extending to Ezekiel 32:32 have doubtless had partial fulfilments of which history and the present condition of those cities and countries bear witness, but the mention of the day of Jehovah Ezekiel 30:3 makes it evident that a fulfilment in the final sense is still future. See \"Day of Jehovah\" Isaiah 2:10-22. (See Scofield \"Revelation 19:19\"). Also \"Armageddon\" Revelation 16:14. See Scofield \"Revelation 19:17\". Those countries are once more to be the battle ground of the nations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Edom -- Ezekiel 25:12-14, (See Scofield \"Genesis 36:1\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 28
+ }
+}

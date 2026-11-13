@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 34\n\n1. Hear my words ye wise men (Job 34:1-4)\n\n2. The refutation of Job’s accusation of God (Job 34:5-30)\n\n3. Job needs testing to the end (Job 34:31-37)\n\nJob 34:1-4. In beginning this part of the address, in which Elihu vindicates God’s character against Job’s insinuations, he addresses the friends of Job, and perhaps others who were gathered there. He wants them to pay the closest attention to what he will say.\n\nJob 34:5-30. This is the main burden of his address; it is taken up with refuting Job’s charge against God. He treats Job with all fairness and quotes what he said before. The wrong Job had done in his words is found in Job 34:5-9. Then Elihu brings forth the refutation that God is unjust. He shows that God is righteous.\n\nHe is God and the Almighty and He cannot do that which is evil and unrighteous. If sin or wickedness were in Him He would not be God. His creation bears witness to this. He sustains all in His goodness. Note Job 34:14 in its true rendering, “Should He set His heart upon Himself,” what then would become of man? All flesh would then expire and man would turn to dust again.\n\nBut He does not set His heart upon Himself. Finally Elihu demonstrates the righteousness of God from His greatness and his omniscience. His judgments also declare that He is righteous (Job 34:26-30).\n\nJob 34:31-37. And Job has not yet learned the lesson; he needs more testings. Did ever a word like the following come from his sinful lips? “I have borne chastisement, I will not offend any more.” Has he asked in humility to be taught? Or has he said, “if I have done iniquity I will do it no more”? Alas! his spirit in spite of all affliction, was still unbroken. “Would that Job were tried unto the end, because he answered like wicked men, for he addeth rebellion unto his sin, He clappeth his hands among us, and multiplieth his words against God.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 35
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 26\n\n1. The Ziphites and Saul’s pursuit (1 Samuel 26:1-4)\n\n2. David again spares Saul (1 Samuel 26:5-12)\n\n3. David’s words to Abner (1 Samuel 26:13-16)\n\n4. David’s words to Saul (1 Samuel 26:17-20)\n\n5. Saul’s confession and David’s reply (1 Samuel 26:21-25)\n\nHachilah, where we find David now, was six miles east of Ziph and about halfway to En-gedi. The Ziphites once more reveal his hiding place to Saul. And Saul was rushing forward to his doom when with his three thousand chosen men he took up the hunt again. The two, the rejected king and God’s true king, are close together and David finds Saul in the trench and the people round about. With David were Ahimelech, the Hittite and Abishai, the son of Zeruiah, the sister of David. They creep up to sleeping Saul.\n\nOnce more his enemy is given into his hands and once more David does not want to take his case out of the Lord’s hands. He is true to his own words (1 Samuel 24:15). Abishai, David’s own nephew, counsels the smiting of Saul. But David does not want to touch the Lord’s anointed. He declares “the Lord shall smite him” or “his day shall come to die.” He leaves him in the Lord’s hands to deal with him as it pleases Him. He acts in faith.\n\nWould to God that all the Lord’s people would act at all times in the same manner, when they suffer persecution. The sleep which had fallen upon the company was of the Lord. He can keep awake (Esther 6:1) and He can put to sleep, to suit His own will and purpose. Then David took Saul’s spear, perhaps the same he had cast at him and his water-cruse. Alas! poor, apostate Saul had been deprived before of what these two things mean spiritually; he had lost his weapon to fight in faith and righteousness, he knew no longer the water, which refreshes the soul. How the spear and the water-cruse are lost today to nominal, disobedient, apostate Christendom!\n\nThe sleeping company is aroused. He ridicules and chides Abner for his unwatchfulness. Saul recognized David’s voice and the last discourse between the two kings follows. We call attention to two statements. David witnesses to his faith and trust in the Lord. He trusts Him that He will deliver him out of all tribulation. Saul’s last words to David are prophetic. “Thou shalt both do great things, and also shall prevail.” David did not hear Saul’s voice again after this, nor did Saul see David again. The sad history of poor, lost Saul will soon be consummated in his visit to the witch at Endor and his miserable end."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 27
+ }
+}

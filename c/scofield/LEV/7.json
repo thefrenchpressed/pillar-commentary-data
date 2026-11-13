@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "scofield",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "reconcile -- Heb. \"kaphar,\" to cover. (See Scofield \"Daniel 9:24\") See Scofield \"Exodus 29:33\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "atonement -- (See Scofield \"Exodus 29:33\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "peace-offerings -- In the \"law of the offerings,\" the peace-offering is taken out of its place as third of the sweet savour offerings, and placed alone, and after all the non-sweet savour offerings. The explanation is as simple as the fact is beautiful. In revealing the offerings Jehovah works from Himself out to the sinner. (See Scofield \"Exodus 25:10\"). The whole burnt-offering comes first as meeting what is due to the divine affections, and the trespass-offering last as meeting the simplest aspect of sin-- its injuriousness. But the sinner begins of necessity with that which lies nearest to a newly awakened conscience--a sense, namely, that because of sin he is at enmity with God. His first need, therefore, is peace with God. And that is precisely the Gospel order. Christ's first message is, \"Peace\" John 20:19 afterward He shows them His hands and His side. It is the order as 2 Corinthians 5:18-21 first \"the word of reconciliation,\" Leviticus 7:19, then the trespass- and sin-offering, Leviticus 7:21. Experience thus reverses the order of revelation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "leaven -- The use of leaven here is significant. Peace with God is something which the believer shares with God. Christ is our peace-offering Ephesians 2:13. Any thanksgiving for peace must, first of all, present Him. In verse 12 we have this, in type, and so leaven is excluded. In verse 13 it is the offerer who gives thanks for his participation in the peace, and so leaven fitly signifies, that though having peace with God through the work of another, there is still evil in him. This is illustrated in Amos 4:5 where the evil in Israel is before God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 8
+ }
+}

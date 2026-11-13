@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JON",
+  "commentaryId": "gaebelein",
+  "name": "Jonah",
+  "commonName": "Jonah",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 2\n\nJonah’s Prayer and Deliverance\n\n1. The prayer (Jonah 2:1-9)\n\n2. The deliverance (Jonah 2:10)\n\nJonah 2:1-9. Some expositors have called attention to the fact that the prayer is not one offered up for deliverance, but it is a thanksgiving for the accomplished deliverance. But this is answered by the opening verse of this chapter, in which we are told that he prayed unto the Lord his God out of the fish’s belly. When he found that he had escaped the death he anticipated and that the power of God kept him alive, he realized that the Lord his God would also deliver him; in faith he praised Jehovah for the coming deliverance. His prayer is composed almost entirely of sentences found in Psalms. We give the references.\n\nJonah 2:2 reminds of Psa 18:6-7; Psalms 120:1. The word “hell” is the Hebrew “sheol,” the unknown region. See also Psalms 30:3. Jonah 2:3 contains a quotation from Psalms 42:7, “All thy waves and billows passed over me.” In connection with Jonah 2:4 consider Psalms 31:22. Jonah 2:5 is found in Psalms 18:4, except the seaweed which crowned his head as he went into the deep; also Psalms 69:2. The thanksgiving in Jonah 2:6, “Yet hast Thou brought up my life from the pit, O LORD, my God” is closely allied to Psalms 30:5.\n\nThe first part of Jon 2:7 is from Psalms 142:3 (marginal reading) and 143:4. The second part is found in Psalms 5:7; Psalms 18:6. The eighth verse reminds of Psa 31:6 and the ninth verse is to be connected with Psalms 42:4.\n\nThe last utterance before the Lord commanded the fish is a triumphant shout, “Salvation is of the LORD,” a truth which many preachers in Christendom do not know.\n\nJonah 2:10. The God of creation manifested His power over His creation by impelling the fish to release its prisoner. The place at which the fish vomited out Jonah is not mentioned; it was probably not very far from the seaport Joppa where he embarked.\n\nThe Typical Application\n\n1. As to the Lord Jesus Christ. Our Lord went into the jaws of death and died the sinner’s death, the substitute of sinners. Most of the passages from the Psalms which Jonah embodied in his prayer are prophetic predictions of the sufferings of Christ. He cried to God for deliverance and was heard. (See Hebrews 5:7) The answer was His resurrection. Over His blessed head passed the waves and billows of a Holy God, when as the substitute He hung on the cross.\n\nHe knew more than Jonah could ever know what it meant, “The sorrows of death compassed me, and the floods of ungodly men made me afraid.” The Sixty-ninth Psalm is Messianic and the words Jonah used, “I sink in deep mire where there is no standing; I am come into deep waters, where floods overthrow me,” tell us of the deep sufferings through which He passed. While Jonah’s head was wound about with the seaweeds of the deep, our Lord bore the crown of thorns, the emblem of the curse, upon His blessed head.\n\nIt was on the third day that the fish vomited out Jonah. The third day is marked in the Word of God as the day of resurrection. (See Genesis 1:11-13; Hosea 6:1-11.) On the third day our Lord left the grave behind and rose from among the dead. We quote a helpful paragraph on the question of the three days and nights:\n\n“So our Lord Jesus, though by Jewish reckoning three days and nights in the grave, literally lay there but the whole of Saturday, the Sabbath, with the part of Friday not yet closed, and before the dawn of Sunday. For we must always remember in these questions the Jews’ method of reckoning. Part of a day regularly counted for the twenty-four hours. The evening and the morning, or any part, counted as a whole day. But the Lord, as we know, was crucified in the afternoon on Friday; His body lay all the Sabbath day in the grave; and He arose early on the Sunday morning. That space was counted three days and three nights, according to sanctioned Biblical reckoning, which no man who bows to Scripture would contest.\n\nThis was asserted among the Jews, who, fertile as they have been in excuses for unbelief, have never, as far as I am aware, made difficulties on this score. The ignorance of Gentiles has exposed some of them when unfriendly to cavil at the phrase. The Jews found not a few stumbling blocks, but this is not one of them; they may know little of what is infinitely more momentous; but they know their own Bible too well to press an objection which would tell against the Hebrew Scriptures quite as much as the Greek.” (Wm. Kelly, Jonah)\n\n2. As to the Nation. The prayer for deliverance and Jonah’s deliverance by the power of God foreshadows the coming experience of the remnant of Israel. There is coming the time of Jacob’s trouble in the closing years of this age. Then a part of the nation will call upon the Lord. Their prayers are also pre-written in the book of Psalms, and when finally they acknowledge that “salvation is of the LORD,” and He appears in His glory, to turn away ungodliness from Jacob, the Lord will bring them out of their spiritual and national death. He will speak to the fish, the nations, and they will give up the Jews. Then comes the third day of their restoration. (See Hosea 6:1-3)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JON",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JON",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JON",
+  "chapter": 3
+ }
+}

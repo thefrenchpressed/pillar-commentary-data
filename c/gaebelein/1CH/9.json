@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "7. The Record of the Inhabitants of Jerusalem after the ReturnCHAPTER 9\n\n1. The restoration (1 Chronicles 9:1-2)\n\n2. Different residents in Jerusalem (1 Chronicles 9:3-9)\n\n3. The priests (1 Chronicles 9:10-13)\n\n4. The Levites (1 Chronicles 9:14-16)\n\n5. Porters and Levites; their duties (1 Chronicles 9:17-34)\n\n6. The house of Saul (1 Chronicles 9:35-44)\n\nAll Israel was reckoned by genealogies, which means that from the beginning of the nation, public records were kept. The name of every individual and the family and tribe to which they belonged were carefully registered. This complete registry was contained in the book of the kings of Israel and Judah, which does not mean the two books of Kings. The genealogies contained in the preceding chapters were condensed from the larger registry in the archives of Israel and Judah. Such genealogical registers were likewise kept during the captivity. The names registered in the rest of this chapter are the names of the inhabitants of Jerusalem after the exile.\n\nAlmost all the names are also found in Nehemiah 11 with some marked differences. The genealogy of the house of Saul is repeated once more (1 Chronicles 8:29-38), evidently, as the connecting link with the next chapter.\n\nIt is beyond the scope of our work to follow these genealogical registries at greater length, or to attempt the solution of many supposed difficulties."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 10
+ }
+}

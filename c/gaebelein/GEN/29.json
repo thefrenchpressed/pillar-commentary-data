@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 29 Jacob with Laban\n\n1. Jacob’s arrival at Padan-aram (Genesis 29:1-14)\n\n2. His service for Rachel (Genesis 29:15-20)\n\n3. Laban’s deception (Genesis 29:21-25)\n\n4. Jacob receives Rachel (Genesis 29:26-31)\n\n5. Leah’s sons (Genesis 29:32-35)\n\nThe Lord brought him to Padan-aram, where he was to dwell as an exile for twenty years. During these twenty years Jehovah did not manifest Himself to him, even as Israel dispersed among the nations has no communications from the Lord. His sojourn in Padan-aram produced suffering, the disciplinary dealings of God with him. He reaps in a measure what he had sown. He deceived his father Isaac and now Laban deceives him in different ways, especially by substituting Leah for the beloved Rachel. A week after he received Leah, Rachel was given to him. But though he possessed her, he had to serve seven years for her.\n\nInteresting are the names of the sons of Leah. Reuben (behold a Son!); Simeon (hearing); Levi (joined); Judah (praise). It is the order of the gospel."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 30
+ }
+}

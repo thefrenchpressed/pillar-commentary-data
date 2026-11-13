@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 9\n\nThe Message of Hope Concerning Israel’s Future and the Impending Judgments\n\n1. The Messiah, His Name, His rule, His kingdom (Isaiah 9:1-7) 2. Judgment upon Israel (Isaiah 9:8-12) 3. The impenitent nation (Isaiah 9:13-17) 4. The wrath of Jehovah (Isaiah 9:18-21) 5. Unrighteous judges and three questions (Isaiah 10:1-4 Matthew 4:12-25 quotes the opening verses of this chapter. This applies to His double advent. The first and second coming of the Lord are wonderfully blended together in Isaiah 9:6-7. The nation in impenitence and God’s wrath against them has had its past and present fulfillment. It is not yet exhausted. It looks forward to the coming day of wrath."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 10
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "scofield",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "third heaven -- First heaven, of clouds; second, of stars; third, God's abode."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "paradise -- See note on hades, (See Scofield \"Luke 16:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "thorn -- It has been conjectured that Paul's \"thorn in the flesh\" was chronic ophthalmia, inducing bodily weakness, and a repulsive appearance Galatians 4:15; 1 Corinthians 2:3,4; 2 Corinthians 10:10. This cannot be positively known, and the reserve of Scripture is as sure a mark of inspiration as its revelations. Paul's particular \"thorn\" is not described that his consolations may avail for all to who any thorn is given."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "perfect in -- (See Scofield \"Matthew 5:48\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "sinned -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CO",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CO",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CO",
+  "chapter": 13
+ }
+}

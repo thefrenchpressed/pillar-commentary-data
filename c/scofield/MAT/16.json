@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "scofield",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "baskets -- A different Greek word from that translated \"baskets\" in Matthew 16:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "baskets -- A different Greek word from that translated \"baskets\" in Matthew 16:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Son of man -- Also, Matthew 16:27,28, (See Scofield \"Matthew 8:20\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Barjona -- Son of Jonas."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Peter -- There is the Greek a play upon the words, \"thou art Peter petros-- literally 'a little rock', and upon this rock Petra I will build my church.\" He does not promise to build His church upon Peter, but upon Himself, as Peter is careful to tell us (1 Peter 2:4-9)\n\nchurch -- 2 (Greek - ἀπόλλυμι (ek==\"out of,\" kaleo ==\"to call\"), an assembly of called out ones). The word is used of any assembly; the word itself implies no more, as, e.g., the town-meeting at Ephesus Acts 19:39 and Israel, called out of Egypt and assembled in the wilderness Acts 7:38. Israel was a true \"church,\" but not in any sense the N.T. church--the only point of similarity being that both were \"called out\" and by the same God. All else is contrast.\n\n(See Scofield \"Acts 7:38\") See Scofield \"Hebrews 12:23\"\n\nhell -- See note, (See Scofield \"Luke 16:23\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "keys of the kingdom -- Not the keys of the church, but of the kingdom of heaven in the sense of Mat 13., i.e. the sphere of Christian profession. A key is a badge of power or authority (cf) Isaiah 22:22; Revelation 3:7. The apostolic history explains and limits this trust, for it was Peter who opened the door of Christian opportunity to Israel on the day of Pentecost Acts 2:38-42 and to Gentiles in the house of Cornelius. Acts 10:34-46. There was no assumption by Peter of any other authority Acts 15:7-11. In the council James, not Peter, seems to have presided; Acts 15:19; Galatians 2:11-15. Peter claimed no more for himself than to be an apostle by gift 1 Peter 1:1 and an elder by office 1 Peter 5:1.\n\nThe power of binding and loosing was shared Matthew 18:18; John 20:23 by the other disciples. That it did not involve the determination of the eternal destiny of souls is clear from Revelation 1:18. The keys of death and the place of departed spirits are held by Christ alone.\n\nkingdom -- (See Scofield \"Matthew 3:2\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "charged -- The disciples had been proclaiming Jesus as the Christ, i.e. the covenanted King of a kingdom promised to the Jews, and \"at hand.\" The church, on the contrary, must be built upon testimony to Him as crucified, risen from the dead, ascended, and made \"Head over all things to the church.\" Ephesians 1:20-23. The former testimony was ended, the new testimony was not yet ready, because the blood of the new covenant had not yet been shed, but our Lord begins to speak of His death and resurrection Matthew 16:21. It is a turning- point of immense significance:\n\nJesus -- Omit \"Jesus.\"\n\nFor Another Point of View: See Topic 301192\n\nAdditional Factors to Consider See Topic 301207"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. John 7:7 (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "his kingdom -- (See Scofield \"Matthew 3:2\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 17
+ }
+}

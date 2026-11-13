@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "gaebelein",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 18\n\n1. The Unjust Judge and the Avenging of His Elect. (Luke 18:1-8)\n\n2. The Parable of the Pharisee and the Publican. (Luke 18:9-14)\n\n3. The Little Children and the Required Lowliness. (Luke 18:15-17)\n\n4. The Rich Young Ruler. (Luke 18:18-27)\n\n5. Rewards Promised. (Luke 18:28-30)\n\n6. The Renewed Prediction of His Suffering, Death and Resurrection. (Luke 18:31-34)\n\n7. The Blind Man near Jericho Healed. (Luke 18:35-43.)\n\nLuke 18:1-8\n\nThe parable of the unjust judge is closely connected with the preceding announcement of His second coming. “When the Son of Man cometh, shall He find faith on the earth?” Apostasy and darkness will rule the day. But a faithful remnant of His people, His elect, will suffer and cry day and night to Him for help and deliverance. His coming will avenge them. The resources in those days will be prayer, as prayer is always the resource of the Saints of God. In the Psalms the Spirit of God has recorded the prayers of the suffering Jewish Saints during the great tribulation.\n\nLuke 18:9-14\n\nThis parable also is found only in Luke. It is a continuation of the great subject of this Gospel, that the lost are saved and the self-righteous rejected. “Every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.” The self-righteous Pharisee trusted in himself; pride and self-conceit are expressed in his prayer. He speaks of a negative goodness “not as other men” and then he speaks of his good works, which are even more than God demanded in His law. God did not demand tithes of all possessions. The Publican did not lift his eyes to heaven. His prayer was more than asking for mercy.\n\nIt means literally translated, “God be propitiated towards me, the sinner.” He felt the need of a sacrifice. It is interesting to note that the Greek word “be merciful to” is found only once more in the New Testament. In Hebrews 2:17 it is applied to our Lord “making reconciliation.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 19
+ }
+}

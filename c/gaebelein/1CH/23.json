@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. The Numbering and Arrangement of the LevitesCHAPTER 23\n\n1. Solomon made king (1 Chronicles 23:1)\n\n2. The number of the Levites (1 Chronicles 23:2-6)\n\n3. The Gershonites (1 Chronicles 23:7-11)\n\n4. The sons of Kohath (1 Chronicles 23:12-20)\n\n5. The sons of Merari (1 Chronicles 23:21-23)\n\n6. The service of the Levites (1 Chronicles 23:24-32)\n\nDavid, in his seventieth year, made Solomon king. It is the first time, and afterwards (1 Chronicles 29:22) he was made king the second time.\n\n“The first time Solomon was made king, when grace was fully established in the altar built on the threshing-floor of Ornan, where the son of David, as the prince of peace, was to build the temple. Solomon is introduced as the head of all that was being established, and as holding the first and supreme place in the mind of God--the one on whom all the rest depended, which could not even exist now without him. The house, the whole order of the house, and its government, all referred to Solomon; and thus his identification with David, in that both were on the throne at the same time, makes it much easier to understand the type of Christ in this. It is one person, whom His sufferings and victories place on the throne of glory and of peace. For at this moment, although the result of the glory was not yet manifested, God had given rest unto His people, that they might dwell at Jerusalem” (Synopsis of the Bible).\n\nAfter he had made Solomon king, David devoted himself still more to the house of the Lord. He ordered and arranged everything. So when the temple was built, Solomon had only to carry out the plans his father in divine wisdom had made. All is typical of Him who has ordered all things in His infinite grace.\n\nThe census of the Levites gave their number from thirty years and upwards, at 38,000. Of these 24,000 were appointed to attend, set forward the work of the house of the Lord; 6,000 were officers and judges; 4,000 were porters and 4,000 praised the Lord with the instruments David had made to praise therewith (Amos 6:5)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 24
+ }
+}

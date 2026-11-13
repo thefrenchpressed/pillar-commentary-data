@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAL",
+  "commentaryId": "scofield",
+  "name": "Malachi",
+  "commonName": "Malachi",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "curse -- Cf. Deuteronomy 28:3-14 and Deuteronomy 28:15-35. Israel's distinctive blessings should turn to curses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Have we not all one -- Cf. Acts 17:24-29. In both instances the reference is to creation, not the new birth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "spirit -- Summary of the O.T. doctrine of the Holy Spirit:\n\n(1) The personality and Deity of the Holy Spirit appear from the attributes ascribed to Him, and from His works.\n\n(2) He is revealed as sharing the work of creation and therefore omnipotent Genesis 1:2; Job 26:13; 33:4; Psalms 104:30 as omnipresent Psalms 139:7 as striving with men Genesis 6:3 as enlightening Job 32:8 enduing with constructive skill; Exodus 28:3; 31:3 giving physical strength Judges 14:6,19 executive ability and wisdom; Judges 3:10; 6:34; 11:29; 13:25 enabling men to receive and utter divine revelations; Numbers 11:25; 2 Samuel 23:2 and, generally, as empowering the servants of God; Psalms 51:12; Joel 2:28; Micah 3:8; Zechariah 4:6\n\n(3) He is called holy Psalms 51:11 good Psalms 143:10 the Spirit of judgment and burning Isaiah 4:4 of Jehovah, of wisdom, understanding, counsel, might, good, knowledge, the fear of the Lord Isaiah 11:2 and of grace and supplications Zechariah 12:10.\n\n(4) In the O.T. the Spirit acts in free sovereignty, coming upon men and even upon a dumb beast as He will, nor are the conditions set forth (as in the N.T.) by complying with which any one may receive the Spirit. The indwelling of every believer by the abiding Spirit is a N.T. blessing consequent upon the death and resurrection of Christ John 7:39; 16:7; Acts 2:33; Galatians 3:1-6.\n\n(5) The O.T. contains prediction of a future pouring out of the Spirit upon Israel Exodus 37:14; 39:29 and upon \"all flesh\" Joel 2:28,29. The expectation of Israel, therefore, was twofold--of the coming of Messiah-Immanuel, and of such an effusion of the Spirit as the prophets described. See Matthew 1:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAL",
+  "chapter": 3
+ }
+}

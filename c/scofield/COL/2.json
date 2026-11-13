@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "scofield",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "mystery of God -- The \"mystery of God\" is Christ, as incarnating the fulness of the Godhead, and all the divine wisdom and knowledge for the redemption and reconciliation of man.\n\nmystery -- (See Scofield \"Matthew 13:11\").\n\nand of -- The best authorities omit \"and of the Father, and of Christ.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "the sins of -- Omit \"the sins of.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "intruding into those things -- The errorists against whom Paul warns the Colossians, and against whom, in principle, the warning has perpetual significance, were called \"Gnostics,\" from gnosis, \"knowledge.\" These Gnostics \"came most keenly into conflict with the exalted rank and redeeming rank of Christ, to whom they did not leave His full divine dignity, but assigned to Him merely the highest rank in the order of spirits, while they exalted angels as concerned in bringing the Messianic salvation.\"--H.A.W. Meyer. Paul's characteristic word in Colossians for the divine revelation is epignosis, i.e. \"full knowledge.\" Colossians 1:9,10; 3:10 as against the pretended \"knowledge\" of the errorists. The warnings apply to all extra-biblical forms, doctrines, and customs, and to all ascetic practices.\n\nangels -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. James 1:27; John 7:7. (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "not in any -- Or, \"which do not really honour God, but only satisfy the flesh\" (i.e. by creating a reputation for superior sanctity)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 3
+ }
+}

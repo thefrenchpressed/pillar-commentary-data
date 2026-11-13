@@ -11,6 +11,18 @@
       "name": "F. B. Meyer's Through the Bible Day by Day",
       "englishName": "F. B. Meyer's Through the Bible Day by Day",
       "language": "eng"
+    },
+    {
+      "id": "gaebelein",
+      "name": "Arno Gaebelein's Annotated Bible",
+      "englishName": "Arno Gaebelein's Annotated Bible",
+      "language": "eng"
+    },
+    {
+      "id": "scofield",
+      "name": "Scofield Reference Notes (1917)",
+      "englishName": "Scofield Reference Notes (1917)",
+      "language": "eng"
     }
   ]
 }

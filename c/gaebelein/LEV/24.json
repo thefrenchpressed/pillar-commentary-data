@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "gaebelein",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Priestly Duties: The Light and the ShewbreadCHAPTER 24:1-9\n\n1. The light (Leviticus 24:1-4)\n\n2. The shewbread (Leviticus 24:5-9)\n\nThis chapter is not disconnected from the preceding one as some claim; nor is it the work of a redactor as the critics teach. It is most beautifully linked with the dispensational foreshadowings we found in the feasts of Jehovah. Between Pentecost and the blowing of the trumpets there is, as stated before, a long period of time. When the church was formed, after the sheaf of the firstfruits had been waved, Israel was nationally set aside and night settled upon them. Maintained by the high priest, a light was to be kept shining continually from evening till morning; it was the light of the golden lampstand with its lamps. The lampstand typifies Christ and the high priest also is a type of Christ.\n\nHere is a hint of the testimony which shines forth in Christ and through the heavenly priesthood (the church) during the night, the present age. But Israel also will some day shine forth and be a light-bearer (Zechariah 4:1-14).\n\nThen there was the shewbread. They were set in two rows, six on a row, upon the pure table before the Lord. Shewbread means literally “bread of the face,” that is, the bread before God. Pure frankincense was also put upon them. No doubt, dispensationally, we have in the shewbread another picture of those who are now His people (the church), while the twelve loaves also typify Israel as a nation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "3. Blasphemy and Israel’s Sin ForeshadowedCHAPTER 24:10-23\n\n1. The blasphemy (Leviticus 24:10-22)\n\n2. The penalty executed (Leviticus 24:23)\n\nThe blasphemer who blasphemed the Name and cursed, foreshadows the sin of Israel. They sinned and blasphemed that holy Name: and on account of the rejection of the Lord Jesus Christ, the curse has come upon them. But it will not be permanent. The remnant of Israel will be saved in the future day, when He comes back and they shall welcome Him: “Blessed is He that cometh in the Name of the Lord.” The Jews have based upon this incident of the blasphemer the traditional belief that it is sinful to pronounce the Name of Jehovah. For this reason they substitute the word “Adonai.”\n\nThe twenty-fourth chapter shows in its first part the twofold testimony maintained in the sanctuary, the light and the shewbread; it ends with an incident which foreshadows the sin of Israel when they blasphemed and rejected the Lord of Glory."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LEV",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LEV",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LEV",
+  "chapter": 25
+ }
+}

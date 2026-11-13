@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "8. Reformation under JosiahCHAPTER 34 The Reign of Josiah and the Reformation\n\n1. The record of his reign (2 Chronicles 34:1-2)\n\n2. The beginning of the reformation (2 Chronicles 34:3-7)\n\n3. The house of the LORD repaired (2 Chronicles 34:8-13)\n\n4. The law of Moses found and read (2 Chronicles 34:14-21)\n\n5. Hulda, the prophetess (2 Chronicles 34:22-28)\n\n6. The law read and the covenant (2 Chronicles 34:29-33)\n\nThe contents of this chapter are found also in Second Kings, chapters 22:1-23:30. Inasmuch as this has been covered by our annotation, we do not need to repeat it here. However, we add a paragraph from the Synopsis of the Bible.\n\n“We find in Josiah a tender heart, subject to the word, and a conscience that respected the mind and will of God: only at last he had too much confidence in the effect of this to secure blessing from God, without the possession of that faith which gives intelligence in His ways to understand the position of God’s people. God, however, makes use of this confidence to take Josiah away from the evil He was preparing in the judgments which were to fall upon Judah, the knowledge of which should have made Josiah walk more humbly. At the age of sixteen he began by the grace of God to seek Jehovah; and at twenty he had acquired the moral strength necessary for acting with energy against idolatry, which he destroyed even unto Naphtali. We see here how sovereign grace came in; for both Hezekiah and Josiah were the sons of extremely wicked fathers.\n\n“Having cleansed the land from idolatry, Josiah begins to repair the temple; and there the book of the law was found. The king’s conscience, and his heart also, are bowed under the authority of the word of his God. He seeks for the prophetic testimony of God with respect to the state in which he sees Israel to be, and God makes known to him by Huldah the judgment about to fall upon Israel; but tells him at the same time that his eyes shall not see the evil.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 35
+ }
+}

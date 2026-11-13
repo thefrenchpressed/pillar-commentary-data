@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "THE (36-39)The center of the book of Isaiah is a brief but deeply interesting historical account of events during the reign of King Hezekiah. His name is mentioned not less than thirty-one times in these chapters. His great works in reformation and otherwise are recorded in 2 Kings 18:4-7, 2 Chronicles 29:1-36; 2 Chronicles 30:5-22, 2 Kings 20:20. From Proverbs 25:1 we learn that he was a great lover of the Word of God, for he had it copied, perhaps by many scribes. He was 25 years old when he ascended the throne and reigned 29 years, 727-699 B.C. No doubt he was one of the greatest kings of Judah.\n\nThe events recorded in these chapters are not put together chronologically. The king’s sickness, prayer and recovery occurred before the attempts of Sennacherib to take Jerusalem and the subsequent complete overthrow of the Assyrian hosts. This arrangement has its meaning. These historical chapters are designed for an appendix to the earlier prophecies (1-35) and for an introduction to the later prophecies (40-66). The Assyrian enemy is repeatedly predicted in the earlier prophecies. Indeed he is seen as the enemy of God’s people, the rod of God’s anger to punish His disobedient people.\n\nHow the Assyrian came and the angel of the Lord smote the camp is therefore put first, because it is related to the first prophecies of Isaiah. In connection with Hezekiah’s pride in chapter 39 the future Babylonian captivity is announced. The later prophecies look upon the people as in Babylon, assuring the remnant of restoration, not alone from the dispersion in Babylon but the future great restoration, the regathering from all countries.\n\nWe give a brief analysis of these four chapters and leave it to the reader to gather up the blessed lessons of confidence in God, dependence upon Him, of prayer, as well as others, in which these chapters abound.\n\nCHAPTER 36\n\nThe Threatening Enemy\n\n1. The Assyrian invasion (Isaiah 36:1-3) 2. Rabshakeh’s mockery (Isaiah 36:4-10) 3. Eliakim, Shebna, and Joah’s Request (Isaiah 36:11) 4. Rabshakeh’s address in Hebrew defying God (Isaiah 36:12-20) 5. The silence of the people (Isaiah 36:21) 6. The terror of Eliakim, Shebna, and Joah (Isaiah 36:22)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 37
+ }
+}

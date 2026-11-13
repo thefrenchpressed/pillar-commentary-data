@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "5. The judgment of Eli and His Sons--Ichabod CHAPTER 4\n\n1. The fulfilled prediction: The death of Eli’s sons (1 Samuel 4:1-11)\n\n2. The death of Eli (1 Samuel 4:12-18)\n\n3. Ichabod (1 Samuel 4:19-22)\n\nIsrael then renewed the conflict with the Philistines and suffered defeat. It seems that they acted in self-confidence, and when the battle was lost they readily acknowledged the hand of the Lord in the disaster: “Wherefore has the LORD smitten us today before the Philistines?” But there was no self-judgment, no repentance, no crying unto the Lord. The ark of the covenant of the LORD is brought out of Shiloh. They trust in the ark instead of Jehovah; they expect salvation from the ark of gold and wood: “it may save us out of the hand of our enemies.” Alas! “the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God” (verse 4). They forgot Jehovah whom they had offended and insulted. How could He bless and deliver His people when such sons of Belial were associated with the sanctuary?\n\nA worse defeat followed. Thirty thousand Israelites fell, among them the sons of Eli. The Philistines, first terrified by the presence of the ark, gain a great victory and capture the ark.\n\nOn the words “these are the gods that smote the Egyptians with every plague in the wilderness” Wellhausen, the well known critic, remarks: “Either an excusable inaccuracy, or a copyist’s slip.” He meant that the Egyptians were not smitten in the wilderness, but in their own land. However, Wellhausen did not see that the Philistines said this. They expressed their inaccurate knowledge of what had happened and Samuel reports it as if it was spoken by the Philistines.\n\nThe tidings of the awful disaster reach Eli, ninety-eight years old and totally blind. When he heard that the ark of God was taken, he fell backward, broke his neck and died. Significant is the final paragraph of this chapter. The wife of Phinehas in child-birth also hears of the capture of the ark and the death of Eli, her father-in-law, the death of her husband and his brother. Dying, she named her baby son “Ichabod,” which means “no glory.” The glory had departed from Israel. Israel had indeed brought forth, by her departure from God, the condition of “Ichabod.” The ark as the glory of God’s manifest presence among His people was gone. “He forsook the tabernacle of Shiloh, the tent which he placed among men; and delivered his strength into captivity, and His glory into the enemy’s hand” (Psalms 78:60-61).\n\nIn a higher sense the word “Ichabod” is written over that which professes to be the church, but which has departed from the truth. The power and the manifest presence of Jehovah are lost. And many individual Christians have drifted into the same conditions by their sinful and worldly ways."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 5
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "scofield",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Therefore -- Micah 7:7-20 is, primarily, the confession and intercession of the prophet, who identifies himself with Israel. Cf. Daniel 9:3-19. Intercession was a test of the prophetic office; Jeremiah 27:18; Genesis 20:7 But Micah's prayer voices also the heart exercise of the remnant in the last days. Such is prophecy, an intermingling of the near and the far. (Cf); Psalms 22:1; Matthew 27:46."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "remnant -- (See Scofield \"Jeremiah 15:21\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MIC",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MIC",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NAM",
+  "chapter": 1
+ }
+}

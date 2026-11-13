@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "gaebelein",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 8 The Second, Third, and Fourth Plagues\n\n1. The demand and the plague of frogs announced (Exodus 8:1-4)\n\n2. The plague executed (Exodus 8:5-7)\n\n3. The request of Pharaoh and the frogs removed (Exodus 8:8-15)\n\n4. The divine command for the third plague (Exodus 8:16)\n\n5. The plague executed (Exodus 8:17)\n\n6. The confession of the magicians (Exodus 8:18-19)\n\n7. The renewed demand and the plague of the flies announced (Exodus 8:20-23)\n\n8. The plague executed (Exodus 8:24)\n\n9. Pharaoh’s promise and his refusal (Exodus 8:25-32)\n\nThe different demands made of Pharaoh to let God’s people go and Pharaoh’s objections are of much interest. In Jehovah’s demands to let His people go we have God’s purpose that His people must be completely brought out of Egypt (the world) and be separated unto Him. Before they could worship and serve Him they had to be delivered from Egypt. It is so with us. Pharaoh is the type of Satan, the god of this age. He made his objections, as Satan makes his opposition to a full and complete deliverance of God’s people.\n\nStudy Pharaoh’s objections: In Exodus 8:25, he says, “Go ye, sacrifice to your God in the land.” Then in Exodus 8:28 he makes a compromise, but they must not go far away. In Exodus 10:9-11 he desired the men to go, but the rest and their belongings were to stay behind. The final compromise is in Exodus 10:24. In these objections and compromises we read Satan’s attempt to keep God’s people ensnared with the world and thus hold them under his control and power. How well he has succeeded in Christendom.\n\nIf we connect the last verse of the previous chapter it seems it was on the seventh day, the day of rest, the Sabbath, which Israel must have completely forgotten, when the Lord again spoke to Moses and announced the second plague. This consisted of frogs, which proceeded from the worshipped, sacred Nile. The rationalistic higher critics have tried to explain this plague also as a natural occurrence. But they do not explain how it is that they came as soon as Aaron stretched his hand over the waters of Egypt and that they died by the millions after Moses prayer. Surely Pharaoh was better than the modern day critics, for he acknowledged at least that it was a miracle of Jehovah (Exodus 6:8). Frogs were also connected with Egyptian idolatry.\n\nOne Egyptian goddess called Hekt appears with the head of a frog. Frogs stand for unclean things. See Revelation 16:13. The magicians enabled by Satan’s power also imitated this miracle. But with this their power in counterfeiting ceased.\n\nThe third plague consisted in lice, or rather gnats.” It came like the sixth and ninth plague, without any previous warning. They smote the dust and divine power for judgment brought out of the dust these tormenting insects. The very soil of Egypt now was turned into a curse. God now restrained the demoniacal powers of imitation and the wicked magicians had to confess, not for the glory of Jehovah, but for their own protection, “this is the finger of God.”\n\nThe fourth plague was still more disastrous and significant. The appeal was made in the morning (Jeremiah 25:4; Jeremiah 26:5; Jeremiah 29:19). Swarms of flies covered all Egypt. These were not the common house flies, but a more powerful insect, the bite of which was exceedingly painful. There were different kinds of them. He sent divers sorts of flies among them, which devoured them (Psalms 78:45).\n\nThey fastened themselves upon men and tormented them. It was another blow against the idols of Egypt. The beetle was reverenced as the symbol of creative power and the Egyptian Sun-god had a beetle’s head. This plague did not touch Israel. Jehovah showed that Israel is His people. All the terrible punitive judgments did not touch His people.\n\nAnd this was a sign. The word “division” in Exodus 8:23 means “redemption.” Jehovah is here clearly revealed as the author of the plague judgments. His supreme authority stands out prominently. After the removal of this plague, Pharaoh hardened his heart anew."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 9
+ }
+}

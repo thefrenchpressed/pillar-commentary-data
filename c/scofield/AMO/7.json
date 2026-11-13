@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "scofield",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "repented -- (See Scofield \"Zechariah 8:14\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "plumbline -- Symbol of judgment according to righteousness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "raise -- As prophesied and fulfilled, 2 Kings 15:10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "AMO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "AMO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "AMO",
+  "chapter": 9
+ }
+}

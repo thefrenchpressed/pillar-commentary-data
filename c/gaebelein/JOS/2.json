@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "gaebelein",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. The Spies and Rahab’s FaithCHAPTER 2\n\n1. The spies sent forth (Joshua 2:1)\n\n2. Rahab’s faith and works (Joshua 2:2-14)\n\n3. The escape of the spies and assurance given (Joshua 2:15-21)\n\n4. The return of the spies (Joshua 2:22-24)\n\nThe historical account needs not to be restated. Joshua, who was one of the spies sent out by Moses, now sends two spies to view the land, even Jericho. Jericho was the great stronghold of the enemy, surrounded by high walls. Jericho means “fragrance” and is a type of the world. (It is interesting to note that in the Hebrew Jericho differs in its spelling in Joshua from that in Numbers. This proves certainly a different authorship.) It is situated near Jordan, the river which typifies death and judgment. The King of Jericho is the type of Satan, the god of this age. The city was grossly immoral, so that it is not strange that the spies came to the house of an harlot. Some have tried to change her character by making her to be an innkeeper.\n\nBut it cannot be done on account of the word used in the record here and also in the New Testament. Why should even such an attempt be made? Rahab, the harlot, is a beautiful type of the power of the gospel of grace. “By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace” (Hebrews 1:31). Her faith she witnessed to by works. “Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?” (James 2:25) Rahab belonged to the doomed race, the race against which the curse had been pronounced. In the doomed city she practised her vile occupation. But she heard the report and she believed.\n\nShe confessed her faith in Jehovah, the God of the heaven above and of the earth beneath. She had a reason for this faith, for she said, “We have heard how the Lord dried up the water of the Red Sea for you, when ye came out of Egypt” (verse 10).\n\nShe prayed for mercy for herself and her father’s house. She knew judgment would overtake Jericho, that she was a sinner and needed salvation. She believed in Jehovah and believed, that while He is a holy God, who had dealt in judgment with Egypt, that He is also merciful. She trusted in that mercy and appealed to it in her prayer. She claims assurance of salvation and that of her house and she received it in positive terms.\n\nThe scarlet-line by which the spies escaped is bound by herself in the window. It was a token to her and a sign to the coming executioners of judgment, when Jericho fell. They saw that scarlet-line; but she was not told to look upon it. How scarlet speaks of the blood needs hardly to be mentioned. It is the type of being sheltered by the blood. “When I shall see the blood, I will pass over you,” was spoken to Israel, behind the blood-sprinkled door posts. The scarlet-line has the same meaning. And we must not forget that two living witnesses gave her the assurance of Salvation. Thus we have our assurance in Him, who died for our sins and who was raised on account of our justification.\n\nBy hiding the spies and lying to the King of Jericho, she shows her faith and the weakness of it. To her was also given a place of honor in the first chapter of the New Testament as one of the ancestors of Him who, according to the flesh, is the Son of David.\n\nDispensationally the application is equally interesting. When Israel is about to be restored to their land, a witness is sounded forth once more, the preaching of the gospel of the kingdom (Matthew 24:14). Before the judgments of the Lord are executed in the world, those will be saved during the end of the age who, like Rahab, hear and believe this last kingdom message. They will do good to the Jewish messengers of this final testimony, before the coming of the Lord in power and in glory, as Rahab did good to the spies, the messengers of Joshua. They are those to whom the Lord will say, “What ye have done to the least of these, My brethren, that have ye done unto Me.” Rahab was saved and remained in the land to enjoy the earthly blessings with Israel. So the Gentiles, who hear and believe the last message, who have done good to the messengers of the King, the Lord’s brethren, will be saved from the wrath to come. For a more complete unfolding of this interesting theme, we refer the reader to the exposition of the Olivet discourse in the Gospel of Matthew."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 3
+ }
+}

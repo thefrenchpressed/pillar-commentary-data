@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "gaebelein",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. Manasseh and AmonCHAPTER 21\n\n1. Manasseh’s reign of wickedness (2 Kings 21:1-9; 2 Chronicles 33:1-9)\n\n2. The word of the LORD against it (2 Kings 21:10-15)\n\n3. Manasseh’s end (2 Kings 21:16-18; 2 Chronicles 33:18-20)\n\n4. Reign and death of Amon (2 Kings 21:19-26; 2 Chronicles 33:20-25)\n\nHezekiah had a wicked father and his son Manasseh did not follow the example of his father, but became even more wicked than Ahaz, his grandfather. Manasseh means “forgetting.” No doubt Hezekiah named him thus because the LORD had delivered him and thus made him forget his troubles and trials. He was born three years after Hezekiah’s recovery from sickness. And now Manasseh forgot all the goodness and mercy of the LORD and plunged headlong into the worst apostasy. All the vile practices of the Canaanites and the Sodomites were revived by him. The Moloch-worship flourished, sorcery and the practice of demonism as well.\n\nThe corruption was more vile than the corruption of Samaria. It was even worse than the corruption of the Canaanites. “Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.” And still more evil is recorded of this king. “Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another” (verse 16). Josephus declares that he killed all the righteous in Jerusalem and it is not unlikely that the tradition of aged Isaiah’s violent death under Manasseh’s reign is correct. Then the LORD sent to him His judgment message, announcing the coming doom of Jerusalem. Of his conversion and subsequent reign nothing is said in Kings. We find the record of these interesting events in Chronicles.\n\nHis conversion was indeed a miracle of grace.\n\nAfter his death Amon ruled as king and followed all the wickedness of his father Manasseh. Terrible is the record of this lost soul. “And he humbled not himself before the LORD as Manasseh his father had humbled himself, but Amon trespassed more and more” (2 Chronicles 33:23). He was murdered by his servants."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 22
+ }
+}

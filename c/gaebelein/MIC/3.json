@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "gaebelein",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "THE SECOND MESSAGE\n\nCHAPTER 3\n\n1. Address to the godless princes and judges (Micah 3:1-4)\n\n2. Address to the false prophets (Micah 3:5-8)\n\n3. The verdict of judgment (Micah 3:9-12)\n\nMicah 3:1-4. The second prophetic message of Micah contains the great Messianic prophecies. But first the prophet gives a description of the degradation of the nation, the moral corruption of the leaders and judges, as well as the false prophets. It is all summed up in one sentence, “who hate the good, and love the evil.” The princes and judges robbed the people, treated them like cattle (Micah 3:3). For these unjust deeds the Lord would not hear them when they cried in the hour of their need, and would hide His face from them.\n\nMicah 3:5-8. The false prophets were mostly responsible for these abominations, just as today the false in Christendom, the deniers of the faith, destructive critics and others, are responsible for the conditions in the professing Church. They make the people err. While they bite with their teeth, that is, being fed, they cried “peace” to their patrons; and those who did not support them, by putting food in their mouths, they fought and denounced. There would be night for them, with no vision; darkness would come upon them. They would be ashamed and confounded; the covering of the lips was a sign and emblem of mourning and silence. Such will be the fate of all false prophets and teachers.\n\nThe eighth verse (Micah 3:8) is a magnificent outburst of God’s true prophet, Micah’s confession. As the true prophet he was full of power by the Spirit of the Lord, and thus filled he declared unto Jacob his transgression and to Israel his sin.\n\nMicah 3:9-12. What Micah had announced in the preceding verse he does now. He tells the heads and rulers that they build Zion with blood and Jerusalem with iniquity. He speaks of the influence of money. judges acted for reward, priests taught for hire, and prophets prophesied for money. The verdict of judgment is mentioned in Jeremiah 26:18. This prophecy was fulfilled when Babylon conquered Jerusalem. And when finally the returned remnant rejected the Lord of Glory, their King, Zion and Jerusalem became once more heaps, as he announced, “Jerusalem shall be trodden down by the Gentiles until the times of the Gentiles are fulfilled.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MIC",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MIC",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MIC",
+  "chapter": 4
+ }
+}

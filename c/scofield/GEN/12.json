@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Now the Lord -- The Fourth Dispensation: Promise. For Abraham, and his descendants it is evident that the Abrahamic Covenant (See Scofield \"Genesis 15:18\") made a great change. They became distinctively the heirs of promise. That covenant is wholly gracious and unconditional. The descendants of Abraham had but to abide in their own land to inherit every blessing. In Egypt they lost their blessings, but not their covenant. The Dispensation of Promise ended when Israel rashly accepted the law Exodus 19:8. Grace had prepared a deliverer (Moses), provided a sacrifice for the guilty, and by divine power brought them out of bondage Exodus 19:4 but at Sinai they exchanged grace for law. The Dispensation of Promise extends from Genesis 12:1 to Exodus 19:8, and was exclusively Israelitish. The dispensation must be distinguished from the covenant. The former is a mode of testing; the latter is everlasting because unconditional. The law did not abrogate the Abrahamic Covenant Galatians 3:15-18 but was an intermediate disciplinary dealing \"till the Seed should come to whom the promise was made\"; Galatians 3:19-29; 4:1-7. Only the dispensation, as a testing of Israel, ended at the giving of the law.\n\nSee, for the other six dispensations: (See Scofield \"Genesis 8:21\").\n\nINNOCENCE (Genesis 1:28) CONSCIENCE (Genesis 3:23) HUMAN GOVERNMENT (Genesis 8:21) LAW (Exodus 19:8) GRACE (John 1:17) KINGDOM (Ephesians 1:10)"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "And -- For analysis and summary of the Abrahamic Covenant, (See Scofield \"Genesis 15:18\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "appeared -- The theophanies. Genesis 17:1; 12:7; Revelation 1:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Beth-el -- One of the sacred places of Canaan, meaning, house of God Genesis 28:1-22, (See Scofield \"Genesis 35:7\").\n\nIt is characteristic of all apostasy that Jeroboam chose this sacred place in which to erect an idol 1 Kings 12:28,32. (Cf) 1 Kings 13:1-5 and of divine judgment upon apostasy that God should decree the destruction of Bethel, despite its sacred memories; 1 Kings 13:1-5; 2 Kings 23:15-17; Amos 3:14,15.\n\nGod never hesitates to cast aside that which no longer serves His purpose Revelation 2:5; 3:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "famine -- A famine was often a disciplinary testing of God's people in the land. (Cf) Genesis 26:1; 42:5; Ruth 1:1; 2 Samuel 24:13; Psalms 105:16.\n\nThe resort to Egypt (the world) is typical of the tendency to substitute for lost spiritual power the fleshly resources of the world, instead of seeking, through confession and amendment, the restoration of God's presence and favour."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 14
+ }
+}

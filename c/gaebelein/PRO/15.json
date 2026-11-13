@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 15 The Better Things\n\nOne can read through the proverbs recorded in this chapter and ask the question, What are the better things?\n\nA soft answer which turneth away wrath is better than grievous words Proverbs 15:1. The tongue of the righteous which useth knowledge aright is better than the mouth of fools Proverbs 15:2. Better is the prayer of the upright than the sacrifice of the wicked Proverbs 15:8). Better is he that followeth after righteousness than the way of the wicked, for the one the Lord delights in, the other is an abomination Proverbs 15:9). Better is the heart that seeketh knowledge than to feed on foolishness Proverbs 15:14). Better is a little with the fear of the Lord than great treasure and trouble therewith Proverbs 15:16).\n\nThis fits many in our own days. Better is a dinner of herbs where love is, than a stalled ox and hatred therewith Proverbs 15:17). Better it is to be slow to anger than wrathful Proverbs 15:18). Better is the plain way of the righteous than the thorny way of the slothful Proverbs 15:19). Better is to hear reproof than to refuse it Proverbs 15:32).\n\nSome other deep sayings are found in this chapter. For instance in Proverbs 15:11.\n\nSheol and destruction are before the LORD,\n\nHow much more then the hearts of the children of men.\n\n(Destruction, or Abaddon, is used in Revelation 9:11.)\n\nAll is known to the Lord. The unseen world as well as the future; all eternity is known to Him. All is naked and open before Him. He knoweth the hearts of men, yea even our thoughts afar off, before they ever pass through our finite minds.\n\nTwice prayer is mentioned in this chapter, in Proverbs 15:8 and Proverbs 15:29. Not alone does the Lord delight in the prayer of the upright, but He also heareth them. “The LORD is far from the wicked, but He heareth the prayer of the righteous.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 16
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "gaebelein",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "6. Solomon and the Queen of Sheba: His great Riches and SplendourCHAPTER 10\n\n1. The visit of the Queen (1 Kings 10:1-13)\n\n2. Solomon’s enormous wealth (1 Kings 10:14-15)\n\n3. the targets and shields (1 Kings 10:16-17)\n\n4. The ivory throne (1 Kings 10:18-20)\n\n5. The abundance of gold and the depreciation of silver (1 Kings 10:21-22)\n\n6. The greatest living monarch (1 Kings 10:23-26)\n\n7. His chariots and horsemen (1 Kings 10:27-29)\n\nThe visit of the Queen of Sheba, who had heard of Solomon’s wisdom, is the next recorded event of much interest and significance. It illustrates what was previously stated in 1 Kings 4:34. Sheba was known to such ancient writers as Strabo and Pliny. It was the center of a vast commercial empire in the southwestern part of the Arabian peninsula. The mins which are still to be seen testify of a great civilization. (See Isaiah 60:6; Psalms 72:15; Jeremiah 6:20; Ezekiel 27:22; Ezekiel 38:13.) She heard and came; she communed with Solomon and brought presents; she was filled with wonder at all she heard and saw and declared: “Behold the half was not told me.” Then she uttered her praise: “Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom. Blessed be the LORD thy God, who delighteth in thee, to set thee on the throne of Israel, because the LORD loved Israel forever, therefore made He thee King, to do judgment and justice.” Then she gave gold, spices and precious stones of an enormous value.\n\nIn all this glory which came to Solomon we have a prophetic type of the glory which will come to Him, who is greater than Solomon. When He occupies the throne, the Gentiles will seek Him and praise the King as the Queen of Sheba praised Solomon. “The kings of Tarshish and of the isles shall bring presents; the kings of Sheba and Seba shall offer gifts.\n\nYea, all the kings shall fall down before Him, all nations shall serve Him.... And He shall live, and to Him shall be given of the gold of Sheba; prayer also shall be made for Him continually, and daily shall He be praised” (Psalms 72:10-15). This great Kingdom Psalm will be fulfilled when our Lord comes again. “The abundance of the sea shall be converted unto Thee, the forces of the Gentiles shall come unto Thee. The multitude of camels shall cover Thee, the dromedaries of Midian and Ephah; all they from Sheba shall come, they shall bring gold and incense; and they shall shew forth the praises of the LORD” (Isaiah 60:5-6). All these and many other prophecies will be fulfilled in the future kingdom of our Lord. The visit of the Queen of Sheba foreshadows all this. See also the warning of our Lord in Matthew 12:42.\n\nAnd what riches and glory the king possessed! Everything was of gold. His throne was of solid ivory overlaid with gold. Twelve wonderful lions stood on the one side and on the other. All the drinking vessels were of gold. Silver depreciated in his days; it was worth next to nothing. “The King made silver to be in Jerusalem as stones, and cedars made he to be as sycamore trees” (verse 27). Compare this with what will take place in the coming kingdom of our Lord. “Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree” (Isaiah 55:13). “For brass I will bring gold, and for iron I will bring silver, and for wood, brass, and for stone, iron” (Isaiah 60:17)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 11
+ }
+}

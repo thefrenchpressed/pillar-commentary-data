@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 36\n\nThe Indestructibility of the Word of God\n\n1. The writing of the roll (Jeremiah 36:1-4)\n\n2. The reading of the roll (Jeremiah 36:4-20)\n\n3. The king cuts and burns the roll (Jeremiah 36:21-26)\n\n4. The indestructibility of the Word of God (Jeremiah 36:27-32)\n\nJeremiah 36:1-4. Once more we are taken back to the fourth year of Jehoiakim. Jeremiah is now commanded to commit all the words Jehovah had spoken to him to writing. It was for the purpose that the people might hear of all the evil and that they might yet consider it and turn to the Lord to be forgiven. How gracious and merciful He is! He then dictated all the words to Baruch, who wrote them down. But, asks a critic, how could he remember all he had spoken? The same Spirit who communicated the messages to him, re-communicated them to the prophet.\n\nJeremiah 36:4-20. Jeremiah was “shut in,” which, however, does not mean that he was a prisoner (see Jeremiah 36:19); it probably means that he was not permitted to enter the LORD’s house on account of some ceremonial impurity. So he sent Baruch, his amanuensis, to read the scroll to the people on the fasting day, and when all the people had come together, Baruch read the roll at the entry of the new gate. Michaiah, one of the sons of Gemariah, was deeply moved by what he had heard, went to the place where the princes sat in counsel and told them what he had heard from Baruch’s lips. Baruch was then commanded to appear before the princes to read the roll to them. What they heard frightened them. They declared they would tell the king.\n\nJeremiah 36:21-26. The king sent for the roll. The king listened to but a few of the leaves. Then, energized by the devil, he pulled out his penknife, cut the roll, and, to make sure that the roll would be destroyed, he cast it into the open fire, and with keen satisfaction he watched till the roll was consumed. Elnathan, Delaiah, and Gemariah tried to keep him from doing this evil deed, but he refused to listen to them. These three had at least some reverence for the Word of God, and therefore the Holy Spirit records their names. The king was not satisfied with this. His satanic anger was so aroused that he wanted to have Baruch and Jeremiah apprehended. Like the mad king Saul, he probably thought of killing them both. But the Lord hid them.\n\nWhat Jehoiakim did, has been done over and over again. It is being done today as never before in the history of Christendom. It is being done by the destructive critics, in colleges and universities; it is done by the men who have produced the Shorter New Testament and the Shorter Old Testament, by those who advocate an abridged Bible, by others who, like the English writer Wells, want a new Bible. The same power of darkness is behind all these wicked attempts to mutilate the Word of God. Jehoiakim’s work is nothing in comparison with these twentieth century infidels, because these aim at the most precious, the most blessed revelation of God, the doctrine of Christ. Their condemnation will be far greater than that of the Jewish king.\n\nJeremiah 36:27-32. But did the king destroy the Word of God? One might just as well speak of destroying God Himself. Neither God nor His Word can ever be affected by the efforts of men inspired by the enemy of the truth of God. The Word of God endureth forever. It is, like God, eternal.\n\nHow the Bibles have been burned a thousand times over again! In pagan Rome and papal Rome Satan has raged against the Bible. His Word lives on. And now the devil, camouflaged as an angel of light, in the guise of “devout scholarship” and “reverent criticism” tries it again. His Word lives on! Emperors and popes, philosophers and infidels who attacked the Bible are gone; the Bible is still with us.\n\nJeremiah is told to take another roll. Once more the Lord dictates the same words to him, and Jeremiah again dictates them to Baruch, “with many like words,” including a judgment message of the miserable end of the wicked king."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 37
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LAM",
+  "commentaryId": "gaebelein",
+  "name": "Lamentations",
+  "commonName": "Lamentations",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 1 Jerusalem’s Great Desolation and the Sorrow of His People\n\nThe chapter begins with an outburst of grief over Jerusalem’s desolation. Once she was a populous city; now she is solitary. Once she was great among the nations, like a princess among provinces, and now she is widowed. Then in the next verse we hear her weeping; she weeps all night long; none is there to comfort her; her friends have turned against her, they have become her enemies. She was disobedient to her Lord, she rejected His Word, she gave up her holy place as His separated people and now “she findeth no rest.” The Lord’s hand is upon her for the multitude of her transgressions. The hopeful note we find in Lamentations 1:8-11. Here is confession of her guilt and shame; here is humiliation and appeal to the Lord on account of the enemy. “See, O LORD, and behold; for I am become vile.” Such humiliation and self-judgment is pleasing in the Lord’s sight.\n\nIn Lamentations 1:12 Jerusalem speaks: “is it nothing to you, all ye that pass by? Behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of His fierce anger.” The passer-by who beholds the ruins of Zion is asked to look upon the desolations and then to consider that the Lord in His righteous anger smote her, who is still His beloved. Well may we think of Him, who had to say, “See if there be any sorrow like unto My sorrow,” who was smitten and afflicted, upon whom Jehovah’s rod rested, over whose blessed head all the waves and billows of Divine judgment-wrath rolled, He who is the Beloved, the Son of God, our Lord. Again the prophet breaks out in weeping, “His eye runneth down with water.” He is deeply affected over the desolation and judgment which has taken place. But a greater One, greater than Jeremiah, stood centuries after before the same city, brought back from the ruin of Jeremiah’s time. And as He beheld that city He wept, because His omniscient eye beheld a still more appalling judgment for city and nation.\n\nForsaken, uncomforted, distressed, humiliated, sighing and crying, owning her rebellion, vindicating Jehovah and His righteousness, Jerusalem sits in the dust, “abroad the sword bereaveth, at home there is death.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LAM",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 51
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LAM",
+  "chapter": 2
+ }
+}

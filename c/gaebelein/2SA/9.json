@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "gaebelein",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "6. David and MephiboshethCHAPTER 9\n\n1. Mephibosheth brought to David (2 Samuel 9:1-6)\n\n2. Grace and mercy shown to him (2 Samuel 9:7-13)\n\nThe story of Mephibosheth is the first thing mentioned after the government of David had been fully established. Typically it reveals the gospel in a beautiful way, and dispensationally the kindness of God which will be manifested in the coming kingdom. Mephibosheth is a type of the sinner and the condition which he is in. He was helpless, being lame of both feet. How he became lame is found in 2 Samuel 4:4. He fell and became lame, a helpless cripple.\n\nIt reminds us of the fall of man and the helpless condition into which sin has put man. Therefore he could not come to David. He had to be carried into the king’s presence. The sinner cannot come of himself to the Saviour; He has to seek him out. And David wanted to show him “the kindness of God” for Jonathan’s sake. “Thus the kindness and love of God our Saviour toward man hath appeared” (Titus 3:4). God for Christ’s sake shows His great kindness to sinful man.\n\nMephibosheth means “shame out of the mouth”; when he hears from David’s lips what kindness was prepared for him he confessed with his mouth his own shame and nothingness. “What is thy servant that thou shouldst look upon such a dead dog as I am?” And what words of grace came from David’s lips! Surely the kindness of God is here fully made known. He is lifted from his low place of shame to take a place at the King’s table “as one of the King’s sons.” It is the kindness of God as made known in the gospel of His Son our Lord Jesus Christ. He takes us out of our shame and makes us one of His sons. “So Mephibosheth dwelt in Jerusalem; for he did eat continually at the king’s table; and was lame on both feet.” When the kingdom has come the King will show such grace and kindness to the poor and needy (Isaiah 11:1-5; Psalms 72:1-4)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 10
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 69,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Psalms 69-72 Psalm 69\n\nThe Suffering and Rejected Christ\n\n1. Hated without a cause (Psalms 69:1-6)\n\n2. Bearing reproach (Psalms 69:7-12)\n\n3. His own prayer (Psalms 69:13-21)\n\n4. The retribution (Psalms 69:22-28)\n\n5. His exaltation and the glory (Psalms 69:29-36)\n\nPsalms 69-72 go together and lead us prophetically from the suffering and rejected Christ to the glory of His kingdom in the Seventy-second Psalm. The Sixty-ninth Psalm, like the Forty-fifth, bears the inscription, “upon Shoshanim” (lilies). It concerns Christ and indirectly also the people who suffer for His sake. The Spirit of God in the New Testament quotes this Psalm repeatedly. See Psalms 69:4 and John 15:25; Psalms 69:9 and John 2:17 and Romans 15:3; Psalms 69:22-23 and Romans 11:9-10; Psalms 69:25 and Acts 1:20. Psalms 69:21 was literally fulfilled as we find from the Gospels, Matthew 27:34; Matthew 27:48; Mark 15:23; Mark 15:36; Luke 23:36 and John 19:28-30.\n\nNo further evidence is needed that the Lord Jesus Christ in His suffering and rejection is here described. Yet the critical school attempts to deny the prophetic aspect. Referring to Psalms 69:21 and what the Gospels say about our Lord’s words, “I thirst” that the Scriptures might be fulfilled, Prof. Davidson saith in the Century Bible “the fulfilment of Scripture referred to must not be understood as the accomplishment of a direct prophecy.” And again in commenting on Psalms 69:22-23, quoted by the Spirit of God in Romans 11:1-36, the same professor declares, “These imprecations are among the darkest and fiercest in the Psalter. The gulf which separates these verses from ‘Father forgive them,’ marks the impassable limits of typology.” But it does not in the least. The words apply to the nation as righteous retribution from the side of God after they rejected His Son.\n\nIn His heart there is still the same love, for they are still beloved for the Father’s sake. But these imprecations also belong rightly into the lips of the remnant against the antichristian oppressors of the last days. Well may we read the Psalm and think of all His suffering and sorrow in our behalf. The Psalm ends with His praise, the exaltation and victory of the Christ who died for the ungodly."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 69
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 68
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 70
+ }
+}

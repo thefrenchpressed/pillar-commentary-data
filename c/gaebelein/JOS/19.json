@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "gaebelein",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 19\n\n1. The inheritance of Simeon (Joshua 19:1-9)\n\n2. The inheritance of Zebulun (Joshua 19:10-16)\n\n3. The inheritance of Issachar (Joshua 19:17-23)\n\n4. The inheritance of Asher (Joshua 19:24-31)\n\n5. The inheritance of Naphtali (Joshua 19:32-39)\n\n6. The inheritance of Dan (Joshua 19:40-48)\n\n7. The inheritance of Joshua (Joshua 19:49-51)\n\nThe many names of cities and villages, the inheritance of the remaining six tribes, we must leave untouched. Blessed and deep spiritual lessons are written in all these names. Simeon’s inheritance is closely connected with that of Judah. “Their inheritance was in the midst of the inheritance of the children of Judah.” Simeon means “hearing” and Judah means “praise.” Thus the two are linked together. If our hearts are open to hear and our faith appropriates we praise and worship and enjoy our God-given inheritance in the Lord Jesus Christ. And the different cities have a blessed meaning. Diligent and prayerful searching will discover the hidden treasures which faith prizes more than gold, and which are “sweeter than honey.” Let us glance briefly at Asher to give a little illustration of this. Asher means “happy,” commonly translated by “blessed” (Psalms 1:1; Psalms 32:1; Psalms 119:1).\n\nThe Lord’s people must be a happy people. Moses had pronounced them so (Deuteronomy 33:29). A few of the cities and boundaries of Asher and their meaning will show in what the happiness of God’s people consists. Helkath means “portion”; the Lord Himself is the portion of His people. He is our joy and happiness. Hali means “an ornament worked out with pain.” We possess that which Christ has worked out for us in His death.\n\nAhamelech means “God is King.” This is a sweet morsel to faith. Amad, “an eternal people,” speaks of our security, that we belong to God and nothing can separate us from Him. Misheal, “feeling after God,” tells of the longing of the new nature, which finds happiness in God. Hammon, “sunny”; Kanah, “He has purchased”; Zidon, “taking the prey”; Hosah, “trust”; Ummah, “union”; Aphek, “strength” -these and others are easily seen as giving spiritual lessons on the happiness of the people of God who enjoy in faith the inheritance.\n\nAfter all had received their portions Joshua received his. It was Timnath-serah, which means “an abundant portion.” The portion of Joshua is the blessed type of the inheritance, which the Lord Jesus Christ has received. We must not overlook the fact that the children of Israel gave Joshua the inheritance. Christ is our inheritance and we are His inheritance. He has an inheritance in the saints (Ephesians 1:18). May we give Him that inheritance."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 20
+ }
+}

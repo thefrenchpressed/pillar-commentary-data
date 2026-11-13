@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "scofield",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "tenth month -- i.e. January."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "fourth month -- i.e. July."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Babylon -- Here began the \"times of the Gentiles,\" the mark of which is that Jerusalem is \"trodden down of the Gentiles,\" i.e. under Gentile overlordship. This has been true from the time of Nebuchadnezzar to this day. See \"Times of the Gentiles\" (See Scofield \"Luke 21:24\"). See Scofield \"Revelation 16:19\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 41
+ }
+}

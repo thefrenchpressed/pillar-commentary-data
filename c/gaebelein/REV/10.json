@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "gaebelein",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 10Revelation 10:1-11.\n\nThe proclamation of the mighty angel is the first recorded event in this parenthesis. Who is this angel? It is Christ Himself. We saw our Lord in angel’s form before the opening of the seventh seal and then He appeared in priestly dignity. Here before the sounding of the seventh trumpet He appears again in the same form, but He is called a mighty angel and we behold Him in royal dignity. The cloud, the rainbow, the face like the sun, His right foot upon the sea, the left on the earth, the voice like a lion and the seven thunders, all declare this to be correct.\n\nThe hour is rapidly approaching when the kingdoms of this earth are to become His kingdom. This is seen under the seventh trumpet. And, therefore, He is seen now in this attitude of royal dignity. The words which He speaks (Revelation 10:6-7) bear out this interpretation. “There shall be no longer delay.” Man’s day is about to close. The mystery of God is now to be finished, “as He hath declared to His servants, the prophets”; or in better rendering “the mystery of God also shall be completed according to the good tidings which He declared by His own servants, the prophets.” How great has been that mystery! Evil had apparently triumphed; the heavens for so long had been silent.\n\nSatan had been permitted to be the god of this age, deceiving the nations. And Israel, too, is included in this mystery. And now the time has come when the mystery of God will be completed, when the glorious messages, the good tidings of the prophets concerning Israel’s blessing and the kingdom, will be fulfilled.\n\nBut what is the little book which the angel holds in His right hand? It is not a sealed book, but open. It stands for the prophecies in the Old Testament relating especially to Israel during the time of the great tribulation, which is yet to come upon the earth, culminating in the personal and glorious appearing of the Lord to begin His millennial reign."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "REV",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "REV",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "REV",
+  "chapter": 11
+ }
+}

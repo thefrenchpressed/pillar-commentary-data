@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "gaebelein",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Conquered KingsCHAPTER 12\n\n1. The kings on the other side of Jordan (Joshua 12:1-6)\n\n2. The kings on this side of Jordan (Joshua 12:7-24)\n\n“The land rested from war” is the concluding statement of the previous chapter. It was after Joshua had made war a long time with all those kings (Joshua 11:18). Deuteronomy 6:10-11 was also fulfilled. “And it shall be, when the LORD Thy God shall have brought thee into the land, which He sware unto thy Fathers, to Abraham, to Isaac and to Jacob, to give thee great and goodly cities, which thou buildest not, and houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not.” The list of kings which is given in this chapter needs no comment. Thirty-one are mentioned as conquered by Joshua. The land was only 150 miles from north to south, and 50 miles from east to west. Criticism has also objected to this, as if so many kings could not exist in so small a territory.\n\nProfessor Maspero, one of the foremost archaeologists, fully confirms the Bible-record. We quote from him:\n\n“The Canaanites were the most numerous of all these groups, and had they been able to amalgamate under a single king, or even to organize a lasting confederacy, it would have been impossible for the Egyptian armies to have broken through the barrier thus raised between them and the rest of Asia; but, unfortunately, so far from showing the slightest tendency towards unity or concentration, the Canaanites were more hopelessly divided than any of the surrounding nations. Their mountains contained nearly as many states as there were valleys, while in the plains each town represented a separate government, and was built on a spot carefully selected for purposes of defence. The land, indeed, was chequered by these petty states, and so closely were they crowded together, that a horseman travelling at leisure could easily pass through two or three of them in a day’s journey.” Of the richer country towards the north he writes: “Towns grew and multiplied upon this rich and loamy soil.”\n\nII. THE OF THE LANDThe divine record concerning the division of the land, as it is before us in these chapters, is often looked upon merely as history barren of any spiritual meaning. Many expositors pass over the greater part of it or give only geographical information. However, a deeper meaning must be sought here; there are many and blessed lessons in spiritual and dispensational truths hidden in these chapters. Why should the Holy Spirit have recorded all these things if they have no meaning whatever? It is written, “All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness” (2 Timothy 3:16).\n\nThis surely applies to all Scripture, including the chapters which contain nothing but names. Again it is written, “Now all these things happened unto them (Israel) as types, and they are written for our admonition, upon whom the ends of the ages have come” (1 Corinthians 10:11). “For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the Scriptures might have hope” (Romans 15:4). We dare not deny these chapters in Joshua a spiritual application in the light of these plain words of the Spirit in the New Testament.\n\nIn the study of the previous books we have discovered (especially in Genesis) the fact that the meaning of the Hebrew names are of deep significance and often helpful in the types as well as the spiritual and dispensational lessons. Here is a wide field, which has been but little covered. Hundreds of names are found in this second part of Joshua. They all have a meaning and through these names we can learn the lessons the Spirit of God has written there for our learning. Yet caution is needed. While some ignore this study entirely, others swing into the opposite direction and are fanciful in their application. This must be avoided.\n\nWe are sorry that the scope of our work does not permit a more detailed exposition and research. If we were to give way to the desire to do this we would have to write a volume. But we hope, with His gracious help, to give such hints which will help in a more extended, private study. (F.W. Grant in the Numerical Bible gives excellent help, both in the meaning of the names and in application. We know of no other attempt in this direction and acknowledge our own indebtedness to him. This, of course, does not mean that we endorse all the translations or applications he gives.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 13
+ }
+}

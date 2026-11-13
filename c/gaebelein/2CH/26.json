@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 26 The Reign of Uzziah\n\n1. The beginning of his reign (2 Chronicles 26:1-5)\n\n2. Uzziah’s success and fortifications (2 Chronicles 26:6-15)\n\n3. Uzziah’s sin and leprosy (2 Chronicles 26:16-21)\n\n4. The death of Uzziah (2 Chronicles 26:22-23)\n\nThe Son of Amaziah, Uzziah, in his sixteenth year, was made king by the people. In Second Kings 15 he is called Azariah. (In the annotations on 2 Kings 15:1-2 an explanation is given on this double name of Uzziah.) Isaiah was then prophet in Judah (Isaiah 1:1). Isaiah’s name is mentioned in verse 22. Hosea (Hosea 1:1), Amos (Amos 1:1) and Zechariah (2 Chronicles 26:5) were also prophets during his reign. The latter is not, of course, the Zechariah whose wonderful visions are written in the book which bears his name. Uzziah built Eloth and restored that important harbor to Judah (2 Kings 14:22).\n\nFrom Eloth and Ezion-Geber Solomon’s ships had gone to Ophir (1 Kings 9:26-28; 2 Chronicles 8:17-18). Probably during the days of Joram (also called Jehoram) of Judah, when Edom revolted, Eloth also must have become independent. Uzziah did that which was right in the sight of the LORD. He sought God in the days of Zechariah, of whom we know nothing else but what is mentioned in verse 5. The Zechariah of Isa 8:2 cannot be identified with the Zechariah here, for the one mentioned by Isaiah lived much later. The better rendering of “who had understanding in the visions of God,” is, “who was his (Uzziah’s) instructor in the fear of God.” Then follows the statement “as long as he sought the LORD, God made him prosper.” And this is still true with all of God’s people.\n\nHe waged a most successful warfare against the ancient foe of Israel, the Philistines. Previously, under the reign of Jehoram (2 Chronicles 21:16-17), as so often before, God had used the Philistines to chastise His people, but now He used Uzziah to punish them for their wickedness. Then the Ammonites brought gifts and Uzziah’s fame spread as far as Egypt. A great restoration work was, after that, carried on by him; he restored and fortified the northern wall of Jerusalem, which had been broken down under Amaziah (2 Chronicles 25:23). Then there was a marked reorganization of the army of Judah and the defense of Jerusalem was greatly strengthened. “And his name spread far abroad; for he was marvellously helped, till he was strong.” Alas! for the next little word! How often we find it in Scripture. “But!” “But when he was strong, his heart was lifted up to his destruction, for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.” How solemn these words are!\n\nWhat a warning they contain to all God’s people! When the heart of man is lifted up, when pride is followed, transgression is not far behind. “Pride goeth before destruction, and a haughty spirit before a fall” (Proverbs 16:18). How well it is for God’s children to be much on their faces and humble themselves before the Lord. To be little in one’s own eyes and make nothing of self is true greatness and the place of safety, where Satan stands defeated. And the danger of success and prosperity!\n\nUzziah invaded the priestly office which did not belong to him. It was a small matter to put some incense upon the altar. It was done in self-will and in defiance of the LORD’s order and ordinance. It was a rejection of that office which foreshadowed the work of the true priest, our Lord Jesus Christ. And today in Christendom we see much of the same spirit, and that which is far worse, the total rejection of the Lord Jesus as sin-bearer and the great high priest. Uzziah became a leper and died a leper. He was buried as an outcast in the field and not in the sepulchres of the kings. In the year he died Isaiah had his great vision (Isaiah 6:1). Isaiah’s opening chapters give a good description of the religious and moral condition of Judah at the close of Uzziah’s reign."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 27
+ }
+}

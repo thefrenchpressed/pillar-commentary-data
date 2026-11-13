@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "scofield",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "righteousness -- (See Scofield \"1 John 3:7\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "saviour -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "even as Christ -- Christ's love-work for the church is threefold: past, present, future:\n\n(1) For love He gave Himself to redeem the church (Ephesians 5:25);\n\n(2) in love He is sanctifying the church (Ephesians 5:26);\n\n(3) for the reward of His sacrifice and labour of love He will present the church to Himself in flawless perfection, \"one pearl of great price\" (Ephesians 5:27) Matthew 13:46."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "bride -- Ephesians 5:30,31 are quoted from Genesis 2:23,24 and exclude the interpretation that the reference is to the church merely as the body of Christ. Eve, taken from Adam's body, was truly \"bone of his bones, and flesh of his flesh,\" but she was also his wife, united to him in a relation which makes of \"twain... one flesh\" Matthew 19:5,6 and so a clear type of the church as bride of Christ. 2 Corinthians 11:2,3. The bride type are Eve Genesis 2:23,24 Rebecca\n\n(See Scofield \"Genesis 24:1\").\n\nAsenath (See Scofield \"Genesis 41:45\")\n\n(See Scofield \"Genesis 37:2\")\n\nZipporah Exodus 2:21. (See Scofield \"Hosea 2:2\").\n\nmystery -- (See Scofield \"Matthew 13:11\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 6
+ }
+}

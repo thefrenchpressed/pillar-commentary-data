@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 14 The Reign of Asa\n\n1. The death of Abijah and Asa becomes king (2 Chronicles 14:1)\n\n2. The good beginning (2 Chronicles 14:2-8)\n\n3. His victory over Zerah (2 Chronicles 14:9-15)\n\nAsa,, the son of Abijah, began his reign well. He did what was right in the sight of the Lord. The strange altars, the high places and the images were taken away and the groves cut down. He was not satisfied with this work, but he also commanded Judah to seek the Lord. The land was quiet. The Lord blessed him and the land for the faithful work which had been done. “The land had rest, and he had no war in those years, because the LORD had given him rest.” it was a remarkable work for one so young; probably Asa was not yet twelve years old when he became King.\n\nMaachah, his grandmother, most likely had some oversight as “queen-mother.” (In 1 Kings 15:13 she is called the mother of Asa; the same is the case in our book 15:16. Mother in these passages has the meaning of grandmother.) Notice the great prosperity which followed the work he had done. “The Kingdom was quiet before him.” Cities were built and fortified. They readily acknowledged that it was all of God. “Because we have sought the LORD our God, we have sought Him, and He hath given us rest on all sides.” So they built and prospered.\n\nBut faith had to be tested. A powerful army under the leadership of Zerah, an Ethiopian, came against Judah. The battle was to take place in the open field, in the valley of Zephathah. Before the forces ever clashed Asa cried to the Lord. His prayer is most beautiful and simple. It still breathes freshness and has been a help to all God’s trusting people in all ages. “LORD it is nothing with thee to help, whether with many, or with them that have no power; help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude.\n\nO LORD, thou art our God, let not man prevail against thee.” What confidence and trust! He put the whole matter upon the LORD. Their enemies were His enemies. In His name, resting on Him, they went forth. May we know and practice the same confidence. Such a prayer could not remain unanswered.\n\nThe LORD smote the Ethiopians and gave to His people a great victory."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 15
+ }
+}

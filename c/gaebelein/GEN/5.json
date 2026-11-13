@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "III. THE BOOK OF THE OF 5\n\nAdam and His Seed Through Seth\n\n1. Adam (Genesis 5:1-5)\n\n2. Seth (Genesis 5:6-8)\n\n3. Enos (Genesis 5:9-11)\n\n4. Cainan (Genesis 5:12-14)\n\n5. Mahalaleel (Genesis 5:15-17)\n\n6. Jared (Genesis 5:18-20) 7. Enoch (Genesis 5:21-24)\n\n8. Methuselah (Genesis 5:25-27)\n\n9. Lamech (Genesis 5:28-31)\n\n10. Noah (Genesis 5:32)\n\nHere we find the record of the seed of Seth. There is a striking contrast with the record of the Cainites in the previous chapter. The Cainites were progressive, built cities and made inventions. Nothing is said of the God-fearing generations in this chapter accomplishing great earthly things. They were pilgrims and strangers, waiting for better things. In the fourth chapter the word “die” is not mentioned. Nothing is said of the duration of the life of Cain and his seed. Eight times in the fifth chapter we read “and he died.” One did not die. We learn from this that the Lord keeps a record of the lives, the work and the years of His people. His saints are in His hands.\n\nThe names of ten generations translated give a startling revelation. In them we read the faith of the pious generations before the flood and for what they waited.\n\nAdam -- Man\n\nSeth -- Set\n\nEnos -- Frailty\n\nCainan -- Deplorable\n\nMahalaleel -- The Blessed God\n\nJared -- Descends\n\nEnoch -- Teaching\n\nMethuselah -- Death sent away\n\nLamech -- Powerful\n\nNoah -- Rest, Comfort\n\nThe record of Enoch must be compared with Jude 1:14-16 and Hebrews 11:5. He was translated before the great judgment swept over the earth. Enoch is a type of the living saints at the close of the present age, who will be changed in a moment, in the twinkling of an eye. Study Enoch’s walk, Enoch’s faith, Enoch’s testimony, Enoch’s suffering and Enoch’s translation with the help of the New Testament passages."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 6
+ }
+}

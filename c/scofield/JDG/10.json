@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "scofield",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Havothjair -- Or, The villages of Jair. Numbers 32:41."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 11
+ }
+}

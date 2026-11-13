@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "gaebelein",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "5. The Death of Ish-boshethCHAPTER 4\n\n1. Ish-bosheth in despair (2 Samuel 4:1-3)\n\n2. Mephibosheth, the lame son (2 Samuel 4:4)\n\n3. The end of Ish-bosheth (2 Samuel 4:5-8)\n\n4. The punishment of the murderers (2 Samuel 4:9-12)\n\nAbner’s death meant the speedy end of Ish-bosheth’s pretentious reign. Baanah and Rechab were his captains and became his murderers. While Ish-bosheth was resting in the heat of the day they sneaked in and murdered the sleeping son of Saul, then brought the head to David. They claimed to be instruments of God in the execution of the wicked deed, expecting approval and a reward from David. But the king received them in a different way. Here David’s trust in Jehovah breaks through the dark clouds and the King’s heart is revealed. “As the LORD liveth, who hath redeemed my soul out of all adversity.” He acknowledges the Lord’s gracious help in the past and his present confidence in Him.\n\nHis case had rested in Jehovah’s hands and in the ghastly deed of the two captains the King did not see Jehovah’s intervention in his behalf, but he looked upon them as murderers. Swift judgment was executed upon them. David is now through these circumstances the sole and undisputed claimant of the throne of Israel and his anointing as king over all Israel must speedily follow. Through all the sad occurrences since Abner had made Ish-bosheth king, David had maintained his integrity. In all the evil deeds, the bloodshed and cold-blooded murders he had no part. He acted in justice.\n\nIn this at least he is a type of Him who will reign over the earth in righteousness.\n\nWe must not overlook verse 4 in which Jonathan’s son Mephibosheth is mentioned for the first time. He was the only representative of Saul’s line, a helpless cripple. His story and David’s kindness to him we shall soon follow."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 5
+ }
+}

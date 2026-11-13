@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "gaebelein",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "II. The Rejected Kingdom and the Rejected King. Chapters 13-28.\n\n1. The King at the Seaside.\n\nThe Mysteries of the Kingdom.\n\nCHAPTER 13\n\n1. The King at the Seaside. (Matthew 13:1-2.)\n\n2. The Parable of the Sower. (Matthew 13:3-9.)\n\n3. The Question of the Disciples and His Answer. (Matthew 13:10-17.)\n\n4. The Parable of the Sower Explained. (Matthew 13:18-23.)\n\n5. The Parable of the Good Seed and the Tares. (Matthew 13:24-30.)\n\n6. The Parable of the Mustard Seed.(Matthew 13:31-32.)\n\n7. The Parable of the Leaven. (Matthew 13:33-35.)\n\n8. The Parable of the Good Seed and of the Tares Explained.(Matthew 13:36-42.)\n\n9. The Parable of the Treasure in the Field. (Matthew 13:44.)\n\n10. The Parable of the Pearl of Great Price. (Matthew 13:45-46.)\n\n11. The Parable of the Drag-net. (Matthew 13:47-52.)\n\n12. Rejected in His Own Country.(Matthew 13:53-58.)\n\nWe have now reached one of the most important chapters in this Gospel. It demands, therefore, our closest attention, and this more so because the revelation which our Lord gives here, the unfolding of the mysteries of the kingdom of the heavens, has been and still is grossly misunderstood and falsely interpreted. Precisely that which our Lord did not mean has been read into this chapter. The whole chapter has been, so to speak, turned upside down by most of the learned commentators of Christendom. For any believer to turn to these for light and instruction will only result in getting thoroughly confused. We have often said if this one chapter would be rightly understood by the professing church, the consequences would be the most far-reaching.\n\nBut one almost despairs of seeing the true meaning of the mystery of the kingdom in Matthew 13:1-58 believed in Christendom. The professing mass continues, and will continue, with the majority of those who are not merely outward professors, to build upon the misinterpretation of our Lord’s parables the optimistic dreams of the enlargement of the church, the foreshadowing of the universal extension of the church and the continued good work of the leaven in the three measures of meal, etc. We have found in our experience, that it is hard to get the individual believer, brought up in these wrong conceptions, to see the true meaning; and often the testimony given is rejected. Let us then carefully and prayerfully look into the chapter before us, and may our Lord give His blessing; and while the many may reject what we teach from these parables it may be a few receive light through the entrance of His Word, and may all believers in these truths be strengthened.\n\nLet us notice, first of all, two verses in this chapter; “Because to you it is given to know the mysteries of the kingdom of the heavens, but to them it is not given” (Matthew 13:11); “All these things Jesus spoke to the crowds in parables, and without a parable He did not speak to them, so that it might be fulfilled which was spoken through the prophets saying, I will open my mouth in parables; I will utter things hidden from the world’s foundation” (Matthew 13:34-35). These verses then tell us what our Lord makes known in this chapter, namely “the mysteries of the kingdom of the heavens” -- “Things uttered, which were hidden from the world’s foundation.”\n\nIn Genesis we read of one who is called “Zaphnath-paaneah” which, according to rabbinical interpretation, means “Revealer of secrets.” He is Joseph, the Hebrew lad rejected by his brethren, that most perfect type of our Lord. After his rejection by his brethren, Joseph becomes the revealer of the secrets, and that through the wisdom of God.\n\nHere in this chapter Christ appears as the rejected one, and now after the offer of the kingdom is rejected by the people of the kingdom, and He as king, is likewise rejected, He becomes the revealer of the secrets, to show what will take place after the Kingdom has been rejected by Israel, and postponed.\n\nThat He is the rejected one and the far-reaching witness He gives now is evident in the very opening verses. “And that same day Jesus went out from the house and sat down by the sea.” Leaving the house means He severed His relation with His people as we saw at the close of the twelfth chapter. Taking His place by the sea, the sea typifying nations, shows that His testimony to be given now, the mysteries to be revealed have a wider sphere; they are relative to the nations. “And great crowds were gathered together to Him, so that going on board ship He sat down, and the whole crowd stood on the shore.” He separated Himself from the multitude, while in the first part of this Gospel He moves in the midst of the multitudes, here He takes His place alone. What a scene it must have been! There on the seashore the multitude, and He alone some ways from the shore -- He cannot be reached by touch now. All is significant. Then when all eyes hang upon His lips, He began to speak.\n\nWhat He says is in parables, and without parables He did not speak to them. He utters seven parables. In no other Gospel do we find them grouped together as here. Why is this? This is the great dispensational Gospel. Here God’s plan of the ages is revealed as in no other Gospel. We have seen before that the Holy Spirit in giving us this Gospel, the Genesis of the New Testament, is not tied down to chronological order, but He arranges everything to suit His sublime purpose. After the kingdom was offered and rejected, the Lord makes known what is to be after this rejection, and during the time of His absence. Therefore these parables, seven in number, denoting completeness, are put right in here.\n\nNow the important question is when the Lord says six times in these parables, “The kingdom of the heavens is like” what does He mean by the term “Kingdom of the heavens?” That it can no longer mean the kingdom as it is revealed in the Old Testament, as it is promised to Israel, and as He offered it to the people, is evident. For in the first place, the offer was made and rejected. The preaching of Him a"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MAT",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MAT",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MAT",
+  "chapter": 14
+ }
+}

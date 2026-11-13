@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 16 In the Light of the Lord\n\nThe name Jehovah (LORD) appears eleven times in this chapter of Proverbs. The Lord has the final word, for to man belong the preparations (or plans) of the heart; but from the LORD is the answer of the tongue. It is the same thought as in our English proverb--“Man proposes--God disposes.” Man loves to justify himself, his ways are clean in his own eyes; but the LORD weigheth the spirits; He is the judge of ways and motives. Our works are to be committed (literal: rolled upon) unto the LORD, then establishment and blessing will follow. It is strange that these three verses were omitted in the Septuagint version of the Old Testament.\n\nThe LORD hath made all things for Himself, yea, even the wicked for the day of evil Proverbs 16:4. Much error has been taught in connection with this verse. Some have taught that God made some wicked. It is not said that God makes a man wicked, for “He made man upright” Ecclesiastes 7:29), but being wicked by his own choice he comes under the irrevocable law which dooms him to “the day of evil,” of calamity and punishment. By this, the Apostle teaches us, even in its final and most awful form, is revealed not the arbitrary predestination, but “the righteous judgment of God” Romans 2:5-29, T.T. Perowne).\n\nThe abomination to the Lord is to be proud in heart. Pride, not only pride as it works out in deeds, but pride as nourished in the heart, seen by the eyes of the Lord alone, is equally an abomination to Him. How much there is in these days! The second stanza of this proverb speaks of joining hand in hand, or hand to hand. It is the much praised “team-work,” confederation, alliance, etc., to do a big work and make a big name. Much of this attempt of doing “big things” in the day of “small things” has its source in the pride of the natural man.\n\nIn the sixth proverb of this chapter we have a Gospel text. The word mercy is literally “grace.” The word “purged” is the word translated elsewhere by “covered” or “atoned.” In the Lord Jesus Christ and His work is revealed “grace and truth” and by His work so blessedly finished on the cross our iniquity is covered. Then comes the fear of the Lord which results in departing from evil.\n\nIf a man walks in righteousness, in true humility, if he pleaseth the LORD, then his enemies will be silenced and not talk against him. Only too often the charges brought against the children of God by the enemies of truth, are the result of not walking in the truth.\n\nComforting to faith is the ninth verse. We may devise, plan, and often worry as we make our plans but behind it stands the LORD and in spite of our failures and mistakes “He directeth” the steps of the righteous.\n\nTwice more the name of the LORD is given in this chapter. “And whoso trusteth in the LORD, happy is he” Proverbs 16:20. The only true happiness is to know the Lord, to trust Him and to follow Him. Inasmuch as we may increase in knowledge of Him, in confidence and in practical obedience our happiness is an increasing happiness. In the last verse we read that the disposing of the lot is of the LORD. The lot was used in the Old Testament. It is mentioned rarely in the New Testament, once preceding the day of Pentecost Acts 1:26).\n\nAfter the Holy Spirit came to guide and direct no lot is needed any longer. We pass over the many other blessed instructions recorded in this chapter. Private meditation and prayer unlock the many riches deposited in them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 17
+ }
+}

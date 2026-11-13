@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "gaebelein",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Chapter 7\n\n1. The Opposition of the Pharisees. (Mark 7:1-23. Matthew 15:1-20)\n\n2. Grace shown to the Syrophenician Woman. (Mark 7:24-30. Matthew 15:21-28)\n\n3. The healing of the deaf man. (Mark 7:31-37. Matthew 15:29-31.)\n\n1. The Opposition of the Pharisees. Mark 7:1-23\n\nThis paragraph is of much importance. The scope of the analysis forbids a full annotation, but we refer the reader to the exposition of Mat 15:1-20, the parallel passage. The Servant in His divine wisdom uncovers the hypocrisy which lies underneath the traditions of the elders. He shows that the Pharisees had rejected the commandment of God for the sake of men-made inventions and traditions. Their ritualistic service founded upon tradition was dishonoring to God and His Word. Such ritualism springing from tradition must always be.\n\nHe condemns religiousness, which knows nothing of heart obedience and holiness of life. And this outward, human, man-made religion, which boasts of being something and doing something, He condemns. Then He shows that man’s defilement does not consist in what enters into him, but the things which come out of him. He shows what man is within (Mark 7:21-23). No, mere religiousness cannot take away this defilement. Thus He uncovers the hypocrisy of an outward religion and the true state of the heart of man.\n\nThe product of the natural heart of man, though it may delight in religious observances, is nothing but vileness.\n\n2. Grace shown to the Syrophenician Woman. Mark 7:24-30\n\nWhile the omniscient Lord in the form of the Servant showed what the heart of man is, He now also uncovers His own heart in showing Grace to one, who belonged to the Gentiles. In the borders of Tyre and Sidon the blessed Servant sought quietness and entered a house; but He could not be hid. Note again that Mark mentions this exclusively, because it brings out His character as Servant. He also informs us that she was a Gentile, a Syrophenician, belonging to the enemies of God’s people, Israel. But Mark leaves out Matthew’s statement, that she appealed to Him as “Son of David.” Matthew’s Gospel is the proper place for that. What evidences all along we find of the inspiration of these records.\n\nShe had no claim on His Mercy and Power, for she was under the curse. Her daughter had a demon. And though she had no claim on His power and no promise, she believed in His love. She takes the place He gave to her and the daughter was restored. What a manifestation of Grace! And how it must have cheered the Servant’s heart!\n\nIn that moment His omniscient eye must have beheld the multitudes of Gentiles, who, after His death on the Cross, as lost sinners with no promise, aliens from the commonwealth of Israel, would believe in His love.\n\n3. The healing of the deaf man. Mark 7:31-37\n\nA comparison with Matthew shows that the account here is peculiar to Mark’s Gospel. In Matthew 15:29-31 we find the dumb man mentioned among others whom He healed. He represents Israel. Altogether deaf, unable to hear God’s voice, which spoke through the One who had come and an impediment in speech. They attempted to speak of God and praise God. And such is man’s natural state. And such He came to heal. Israel might have had the ear opened by Him, the Servant, whose ear was always open, and Israel might have the tongue loosed, to praise His Name. He heals the afflicted one. And how the Servant looked to heaven and groaned. What must He have felt!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MRK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MRK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MRK",
+  "chapter": 8
+ }
+}

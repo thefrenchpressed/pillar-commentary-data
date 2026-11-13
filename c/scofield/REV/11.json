@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "scofield",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "tread -- See \"Times of the Gentiles.\" (See Scofield \"Luke 21:24\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "God -- Adonai. Zechariah 4:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "great city -- i.e. Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\").\n\nworld -- kosmos = world-system. John 7:7\n\n(See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 12
+ }
+}

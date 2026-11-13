@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Hannah’s Prophetic SongCHAPTER 2:1 - 10\n\n1. The praise of Jehovah-God (1 Samuel 2:1-3)\n\n2. Jehovah’s power and grace in deliverance (1 Samuel 2:4-8)\n\n3. The prophetic outlook (1 Samuel 2:9-10)\n\nHannah’s heart filled with the Holy Spirit overflows with a marvellous utterance. Higher criticism claims “that this beautiful sacred lyric could not have been sung by Hannah in the circumstances as described. The words of verse 5 alone approach her situation, and doubtless led to the insertion of the psalm in its present context.” They also say “that the Virgin’s song (Luke 1:46-55) is largely modeled on the song of Hannah” (Prof. A.R.S. Kennedy). Such statements deny inspiration.\n\nHannah’s and Mary’s songs are so much alike because the same Spirit spoke through both. Why should it be thought impossible for pious Hannah to give forth such sublime and far reaching words which stand so closely related to all subsequent prophecy, if we believe that the Holy Spirit inspired her as He did Isaiah and other prophets?\n\nAs every other song given by the Spirit of God, so her song begins with extolling the Lord, glorifying His name. The first four stanzas give her own experience. She knows Jehovah and rejoices in His salvation. Especially beautiful are the utterances the Spirit of God makes through her in describing Jehovah’s power and grace in deliverance. We must think here first of all of our Lord Jesus Christ. He went down into the dust of death and was raised from the dead.\n\nHe was brought down to the grave and brought up; He became poor and is made rich; He was made low and is lifted up (verses 6-7). And therefore He reaches down to our misery and raiseth the poor out of the dust, and lifteth the beggar from the dunghill to set them among princes to inherit the throne of glory. What a glimpse she, whose name means “grace,” had of grace which stoops so low and lifts so high! Her words came nearest in the Old Testament to the gospel of grace as revealed in the New. With the middle of the eighth verse she speaks of the future. The day of the Lord with its judgment bursts into view.\n\nThe feet of His Saints will be kept; the wicked will be in darkness; the adversaries broken to pieces. Then heaven is no longer silent. The Lord judges. The King, Israel’s true and once rejected King, our Lord Jesus Christ, will be exalted. In the beginning of the books of Kingdoms heaven’s true King is seen in prophetic vision.\n\nThe ministering child Samuel before the Lord is a most beautiful and sweet picture. Faithfully his little hands did whatever they could do, and Jehovah was well pleased with it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "3. The Failure of Eli and His SonsCHAPTER 2:12-36\n\n1. The wicked sons of Eli (1 Samuel 2:12-17)\n\n2. Samuel before Jehovah and Hannah blessed (1 Samuel 2:18-21)\n\n3. The empty warning of Eli (1 Samuel 2:22-26)\n\n4. Judgment announced (1 Samuel 2:27-36)\n\nThe corruption of the sons of aged Eli is next exposed. They were sons of Belial; they knew not Jehovah, and yet they ministered in the outward things of the sanctuary. It could result only in the worst corruption. They handled holy things and were wicked in heart and life. It has been well said “a holiness that is but external is the worst unholiness.” It is so today in Christendom. Men who know not Jehovah, who are not serving the Lord but themselves and are thus under the control of Satan, the god of this age, minister in the things of God.\n\nIt results in all kinds of departures and corruption. It is the curse of Christendom. “The sin of the young men was very great before the LORD, for the men despised the offering of Jehovah.” Beholding such wicked conduct in the priests men became disgusted with all religious performances and the truth they foreshadowed. They turned away from the offering of Jehovah. It is so still. An unholy, selfish ministry is the greatest stumbling block to the great mass of the people.\n\nAnd then the contrast! The child Samuel in his little ministry is mentioned once more. What a charming picture he must have been in his little ephod and the little robe finished by his loving mother! Upon him a mere child, so innocent and simple, the white linen robe had been bestowed. Everything else in Shiloh was corrupted.\n\nEli makes an attempt to warn his sons of their immoral and wicked conduct. His weak effort but reveals the state of his own soul. The law demanded as a penalty the death of the offenders. The lack of zeal in Eli’s remonstrance made no impression upon his wicked sons. Then an unnamed man of God came to Eli and carried to him the message of judgment. Hophni and Phinehas are to die both in one day. Then there is the promise of the raising up of a faithful priest. Such a priest was Zadok, but the promise finds its ultimate fulfillment in Him who is the King-Priest, our Lord Jesus Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "scofield",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "altar -- (1) The value of the \"life\" is the measure of the value of the \"blood.\" This gives the blood of Christ its inconceivable value. When it was shed the sinless God-man gave His life. \"It is not possible that the blood of bulls and of goats could take away sins\" Hebrews 10:4.\n\n(2) it is not the blood in the veins of the sacrifice, but the blood upon the altar which is efficacious. The Scripture knows nothing of salvation by the imitation or influence of Christ's life, but only by that life yielded up on the cross.\n\nblood -- The meaning of all sacrifice is here explained. Every offering was an execution of the sentence of the law upon a substitute for the offender, and every such offering pointed forward to that substitutional death of Christ which alone vindicated the righteousness of God in passing over the sins of those who offered the typical sacrifices Romans 3:24,25; Exodus 29:36.\n\natonement -- (See Scofield \"Exodus 29:33\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 18
+ }
+}

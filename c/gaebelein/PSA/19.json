@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Christ in Creation and in Revelation1 In creation (Psalms 19:1-6)\n\n2. In revelation (Psalms 19:7-11)\n\nPsalms 19:1-6. This Psalm also bears witness to Christ as Creator and as revealing Himself through the Word. The two great books, Creation and Revelation, bear witness to Him. The Heavens which declare the glory of God were created by Him (Colossians 1:16; John 1:3). And there is a testimony to Him in creation which is continuous. “Day unto day uttereth speech and night unto night showeth knowledge.” (See Romans 1:20) The sun is especially mentioned, for the sun is the type of Christ. “As a bridegroom coming out of His chamber he rejoiceth as a strong man to run his course. His going forth is from the end of the heavens, and his circuits unto the end of it and nothing is hid from the heat thereof.” He is the Sun of Righteousness, who will arise some day with healing beneath his wings.\n\nPsalms 19:7-11. The second witness to Him is the Law of Jehovah, the testimony and the precepts of the Lord. It is His written Word. This Word comes from Himself and speaks of Himself. What this Word is and what it produces and the practical use of the testimony of the Lord as well as prayer are mentioned in these verses.\n\nThe nineteenth Psalm is an introduction to the next five Psalms, which tells us more fully of the person of Christ, the Creator and Revealer, in His great work as Redeemer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 20
+ }
+}

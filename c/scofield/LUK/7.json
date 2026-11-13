@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "were departed -- Having gently removed His servant's doubt, the Lord bears witness to him before others: He knows when to reprove, and where, and when, to praise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "sinners -- Sin.\n\n(See Scofield \"Romans 3:23\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "sinner -- i.e. in the sense of unchaste."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Simon -- See James 2:14-26. When Jesus would justify the woman in the eyes of Simon, He points to her works, for only through her works could Simon see the proof of her faith; but when He would send the woman away in peace, He points to her faith, not her works. See; Titus 2:14; 3:4-8. His own works can never be to the believer his own ground of assurance, which must rest upon the work of Christ (cf. Matthew 7:22,23). See \"Assurance\"; Isaiah 32:17; Jude 1:1."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "tenth -- See \"Remnant,\" (See Scofield \"Romans 11:5\").\n\nreturn -- (See Scofield \"Isaiah 8:18\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Ephraim -- In the prophetic books \"Ephraim\" and \"Israel\" are the collective names of the ten tribes who, under Jeroboam, established the northern kingdom, subsequently called Samaria 1 Kings 16:24 and were (B.C. 722) sent into an exile which still continues. 2 Kings 17:1-6.\n\nThey are distinguished as \"the outcasts of Israel\" from \"the dispersed of Judah.\" Isaiah 11:12. \"Hidden\" in the world Matthew 13:44 they, with Judah, are yet to be restored to Palestine and made one nation again.; Jeremiah 23:5-8; Ezekiel 37:11-24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Shearjashub -- Meaning, a remnant shall return. Isaiah 8:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Hear ye now -- The prophecy is not addressed to the faithless Ahaz, but to the whole \"house of David.\" The objection that such a far-off event as the birth of Christ could be no \"sign\" to Ahaz, is, therefore, puerile. It was a continuing prophecy addressed to the Davidic family, and accounts at once for the instant assent of Mary. Luke 1:38."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Butter and honey -- Indicating the plainness and simplicity of the life in which the young Immanuel should be brought up."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 8
+ }
+}

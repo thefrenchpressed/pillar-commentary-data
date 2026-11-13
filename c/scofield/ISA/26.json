@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "trusteth -- (See Scofield \"Psalms 2:12\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "thy dead men -- Eliminate the supplied words, men, and, together with. \"Body\" is in the plural, \"bodies.\" Isaiah 26:19-21 with chapter 27., constitute Jehovah's answer to the plaint of Israel, Isaiah 26:11-18. Verse 19 should read: \"Thy dead shall live: my dead bodies shall rise\" (i.e. the dead bodies of Jehovah's people). The restoration and re-establishment of Israel as a nation is also spoken of as a resurrection Ezekiel 37:1-11 and many hold that no more than this is meant in Isaiah 26:19. But since the first resurrection is unto participation in the kingdom Revelation 20:4-6 it seems the better view that both meanings are here."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 28
+ }
+}

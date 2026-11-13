@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "scofield",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Do we then -- The sinner establishes the law in its right use and honour by confessing his guilt, and acknowledging that by it he is justly condemned. Christ, on the sinner's behalf, establishes the law by enduring its penalty, death. Cf. Matthew 5:17,18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "works -- Cf. James 2:24. These are two aspects of one truth. Paul speaks of that which justifies man before God, viz.: faith alone, wholly apart from works; James of the proof before men, that he who professes to have justifying faith really has it. Paul speaks of what God sees--faith; James of what men see--works, as the visible evidence of faith. Paul draws his illustration from Genesis 15:6 James from Genesis 22:1-19. James' key phrase is \"ye see\" James 2:24 for men cannot see faith except as manifested through works."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "God -- Jehovah. Genesis 15:6.\n\ncounted -- Or, reckoned, or imputed, i.e. put to the account of. See Philemon 1:18 same word:\n\nrighteousnesss -- See Romans 4:5,6,9,11,13,22. See Romans 3:21. (See Scofield \"Romans 3:21\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "counted -- Or, reckoned, or imputed, i.e. put to the account of.\n\nSee Philemon 1:18, same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "imputed -- Or, reckoned, i.e. put to the account of. See Philemon 1:18, same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "iniquites, sins -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Lord -- Jehovah. Romans 4:7,8.\n\nimpute -- Or, reckoned, or imputed, i.e. put to the account of. See Philemon 1:18, same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "imputed -- Or, reckoned, i.e. put to the account of. See Philemon 1:18; same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "transgression -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "imputed -- Or, reckoned, i.e. put to the account of. See Philemon 1:18, same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "imputed -- Or, reckoned, i.e. put to the account of. See Philemon 1:18; same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "imputed -- Or, reckoned, i.e. put to the account of. See Philemon 1:18, same word:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "raised -- Christ died under our sins 1 Peter 2:24; 2 Corinthians 5:21 that He was raised and exalted to God's right hand, \"now to appear in the presence of God for us\" Hebrews 9:24 is the token that our sins are gone, that His work for us has the divine approbation and that we, for whom He suffered, are completely justified."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ROM",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ROM",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ROM",
+  "chapter": 5
+ }
+}

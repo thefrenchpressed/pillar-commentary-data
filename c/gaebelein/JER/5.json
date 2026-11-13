@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 5\n\n1. The apostate conditions of Jerusalem (Jeremiah 5:1-9)\n\n2. The impending judgment (Jeremiah 5:10-18)\n\n3. Sowing and reaping (Jeremiah 5:19-29)\n\n4. The horrible thing (Jeremiah 5:30-31)\n\nJeremiah 5:1-9. So degenerate had the inhabitants of Jerusalem become that the Lord promised if but one man could be found in the city who executed judgment and sought the truth, He would pardon Jerusalem. It was a general apostasy. A similar apostasy is predicted for the end of our age. “Nevertheless when the Son of Man cometh shall He find the faith on the earth?” “They were foolish, saith the Lord; they broke the yoke and burst the bonds; they have refused to return. They were as fed horses in the morning; every one neighed after his neighbor’s wife. Shall I not visit these things, saith the Lord; and shall not my soul be avenged on such a nation as this?”\n\nJeremiah 5:10-18. The judgment messages had not been believed by the people (Jeremiah 5:12). What the invader from the north will do to Israel is described in Jeremiah 5:15-18. Again the promise is given, “I will not make a full end with you.” The Lord keeps in the midst of His people a remnant.\n\nJeremiah 5:19-29. Their sowing was bringing a harvest. They asked, “Wherefore doeth the LORD our God all these things unto us?” He answers them that they had sown their evil seed in forsaking the Lord and serving strange gods; the harvest would be serving strangers in a strange land. The good things promised had been turned away by their sins and iniquities. The question of Jer 5:9 is repeated in Jeremiah 5:29. And what was true of that generation, is true of this present age also. The seed which is being sown is Bible rejection; the rejection of the gospel of Christ, the seed of apostasy, will bring a harvest of judgment as it did with Israel.\n\n(Jeremiah 1:30-31. False prophets, false priests and the people were satisfied with it. How is it going to be in the end? Both prophets and priests were in league against the prophet of God. They misled the people; they were a curse instead of a blessing. It is not unlike the religious conditions in Christendom today."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 6
+ }
+}

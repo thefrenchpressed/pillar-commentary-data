@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "gaebelein",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "6. The Portion of the Rest of the TribesCHAPTER 18\n\n1. The tabernacle at Shiloh (Joshua 18:1)\n\n2. The remaining seven tribes (Joshua 18:2-10)\n\n3. The lot of Benjamin (Joshua 18:11-28)\n\nThe tabernacle of the congregation is now set up at Shiloh. Shiloh means “peace,” “security.” The land was then subdued before them. Shiloh is now the center. From there the operations proceed. Seven times after this Shiloh is mentioned in the book of Joshua: Joshua 18:8-10; Joshua 19:51; Joshua 21:2; Joshua 22:9; Joshua 22:12. Read these carefully and see what happened in connection with Shiloh, the place of rest. The tabernacle remained at Shiloh till the Philistines came and took the ark, as recorded in 1 Samuel 4:11. Then it was at Nob in the days of Saul, then at Jerusalem, at Gibeon in the beginning of Solomon’s reign (2 Chronicles 1:3). It never got back to this first resting-place.\n\nAt that time seven tribes still remained without an inheritance. They seemed to be content without any inheritance whatever. Most likely they had also become tired of war. Theirs had been a strenuous experience. It was difficult work to go forth and conquer, to occupy new territory and meet the enemies. They must likewise have come into possession of many things for their comfort, which were unknown to them in the wilderness; and with the natural and plentiful resources of the land they became self-indulgent and were at ease.\n\nJoshua’s earnest appeal suggests such a state of the people. “How long are ye slack to go to possess the land which the LORD God of your fathers hath given you?” And their negligence in not possessing the land avenged itself, for the unpossessed land with its enemies became “scourges in their sides and thorns in their eyes.” What ingratitude it was, after God’s wonderful power had brought them in, that they should neglect to avail themselves of so great a gift! Such is man, always a failure in himself. It needs hardly to be said, that all this finds an application with ourselves, whom the Lord has brought into a better land and richer inheritance. How slack we are to go to possess the land! How many neglect so great salvation! Joshua then gave instructions and the men selected walked through the land and made a survey of it.\n\nThe inheritance of Benjamin is described in the remaining portion of this chapter. Their lot fell into a steep, mountainous country; many of the cities they received were in high places, indicated by such names as Gibeon (hilly); Gibeath (a hill); Gaba (elevation); Ramah (the height); Mizpeh (watch-tower), etc. May we ascend the heights of glory we have in Christ, and walk in our high-places, with feet as swift as the hinds’ feet (Habakkuk 3:19). And we too have our “Mizpeh,” the place of watching and waiting for Him, who will lead us into our wonderful inheritance in the day of His coming glory.\n\n“Benjamin was counted the least of the tribes (1 Samuel 9:21), and when, with other tribes, it was represented by its chief magistrate, it was rather disparagingly distinguished as ‘little Benjamin with their ruler’ (Psalms 68:27). Yet it was strong enough, on one occasion, to set at defiance for a time the combined forces of the other tribes (Judges 20:12, etc.) It was distinguished for the singular skill of its slingers; seven hundred, who were left-handed, ‘could every one sling stones at an hair-breadth and not miss’ (Judges 20:16). The character of its territory, abounding in rocky mountains, and probably in game, for the capture of which the sling was adapted, might, in some degree, account for this peculiarity.\n\n“Many famous battles were fought on the soil of Benjamin. The battle of Ai; that of Gibeon, followed by the pursuit through Bethhoron, both under Joshua; Jonathan’s battle with the Philistines at Michmash (1 Samuel 14), and the duel at Gibeon between twelve men of Saul and twelve of David (2 Samuel 2:15-16); were all fought within the territory of Benjamin. And when Sennacherib approached Jerusalem from the north, the places which were thrown into panic as he came near were in this tribe. ‘He is come to Aiath, he is passed through Migron; at Michmash he layeth up his baggage; they are gone over the pass; they have taken up their lodging at Geba; Ramah trembleth; Gibeah of Saul is fled. Cry aloud with thy voice, O daughter of Gallim! Hearken, O Laishah! O thou poor Anathoth!\n\nMadmenah is a fugitive, the inhabitants of Gebim gather themselves to flee. This very day shall he halt at Nob; he shaketh his hand at the mount of the daughter of Zion, the hill of Jerusalem (Isaiah 10:28-32, R.V.). In later times Judas Maccabeus gained a victory over the Syrian forces at Bethhoron; and, again, Cestius and his Roman troops were defeated by the Jews” (Expositor’s Bible).\n\nThe tribe counted the least, “little Benjamin,” came into possession of the richest inheritance, which is abundantly witnessed to by the names of the different cities, if we diligently search out their meaning. God delights to take up what is little and make it great., was of the tribe of Benjamin. He possessed and enjoyed his inheritance in the heavenlies.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 19
+ }
+}

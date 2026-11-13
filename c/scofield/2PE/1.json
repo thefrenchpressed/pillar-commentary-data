@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2PE",
+  "commentaryId": "scofield",
+  "name": "2 Peter",
+  "commonName": "2 Peter",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "WRITER: The Apostle Peter (2 Peter 1:1)\n\nDATE: Probably A.D. 66\n\nTHEME: Second Peter and Second Timothy have much in common. In both, the writers are aware that martyrdom is near (2 Timothy 4:6; 2 Peter 1:14 with; John 21:18,19); both are singularly sustained and joyful; both foresee the apostasy in which the history of the professing church will end. Paul finds that apostasy in its last stage when the so-called laity (See Scofield \"Revelation 2:6\"), have become infected (2 Timothy 3:1-5; 4:3,4); Peter traces the origin of the apostasy to false teachers (2 Peter 2:1-3,15-19). In Peter the false teachers deny redemption truth (2 Peter 2:1); we shall find in First John a deeper depth--denial of the truth concerning Christ's person (1 John 4:1-5). In Jude all phases of the apostasy are seen. But in none of these Epistles is the tone one of dejection or pessimism. God and His promises are still the resource of the believer.\n\nThe Epistle is in four divisions:\n\nThe great Christian virtues, 1:1-14\n\nThe Scriptures exalted, 1:15-21\n\nWarnings concerning apostate teachers, 2:1-22\n\nThe second coming of Christ and the day of Jehovah, 3:1-18",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "grace -- Grace (imparted). Romans 6:1; 2 Peter 3:18"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. 2 Peter 2:20; John 7:7 (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "holy mount -- Where the reference is to things, the meaning of \"holy\" or \"sanctified\" is, simply, set apart for the use of God, or rendered sacred by the divine presence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "whereunto -- That is, made more sure by fulfilment in part. Fulfilled prophecy is a proof of inspiration because the Scripture predictions of future events were uttered so long before the events transpired that no merely human sagacity or foresight could have anticipated them, and these predictions are so detailed, minute, and specific, as to exclude the possibility that they were mere fortunate guesses. Hundreds of predictions concerning Israel, the land of Canaan, Babylon, Assyria, Egypt, and numerous personages--so ancient, so singular, so seemingly improbable, as well as so detailed and definite that no mortal could have anticipated them--have been fulfilled by the elements, and by men who were ignorant of them, or who utterly disbelieved them, or who struggled with frantic desperation to avoid their fulfilment. It is certain, therefore, that the Scriptures which contain them are inspired. \"Prophecy came not in olden time by the will of man; but holy men of God spake as they were moved by the Holy Ghost\" 2 Peter 1:21.\n\na more sure -- Or, the word of prophecy made more sure.\n\ndark place -- Or, squalid place. Psalms 119:105; John 1:4,9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "any private -- its own interpretation; i.e. not isolated from all that the Word has given elsewhere."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2PE",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1PE",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2PE",
+  "chapter": 2
+ }
+}

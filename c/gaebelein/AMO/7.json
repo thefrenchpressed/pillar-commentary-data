@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "gaebelein",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "III. THE FIVE VISIONS OF THE 7\n\nThree Visions and the Opposition Against Amos 1. The vision of locusts (Amos 7:1-3)\n\n2. The vision concerning the fire (Amos 7:4-6)\n\n3. The vision of the plumbline (Amos 7:7-9)\n\n4. Opposition against Amos (Amos 7:10-17)\n\nAmos 7:1-3. In the first vision Amos saw how the Lord prepared locusts (not grasshoppers as in the A.V. They started in with their destructive work, just as they did in the day of Joel. Then Amos interceded in behalf of the sinful nation, “O Lord, GOD, forgive, I beseech Thee, by whom shall Jacob rise for he is small?” He confessed and pleaded forgiveness, acknowledging their helplessness. With such a spirit the Lord is well pleased and the praying prophet received the answer from the Lord, “It shall not be, saith the LORD.”\n\nAmos 7:4-6. He beheld a furious fire sweeping everything before itself so that it even devoured the great deep, the floods of water. This represents a more severe judgment than the previous one. This judgment also was kept back by the intercession of the prophet. But when the time came for judgment by the Assyrian, symbolized by the locusts and the fire, no intercession could change it. Tiglath-Pileser and Shalamaneser finally made an end of the sinful ten tribe kingdom.\n\nAmos 7:7-9. He saw the Lord standing upon a wall with the plumbline to see if the wall was straight. The test by God’s Word and God’s holy law shows that all is crooked and must be condemned. Therefore, the announcement, “I shall pass by it no more. And the high places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will rise against the house of Jeroboam with the sword.” The false worship and the monarchy in Israel will be completely swept away by the judgment.\n\nAmos 7:10-17. This is an interesting and instructive occurrence. Amaziah, the apostate priest at Bethel, who had charge of the idol worship, accused the prophet falsely before King Jeroboam. It was a religious political accusation. Thus the enemy accused Jeremiah also Jeremiah 37:14-21; he did the same with our Lord and His apostles. At the same time Amaziah, the priest, sent an insulting message to Amos, saying, “Seer, go and flee into the land of Judah, and eat there thy bread; there thou mayest prophesy.” He tried to intimidate him, urging him to return to Tekoa in Judah where he came from.\n\nHe received a courageous answer from the herdman-prophet. “I am no prophet, nor a prophet’s son, but I was a herdman and a gatherer of sycamore fruit. The LORD took me from following the flock, He said unto me, Go and prophecy to My people Israel.”\n\nThe insinuation was that Amos prophesied for the sake of a living. Amos refutes the false charge and then announced the doom of the false priest and the doom of his family."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "AMO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "AMO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "AMO",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "gaebelein",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Israel’s Sin with the Daughters of Moab: PhinehasCHAPTER 25\n\n1. The transgression and the anger of Jehovah (Numbers 25:1-5)\n\n2. Phinehas’ action (Numbers 25:6-9)\n\n3. Phinehas and his reward (Numbers 25:10-15)\n\n4. The Midianites to be smitten (Numbers 26:16-18)\n\nThe sin of Israel was the result of Balaam’s work. He could not turn Jehovah from Israel (no enemy can), but he could turn Israel from God. While we do not read here that the fornication and idolatry into which Israel fell was Balaam’s work, elsewhere this information is given. See Numbers 31:16 and Revelation 2:14. The stumbling block, which this instrument of Satan put into the way of Israel, by which they committed fornication and idolatry, were the daughters of Moab. Pergamos in the second chapter of Revelation is prophetically that period of the church which began with Constantine the Great.\n\nThen the church left the ground of separation and was wedded to the world. Spiritual fornication was committed and idolatry followed in its train. This was Satan’s work as much as Balaam’s act was. And today we see Christendom in the sad condition of Israel at Shittim. Separation is given up completely. Judgment will be visited ere long upon apostate, adulterous Christendom as it fell upon Israel.\n\nIn the plague 24,000 died. In 1 Corinthians 10:8, we read, “Neither let us commit fornication as some of them committed, and fell in one day three and twenty thousand.” The record in Numbers speaks of a previous punishment when the heads of the transgressors were hung up before the Lord against the sun. Traditions among the Jews states that the number of those who were thus punished was a thousand, so that only 23,000 perished in the plague. In verse 9 this thousand is reckoned in, while in Corinthians they are left out.\n\nThen followed an outrageous act of defiance (verse 6). The name of the Midianitish woman was Cozbi (my lie). By the zeal of Phinehas the people were saved from further judgment and Jehovah was glorified. He was zealous for His God and made an atonement for the children of Israel. He received for reward an everlasting priesthood. It is another type of Christ in His righteousness and holy zeal for God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 26
+ }
+}

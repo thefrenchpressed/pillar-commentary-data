@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "10. The Children of God and Their SeparationCHAPTER 14\n\n1. The declaration of relationship: A holy people (Deuteronomy 14:1-2)\n\n2. Their food as a separated people (Deuteronomy 14:3-21)\n\n3. Concerning tithes (Deuteronomy 14:22-29)\n\nYe are the children of the Lord your God. Because God had chosen them to be a peculiar people unto Himself, above all the other nations, they were to be an holy people. To them belongeth still “the adoption” (Romans 9:4). God called Israel His firstborn son and that nation holds that place, in the divine purpose, among the nations. Sonship, in the New Testament, bestowed upon the individual believer, who is possessed by the Spirit of Sonship (the Holy Spirit) and who is an heir of God and joint-heir with Christ, is infinitely higher, than Israel’s national and earthly calling. Therefore our responsibility is so much greater.\n\nThe children of the Lord were not to participate in the sinful customs of the heathen, who have no hope. No disfigurement as mentioned in the first verse was permitted. The Lord whom they served is a Lord of life; they belonged wholly to Him; they were not their own. To sorrow like those who have no hope is also forbidden in the New Testament (1 Thessalonians 4:13). Then follows once more the reminder concerning the clean and the unclean. See Leviticus 11 and the annotations.\n\nThe laws concerning the food Israel was to eat and to abstain from were given in Leviticus to Moses and Aaron; in Deuteronomy the whole congregation hears these instructions. A number of animals are also mentioned in Deuteronomy, which we do not find in Leviticus. Thus their separation is once more emphasized. They belonged to a holy Lord and were to be an holy people. We have for our food the living Bread, which came down from heaven. And as we feed on Christ, abiding in Him, we become also like Him.\n\nIt has been well said “for a Christian to participate in the vanities and follies of a sinful world would be to use a typical phrase, like an Israelite eating that which had died by itself.” How sad the condition of the great majority of those who profess Christianity, who run after this present evil age and are conformed to it!\n\nThe tithe mentioned in verses 22-29 is peculiar to Deuteronomy and forms one of the supplementary laws. Israel and the land, they were to possess, belong to Jehovah. The tithe gave expression to the fact of the proprietorship of the Lord. And when they came before Jehovah to eat before Him in the spot where He had placed His Name, they owned in His presence all His goodness and mercies and rejoiced in the Lord. Verses 28 and 29 are more fully developed in chapter 26:12-19. Annotations are given there on the happy scene when, at the end of every third year, the Levite, the stranger, the fatherless and the widow were to eat and be satisfied.\n\nThere is a gathering place for His people in the New Testament. “Where two or three are gathered together in My Name there am I in the midst of them.” And when we remember His love at His table, we rejoice in Him and He rejoices in us. But the gathering of Israel in connection with the tithe also looks forward to the coming days when there will be a gathering for Israel and the nations. See Isaiah 2:1-4; Isaiah 11:10; Zechariah 14:16-17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 15
+ }
+}

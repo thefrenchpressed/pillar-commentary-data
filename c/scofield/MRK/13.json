@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "scofield",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "And Jesus -- Matthew 24:3 on the Olivet discourse: (See Scofield \"Matthew 24:3\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "sorrows -- birthpangs. Answering to the \"seals.\" (Rev. 6.) Revelation 6:1-17.\n\nThe death-agony of this age is the birth-agony of the next."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And -- Cf. Matthew 24:14 \"Gospel of the Kingdom:\" See note, Revelation 14:6 (See Scofield \"Revelation 14:6\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "end -- Not the end of the believer's life, but the end of the great tribulation.\n\nsaved -- In the sense of Revelation 13:8; 20:4"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "when ye -- See \"Beast.\" Daniel 7:8; Revelation 19:20\n\nthen let -- Cf. Luke 21:20-24. which is a prophecy fulfilled in the destruction of Jerusalem, A.D. 70, when the Christians escaped, and which foreshadowed the more terrible day here described. See \"Great Tribulation.\"; Psalms 2:5; Revelation 7:14. (See Scofield \"Psalms 2:5\") See Scofield \"Revelation 7:14\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "affliction -- tribulation. Cf. Matthew 24:21 See \"Tribulation.\"; Psalms 2:5; Revelation 7:14"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Son of man -- Christ (Second Advent). Luke 12:35-40; Deuteronomy 30:3; Acts 1:9-11 (See Scofield \"Matthew 8:20\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 14
+ }
+}

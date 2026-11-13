@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "gaebelein",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 12 The strife--Jephthah’s Death--The Other Judges 1. The strife and the slaying of the Ephraimites (Judges 12:1-6)\n\n2. Jephthah’s death (Judges 12:7)\n\n3. Ibzan, Elon and Abdon (Judges 12:8-15)\n\nThe strife of Ephraim and their question reminds us of what happens under the judgeship of Gideon. There the soft answer turned away wrath. How different it is here. Jephthah in self exaltation shows a far different spirit. Notice the “I” in his answer. “I was at great strife” --” I and my people” --” I called you” --” I saw” --” I put my life in my hand.” A great strife follows. The Gileadites take the fords of Jordan and those who said “Sibboleth” were slain.\n\nHorrible record! Forty-two thousand Ephraimites were murdered. And this sad extermination of brethren has its sequel in Christendom. Shibboleth means “flood,” that which divides. Sectarianism is undoubtedly in view here. How God’s people have suffered under it and still suffer!\n\nIt is true “every test that divides the people of God from one another, and not from their enemies, is another false ‘shibboleth.’“May God graciously deliver His people from all sectarian strife, which is but the work and the fruit of the flesh (Galatians 5:19-21).\n\nThree judges follow after Jephthah’s death. These correspond to their typical meaning to Tola and Jair after Abimelech’s lordship had been broken. Ibzan of Bethlehem. Ibzan means “shining” --” splendour.” Then there is Elon, which means “strength”; and Abdon, the meaning of which is “service,” the son of Hillel, “praising.” These three give us a little glimpse of “Him who will come in splendor and in strength” --that is “in power and great glory,” to set things right. Then all strife and disorder will end and happy service and praise will follow."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 13
+ }
+}

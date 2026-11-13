@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "scofield",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Aaron -- The priests did not consecrate themselves, all was done by another, in this instance Moses, acting for Jehovah. The priests simply presented their bodies in the sense of Romans 12:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Urim and Thummim -- (See Scofield \"Exodus 28:30\"). Urim, \"lights.\" Thummim, \"perfection.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "poured of the anointing oil -- Two important distinctions are made in the case of the high priest, thus confirming his typical relation to Christ the anti-type:\n\n(1) Aaron is anointed before the sacrifices are slain, while in the case of the priests the application of blood precedes the anointing. Christ the sinless One required no preparation for receiving the anointing oil, symbol of the Holy Spirit;\n\n(2) upon the high priest only was the anointing oil poured. \"God giveth not the Spirit by measure unto him\" John 3:34. \"Thy God hath anointed Thee with the oil of gladness above Thy fellows.\" Hebrews 1:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "reconciliation -- Heb. \"kaphar,\" to cover.\n\n(See Scofield \"Daniel 9:24\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "atonement -- (See Scofield \"Exodus 29:33\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 10
+ }
+}

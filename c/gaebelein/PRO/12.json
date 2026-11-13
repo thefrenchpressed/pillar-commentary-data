@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 12 The Contrast in Relation to Various Conditions\n\nIn these proverbs we have the righteous mentioned, his thoughts, his words, his domestic relationship, his attitude toward animal creation Proverbs 12:10); his diligence; all is contrasted with the wicked in these beautiful antithetic expressions of wisdom. The thoughts of the righteous are right Proverbs 12:5), because his heart is right; his words bring deliverance Proverbs 12:6); in speaking truth he showeth forth righteousness Proverbs 12:17); his tongue is health Proverbs 12:18); the lip which uttereth truth shall be established for ever Proverbs 12:19); he knows nothing of lying lips, but dealing truly he is the Lord’s delight Proverbs 12:22). All is summed up in one statement, with which the chapter closeth: “In the way of righteousness there is life; in the pathway thereof there is no death.” Happy are we if we know this way, which is Christ Himself, and if we follow Him.Proverbs 12:21 speaks of the blessing of the righteous, “There shall no evil happen to the just,” that is, all things must work together for good."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 13
+ }
+}

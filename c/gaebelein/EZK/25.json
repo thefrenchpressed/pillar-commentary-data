@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "25-32\n\nPredictions of Judgments Against the Nations1. Prophecies concerning Ammon, Moab, Edom, and the Philistines (Ezekiel 25:1-17)\n\n2. Concerning Tyrus (Ezekiel 26:1-21)\n\n3. The glory of Tyrus and Her Fall (Ezekiel 27:1-36)\n\n4. The prince of Tyrus (Ezekiel 28:1-26)\n\n5. Concerning Egypt (Ezekiel 29:1-21; Ezekiel 30:1-26)\n\n6. Pharaoh’s greatness and his overthrow (Ezekiel 31:1-18)\n\n7. Lamentations and the great funeral dirge (Ezekiel 32:1-32)\n\nEzekiel 25:1-17. The eight chapters as analyzed above are on prophecies concerning nations which were in touch with Israel. These predictions concern seven nations, and these are divided into four and three. The first four were the immediate neighbors of Israel. The first message concerns the Ammonites (Ezekiel 25:1-7). Both Ammon and Moab had a racial connection with Israel and were the incestuous offspring of Lot Genesis 19:37-38.\n\nThey were in constant conflict with Israel. Their evil character is revealed in this message. Moab is mentioned next (Ezekiel 25:8-11). We give several passages which may be consulted about Moab and the character of the people Jeremiah 48:29; Isaiah 16:6. There is promised for both Ammon and Moab a national restoration in the latter days, that is, when the Lord comes Jeremiah 48:47; Jeremiah 49:6. Let us remember that these nations were proud in the extreme.\n\nAnd these judgments upon proud, self-exalting, God-forgetting nations, are not confined to the past. They will be repeated in the future when He will judge the nations.\n\nEzekiel 25:12-14 concern Edom. The descendants of Esau, Edom, were closer to Israel than Ammon and Moab. Edom’s deeds were more prominently against the people of God, more wicked and defiant, than the others. Israel was especially commanded not to abhor an Edomite Deuteronomy 23:7. Amos shows the sin of Edom Amos 1:11. So does Obadiah (Obadiah 1:3-4).\n\nThe cruel Herods, the types of the man of sin, were Edomites. The judgment upon Edom is to be executed by Israel. This is to take place in a future day. (See Obadiah 1:17-21 and Amos 9:11-12.) The final paragraph is concerning the Philistines (Ezekiel 25:15-17). The Philistines dwelt on a narrow strip on the seashore and were the long continued enemies of the people Israel. Jeremiah speaks of them (chapter 47). See also Amos 1:6-9,Joe 3:4; Isaiah 14:29-32.\n\nThe vengeance of the Lord fell upon the coast of Palestina, the Philistines, and they experienced the fury of the Lord. He dealt with them who had corrupted His people. And so God will deal in due time with all His enemies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 26
+ }
+}

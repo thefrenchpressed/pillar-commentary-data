@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 33\n\nSixth Woe Against the Assyrian and What Is to Follow\n\n1. The judgment announced (Isaiah 33:1) 2. The prayer of the faithful remnant (Isaiah 33:2-6) 3. The judgment executed (Isaiah 33:7-13) 4. The judge in the midst of Zion (Isaiah 33:14-16) 5. The King beheld in His beauty (Isaiah 33:17-23) 6.\n\nHealing and forgiveness the result of the coming of the King (Isaiah 33:24) This is the last mention which is made of the Assyrian apart from the historical chapters. Here again the judgment of the final Assyrian is in view. When the Lord arises and is exalted the judgment of the last great enemy of Israel will be executed. This judgment scene is described in Isaiah 33:9-13. The prayer of the faithful remnant is recorded in Isaiah 33:2-6. The remnant is that portion of the nation which holds to Jehovah and His word in the last days.\n\nTheir prayer will be answered by the King, whom they shall see in His beauty. What Zion will be then and what the Lord will be to His earthly people is seen in the rest of the chapter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 34
+ }
+}

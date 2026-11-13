@@ -91,3 +91,34 @@ quotation marks arrive spaced (`" tender grass;"`), and on Psalms pages an
 repeated after *every* portion in the chapter — each portion's text therefore
 ends at its own first `<hr>`, and truncating the whole page there instead would
 drop real portions (Psalms 139:14-24 among them).
+
+### scofield — Scofield Reference Notes (1917)
+
+C. I. Scofield's notes from the 1917 edition of the Scofield Reference Bible
+(Oxford University Press, New York; first edition 1909). Published in the
+United States in 1917: public domain. Not the 1967 New Scofield, which is in
+copyright. Source: CrossWire's SWORD module `Scofield` 2.1, whose text is the
+Wikisource transcription. 948 chapters, all 66 books.
+
+These are **notes on particular words**, not a running commentary: a block
+belongs to the verse it is stored under. A reader that extends a block to the
+start of the next one will show the note on Romans 8:23 for Romans 8:28. Each
+note is written `catchword -- comment`. Each book introduction is chapter 1's
+`introduction`; the module keeps them in the pre-verse slot of whichever verse
+first has a note. The digital text omits at least one note found in print
+(Genesis 1:1, "created").
+
+### gaebelein — Arno Gaebelein's Annotated Bible
+
+Arno C. Gaebelein, *The Annotated Bible*, nine volumes, New York: "Our Hope",
+1913–1922: public domain. Source: the SWORD module SermonIndex builds of its
+own pages (`SIANNBIBLE`). 1,182 chapters, all 66 books.
+
+Gaebelein comments by passage. A passage that crosses a chapter boundary (John
+2:23–3:36, Revelation 19:11–20:6) is repeated under verse 1 of the next
+chapter when its own text names that chapter — 89 such — so that chapter is
+not left empty. SermonIndex's reference linker has rewritten some of his
+outline references, occasionally wrongly, and a few headings run into the
+sentence after them; the prose is intact.
+
+Both were built by `Scripts/import_commentary_sword.py` in the app repo.

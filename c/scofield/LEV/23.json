@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "scofield",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "feasts -- The feasts of Jehovah. As given to Israel, these were simply seven great religious festivals which were to be observed every year. The first three verses of Lev. 23. do not relate to the feasts but separate the sabbath from the feasts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Passover -- The Passover, Leviticus 23:4,5. This feast is memorial and brings into view redemption, upon which all blessing rests. Typically, it stands for \"Christ our passover, sacrificed for us.\" 1 Corinthians 5:7.\n\nfirst month -- i.e. April."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "bread -- The feast of Unleavened Bread, Leviticus 23:6-8. This feast speaks of communion with Christ, the unleavened wave-loaf, in the full blessing of His redemption, and of a holy walk. The divine order here is beautiful; first redemption, then a holy walk.; 1 Corinthians 5:6-8; 2 Corinthians 7:1; Galatians 5:7-9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "first fruits -- The feast of Firstfruits, Leviticus 23:10-14. This feast is typical of resurrection--first of Christ, then of \"them that are Christ's at His coming\"; 1 Corinthians 15:23; 1 Thessalonians 4:13-18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "fifty days -- The feast of Pentecost, Leviticus 23:15-22. The anti-type is the descent of the Holy Spirit to form the church. For this reason leaven is present, because there is evil in the church; Matthew 13:33; Acts 5:1,10; Acts 15:1. Observe, it is now loaves; not a sheaf of separate growths loosely bound together, but a real union of particles making one homogenous body. The descent of the Holy Spirit at Pentecost united the separated disciples into one organism.; 1 Corinthians 10:16,17; 12:12,13,20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "wave-loaves -- The wave-loaves were offered fifty days after the wave-sheaf. This is precisely the period between the resurrection of Christ and the formation of the church at Pentecost by the baptism of the Holy Spirit Acts 2:1-4; 1 Corinthians 12:12,13. See \"Church\"; Matthew 16:18; Hebrews 12:22,23. With the wave-sheaf no leaven was offered, for there was no evil in Christ; but the wave-loaves, typifying the church, are \"baken with leaven,\" for in the church there is still evil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "trumpets -- The feast of Trumpets, Leviticus 23:23-25. This feast is a prophetical type and refers to the future regathering of long-dispersed Israel. A long interval elapses between Pentecost and Trumpets, answering to the long period occupied in the pentecostal work of the Holy Spirit in the present dispensation. Study carefully; Isaiah 18:3; 27:13 (with contexts); Isaiah 58:1-14 (entire chapter), and; Joel 2:1-3:21; in connection with the \"trumpets,\" and it will be seen that these trumpets, always symbols of testimony, are connected with the regathering and repentance of Israel after the church, or pentecostal period is ended. This feast is immediately followed by the day of atonement.\n\nseventh month -- i.e. October; also Leviticus 23:27,34,39,41."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "atonement -- The day of Atonement, Leviticus 23:26-32. The day is the same described in Lev. 16., but here the stress is laid upon the sorrow and repentance of Israel. In other words, the prophetical feature is made prominent, and that looks forward to the repentance of Israel after her regathering under the Palestinian Covenant, Deuteronomy 30:1-10 preparatory to the second advent of Messiah and the establishment of the kingdom. See the connection between the \"trumpet\" in Joel 2:1 and the mourning which follows in verses Joel 2:11-15.\n\nAlso Zechariah 12:10-13 in connection with the atonement of Zechariah 13:1. Historically the \"fountain\" of Zechariah 13:1 was opened at the crucifixion, but rejected by the Jews of that and the succeeding centuries. After the regathering of Israel the fountain will be efficaciously \"opened\" to Israel.\n\natonement -- (See Scofield \"Exodus 29:33\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "booths -- The feast of Tabernacles, Leviticus 23:34-44 is (like the Lord's Supper for the church) both memorial and prophetic --memorial as to redemption out of Egypt Leviticus 23:43 prophetic as to the kingdom-rest of Israel after her regathering and restoration, when the feast again becomes memorial, not for Israel alone, but for all nations. Zechariah 14:16-21."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 25
+ }
+}

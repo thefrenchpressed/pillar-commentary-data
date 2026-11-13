@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 6\n\nThe Prophet’s Vision and New Commission\n\n1. The time of the vision (Isaiah 6:1) 2. Jehovah of hosts (Isaiah 6:2-4) 3. The prophet’s woe (Isaiah 6:5) 4. The cleansing (Isaiah 6:6-7) 5. “Here am I. Send me.” (Isaiah 6:8) 6. The new commission (Isaiah 6:9-10) 7. The limitation of the judgment (Isaiah 6:11-13)Note the eight steps: vision, conversion, self-judgment, cleansing, self-surrender, communion, commission, intercession. This vision is the glory of Christ John 12:41. The fulfillment of the hardening judgment of the nation, the blinding of their eyes did not set in completely in Isaiah’s day. Study carefully Matthew 13:14-15;John 12:39-50;Acts 28:25-31. However, Israel’s blindness is not permanent."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 7
+ }
+}

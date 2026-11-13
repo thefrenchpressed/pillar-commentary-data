@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "gaebelein",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "7. The Priesthood of Aaron ConfirmedCHAPTER 17\n\n1. The divine command (Numbers 17:1-5)\n\n2. The rods before Jehovah (Numbers 17:6-7)\n\n3. The blossoming rod of Aaron (Numbers 17:8-13)\n\nLittle comment is needed on this chapter. The blossoming and fruit bearing rod of Aaron is another confirmation of the priesthood. Standing among the dying, “making an atonement,” he is a type of Christ in His atoning work. The blossoming rod is the beautiful figure of resurrection. The rods were absolutely dead, not a sign of life was there. And Aaron’s rod received life during that night and life was there in its abundance, buds, blossoms and almonds.\n\nChrist risen from the dead, the firstfruits of them that slept, is here blessedly foreshadowed. It was life from the dead and finds its application too in connection with the sinner who is dead in trespasses and sins, while it also foreshadows the spiritual resurrection of Israel. The murmurings of the children of Israel were taken away by the rod of Aaron preserved before the testimony or else they would have died. The blossoming rod preserved was a provision for the wilderness journey. In Hebrews we read, “Wherein was the golden pot of manna, and Aaron’s rod that budded, and the tables of the covenant” (Hebrews 9:4). The manna God’s people need constantly in the wilderness as well as the ministry of Him who ever liveth and intercedeth for us.\n\nIn 1 Kings 8:9 we read, “There was nothing in the ark save the two tables of stone.” They were then in the land. When we reach our eternal home the manna and the intercession of a merciful high priest are no longer needed.\n\nThe rebellion of Korah yielded after all something. It added two things to the tabernacle, the plates from the censers for the covering of the altar and Aaron’s blossoming rod."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 18
+ }
+}

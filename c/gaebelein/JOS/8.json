@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "gaebelein",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "8. The Overthrow of AiCHAPTER 8\n\n1. The advance commanded (Joshua 8:1-2)\n\n2. The strategy of Joshua (Joshua 8:3-13)\n\n3. Ai’s defeat (Joshua 8:14-29)\n\n4. Joshua’s obedience (Joshua 8:30-35)\n\nSin confessed, judged and put away restored communion with the Lord. If any burden remained upon the mind of Joshua, it was removed by the repeated words of comfort and cheer. “Fear not, neither be thou dismayed.” The failure is no longer mentioned, but instead, comfort and assurance is given and victory promised. He deals in the same gracious way with us, whenever we have failed and humbled ourselves before Him in self-judgment. However, their former presumption is not overlooked by Jehovah. The capture of Ai is hard work for them. They had to learn the lesson. Their pride and self reliance was dealt with by Jehovah, who ever wants His people in the place of lowliness and weakness. Instead of 3,000 men, ten times as many had to go up and engage in the warfare.\n\nThe Lord commanded Joshua to stretch out the spear toward Ai. This corresponds to the uplifted hands of Moses in the warfare against Amalek in Exodus 17. It was a token of the presence of divine power in securing the complete victory. We read nothing of Joshua’s arm with the spear becoming weak, as it was with the uplifted hands of Moses. “For Joshua drew not his hand back wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai” (verse 26). It was an act of faith, and divine power supported the out stretched arm.\n\nThen, after the victory, Joshua built an altar unto the Lord God of Israel, in Mount Ebal. He is doing this in obedience to the previously given command. See Deuteronomy 27:2-8. What an impressive scene it must have been when “he read all the words of the law, the blessings and the cursings, according to all that is written in the book of the law.”\n\n“Both mounts belong to the range of Mount Ephraim; the elevated valley of Shechem lies between them. The transaction probably took place in the following manner. Six tribes occupied each mount; the priests, standing below in the valley with the ark of the covenant in their midst, turned toward Mount Gerizim as they solemnly pronounced the words of blessing, and then, looking towards Mount Ebal, repeated the words of cursing; all the people responded to each of the words, and said: ‘Amen!’ Ebal, the Mount of cursing, is naked and bald; Gerizim, the mount of blessing, is green and fertile. The circumstance that the mount of cursing was assigned for the writing of the law, the erection of the altar, and the offering of sacrifice, is highly significant; the cause lies in the intimate relations existing between the curse, on the one hand, and the Law and Sacrifice, on the other--the former brings a curse, or gives a sharp point to it, the latter abolishes it” (J.H. Kurtz)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 9
+ }
+}

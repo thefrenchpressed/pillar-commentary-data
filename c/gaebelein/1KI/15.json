@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "gaebelein",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. Kings of IsraelCHAPTERS 15:25-16\n\n1. Nadab, King of Israel (1 Kings 15:25-32)\n\n2. Baasha, King of Israel (1 Kings 15:34; 1 Kings 16:1-7)\n\n3. Elah, King of Israel (1 Kings 16:8-14)\n\n4. Zimri, King of Israel (1 Kings 16:15-20)\n\n5. Divisions (1 Kings 16:21-22)\n\n6. Omri, King of Israel (1 Kings 16:23-28)\n\n7. Ahab (1 Kings 16:29-34)\n\nSix kings of Israel are now mentioned. Asa saw them all ascending the throne of Israel. The first mentioned is Nadab, the son of Jeroboam, who followed in his father’s footsteps. His reign was cut short by an uprising of one of the house of Issachar, Baasha. He smote Nadab at Gibbethon (Joshua 19:44; Joshua 21:23). Baasha then smote all the house of Jeroboam. Thus was the prediction of Ahijah, the prophet of Shiloh, fulfilled. “Because of the sins of Jeroboam which he sinned, and which he made Israel sin, by his provocation wherewith he provoked the LORD God of Israel to anger.” God’s predicted judgments never fail in the end. The judgments written over against our own age, this evil age, will some day be executed by the Lord as all other judgments which were threatened against Israel.\n\nThe new dynasty headed by Baasha began in the third year of Asa’s reign. Baasha reigned twenty-four years. He sinned as Jeroboam did, though he had been the executer of God’s judgment upon the descendants of the wicked king. He had not heard Jehovah’s voice speaking in the events of the past. Then came the message of the Lord to Baasha through Jehu, the son of Hanani (2 Chronicles 19:2; 2 Chronicles 20:34). He reminds him that the Lord had raised him out of the dust (his family was unknown) and He had made him prince over Israel. He followed Jeroboam and Rehoboam’s fate, and the fate of his house would now also be the fate of Baasha, who had executed the divine sentence. “I will make thy house like the house of Jeroboam, the son of Nebat.” Such is divine justice.\n\nElah his son followed. His rule lasted not quite two years. He was in Tirzah. While the army was away fighting the Philistines, Elah in the house of his steward Arza became drunk and was killed by his captain, Zimri, who at once began to reign in his place. He only reigned seven days and the only deed mentioned, besides his awful death, is the slaying of all the house of Baasha “according to the Word of the LORD, which He spake against Baasha by Jehu the prophet.” Omri was made king by all Israel and with him began another dynasty. His first act was to besiege Tirzah where Zimri was, who set the king’s palace on fire and perished in the flames.\n\nA division followed, but Omri prevailed. In all these sad records the fruits of the departure from God and from His Word are seen. They can easily be traced in the history of other nations down to our own times, the days which have brought the most awful bloodshed in the world’s blood drenched history. It is all the result of sin. And Omri was worse than all that were before him, and his son Ahab was the climax of all wickedness in the Kingdom of Israel. There was no improvement, but a steady decline till God’s hand smote them in judgment.\n\nAhab introduced Baal-worship in Israel. This was the result of his marriage to Jezebel (dunghill), the daughter of Ethbaal (with Baal), King of Zidonians. “Ahab did more to provoke the LORD God of Israel to anger than all the Kings of Israel that were before him.” The last verse of this chapter records a presumptuous action. Hiel (God liveth) built Jericho. He found out that the word of God spoken 500 years before (Joshua 6:26) was true."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 16
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 32 The Coming King and His Kingdom\n\n1. The King and His rule (Isaiah 32:1-8) 2. The careless women addressed (Isaiah 32:9-12) 3. The judgment of the land and the city (Isaiah 32:13-14) 4. The hope of the future (Isaiah 32:15-20)The connection with the previous chapter is obvious. In Isaiah 31:4-9 the coming of the Lord for the deliverance of His people and the punishment of their enemies is predicted. “So shall the Lord of Hosts come down to fight Mount Zion and the hill thereof.” And now in the beginning of chapter 32 the coming King and His righteous reign is revealed. The King is the Man Christ Jesus, “a hiding place from the wind and a cover from the tempest.”\n\nIsaiah 32:13-14 describe once more the judgment which rested upon the land and the city. But it is not permanent. “Until the Spirit be poured upon us from on high.” This great outpouring of the Spirit connected with the restoration of Israel’s land has not yet taken place. It comes in that day. Read Joe 2:1-32."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 33
+ }
+}

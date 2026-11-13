@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "scofield",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "before the feast -- For order of events during the night of the last passover, (See Scofield \"Matthew 26:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "devil -- diabolos. (See Scofield \"Revelation 20:10\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "needeth -- The underlying imagery is of an oriental returning from the public baths to his house. His feet would contract defilement and require cleansing, but not his body. So the believer is cleansed as before the law from all sin \"once for all\" Hebrews 10:1-12 but needs ever to bring his daily sins to the Father in confession, that he may abide in unbroken fellowship with the Father and with the Son 1 John 1:1-10. The blood of Christ answers forever to all the law could say as to the believer's guilt, but he needs constant cleansing from the defilement of sin,; Ephesians 5:25-27; 1 John 5:6. Typically, the order of approach to the presence of God was, first, the brazen altar of sacrifice, and then the laver of cleansing Exodus 40:6,7. See, also, the order in Exodus 30:17-21. Christ cannot have communion with a defiled saint, but He can and will cleanse him.\n\nwashed -- Lit. bathed. The Greek word signifies a complete ablution. \"Wash\" is another word."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 14
+ }
+}

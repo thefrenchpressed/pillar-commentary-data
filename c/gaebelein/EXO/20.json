@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "gaebelein",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 20 The Covenant Revealed\n\n1. The Ten Commandments (Exodus 20:1-17)\n\n2. Jehovah’s gracious provision (Exodus 20:18-26)\n\nThis law covenant is now stated. It was given three times. First orally here, when God spake all these words. Then in Exodus 31 Moses received the tables of stone, “written with the finger of God,” the same finger which later wrote on earth in the sand (John 8). The first tables were broken and Moses was commanded to hew two tables of stone upon which Jehovah again wrote the Ten Commandments (Exodus 34:1). This law was given to Israel exclusively, which is seen in the opening word.\n\nThe voice of God spoke these words so that the people heard Him speak. In what sense the law was given by the ministration of angels (Acts 7:53; Galatians 3:19, Hebrews 2:2) is not revealed here. Our Lord has divided the Ten Commandments into two sections. The first three go together and speak of duties towards God and the seven which follow of duties towards our fellowmen. And He who gave this law expounded the law and filled it full when He appeared on earth in humiliation. And after He lived that holy life on earth He went to the cross and the curse of the law rested upon Him (Galatians 3:13).\n\nThe law given in these commandments shows man’s condition. Most of the commandments are negative, “thou shalt not.” It is a prohibition of the will and natural tendency of man. Man is a sinner, and the law was given to make a full demonstration of it. Read Romans 5:12-14; Romans 5:20; Romans 7:6-13; Galatians 3:19-29. May we fully understand that this law cannot give righteousness nor life and that it is not in force as the rule for the Christian in order to receive blessing from God. We are not under that law but under grace.\n\nBut grace teaches us to live righteously, soberly and godly in this present evil age. The righteous requirements of the law are fulfilled in us, who walk according to the Spirit.\n\nThe altar is mentioned and in the sacrifice we behold Christ. “But further, God will meet the sinner at an altar without a hewn stone or a step--a place of worship which requires no human workmanship to erect, or human effort to approach. The former could only pollute, and the latter could only display human ‘nakedness.’ Admirable type of the meeting place where God meets the sinner now, even the Person and work of His Son, Jesus Christ, where all the claims of law, of justice, and of conscience are perfectly answered! Man has, in every age and in every clime, been prone, in one way or another, to ‘lift up his tool’ in the erection of his altar, or to approach thereto by steps of his own making; but the issue of all such attempts has been ‘pollution’ and ‘nakedness.’“(C.H. Mackintosh, Notes on Exodus.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 21
+ }
+}

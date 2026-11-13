@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 26 Concerning the Fool and the Sluggard\n\nEleven times we meet the word fool in this chapter. Three different words are used in the Hebrew for fool. The first is “avil” which signifies weakness. The second word “kesil” occurs nearly fifty times, means fat or dense. The third word is the Hebrew “nabal,” which is derived from the verb to fade, or to wither; it means a vulgar, bad man who has given himself over to wickedness. The natural man in his condition, his darkened mind, his sinfulness answers to much that is said about the fool in this book.\n\nAs snow in summer and rain at harvest time are quiteimpossible in Palestine, so is honor for a fool. A fool may utter a curse, as they often do, and wish something evil, but being causeless, it will not be fulfilled. The fool needs correction, the stripes for his back, he deserves no answer, and if he is answered it must be according to his folly. The foolish questions mentioned in the New Testament may well be considered here Titus 3:9. The tenth verse Proverbs 26:10 is doubtful in its translation. A better suggested rendering is the following:\n\nA master workman formeth all himself aright,\n\nBut he that hireth a fool hireth a transgressor--\n\nThat is, a master does everything right; a fool spoils everything. The eleventh verse is quoted in 2 Peter 2:22. The Apostle applies it to the outward professor of Christianity who turns back to the world after a period of profession and reformation. The true child of God is never described as a dog, nor could the other sentence in Peter’s Epistle mean a true believer. “The sow that was washed turned to her own wallowing in the mire.” A hog may be washed, yet in spite of the washing he is still a hog. So a sinner may profess salvation yet may never have been born again, and after a brief period of profession turn again to his old sins and habits.\n\nThe slothful man, the man that deceiveth his neighbor, the talebearer, the contentious man, the lying tongue and the flattering mouth, furnish other proverbs. How true it is “A flattering mouth worketh ruin.” Every godly man and woman should hate and avoid flattery."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 27
+ }
+}

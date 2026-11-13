@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 3\n\nThe Fall of Man\n\n1. The serpent and the woman (Genesis 3:1-5)\n\n2. The fall and the immediate results (Genesis 3:6-7)\n\n3. Jehovah Elohim questions Adam (Genesis 3:8-12)\n\n4. His question to the woman (Genesis 3:13)\n\n5. The curse upon the serpent (Genesis 3:14-21)\n\n6. The first prophecy (Genesis 3:15)\n\n7. The sentence upon the woman (Genesis 3:16)\n\n8. The sentence upon the man (Genesis 3:17-19)\n\n9. The faith of Adam and God’s answer (Genesis 3:20-21)\n\n10. The expulsion and the guardian cherubim (Genesis 3:22-24)\n\nAnother actor is now introduced, the adversary of God. His person and his history are not revealed here. The last book of the Bible speaks of him as “the great dragon, that old serpent, called the Devil and Satan” (Revelation 12:9). Our Lord called him “the murderer from the beginning and “the father of lies.” He used a creature of the field to deceive the woman and to ruin the restored creation by the introduction of sin, The word “serpent” is in the Hebrew “nachash,” which means “a shining one.” It is evident that this creature was not then a reptile like the serpent of today. The curse put the serpent into the dust. This creature Satan possessed and perhaps made still more beautiful so as to be of great attraction to the woman.\n\nHe transformed himself in this subtle way, “The serpent beguiled Eve through his subtlety” (2 Corinthians 11:3), “And no marvel; for Satan himself transforms himself into an angel of light” (2 Corinthians 11:14). Of this marvellous being having access to the garden of Eden we read in Ezekiel 28:13.\n\nSome brand the opening verses of Genesis 3 as myth. If it were, all else in God’s Word concerning man and his redemption would collapse. Others look upon it as an allegory, but it is a historical fact and this revelation gives the only explanation of the origin of evil and its existence.\n\nSpeaking to the woman Satan awakened doubt in God’s Word. In speaking of God he avoided the word “Jehovah,” but only spoke of God. Then he acts as the accuser of God and uttered his lie, which, as the father of lies he still continues, “ye shall not surely die.” The crime of the devil by which he fell, that is, pride, is also shown in the words “ye shall be as gods.” The woman listened to the tempter’s voice. She saw it was good and that it was pleasant; she desired, she took, she ate and gave unto her husband. It is the beginning of the lust of the flesh, the lust of the eyes and the pride of life. (Compare with the temptations of the last Adam, the Lord Jesus, in the wilderness.)\n\nTheir eyes were opened at once. They discovered their nakedness and made themselves coverings from fig leaves. When they heard the voice of Jehovah Elohim they hid themselves. Shame and fear were the immediate results of the fall. What the first parents did to hide their nakedness by sewing fig leaves together is still the natural man’s occupation. Man attempts by the labor of his hands, by his religious profession and morality to cover his nakedness.\n\nJehovah Elohim came to seek that which was lost. Adam did not seek the Lord, but the Lord sought him and Eve.\n\nThe curse was then pronounced upon the serpent and the earth was cursed on account of man and sentence pronounced upon the man and the woman, The evidences of all this are about us. The sentence “dying thou shalt die,” that is physical death, the wages of sin, was not executed at once.\n\nThe first prophecy in Genesis 3:15 announces the seed of the woman, Christ, and His triumphant work over the serpent and his work as well as the death of the seed. Out of this first prediction all prophecy is developed. Space forbids to enlarge upon this great verse.\n\nAdam believed God’s Word for he called now his wife “Eve.” The word Eve is Chavah in Hebrew, and means “life.” God answered his faith by making unto Adam and Eve clothes of skin. Jehovah Elohim must have slain an animal, perhaps a lamb, to provide the skin. The first blood must then have been shed and the Lord provided the covering for Adam and Eve. Its meaning as a type needs no further comments.\n\nThey were driven out of Eden so as to avoid the possibility of taking of the tree of life and live forever. This is used as an argument that man through the fall lost his immortal soul. It only refers to the body. If they had eaten of the tree of life they would have lived forever in the body and physical death would then not have been possible.\n\nThe cherubim are not symbols but actual beings. We find them elsewhere revealed, Psalms 18:10; Ezekiel 1:5; Ezekiel 10:1; Rev. 4-5. The flaming burning sword is symbolic of the holiness of God.\n\nWith the third chapter of Genesis the waiting of the heavens and of the earth began: Heaven waiting to send Him forth to deal with the question of sin and the earth waiting for redemption and deliverance. What marvellous chapters these first three chapters of the Bible are! The entire Word of God rests upon them and is linked with them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 4
+ }
+}

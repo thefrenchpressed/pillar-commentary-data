@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 80,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Looking to Heaven for Help Through the Man at His Right Hand\n\n1. Calling to the Shepherd (Psalms 80:1-4)\n\n2. The ruin of His inheritance (Psalms 80:5-16)\n\n3. The Man of the right hand (Psalms 80:17-19)\n\nThis Psalm continues the same theme. They call now definitely to the Shepherd, He who is enthroned in glory between the Cherubim. They ask Him to “shine forth,” to manifest Himself in glory and power for their salvation, to answer their cries for help. Three times they plead, “Turn us again, O God, and cause Thy face to shine, and we shall be saved.” Ancient Jewish comments on this verse say that the face which shines upon Israel is the Messiah. Even so when His face shines, when He is manifested in glory His earthly people will be saved. And they know Him.\n\nThey speak of Him as “the Man of Thy right hand,” as “the Son of Man whom Thou madest strong for Thyself.” It is our Lord who sits at the right hand of God, waiting till His enemies are made the footstool of His feet (Psalms 110:1-7). Criticism refuses to accept this. They say, “Of course Israel is meant” (Century Bible on the Psalms, p. 88)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 80
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 79
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 81
+ }
+}

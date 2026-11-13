@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 24 The Temple Repaired, Apostasy and its Results\n\n1. Joash’s reign (2 Chronicles 24:1-3)\n\n2. The failure of the priests (2 Chronicles 24:4-7)\n\n3. The temple repaired (2 Chronicles 24:8-14)\n\n4. Death of Jehoiada (2 Chronicles 24:15-16)\n\n5. The apostasy (2 Chronicles 24:17-22)\n\n6. The Syrian invasion (2 Chronicles 24:23-24)\n\n7. The death of Joash (2 Chronicles 24:25-27)\n\nJoash was seven years old when he began his reign and reigned forty years. As long as Jehoiada the priest lived, he did what was right in the sight of the Lord. The account of the repairing of the temple needs no further comment here. (See annotations on 2 Kings 12.) Jehoiada, the faithful priest, who had so much to do with these important events during this crisis, died 130 years old. Being connected by marriage with the royal house and in appreciation of the great work he had accomplished “because he had done good in Israel, both toward God, and toward His house,” they buried him among the kings. After his death it became manifest that the revival which had taken place had its mainstay in the good priest; Joash’s convictions and faithfulness to Jehovah were but skin-deep. A reaction set in, as it has been so often in the history of the Church.\n\nHe listened to the evil counsel of the princes of Judah, and then they left the house of the LORD God and became idolators. The result was wrath from God upon Judah and Jerusalem for this trespass. Such is man in his corrupt nature! But the gracious Lord did not give them up. His righteousness demanded judgment, yet in infinite mercy he sent prophets to bring them back. These unnamed prophets testified against them, but they would not give ear.\n\nThey hardened their hearts against the Lord and His prophets.\n\nA worse deed followed. Jehoiada had a son by name of Zechariah; he was the cousin of the king. Upon him came the Spirit of God and he announced the fact that because they had forsaken the LORD, He had also forsaken them (2 Chronicles 15:2). Like Stephen, the first martyr of the church, Zechariah had touched the sore spot; when they heard these things, they were cut to the heart. Then they stoned Zechariah as their offspring later stoned Stephen. It was worse than base ingratitude from the side of Joash that he gave the commandment to murder the son of Jehoiada. The king remembered not the kindness which Jehoiada his father “had done him, but slew his son.”\n\nBut there is a difference between the last words of this martyr-prophet and the last words of the first martyr of the Church. Stephen prayed: “Lord lay not this sin to their charge” (Acts 7:60). Zechariah said: “The LORD look upon it and require it.” Typically he represents the tribulation martyrs of the Jewish remnant, who will give the testimony concerning righteousness and the coming King at the end of the present age, and whose blood will cry for vengeance to heaven (Revelation 6:9-11). There can be no doubt our Lord meant this Zechariah when He uttered the words in Matthew 23:35. It is true He speaks of him as the son of Barachias (blessed of Jehovah); but this is not a difficulty. Barachias was another name Jehoiada bore and well suited to his character.\n\nOur Lord informs us of the place where he was slain, “between the temple and the altar.” Joash, completely forsaken by the LORD, was defeated by the Syrians. Great diseases came upon him and he was murdered by his own servants. Like Jehoram he was not buried in the sepulchres of the kings."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 25
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "3. Simeon, Reuben, Gad, and ManassehCHAPTERS 4:24-5:26\n\n1. The sons of Simeon (1 Chronicles 4:24-43)\n\n2. The sons of Reuben (1 Chronicles 5:1-10)\n\n3. The children of Gad and half Manasseh (1 Chronicles 5:11-26)\n\nThe account of the Simeonites is interesting. Some of their families had increased so much that they had no pasture for their flocks. Some went then to Gedor and found fat pasture and quietness. Others went to Mount Seir, and five hundred of them smote the Amalekites.\n\nReuben was the firstborn, and the Chronicles state briefly why Reuben was not mentioned first in these genealogies. His birthright was given to the sons of Joseph. Judah, however, had the preeminence, “of him came the prince.” This refers to David and to Him who came from him after the flesh, Messiah the Prince. The Syriac version makes this paraphrase, “of Judah is the King, the Messiah.” In verse 6 Tiglath-pileser is mentioned. (Not Tiglath-pilneser; it is an erroneous spelling.) He carried away Beerah, the Prince of the Reubenites.\n\nThe Hagarites, mentioned in verse 10, were no doubt the descendants of Hagar through Ishmael. They were nomads, who wandered over the desert lands of the trans-Jordan territory. The tribe of Gad occupied the lands north of Reuben and eastward from the Jordan to the desert. The genealogies of the chiefs mentioned here were compiled during the reign of Jotham of Judah and Jeroboam of Israel (verse 17). Another war with the Hagarites is recorded in verses 18-22. (Some take that this is the same war mentioned in verse 10.) Here prayer is mentioned again. “They cried to God in the battle, and He was entreated of them; because they put their trust in Him.” The Lord delights to record those who trust in Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 6
+ }
+}

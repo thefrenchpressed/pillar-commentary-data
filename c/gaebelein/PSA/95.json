@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 95,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In Anticipation of His Coming\n\n1. Singing unto Him? (Psalms 95:1-5)\n\n2. Let us worship and bow down (Psalms 95:6-11)\n\nIt is a call to Israel in anticipation of the soon appearing of the expected Saviour-King. The next Psalm will show that He has come. How are they, His people, to welcome Him? With singing, with confession (this is the literal translation of thanksgiving in Psalms 95:2), with worship and prostration. And there is the warning now not to harden their hearts, not be like their fathers who could not enter into His rest. His people must welcome Him as a willing, as an obedient people and such will be the humble remnant, having passed through the gracious discipline of the tribulation days. The end verses are quoted in Hebrews 3:1-19; Hebrews 4:1-16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 95
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 94
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 96
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "scofield",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "seventh month -- i.e. October; also, Nehemiah 8:2,14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "seventh month -- i.e. October; Nehemiah 8:2,14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "for since the days of Jeshua -- It is not meant that there had not been some formal observance of the feast of tabernacles (cf) 2 Chronicles 8:13; Ezekiel 3:4, but that the people had not dwelt in booths since Joshua's days."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 9
+ }
+}

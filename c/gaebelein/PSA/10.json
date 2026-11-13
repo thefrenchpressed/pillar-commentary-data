@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "1. The cry of Jehovah and what causeth it (Psalms 10:1-2)\n\n2. That wicked one (Psalms 10:3-11)\n\n3. Prayer for divine Intervention: Faith’s Vision (Psalms 10:12-18)\n\nPsalms 10:1-2. Here is a renewed cry to Jehovah and why? Because the wicked in his pride persecutes the poor. The wicked is that coming man of sin.\n\nPsalms 10:3-11. That persecutor of the saints of God is now prophetically revealed in his arrogant pride, defiance of God and oppression of the poor and needy. Such will be the character of the beast out of the earth, the man of sin and son of perdition (2 Thessalonians 2:1-17). We shall get other photographs of the same person in other Psalms.\n\nPsalms 10:12-18. Significant prayers these. And they will be prayed by that future remnant. Arise--lift up Thy hand--forget not-Thou hast seen it--break Thou the arm of the wicked! And then faith seeth the answer. “The LORD is King forever and ever.” The prayer of the humble has been heard. The man of the earth no more oppresseth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 11
+ }
+}

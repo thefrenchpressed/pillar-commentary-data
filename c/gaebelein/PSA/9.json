@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Godly Remnant. The Wicked One and His Followers (9-15)1. The praise of the Most High (Psalms 9:1-2)\n\n2. Millennial deliverances and glories (Psalms 9:3-12)\n\n3. Prayer for divine intervention: Faith’s Vision (Psalms 9:12-18)\n\nPsalms 9:1-2. Psalms 9-15 continue the great prophetic story. Once more the godly remnant is before us and in this section the wicked one, the man of sin, is also revealed. The first part of this Psalm is a prophetic vision of what will be on earth, when the Son of Man has come and when all things are put under Him. His triumph is celebrated. We doubt not what is written here will be the comfort of that company of believing Jews at the end of the age as they anticipate in faith what will be when the King comes. But how much more we His heavenly people should praise Him, and declare His wondrous works in grace.\n\nPsalms 9:3-12. What it will mean when the Lord reigns is told out in these verses. His enemies will be defeated; He rebukes the nations and destroys the wicked; He judgeth the world in righteousness, and He is a refuge for His people. The Lord will dwell in Zion, Israel will sing praises and become the witness amongst the nations.\n\nPsalms 9:13-20. Up to the previous verse we saw the glorious results for Israel when the Son of Man comes. But that has not yet come. Faith realizeth it. In verse 13 we hear the voice of supplication of those who in faith look forward to the promises, but who suffer in the midst of the trials of the ending days of the age. They are hated and suffer and long to shew forth praises in Zion. Then once more the vision of faith what must happen ere long to the nations and to the wicked (15-18). The plea “Arise, O LORD,” is the prayer for His glorious manifestation.\n\nThis Psalm and the next are linked together by the letters of the Alphabet (in Hebrew). Ten letters are used in this Psalm and five in the next. Six letters are dropped out in this alphabetical composition. The irregularity may be explained as in harmony with the time of tribulation when everything on earth is broken and out of joint."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 10
+ }
+}

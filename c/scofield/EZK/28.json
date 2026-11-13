@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "scofield",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Thou -- Here (Ezekiel 28:12-15), as in Isaiah 14:12 the language goes beyond the king of Tyre to Satan, inspirer and unseen ruler of all such pomp and pride as that of Tyre. Instances of thus indirectly addressing Satan are:; Genesis 3:14,15; Matthew 16:23. The unfallen state of Satan is here described; his fall in Isaiah 14:12-14. (See Scofield \"Revelation 20:10\"). But there is more. The vision is not of Satan in his own person, but of Satan fulfilling himself in and through an earthly king who arrogates to himself divine honours, so that the prince of Tyrus foreshadows the Beast.; Daniel 7:8; Revelation 19:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 29
+ }
+}

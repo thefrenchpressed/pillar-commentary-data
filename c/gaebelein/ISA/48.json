@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 48,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 48\n\nThe Divine Restatement Concerning His People, Their Condition and Future\n\n1. Their condition and Jehovah’s predictions (Isaiah 48:1-8) 2. Jehovah acts for His Name’s sake (Isaiah 48:9-11) 3. I am He” (Isaiah 48:12-16) 4. Israel’s future blessing (Isaiah 48:17-21) 5. No peace for the wicked (Isaiah 48:22) This chapter touches once more upon the different phases of Jehovah’s messages from chapters 40-47. Israel’s apostate condition, Jehovah’s sovereign grace and mercy towards them, Cyrus (Isaiah 48:14-15), the blessings of the future for a converted remnant of His people, are all mentioned again. Solemn is the declaration that whatever Jehovah does, whatever comfort and peace He bestows, however grand and glorious the blessings of the future are, the wicked are forever excluded. There is no peace unto the wicked.\n\nThis chapter closes the first section of the second part of Isaiah. Babylon, Cyrus and Jehovah’s majesty and glory, revealed in predicting future things, the helplessness of idols and Jehovah’s mercy and power manifested in the restoration and blessing of His people are the leading features of this section."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 48
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 47
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 49
+ }
+}

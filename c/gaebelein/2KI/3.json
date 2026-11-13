@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "gaebelein",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Jehoram, Moab, and ElishaCHAPTER 3\n\n1. Jehoram, King of Israel (2 Kings 3:1-3)\n\n2. Moab’s rebellion (2 Kings 3:4-9)\n\n3. Elisha’s message and prediction (2 Kings 3:10-20)\n\n4. The defeat of Moab (2 Kings 3:21-27)\n\nIn chapter 1:17 we read, “And Jehoram reigned in his stead (Ahaziah) in the second year of Jehoram, the son of Jehoshaphat, King of Judah.” (He was associated with his father in the government of the kingdom. See 2 Kings 8:27; 2 Chronicles 21:6.) There was, therefore, a Jehoram, king over Judah, as well as a king of Israel by the same name. They are also known by the name Joram. Joram and Jehoram are used interchangeably. In 2 Kings 1:17 and 2 Chronicles 22:6 both kings are called Jehoram; in 2 Kings 9:15; 2 Kings 9:17, the King of Israel is called Joram; in 2 Kings 8:21, etc., the King of Judah is called Joram; comparing 2 Kings 8:16 and verse 29 we find these two names inverted. We mention this to clear up a possible difficulty some may find here.\n\nJehoram was another son of Ahab, the brother of Ahaziah. A partial reformation was attempted by him, but he continued in the sins of Jeroboam, the son of Nebat (1 Kings 12:25-33).\n\nThe full record of Moab’s rebellion is now given. Jehoram formed an alliance with Jehoshaphat, the King of Judah and the King of Edom. Jehoshaphat had been in league with Ahab (1 Kings 22) and now we see him in a similar alliance with Ahab’s second son. It was an alliance displeasing to the LORD and Jehoshaphat was troubled in his conscience about it. The same question he had put to Ahab, he now puts to Ahab’s son, “Is there not here a prophet of the LORD, that we may inquire of the LORD by him?” (cf. 1 Kings 22:7). Jehoshaphat knew the LORD, but was in evil company.\n\nWhen the three kings met in Elisha’s tent, the prophet manifests the boldness of Elijah in rebuking the wicked King of Israel. But he honors the King of Judah. “As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the King of Judah, I would not look toward thee, nor see thee.” But there was also a rebuke for the good King of Judah. The Spirit of God was grieved and Elisha had not the power of prophecy. He needed a minstrel first to calm his own agitated spirit and get into the condition of soul to utter the needed message. How it should have humbled the king, who served Jehovah, that after calling for a prophet of the LORD, the divine mouthpiece was unable to prophesy at once! Unholy alliances hindered the manifestation of the Spirit of God.\n\nSuch is the case almost everywhere in our days of departure from the truth of God.\n\nThen the ditches which had been made in obedience to the command given through Elisha were miraculously filled with water. On the next morning the Moabites saw the water and imagined that it was blood, on account of the reflection from the rising sun. “And they said, This is blood; the kings are surely slain, and they have smitten one another, now therefore Moab to the spoil.” The onrushing Moabites were met by the Israelites and Elisha’s prediction was fulfilled in the defeat of the Moabites and the devastation of their own land. It was the supernatural gift of water “when the meal-offering was offered” which led to the defeat of the enemy and the victory for Israel. And God has supplied the water of life through Him who is the true meal offering.\n\nKir-hareseth alone was left intact, all other cities were razed, all wells stopped up and every good tree cut down. (Kir-hareseth is repeatedly mentioned as the stronghold of Moab. See Isaiah 16:7.) On the devastation of Moab remarks a commentator, that the spirit of the times must be considered and that the half barbaric nations of that time all did this. But could the devastation of Moab hundreds of years before Christ have been any worse than the devastation of Belgium, Poland and Galicia in the twentieth century after Christ?\n\nThen in despair the King of Moab did the horrible thing of sacrificing his eldest son, the one to reign after him. He offered him upon the wall, in plain sight of Israel, as a burnt offering, to conciliate his god Chemosh, who is mentioned on the Moabite stone. (See Appendix.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 4
+ }
+}

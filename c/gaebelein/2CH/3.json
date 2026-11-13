@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 3 The Building of the Temple\n\n1. The place (2 Chronicles 3:1-2)\n\n2. The dimensions (2 Chronicles 3:3)\n\n3. The porch and holy place (2 Chronicles 3:4-7)\n\n4. The most holy (2 Chron. 3:4-18)\n\n5. The brazen pillars (2 Chronicles 3:15-17)\n\nFirst, the place is mentioned where the house of the LORD was built, “in Mount Moriah (Gen. 22), where [the LORD] appeared unto David his father, in the place that David had prepared in the threshing floor of Ornan the Jebusite.” The building began in the second day of the second month in the fourth year of Solomon’s reign. From 1 Kings 6:1 we learn that this was the 480th year from the Exodus. Counting forty years to one generation we have exactly twelve generations. This figure can be chronologically verified. The internal measurement given in verse 3 is sixty cubits long (about ninety feet), twenty cubits wide (about thirty feet), and thirty cubits high (about forty-five feet). Then there was the porch.\n\nThe height of the porch is given as 120 cubits, which is evidently the error of a copyist; it should be twenty cubits, or perhaps thirty. For the full description see annotations on 1 Kings 6. Notice again the description of the cherubim overlaid with gold. These are not the cherubim upon the ark, but they were great figures made by Solomon. Each was ten cubits high. Their great wings met over the mercy seat upon which were the cherubim, which look down upon the mercy-seat.\n\nThe Solomonic cherubim looked outwards. The word “inward” in verse 13 is a wrong translation. On the meaning of this attitude of these gigantic cherubim, see comment on 1 Kings 6:23-30. In verse 14, the veil is mentioned, of which we read nothing in 1 Kings 6. This veil was woven of the same material and in the same manner as the one in the tabernacle (Exodus 26:31).\n\nThe two pillars called Jachin (He will establish) and Boaz (In Him is strength) are the symbols of the stability of the government of this earth in the glorious reign of Christ, which is typified by the reign of Solomon and the house he built."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 4
+ }
+}

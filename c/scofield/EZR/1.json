@@ -1,0 +1,37 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "scofield",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "Ezra, the first of the post-captivity books (Ezra, Nehemiah, Esther, Haggai, Zechariah, and Malachi), records the return to Palestine under Zerubbabel, by decree of Cyrus, of a Jewish remnant who laid the temple foundations (B.C. 536). Later (B.C. 458) Ezra followed, and restored the law and ritual. But the mass of the nation, and most of the princes, remained by preference in Babylonia and Assyria, where they were prospering. The post-captivity books deal with that feeble remnant which alone had a heart for God.\n\nThe book is in two parts:\n\nFrom the decree of Cyrus to the dedication of the restored temple, 1:1-6:22.\n\nThe ministry of Ezra, 7:1-10:44.\n\nThe events recorded in Ezra cover a period of 80 years (Ussher).",
+  "content": []
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 2
+ }
+}

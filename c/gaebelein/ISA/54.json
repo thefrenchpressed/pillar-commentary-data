@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 54,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 54 Israel Called to Sing\n\n1. The blessings of restoration (Isaiah 54:1-6) 2. Mercy bestowed (Isaiah 54:7-10) 3. The earthly glory of Jerusalem (Isaiah 54:11-14) 4. Jehovah keeps and defends His people (Isaiah 54:15-17) After the cross the singing. What singing there will be in the earth when at last “they will look upon Him, whom they have pierced.” Israel will some day know the full meaning ofIsaiah 53:1-122, and when He is owned at last the glories and blessings of restoration will, through infinite grace, be bestowed upon them. Enlargement and faithfulness will be the results. The shame of Israel’s youth and long widowhood is ended. The forsaking is ended. Everlasting kindness will be their happy portion. The fear and sorrow of Israel are ended because “He hath poured out His soul unto death.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 54
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 53
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 55
+ }
+}

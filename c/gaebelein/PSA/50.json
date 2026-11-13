@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 50,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Demands of a Righteous God\n\n1. His coming and His call (Psalms 50:1-6)\n\n2. The God of Israel speaks (Psalms 50:7-13)\n\n3. The demands of righteousness (Psalms 50:16-21)\n\nPsalms 50:1-23; Psalms 51:1-19 belong together. In the first God is described coming to Israel, proclaiming His righteousness and demanding righteousness from His people and in the second Israel makes confession of sin. Psalms 50:1-23 is by Asaph. He describes the Lord shining out of Zion, coming in glory as the righteous judge to judge His people. When the Lord appears His people will be gathered in His presence, for He has a controversy with them; He declares unto them the righteousness which He as their God requires. He does not want their ritual services, sacrifices and offerings, but He requires that which is the fruit of true faith, the sacrifice of thanksgiving and practical righteousness of life. He uncovers their moral condition and warns, “Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 50
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 49
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 51
+ }
+}

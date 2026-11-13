@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Almighty God -- \"Almighty God\" (Heb. El Shaddai)\n\n(1) The etymological signification of Almighty God (El Shaddai) is both interesting and touching. God (El) signifies the \"Strong One\" (See Scofield \"Genesis 1:1\"). The qualifying word Shaddai is formed from the Hebrew word \"shad,\" the breast, invariably used in Scripture for a woman's breast; e.g. Genesis 49:25; Job 3:12; Psalms 22:9; Song 1:13; 4:5; Song 7:3,7,8; 8:1,8,10; Isaiah 28:9; Ezekiel 16:7. Shaddai therefore means primarily \"the breasted.\" God is \"Shaddai,\" because He is the Nourisher, the Strength-giver, and so, in a secondary sense, the Satisfier, who pours himself into believing lives. As a fretful, unsatisfied babe is not only strengthened and nourished from the mother's breast, but also is quieted, rested, satisfied, so El Shaddai is that name of God which sets Him forth as the Strength-giver and Satisfier of His people. It is on every account to be regretted that \"Shaddai\" was translated \"Almighty.\" The primary name El or Elohim sufficiently signifies almightiness. \"All-sufficient\" would far better express both the Hebrew meaning and the characteristic use of the name in Scripture.\n\n(2) Almighty God (El Shaddai) not only enriches, but makes fruitful. This is nowhere better illustrated than in the first occurrence of the name Genesis 17:1-8. To a man ninety-nine years of age, and \"as good as dead\" Hebrews 11:12. He said: \"I am the Almighty God El Shaddai... I will... multiply thee exceedingly.\" To the same purport is the use of the name in Genesis 28:3,4.\n\n(3) As Giver of fruitfulness, Almighty God (El Shaddai) chastens His people. For the moral connection of chastening with fruit bearing, see John 15:2; Hebrews 12:10; Ruth 1:20. Hence, Almighty is the characteristic name of God in Job, occurring thirty-one times in that book. The hand of El Shaddai falls upon Job, the best man of his time, not in judgment, but in purifying unto greater fruitfulness Job 5:17-25.\n\nSee, for other names of Deity:\n\n(See Scofield \"Genesis 1:1\") See Scofield \"Genesis 2:4\" Genesis 2:7 See Scofield \"Genesis 14:18\" See Scofield \"Genesis 15:2\" See Scofield \"Genesis 21:33\" See Scofield \"1 Samuel 1:3\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Abram -- Or, high father.\n\nAbraham -- Or, father of many nations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 18
+ }
+}

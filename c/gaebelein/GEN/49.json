@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 49,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 49 Jacob’s Prophecy\n\n1. The call of Jacob: “Gather yourselves together” (Genesis 49:1-2)\n\n2. The prophecy concerning his sons (Genesis 49:3-27)\n\nReuben (Genesis 49:3-4)\n\nSimeon and Levi (Genesis 49:5-7)\n\nJudah (Genesis 49:8-12)\n\nZebulun (Genesis 49:13)\n\nIssachar (Genesis 49:14-15)\n\nDan (Genesis 49:16-18)\n\nGad (Genesis 49:19)\n\nAsher (Genesis 49:20)\n\nNaphtali (Genesis 49:21)\n\nJoseph and Benjamin (Genesis 49:22-27)\n\nThe last words of Jacob to his sons are often called “the blessings.” What he said is rather a prophecy. Concerning Judah he saith the most because from Judah there was to come the Shiloh, that is, the Messiah. Jacob’s prophecy covers in a remarkable way the entire history of Israel, past, present and future. We give a few brief hints, which will be helpful in a closer study of this important chapter. Seven periods of Israel’s history are given here.\n\n1. Reuben, Simeon and Levi show the character of the nation up to the time of Christ. 2. Judah points clearly to the period of this nation when our Lord was on the earth. 3. Zebulun and Issachar, where the sea and commerce, indolence and service are prominent, describes Israel scattered among the nations during this age. 4. Dan shows Israel apostate during antichrist (Dan is left out in Revelation 7). 5. Gad, Asher and Naphtali describe the godly remnant during the great tribulation. 6. Joseph speaks of the second coming of Christ; and 7. Benjamin, the son of the right hand, of the righteous rule of the King."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 49
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 48
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 50
+ }
+}

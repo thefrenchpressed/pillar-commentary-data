@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "scofield",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "bear -- i.e. be responsible for every neglect or offence relation to. CF. Exodus 28:38. (See Scofield \"Exodus 28:38\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "red heifer -- The red heifer: Type of the sacrifice of Christ as the ground of the cleansing of the believer from the defilement contracted in his pilgrim walk through this world, and illustration of the method of his cleansing. The order is:\n\n(1) the slaying of the sacrifice;\n\n(2) the sevenfold sprinkling of the blood, typical public testimony before the eyes of all of the complete and never-to-be-repeated putting away of all the believer's sin as before God. Hebrews 9:12-14; 10:10-12.\n\n(3) the reduction of the sacrifice to ashes which are preserved and become a memorial of the sacrifice;\n\n(4) the cleansing from defilement (sin has two aspects--guilt and uncleanness) by sprinkling with the ashes mingled with water. Water is a type of both the Spirit and the Word. John 7:37-39. Ephesians 5:26. The operation typified is this: the Holy Spirit used the Word to convict the believer of some evil allowed in his life to the hindering of his joy, growth, and service. Thus convicted, he remembers that the guilt of his sin has been met by the sacrifice of Christ 1 John 1:7. Instead, therefore, of despairing, the convicted believer judges and confesses the defiling thing as unworthy a saint, and is forgiven and cleansed; John 13:3-10; 1 John 1:7-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "for an unclean -- (See Scofield \"Numbers 19:2\"). See Scofield \"John 13:10\"."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NUM",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NUM",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NUM",
+  "chapter": 20
+ }
+}

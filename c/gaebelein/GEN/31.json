@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 31 Jacob’s Servitude Ended and Flight from Laban\n\n1. Laban’s behavior and God’s commandment (Genesis 31:1-10)\n\n2. The dream vision to return to the land (Genesis 31:11-16)\n\n3. Jacob’s flight (Genesis 31:17-21)\n\n4. Laban warned (Genesis 31:22-24)\n\n5. Laban’s accusation (Genesis 31:25-30)\n\n6. Jacob’s answer (Genesis 31:31-42)\n\n7. The covenant between Jacob and Laban (Genesis 31:43-55)\n\nThe twenty years had expired. Laban’s hatred and the hatred of his sons had increased. When the crisis had been reached the voice of Jehovah was heard. “Return unto the land of thy fathers and to thy kindred; and I will be with thee.” This is the first time Jehovah spoke since the vision at Bethel. Jacob then laid the matter before his wives and relates a dream in which the angel of the Lord had spoken to him. What comfort it must have been for him to hear “I have seen all that Laban doeth unto thee.” The Lord watched over Jacob and though Laban hated him Jacob prospered. So Israel in the dispersion, hated by the Gentiles, increases and prospers.\n\nRachel and Leah consented to flee and Jacob departs with his great wealth, his cattle and his goods. Soon Laban pursued and overtook Jacob. God warned the Syrian to beware how he treated Jacob. It seems that the main reason of the pursuit was the teraphim (household gods) which Rachel had stolen and which Laban wanted to recover. Idolatry was practiced in the household of Laban, though he used the name of Jehovah (Genesis 31:49). The dialogue between Jacob and Laban is intensely interesting."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 32
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "gaebelein",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Analysis and Annotations\n\nI. THE: ISRAEL’ S FAILURE AND THE RESULTS\n\n1. Israel’s Failure in mingling with the Canaanites\n\nCHAPTER 1\n\n1. The question and the answer (Judges 1:1-4)\n\n2. Adoni-Bezek (Judges 1:5-7)\n\n3. Jerusalem (Judges 1:8)\n\n4. Judah’s victory and failure (Judges 1:9-20)\n\n5. The children of Benjamin and their failure (Judges 1:21)\n\n6. The failures of others (Judges 1:22-36)\n\nThe book begins with an inquiry of the Lord. This was immediately after the death of Joshua. From chapter 2:7-10 we learn that the people served the Lord during the days of Joshua and the elders who had seen the great works of the Lord and who outlived their leader. Israel looked to the Lord for guidance. They feel their dependence upon Him. How different the history of His people would have been if they had maintained this dependence on the Lord, and acted always in subjection to Him!\n\nAnd the Lord answered the inquiry as He always delights to answer those who put their trust in Him. Judah is to go up to fight against the Canaanite, and the Lord promises victory. The first sign of weakness follows at once. Judah invites Simeon his brother to go with him to fight against the Canaanites, and he promises in return to help Simeon in conquering his lot. It showed that Judah had not full confidence in Jehovah. He put some dependence in his brother, as if he needed his help to gain the promised victory.\n\nHow often His people have dishonored the Lord by trusting in something besides Himself. Judah going forward by divine command, yet asking the help of Simeon, gained victories, yet he could not drive out the inhabitants of the valley, for they had chariots of iron (verse 19). What is iron to omnipotence! Had Judah gone forth in utter dependence on Jehovah and in His promise, “I have delivered the land into his hand,” the chariots of iron would have not stopped him.\n\nBut there were great victories, the blessed assurance that Jehovah is with His people, if they go but forward. Adoni-Bezek is punished in the same manner as he in his wickedness had done to others. Infidels have often found fault with the extermination of the Canaanites. The confession of Adoni-Bezek answers these objections. “As I have done, so God hath requited me.” Their punishment was just and well deserved.\n\nThe eighth verse is of interest. In Joshua 10:1 Jerusalem is mentioned for the first time in the Bible and that in connection with war. Here the city is smitten by the sword and burned with fire. This has been her history over and over again, and will be again in the future, till the times of the Gentiles are fulfilled.\n\nThen there is mentioned once more the most refreshing picture of Caleb, Othniel and Achsah. (See Joshua 15:16-19.) Othniel, which means “lion of God,” is the center of it. God delights in whole-heartedness and the victories of His people.\n\nThe rest of this first chapter has failure stamped upon it. Benjamin, the warrior tribe permitted the Jebusites to dwell with them and did not drive them out. There is not even a reported attempt. The command of the Lord was wholly ignored by them. They were in the worst condition (chapters 20-21). Manasseh failed.\n\nEphraim did not drive out the Canaanites that dwelt in Gezer. Zebulun, Asher and Naphtali all failed to dislodge the enemies God had commanded them to destroy entirely. And Dan instead of conquering was conquered. The Amorites forced them into the hill country. Unbelief, lack of confidence in Jehovah, was the cause of it all. These enemies here are typical of the flesh and the fleshly lusts in the believer.\n\nAnd these lusts, the carnal nature, must be put and kept in the place of death. We are enabled to do this by faith in our Lord Jesus Christ and through the power of the Holy Spirit, who is given to us of God. If we walk not in the Spirit, that is, in faith, we shall be overcome by these things; instead of conquering we will be conquered. The old nature not triumphed over will bring us into bondage as it is with so many of God’s children."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 2
+ }
+}

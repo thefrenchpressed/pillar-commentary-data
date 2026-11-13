@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Enemies of Israel and the Victory\n\n1. The prayer for deliverance (Psalms 31:1-18)\n\n2. The victory (Psalms 31:19-24)\n\nPsalms 31:1-18. Many saints have turned to this Psalm for encouragement in time of trouble and sorrow. And there is much in it which helps the trusting soul. Notice the different names of Jehovah--my rock--my house of defense--my strong rock--my fortress--my strength--God of truth. But like the previous Psalms this one also unfolds prophetically the sufferings of the remnant of Israel during the last days of this age.\n\nYet likewise we may think of Him who endured the contradiction of sinners. The words “into Thine hand I commit My spirit” were used by our Lord when He laid down His life on the cross (Luke 23:46).\n\nPsalms 31:19-24. The outcome of all the suffering and trials will be victory for the godly. His goodness will be displayed in their behalf, He will answer the voice of their supplications in the coming great deliverance. The faithful ones will be preserved. the proud rewarded for their evil deeds."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 32
+ }
+}

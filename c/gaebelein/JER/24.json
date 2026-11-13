@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 24\n\nThe Two Baskets of Figs\n\n1. The vision of the two baskets of figs (Jeremiah 24:1-3)\n\n2. The vision interpreted (Jeremiah 24:4-10)\n\nJeremiah 24:1-3. Jeconiah, with the choicest of the nation, had been carried away into captivity. A large portion remained, and were not taken away, and these attributed their escape from exile to some goodness in them. At that time the prophet had a vision. He saw set before the temple two baskets of figs. The one basket was filled with good figs, the second basket with bad figs.\n\nJeremiah 24:4-10. The good figs are symbolical of those who were carried away into captivity. They were sent away for their good. He promises them good things. They are going to return; He is going to build them; He will plant them. More than that, He will give them a heart to know that He is the Lord. “For they shall return unto Me with their whole heart.” They are never to be plucked up. This prophecy evidently goes beyond the return of the small remnant from Babylon, yet partially at least it was fulfilled. The bad figs are those who remained with Zedekiah in Jerusalem, but they also should be removed into all the kingdoms of the earth, “to be a reproach, a proverb, a taunt and a curse."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 25
+ }
+}

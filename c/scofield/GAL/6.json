@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "scofield",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "fault -- i.e. sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "communicate -- Or, share with him. 1 Corinthians 9:7-15; 1 Timothy 5:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "large -- (Greek - αὑτου̑)...mine own hand.\" The apostle was, it appears from many considerations, afflicted with ophthalmia, a common disease in the East, to the point almost of total blindness (e.g.) Galatians 4:13-15. Ordinarily, therefore, he dictated his letters. But now, having no amanuensis at hand, but urged by the spiritual danger of his dear Galatians, he writes, we cannot know with what pain and difficulty, with his own hand, in the \"large letters\" his darkened vision compelled him to use."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "constrain you to be circumcised -- \"Circumcision\" stands here for externality in religion -- form rather than spirit. Colossians 2:16-23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. Ephesians 2:2; John 7:7. (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GAL",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GAL",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 1
+ }
+}

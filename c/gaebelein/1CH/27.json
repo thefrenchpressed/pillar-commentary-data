@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "6. The Captains, Princes, and Various OfficialsCHAPTER 27\n\n1. The twelve captains (1 Chronicles 27:1-15)\n\n2. The princes of the twelve tribes (1 Chron. 27-16-22)\n\n3. The unfinished numbering (1 Chronicles 27:23-24)\n\n4. Various officers (1 Chronicles 27:25-34)\n\nWe have here the military organization of David’s kingdom. The army comprised all males over twenty years of age. The host had twelve divisions each of 24,000. It is remarkable how the number twenty-four occurs again and again. Twelve is the governmental number and twice twelve, that is, twenty-four, would indicate a perfect and complete government such as will be established when Heaven’s King of Glory is enthroned. In the list of the Princes of Israel the tribe of Dan is numbered last. There is something significant about this. Dan, as we have seen, is not mentioned in the chronological register, nor is this tribe mentioned in Rev. 7. Dan is called a serpent (Genesis 49:17); it may be that the coming false Messiah will come out of Dan. Gad and Asher are not mentioned in the list."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 28
+ }
+}

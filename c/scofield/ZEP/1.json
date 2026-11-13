@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ZEP",
+  "commentaryId": "scofield",
+  "name": "Zephaniah",
+  "commonName": "Zephaniah",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "This prophet, a contemporary of Jeremiah, exercised his ministry during the reign of Josiah. It was a time of revival (2Ki. 22), but the captivity was impending, nevertheless, and Zephaniah points out the moral state which, despite the superficial revival under Josiah (Jeremiah 2:11-13), made it inevitable.\n\nZephaniah is in four parts:\n\nThe coming invasion of Nebuchadnezzar a figure of the day of the Lord, 1:1-2:3.\n\nPredictions of judgment on certain peoples, 2:4-15.\n\nThe moral state of Israel for which the captivity was to come, 3:1-7.\n\nThe judgment of the nations followed by kingdom blessing under Messiah, 3:8-20.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Chemarims -- i.e. idolatrous priests. Cf. 2 Kings 23:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Malcham -- An idol of the Ammonites, same as Molech, or Milcom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "for the day of the Lord -- As in the other Prophets, the approaching invasion of Nebuchadnezzar is treated as an adumbration of the true day of the Lord in which all earth-judgments will culminate, to be followed by the restoration and blessing of Israel and the nations in the kingdom. See \"Day of the Lord\" Isaiah 2:10-22; Revelation 19:11-21 \"Israel\"; Genesis 12:2,3; Romans 11:26. CF. Joel 1.,2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Maktesh -- Lit. The Mortar, a depression in Jerusalem where the bazaars were."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEP",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAB",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEP",
+  "chapter": 2
+ }
+}

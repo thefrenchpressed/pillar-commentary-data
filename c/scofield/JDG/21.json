@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "scofield",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "tribe -- There is here no mourning for sin, no humbling because of national transgression, no return to Jehovah. Accordingly, no word from Jehovah comes to them. They act wholly in self-will (Judges 21:10). CF.; 21:10; Daniel 9:3-13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "repented -- (See Scofield \"Zechariah 8:14\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "RUT",
+  "chapter": 1
+ }
+}

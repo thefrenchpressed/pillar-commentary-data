@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "3. The Six Woes of the Prophet, Judgment Ruins and Restoration Glories to Come (28-35)CHAPTER 28\n\nThe First Woe and the Message of Assurance\n\n1. Ephraim addressed (Isaiah 28:1-6) 2. Jerusalem equally corrupt and guilty (Isaiah 28:7-8) 3. The prophet mocked (Isaiah 28:9-10) The prophet’s answer (Isaiah 28:11-13) 4. Their covenant with death (Isaiah 28:14-15) 5. The message of assurance (Isaiah 28:16-22) 6. How Jehovah judges (Isaiah 28:23-29) The first woe is directed against the ten tribes, Ephraim. The judgment is that which fell upon them through the invasion of Sennacherib. Yet glory is also in store for the scattered, so-called, lost tribes. A remnant will return. Isaiah 28:5 describes this glory.\n\nThe prophecy here and in the subsequent chapters was not by any means fulfilled when the Assyrian came into Israel’s land. Its greater fulfillment is in the future, when the Assyrian once more invades Israel’s land. See chapter 10. The covenant with death and agreement with hell (Isaiah 28:15) must be compared with Daniel 9:27. It is the time when the apostate Jewish nation enters into a covenant with the coming prince and worships Antichrist. This verse and the message from the Lord in Isaiah 28:16-22 are deeply interesting."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 29
+ }
+}

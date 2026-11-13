@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 31 The Results of the Revival\n\n1. The destruction of the false worship (2 Chronicles 31:1)\n\n2. The king’s appointments (2 Chronicles 31:2-21)\n\nAll was done by Hezekiah for the orderly continuance of the service in the house of the LORD. The order of the courses of the priests, after David’s arrangement, which had been abandoned during the preceding apostasy, was once more settled. What was needed for the public sacrifices of the congregation was willingly given, as well as other things, by the king and the people.\n\n“For the personal support of the ministering priests and Levites nothing more was required than the re-enactment of the ancient provision of firstfruits, tithes, and firstlings (Exodus 23:19; Numbers 18:12; Numbers 18:21, etc.; Leviticus 27:30-33). These together with ‘the tithe of dedicated things’ (Leviticus 27:30; Deuteronomy 14:28), were now offered in such quantity as not only to suffice for the wants of the priesthood, but to leave a large surplusage, to the thankful joy and surprise of Hezekiah and the princes. In answer to the king’s inquiry the high-priest Azariah explained that the large store accumulated was due to the special blessing bestowed by the Lord on a willing and obedient people (2 Chronicles 31:5-10). The collection of this store began in the third month--that of Pentecost--when the wheat harvest was completed, and it ended in the seventh month--that of Tabernacles, which marked the close of the fruit harvest and of the vintage. And these contributions, or dues, came not only from Judah, but also from ‘the children of Israel’ (verse 6); that is, from those in the northern kingdom who had joined their brethren in returning to the service and the law of their Lord.\n\n“For the storage of these provisions, Hezekiah ordered that certain chambers in the temple should be prepared, and he appointed officials, who are named in the sacred text, alike for the supervision and the administration of these stores (verses 11-19). Again and again it is noted with what ‘faithfulness’ one and the other duty were discharged by each in the special department assigned to him (verses 12, 15, 18).”\n\nSuch were the results of the revival produced by the Spirit of God. A united people, the destruction of all false worship, the restoration of Jehovah’s worship, great willingness in giving and much sacrifice, obedience to the Lord and to His Word. Such must be the results of every true revival among God’s people. Great is the record of the good King Hezekiah: “He sought his God, he did it with all his heart, he prospered.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 32
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "gaebelein",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "12. The Olivet Discourse; the King Reveals the Future of the Kingdom.\n\nChapters 24-25.\n\nCHAPTER 24\n\n1. The Destruction of the Temple Foretold. (Matthew 24:1-2.)\n\n2. The Questions of the Disciples. (Matthew 24:3.)\n\n3. The End of the Age; Events Preceding His Coming.(Matthew 24:4-14.)\n\n4. The Great Tribulation and what will Happen. (Matthew 24:15-26.)\n\n5. The Visible and Glorious Return of the King.(Matthew 24:27-31.)\n\n6. The Exhortations of the King. (Matthew 24:32-44.)\n\n7. The Parable of the Faithful and Evil Servant.(Matthew 24:45-51.)\n\nIn the two chapters, which follow, we have the great Olivet discourse of our Lord.\n\nNext to the thirteenth of Matthew, the seven parables, these two chapters are the most misunderstood. We shall have occasion to point out the erroneous interpretations which spring mostly from a false conception of the characteristics of the age in which we live.\n\nFirst of all we shall look at the twenty-fourth and twenty-fifth chapters in a general way. We mention them together for they should never be separated. The Olivet discourse, was spoken in answer to the questions the disciples had asked of the Lord Jesus. In Mark and Luke the Spirit of God has recorded parts of this discourse, but only in the first Gospel, the Gospel of Matthew, do we find a full report. This is in fullest harmony with the scope of the Gospel.\n\n“I will raise them up a prophet from among their brethren, like unto thee.” Thus God had spoken to Moses (Deuteronomy 18:18). We know from the Book of Acts that this was a prophecy to be fulfilled in the person of the Lord Jesus Christ (Acts 3:22; Acts 7:37). But the Lord is greater than Moses (Hebrews 3:5-6). In the first great discourse in this Gospel, the sermon on the mount, He expounded the law and spoke with greater authority than Moses ever could speak; “I say unto you.” He fulfilled the law. But Moses was also a prophet. Before he left his people, he uttered a great prophecy.\n\nThis is found in Deuteronomy 32:1-52. It is in the form of a song, a wonderful inspired unfolding of the history of Israel. God’s dealings with them in the past is reviewed and then follows a forecast of their future to the very end, which up to the present time has not yet been reached. This is followed by the Blessing of Moses, likewise a prophecy.\n\nAnd now He, who is greater than Moses, the prophet like unto Moses utters a great prophecy, more complete and far-reaching than that of Moses. He, Jehovah, had come in the midst of His people. As king He had offered the promised kingdom; He and the offer of the kingdom had been rejected by His own, and now before He goes to the cross to fulfil all that was written concerning His sufferings in the law and the prophets, He predicts events connected with the end of the age and His future glorious manifestation, which will usher in that new age of blessing and glory, of which His own Spirit testified in all the prophets.\n\nThe Olivet discourse is a great prophecy, the King’s last, great utterance. It was spoken, as we shall see later, in answer to the question of the disciples. He had just predicted the destruction of the magnificent temple buildings, and while He sat upon the Mount of Olives, where in the future His glorious feet shall stand in the hour of His manifestation, they asked Him: “Tell us when shall these things be? And what shall be the sign of Thy coming, and of the end of the Age?” We shall find later that here in Matthew, the Spirit of God in giving us the discourse does not give us the words which relate to the destruction of the temple, which was then standing. He omits here certain words, which, however, are given in the Gospel of Luke. All this and much else our exposition will bring out.\n\nThe discourse itself is divided into three great parts clearly marked. The answer of the Lord to the question asked begins with the fourth verse. Up to the forty-fourth verse we have the first part of His predictions. Beginning with the forty-fifth verse, He changes His mode of speaking. No longer direct predictions, but He speaks again in parables. These are three: 1.\n\nThe parable of the faithful and evil servant. 2. The parable of the five wise and five foolish virgins. 3. The parable of the man traveling into a far country and delivering unto his servants his goods. In one of these parables we find again the phrase so peculiar to the Gospel of Matthew “the kingdom of the heavens.” These parables end with the thirtieth verse. In the verses which follow the Lord no longer speaks in parables. It is true Matthew 25:31-46 is often called a parable, but it is not.\n\nIt is a revelation the King gives concerning His own glorious appearing and the judgment He will execute in that day. We have therefore a three-fold division"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MAT",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MAT",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MAT",
+  "chapter": 25
+ }
+}

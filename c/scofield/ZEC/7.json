@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "scofield",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Marg\n\nninth month, Chisleu -- i.e. December."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "they -- \"They,\" i.e. of the captivity in Babylon. The mission of these Jews of the captivity concerned a fast day instituted by the Jews in commemoration of the destruction of Jerusalem, wholly of their own will, and without warrant from the word of God. In the beginning there was doubtless sincere contrition in the observance of the day; now it had become a mere ceremonial. The Jews of the dispersion would be rid of it, but seek authority from the priests. The whole matter, like much in modern pseudo-Christianity, was extra-Biblical, formal, and futile. Jehovah takes the occasion to send a divine message to the dispersion. That message is in five parts:\n\n(1) Their fast was a mere religious form; they should rather have given heed to the \"former prophets\" (vs. 4-7; Cf. Isaiah 1:12; Matthew 15:1-10\n\n(2) they are told why their 70 years' prayer has not been answered (Zechariah 7:8-14); cf.; Psalms 66:18; Isaiah 1:14-17\n\n(3) the unchanged purpose of Jehovah, and the blessing of Israel in the kingdom Zechariah 8:1-8 cf. a like order in; Isaiah 1:24-31; 2:1-4\n\n(4) the messengers of the captivity are exhorted to hear the prophets of \"these days,\" i.e, Haggai, Zechariah, and Malachi, and to do justly; then all their fasts and feasts will become gladness and joy Zechariah 8:9-19.\n\n(5) they are assured that Jerusalem is yet to be the religious centre of the earth Zechariah 8:20-23; Isaiah 2:1-3; Zechariah 14:16-21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "fifth month -- i.e. August."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 8
+ }
+}

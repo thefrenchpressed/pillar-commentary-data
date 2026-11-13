@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. David and GoliathCHAPTER 17\n\n1. Goliath of Gath, the Philistine (1 Samuel 17:1-11)\n\n2. David’s errand and inquiry (1 Samuel 17:12-30)\n\n3. David’s offer to fight Goliath (1 Samuel 17:31-40)\n\n4. David’s victory (1 Samuel 17:41-54)\n\n5. Saul’s inquiry (1 Samuel 17:55-58)\n\nModern critics are practically unanimous in regarding the story of this chapter as unhistorical. One of the leading arguments they advance is the statement found in 2 Samuel 21:19 that the slayer of Goliath was Elhanan the son of Jair-oregim, a Bethlehemite. But if we consult still another passage we find that Elhanan slew the brother of Goliath. “And Elhanan the son of Jair smote Lahmi the brother of Goliath the Gittite” (1 Chronicles 20:5). It is therefore no discrepancy at all. A closer examination into this matter we cannot undertake here. If the account in 1 Sam. 17 were unhistorical the jealousy of Saul against David would be inexplicable.\n\nDavid, the Lord’s anointed, in his great deed, is constituted the deliverer of Israel. The deed of the young shepherd is one of the greatest recorded in the Bible. It was simple trust in the Lord of hosts, the God of the armies of Israel, which won the overthrow of the boasting Philistine. In typical application the story of David and Goliath is especially rich; we can pass on but a little of it. A prayerful and diligent search will reveal much more. Goliath, the giant, is the type of Satan, the prince of this world, who has the power of death.\n\nHe also typifies that which is connected with the enemy of God, which is under the leadership of Satan. This is suggested by the number “six.” Six is in Bible numerics the number of man in opposition to God. His height was six cubits. He had also six pieces of armour (verses 5-7). The number six is also prominent in another giant, who was slain by Jonathan, the son of Shimeah. He had six fingers on each hand and six toes on each foot (2 Samuel 21:20).\n\nNebuchadnezzar’s image of gold also has the number six connected with it (Daniel 3:1). In Revelation we find the number of the beast, that coming man of sin, and his number Isaiah 666; it represents the utmost defiance of God, the fullest manifestation of sin. The bold and defiant language Goliath used, the terror he inspired among the people of God, find easy application to Satan and his power.\n\nAnd David is the type of our Lord Jesus Christ. His father sent David on a mission to his brethren. It reminds us of Joseph who was sent to seek for his lost brethren. Both are types of Him whom the Father sent into the world. He came to the camp in lowliness and then was misunderstood and wrongly accused by his own brethren. And thus our Lord was treated by His own.\n\nWe must not overlook the prominence given to the reward which he is to receive who slays Goliath. “The King will enrich him with great riches, and will give him his daughter, and make his father’s house free in Israel.” Well may we see here a type of the reward of Him who became poor for our sake. And David took the stones from the brook, out of the water, the type of death. Then after he struck the giant with the stone, he took Goliath’s sword and slew him and cut off his head. Even so our Lord Jesus Christ by death destroyed him that had the power of death, that is, the devil (Hebrews 2:14). And now Israel and Judah, the types of the true people of God, can arise and shout for joy and gain a complete victory over the conquered foe (verse 52). And this took place at Ephesdammim (the boundary of blood) and the valley of Elah (the mighty one).\n\nIt speaks of the blood and the power, death and resurrection. What evidences we have in these historical events and their typical application of the inspiration of the Bible! And David had said to Goliath that the victory Jehovah would give him should bring about “that all the earth may know there is a God in Israel.” All the earth will yet see and know His salvation.\n\nThe alleged difficulty of verses 55-58 we have already explained at the close of the previous chapter.\n\nNote objections made by critics to verse 54. They say it is “curious anachronism, since David’s future capital was still in the hands of the Jebusites.” However, Jerusalem, west of Moriah, had been taken by Judah. The Jebusites only held Jebus, or Zion, south of Moriah. See Judges 1:7-8. Higher criticism abounds in misstatements of the Scriptures."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 18
+ }
+}

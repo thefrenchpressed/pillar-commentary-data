@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "scofield",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "incense -- Altar of incense, type of Christ our intercessor John 17:1-26; Hebrews 7:25 through whom our own prayers and praises ascend to God; Hebrews 13:15; Revelation 8:3,4 and of the believer-priest's sacrifice of praise and worship Hebrews 13:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "shittim -- i.e. acacia."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "strange -- (Cf.) Leviticus 10:1-3, two prohibitions are given concerning worship:\n\n(1) No \"strange\" incense is to be offered. This speaks of simulated or purely formal worship.\n\n(2) No \"strange\" fire was permitted. This refers to the excitation of \"religious\" feelings by merely sensuous means, and to the substitution for devotion to Christ of any other devotion, as to religious causes, or sects. (Cf) 1 Corinthians 1:11-13; Colossians 2:8,16-19. (See Scofield \"Exodus 30:38\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "atonement -- (See Scofield \"Exodus 29:33\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "This they shall give -- Cf. Exodus 38:25-27. Silver thus becomes a type of redemption. (See Scofield \"Exodus 26:19\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "laver -- Laver, type of Christ cleansing us from defilement, and from \"every spot or wrinkle or any such thing\" John 13:2-10; Ephesians 5:25-27. It is significant that the priests could not enter the holy place after serving at the brazen altar till hands and feet were cleansed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "oil -- Anointing oil, type of the Holy Spirit for service Acts 1:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "frankincense -- Frankincense is not to be confounded with incense (to which it was to be added), as it is often used apart from incense. We are told what composed the incense--never in Scripture what the frankincense was. All speaks of Christ--the sweet spices of those perfections which we may apprehend, the frankincense of that which God saw in Jesus ineffable."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "smell -- What is condemned here is making worship a mere pleasure to the natural man, whether sensuous, as in beautiful music to please the ear, or eloquence, merely to give delight to the natural mind. (Cf) John 4:23,24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 31
+ }
+}

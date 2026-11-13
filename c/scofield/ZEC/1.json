@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "scofield",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "Zechariah, like Haggai, was a prophet to the remnant which returned after the 70 years. There is much of symbol in Zechariah, but these difficult passages are readily interpreted in the light of the whole body of related prophecy. The great Messianic passages are, upon comparison with the other prophecies of the kingdom, perfectly clear. Both advents of Christ are in Zechariah's prophecy Zechariah 9:9; Matthew 21:1-11 Zechariah 14:3,4. More than Haggai or Malachi, Zechariah gives the mind of God about the Gentile world-powers surrounding the restored remnant. He has given them their authority Daniel 2:27-40 and will hold them to account; the test, as always, being their treatment of Israel. (See Scofield \"Genesis 15:18\") note 3, clause 6; Zechariah 2:8. Zechariah, therefore, falls into three broad divisions:\n\nSymbolic visions in the light of the Messianic hope, 1:1-6:15.\n\nThe mission from Babylon, 7:, 8.\n\nMessiah in rejection and afterwards in power, 9-14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "eighth month -- i.e. November."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Sebat -- Eleventh month i.e. February."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "I saw -- The \"man\" (Zechariah 1:8) is the \"my lord,\" \"the angel that talked with me\" (Zechariah 1:9), and \"the angel of the Lord\" (Zechariah 1:10,11). The \"man\" \"stood among the myrtle trees\" (Zechariah 1:8). The prophet addresses him as \"my lord\" (cf) Genesis 19:2 but when the \"man\" answers he perceives that he has addressed an angel--\"the angel that talked with me\" (Zechariah 1:9). In Zechariah 1:10 the being of the vision is again \"the man that stood among the myrtle trees.\" In Zechariah 1:11 he is called \"the angel of the Lord,\" and to him the (riders on the) \"red horses, speckled with white\" say: \"We have walked to and fro,\" etc. Then (Zechariah 1:12) \"the angel of the Lord\" (i.e. the \"man,\" \"my lord,\" \"the angel that talked with me\") intercedes for the land against a world at ease. The date of the intercession was at the end of the 70 years' captivity of Judah. Zechariah 1:9-12.\n\nTaken as a whole Zechariah 1:8-17 Zechariah's first vision reveals Judah in dispersion; Jerusalem under adverse possession; and the Gentile nations at rest about it. This condition still continues, and Jehovah's answer to the intercession of the angel sweeps on to the end-time of Gentile domination, when \"the Lord shall yet comfort Zion,\" etc. (Zechariah 1:16,17).\n\nIsaiah 40:1-5. See \"Kingdom (O.T.)\" (See Scofield \"Genesis 1:26\") See Scofield \"Zechariah 12:8\".\n\nred horse -- Cf. Revelation 6:4. The whole Gentile period is characterized by the red horse, i.e. \"sword.\"; Daniel 9:26; Matthew 24:6,7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "horn -- A \"horn\" is the symbol of a Gentile king Daniel 7:24; Revelation 17:12 and the vision is of the four world empires; Daniel 2:36-44; 7:3-7 which have \"scattered Judah, Israel, and Jerusalem\" (v.19)"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "And the Lord -- The word charash, trans. \"carpenter,\" is lit. carver, engraver. Zechariah 1:21 makes it plain that, whatever the four carvers may be, they are used to \"fray,\" or carve away (Heb. charad) in the sense of diminishing, enfeebling, the great Gentile world-powers. They may stand for Jehovah's \"four sore judgments,\" the sword, famine, evil beasts, and pestilence Ezekiel 14:21 the four horses of Rev. 6."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAG",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 2
+ }
+}

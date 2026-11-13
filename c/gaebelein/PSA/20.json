@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Christ and His Salvation as Contemplated by His People\n\n1. What God has done for Christ (Psalms 20:1-4)\n\n2. The salvation His people enjoy (Psalms 20:5-9)\n\nPsalms 20:1-4. “My Redeemer” was the last word of the previous Psalm. Christ the Redeemer of His people is revealed in this Psalm. His death and sacrificial work, revealed in Psalms 22:1-31, are here anticipated. He who humbled Himself has been heard by Jehovah, He has set Him upon high (marginal reading), He has sent Him help, He has accepted His great offering, the whole burnt offering which typifies the death of the cross. All the desires of His heart are given to Him and all His counsels will be fulfilled. The believing remnant is contemplating the Redeemer and His salvation. Because He has been heard, because His offering is accepted, because He is set on high, they possess salvation.\n\nPsalms 20:5-9. This salvation is now celebrated in inspired song. It is anticipatory of that coming salvation. They will rejoice in His salvation, His heavenly people, now rejoice in it. Banners, the symbol of victory won, will be set up. The intercessions of His Anointed (Christ) will be answered, all enemies are bowed down and fallen. “But we are risen and stand upright” refers to the day of Israel’s national and spiritual resurrection. In anticipation of the trouble of the last days we read the prayer of this godly remnant. “Save LORD! Let the King hear us when we call.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 21
+ }
+}

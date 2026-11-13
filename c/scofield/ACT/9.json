@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "scofield",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "of this way -- that were of The Way, i.e. Christ. John 14:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "me? -- The Lord identifies Himself with His people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "voice -- Cf Acts 22:9; 26:14.\n\nA contradiction has been imagined. The three statements should be taken together. The men heard the \"voice\" as a sound ((Greek - ἀναφωνέω), but did not hear the \"voice\" as articulating the words, \"Saul, Saul,\" etc)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "that he is the Son of God -- Cf. Acts 2:36. Peter, while maintaining the deity of Jesus--\"God hath made that same Jesus, whom ye have crucified, both Lord and Christ\"--gives especial prominence to His Messiahship. Paul, fresh from the vision of the glory, puts the emphasis on His Deity. Peter's charge was that the Jews had crucified the Son of David Acts 2:25-30 Paul's that they had crucified the Lord of glory 1 Corinthians 2:8. In the A.V. the sense is largely lost. The point was, not that the Christ was God, a truth plainly taught by Isaiah.; Isaiah 7:14; 9:6,7 but that Jesus, the crucified Nazarene, was the Christ and therefore God the Son."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "But Saul -- It seems probable that Acts 9:22-25 refer to Paul's labours in Damascus after his return from Arabia Galatians 1:17.\n\nThe \"many days\" of verse Acts 9:23 may represent the \"three years\" of Galatians 1:18, which intervened between Paul's return to Damascus and his visit to Peter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "gone to Jerusalem -- The Acts records four visits of Paul to Jerusalem after conversion:\n\n(1) Acts 9:23-30. This seems identical with the visit of Galatians 1:18,19. The \"apostles\" of verse Acts 9:27 were Peter, and James, the Lord's brother.\n\n(2) Acts 11:30. Paul may have been in Jerusalem during the events of Acts 12:1-25.\n\n(3) Acts 15:1-30; Galatians 2:2-10.\n\n(4) Acts 21:17-23:35."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Grecians -- Hellenists, i.e. Grecian Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Dorcas -- i.e. gazelle."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "widows -- Contra, Acts 6:1."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 10
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "gaebelein",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 11 The Tenth Plague Announced\n\n1. God’s Word to Moses and to the people (Exodus 11:1-3)\n\n2. The tenth plague announced to Pharaoh (Exodus 11:4-8)\n\n3. Pharaoh’s unbelief and his heart hardened (Exodus 11:9-10)\n\nIn Exodus 10:29 we hear Moses say to Pharaoh, “I will see thy face again no more.” In this chapter, however, we hear him address Pharaoh once more concerning the tenth plague judgment. The announcement made to Moses and recorded in the first verse of this chapter occurred before the inter-view of the previous chapter and Exodus 11:4-8 in chapter 11 is the continuation of Moses’ address to Pharaoh after he had spoken the words in chapter 10:29. The eleventh chapter is therefore a supplement to the tenth. The command to ask (this is the correct word; ‘borrow’ is incorrect) of the neighbors jewels of silver and gold had already been given in chapter 3:22. The death of all the firstborn in Egypt is announced to Pharaoh. A great cry shall be throughout all Egypt, but Israel should also be exempt of this last plague as the previous plagues were not shared by them. “Not a dog shall point his tongue (literal translation) against Israel,” promising perfect rest and peace in the coming night of death and sorrow.\n\nVerses 9 and 10 mark the close of Moses’ interviews and negotiations with Pharaoh, which began in Exodus 7:8. The right rendering of Exo 11:9 is “And the Lord had said unto Moses.” Moses left Pharaoh in a great anger. Judgment was now ready to fall."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 12
+ }
+}

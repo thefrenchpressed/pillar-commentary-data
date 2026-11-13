@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "gaebelein",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "8. The Trumpets of SilverCHAPTER 10:1-10\n\n1. The silver trumpets (Numbers 10:1-2)\n\n2. How they were to be used (Numbers 10:3-10)\n\nThe silver trumpets were also given for guidance. They made known the mind of the Lord in an audible way. The cloud was seen. It stands for guidance by the eye. The silver trumpets were heard. When Israel was gathered together the trumpets were blown. “When ye blow an alarm, then the camps that lie on the east side shall go forward; when ye blow an alarm the second time then the camps that lie on the south side shall take their journey.” They were used in time of war and the promise of victory and deliverance is connected with it.\n\nAnd in the days of gladness, in solemn days, in the beginning of the months, at the burnt offerings and peace offerings these trumpets were to be blown. And in the future there will be a use for the trumpet in connection with the gathering of Israel (feast of trumpets). Read Isaiah 27:12-13; Joe 2:1. Thus all was ordered for them by the Lord. The sound of the trumpets was to them the voice of God giving direction and a comforting assurance at the same time. They typify the Word of God.\n\nIt must not be overlooked that the sons of Aaron, the priests, had to blow the trumpet. They were in holy communion with the Lord and made known His will to the people. As Israel was dependent on the sound of the trumpets, so are we dependent as His people on the testimony of His Word. His will is ascertained in priestly intimacy with Himself.\n\nThis ends the first part of this interesting book. It shows how Jehovah made all preparations and provisions for the wilderness journey of His people. He had them numbered, the camp was arranged and put in order, the service of the Levites appointed. The offerings were brought, the Levites consecrated, the Passover celebrated and the guidance by the cloud and silver trumpets given. All was ready for the journey."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 11
+ }
+}

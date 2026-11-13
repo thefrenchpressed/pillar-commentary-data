@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Herod -- Also Luke 3:19; Matthew 14:1 (See Scofield \"Matthew 14:1\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Herod -- See margin ref., (See Scofield \"Matthew 14:1\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Thou art -- Lit. This is my Son, the beloved, in whom I delighted. Cf. John 1:1,2; 8:29; Matthew 17:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "son of Heli -- In Matthew, where unquestionably we have the genealogy of Joseph, we are told Matthew 1:16, that Joseph was the son of Jacob. In what sense, then, could he be called in Luke \"the son of Heli\"? He could not be by natural generation the son both of Jacob and of Heli. But in Luke it is not said that Heli begat Joseph, so that the natural explanation is that Joseph was the son-in-law of Heli, who was, like himself, a descendant of David. That he should in that case be called \"son of Heli\" (\"son\" is not in the Greek, but rightly supplied by the translators) would be in accord with Jewish usage.\n\n(CF) 1 Samuel 24:16 The conclusion is therefore inevitable that in Luke we have Mary's genealogy; and Joseph was \"son of Heli\" because espoused to Heli's daughter. The genealogy in Luke is Mary's, whose father, Heli, was descended from David."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Arphaxad -- Arphaxad. Genesis 10:22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 4
+ }
+}

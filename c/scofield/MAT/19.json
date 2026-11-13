@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "scofield",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Have ye not read -- See, Genesis 1:27; 2:23,24. The passage is significant as Jesus' confirmation of the Genesis narrative of creation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Moses -- Thus confirming the Mosaic authorship of Deut."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "kingdom -- (See Scofield \"Matthew 3:2\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "kingdom -- (See Scofield \"Matthew 3:2\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "kept from my youth -- See, Philippians 3:6,7 contra vs. Philippians 3:7-9"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "perfect -- (See Scofield \"Matthew 5:48\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "kingdom -- (See Scofield \"Matthew 3:2\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "saved -- (See Scofield \"Romans 1:16\") Cf. Matthew 13:3-9"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "regeneration -- (Greek - ἀπόλλυμι = \"re-creation,\" \"making new).\" The word occurs once again in Titus 3:5. There it refers to the new birth or a believing person; here to the re-creation of the social order, and renewal of the earth; Isaiah 11:6-9; Romans 8:19-23 when the kingdom shall come. (See \"Kingdom (O.T.),\"\n\n(See Scofield \"Zechariah 12:8\") See Scofield \"1 Corinthians 15:24\"\n\njudging -- Disclosing how the promise Isaiah 1:26 will be fulfilled when the kingdom is set up. The kingdom will be administered over Israel through the apostles, according to the ancient theocratic judgeship. Judges 2:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 20
+ }
+}

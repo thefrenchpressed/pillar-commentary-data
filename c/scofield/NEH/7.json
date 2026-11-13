@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "scofield",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "feared -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Zerubbabel -- Called Zorobabel, Matthew 1:12,13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 65,
+    "content": [
+     {
+      "text": "Tirshatta -- i.e. governor, Nehemiah 8:9.\n\nUrim -- (See Scofield \"Exodus 28:30\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 73,
+    "content": [
+     {
+      "text": "seventh month -- i.e. October; also, Nehemiah 8:2,14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 8
+ }
+}

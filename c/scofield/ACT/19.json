@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "scofield",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Have -- Not as in A.V., \"since ye believed,\" but as in R.V. and marg.: \"Did ye receive the Holy Spirit when ye believed?\" Paul was evidently impressed by the absence of spirituality and power in these so-called disciples. Their answer brought out the fact that they were Jewish proselytes, disciples of John the Baptist, looking backward to an accomplished redemption. Romans 8:9; 1 Corinthians 6:19; Ephesians 1:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "overcame -- The sons of Sceva sought to imitate a power to which they were strangers, only to their own confusion. This striking witness from another side caused fear to fall on all.\n\nprevailed -- Luke 11:21,22; 1 John 4:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "spirit -- i.e. in his own mind. Cf. (See Scofield \"Acts 20:22\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "about the way -- concerning the Way, i.e. Christ. John 14:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "world -- \"oikoumene\" = inhabited earth. (See Scofield \"Luke 2:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Diana -- Gr. Artemis. Not anciently of the Greek pantheon, but an Eastern goddess. Cf. Judges 2:13. (See Scofield \"Judges 2:13\").\n\nBut \"Diana of the Ephesians\" was rather a particular image of Artemis, reputed to have fallen from heaven; Acts 19:35."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 20
+ }
+}

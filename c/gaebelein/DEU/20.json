@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "16. Concerning Future WarsCHAPTER 20\n\n1. Words of encouragement (Deuteronomy 20:1-4)\n\n2. The fearful and faint-hearted (Deuteronomy 20:5-9)\n\n3. Concerning seiges (Deuteronomy 20:10-20)\n\nIn the appointed warfare there was no need to fear the enemies. The priest was commissioned to speak words of encouragement not to fear, nor to tremble, nor to be terrified by the horses and chariots. The divine assurance was threefold: Jehovah goeth with you, to fight for you, to save you. This presupposes their obedience. If they were obedient, they had nothing to fear. Victory was on their side. And we too need to fear nothing in our warfare with the wicked spirits (Eph. 6). The Lord is on our side and if we resist the devil he will flee from us.\n\nBut if Israel was disobedient and departed from the Lord, He fought against them and their enemies overcame them. See also Zechariah 14:3 about the time when Jehovah will overcome the nations who gather against Jerusalem at the close of the age. The faint-hearted and the fearful as well as those who might hanker after their possessions and become homesick were not to go into the battlefield. They were unfit for warfare, because they did not wholly trust in Jehovah. There was a most merciful arrangement, which consisted in an offer of peace to a besieged city. (The cities of the Canaanitish nations are not included.) Peace was the first thing proclaimed. If the offer was accepted the lives of the inhabitants were saved.\n\nIf not and the people resisted the proclamation of peace and therefore showed the wickedness of their hearts, resisting God, the city was besieged. All the males were to be smitten with the sword, but the women and little ones were saved. It was different with the wicked inhabitants of the land. Their utter destruction was demanded. The reason for this is again stated in verse 18. The fruit trees during a siege were not to be cut down, for they sustained life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 21
+ }
+}

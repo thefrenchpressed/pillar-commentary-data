@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ezekiel 17:1-24. The great eagle mentioned first is Nebuchadnezzar. (See Jeremiah 48:40; Jeremiah 49:22). He came to Lebanon and took the highest branch of the cedar, the symbol of the house of David, which was conquered by this eagle. Nebuchadnezzar made the youngest son of Josiah king over Judah and called him Zedekiah. This action is described in verse 5. The other great eagle is Hophra, the king of Egypt. To him Zedekiah turned for help. The interpretation and application of this parable is given in Ezekiel 17:11-21. The following passages should be read as helpful to the understanding of these verses: 2 Chronicles 36:13; Jeremiah 27:1-22; Jeremiah 37:5-21; Jeremiah 52:11.\n\nIsrael’s hope and Israel’s future come once more into view in Ezekiel 17:22-24. The cedar is the royal house of David. God in His sovereignty promises to take “of its young shoots a tender one and I will plant it upon a high and eminent mountain.” This tender one is the Messiah, the Son of David. It is the same promise as given in the book of Isaiah. “And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots” Isaiah 11:11. “For He shall grow up before Him as a tender plant and as a root out of a dry ground” Isaiah 53:2. The high and eminent mountain typifies Mount Zion, and the kingdom of Messiah is pictured in the closing verses of the chapter. The high tree which is brought low, the green tree which is dried up, is the symbol of Gentile world-power.\n\nThe low tree which is exalted and the dry tree which is made to flourish stands for the restoration of the kingdom to Israel when the Son of David, our Lord, comes again. Then the high tree will be cut down and the now flourishing Gentile dominion will dry up; Israel the low tree will be exalted, and the long, dry and barren nation will bring its blessed fruit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 18
+ }
+}

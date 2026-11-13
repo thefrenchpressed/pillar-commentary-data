@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "scofield",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "salvation -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "mystery -- (See Scofield \"Matthew 13:11\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PHP",
+  "chapter": 1
+ }
+}

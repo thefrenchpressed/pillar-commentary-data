@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "scofield",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "holy mountain -- Holiness, Sanctification, Summary: In the O.T. the words consecration, dedication, sanctification, and holiness are various renderings of one Hebrew word, are used of persons and of things, and have an identical meaning, i.e. set apart for God. Only when used of God himself (e.g. Leviticus 11:45), or of the holy angels (e.g. Daniel 4:13) is any inward; Leviticus 11:45; Daniel 4:13 moral quality necessarily implied. Doubtless a priest or other person set apart to the service of God, whose whole will and desire went with his setting apart, experienced progressively an inner detachment from evil; but that aspect is distinctively of the N.T., not of the O.T. Matthew 4:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "these days -- The \"remnant\" in Zechariah 8:6,11,12 refers to the remnant of Judah which returned from Babylon, and among whom Zechariah was prophesying. (See Scofield \"Romans 11:5\").\n\nremnant -- (See Scofield \"Jeremiah 15:21\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "residue -- Or, remnant."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "repented -- Repentance (O.T.), Summary: In the O.T., repentance is the English word used to translate the Heb. nacham, to be \"eased\" or \"comforted.\" It is used of both God and man. Notwithstanding the literal meaning of nacham, it is evident, from a study of all the passages, that the sacred writers use it in the sense of metanoia in the N.T.--a change of mind. Matthew 3:2 (See Scofield \"Acts 17:30\"). As in the N.T., such change of mind is often accompanied by contrition and self-judgment. When applied to God the word is used phenomenally according to O.T. custom. God seems to change His mind. The phenomena are such as, in the case of man, would indicate a change of mind."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "fourth month -- i.e. July.\n\nfifth month -- i.e. August.\n\nseventh month -- i.e. October.\n\ntenth month -- i.e. January."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "those days -- i.e. in the days when Jerusalem has been made the centre of the earth's worship. Zechariah 8:23 explains: the Jew (see \"Remnant,\"; Isaiah 1:9; Romans 11:5 will then be the missionary, and to the very \"nations\" now called \"Christian\"!\n\nFor Another Point of View: See Topic 301242"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 9
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 76,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Divine Government Established and Maintained\n\n1. The Prince of Peace reigns (Psalms 76:1-6)\n\n2. The day of wrath and what it brought (Psalms 76:7-12)\n\nWe behold the Lord now in Judah, the Lion of the tribe of Judah, His Name great in Israel! In Salem He has His tabernacle and in Zion His dwelling place. There, as the Prince of Peace, He broke the arrows, the shield, and sword and battle. The stouthearted were spoiled. Judgments were heard from heaven; the earth feared and was still, then the meek of the earth were saved. The Lord is terrible to the kings of the earth, the final confederacy of nations. How wonderful the order of these Psalms!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 76
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 75
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 77
+ }
+}

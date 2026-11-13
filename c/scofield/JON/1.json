@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JON",
+  "commentaryId": "scofield",
+  "name": "Jonah",
+  "commonName": "Jonah",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "The historical character of the man Jonah is vouched for by Jesus Christ Matthew 12:39-41 as also that his preservation in the great fish was a \"sign\" or type of the Lord's own entombment and resurrection. Both are miraculous and both are equally credible. 2 Kings 14:25 records the fulfilment of a prophecy by Jonah. The man himself was a bigoted Jew, unwilling to testify to a Gentile city, and angry that God had spared it. Typically he foreshadows the nation of Israel out of its own land; a trouble to the Gentiles, yet witnessing to them; cast out by them, but miraculously preserved; in their future deepest distress calling upon Jehovah-Saviour, and finding deliverance, and then becoming missionaries to the Gentiles. Zechariah 8:7-23.\n\nHe typifies Christ as the Sent One, raised from the dead, and carrying salvation to the Gentiles. The chapter divisions indicate the analysis of Jonah.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "SCOFIELD REFERENCE NOTES (Old Scofield 1917 Edition)\n\nBook Introduction\n\nThe Book of Jonah\n\nThe historical character of the man Jonah is vouched for by Jesus Christ Matthew 12:39-41 as also that his preservation in the great fish was a \"sign\" or type of the Lord's own entombment and resurrection. Both are miraculous and both are equally credible. 2 Kings 14:25 records the fulfilment of a prophecy by Jonah. The man himself was a bigoted Jew, unwilling to testify to a Gentile city, and angry that God had spared it. Typically he foreshadows the nation of Israel out of its own land; a trouble to the Gentiles, yet witnessing to them; cast out by them, but miraculously preserved; in their future deepest distress calling upon Jehovah-Saviour, and finding deliverance, and then becoming missionaries to the Gentiles. Zechariah 8:7-23.\n\nHe typifies Christ as the Sent One, raised from the dead, and carrying salvation to the Gentiles. The chapter divisions indicate the analysis of Jonah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Nineveh -- (See Scofield \"Nahum 1:1\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "feared -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "great fish -- No miracle of Scripture has called forth so much unbelief. The issue is not between the doubter and this ancient record, but between the doubter and the Lord Jesus Christ. Matthew 12:39,40. Science, \"falsely so called\" 1 Timothy 6:20 failing to take account of the fact that it deals only with the outward phenomena of a fallen race, and of an earth under a curse Genesis 3:17-19 is intolerant of miracles. To faith, and to true science, miracle is what might be expected of divine love, interposing God in a physically and morally disordered universe. Romans 8:19-23.\n\nprepared -- Four prepared things. Jonah 4:6,7,8"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JON",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "OBA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JON",
+  "chapter": 2
+ }
+}

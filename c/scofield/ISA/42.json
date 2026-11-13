@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "servant -- There is a twofold account of the Coming Servant:\n\n(1) he is represented as weak, despised, rejected, slain:\n\n(2) and also as a mighty conqueror, taking vengeance on the nations and restoring Israel (e.g. Isaiah 40:10; 63:1-4). The former class of passages relate to the first advent, and are fulfilled; the latter to the second advent, and are unfulfilled."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "for a light of the Gentiles -- The prophets connect the Gentiles with Christ in a threefold way\"\n\n(1) as the Light He brings salvation to the Gentiles Luke 2:32; Acts 13:47,48\n\n(2) as the \"Root of Jesse\" He is to reign over the Gentiles in His kingdom. Isaiah 11:10; Romans 15:12. He saves the Gentiles, which is the distinctive feature of this present age.; Romans 11:17-24; Ephesians 2:11,12 He reigns over the Gentiles in the kingdom-age, to follow this. See \"Kingdom (O.T.),\"; Genesis 1:26-28; Zechariah 12:8.\n\n(3) Believing Gentiles in the present age, together with believing Jews, constitute \"the church which is His body.\" (See Scofield \"Ephesians 3:6\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "former things -- i.e. Isaiah's prediction of Sennacherib's invasion and its results, Isa. 10 and 37. See also, Isaiah 41:21-23; 43:8-1244:7; 48:3,5,16. This appeal of the prophet to the fulfilment of his former predictions strongly confirms the unity of the book."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 43
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "scofield",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "righteous -- Hebrews 11:4,7; Romans 10:10 (See Scofield \"Romans 10:10\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "saving -- (See Scofield \"Romans 1:16\").\n\nworld -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "confessed -- i.e. acted upon them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "sin -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "of the reward -- Omit \"of the reward\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "righteousness -- (See Scofield \"1 John 3:7\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "faith -- The essence of faith consists in receiving what God has revealed, and may be defined as that trust in the God of the Scriptures and in Jesus Christ whom He hath sent, which receives Him as Saviour and Lord, and impels to loving obedience and good works John 1:12; James 2:14-26. The particular uses of faith give rise to its secondary definitions:\n\n(1) For salvation, faith is personal trust, apart from meritorious works, in the Lord Jesus Christ, as delivered for our offences, and raised again for our justification Romans 4:5,23-25.\n\n(2) As used in prayer, faith is the \"confidence that we have in him, that if we ask anything according to his will, he heareth us\" 1 John 5:14,15.\n\n(3) As used in reference to unseen things of which Scripture speaks, faith \"gives substance\" to them, so that we act upon the conviction of their reality. Hebrews 11:1-3.\n\n(4) As a working principle in life, the uses of faith are illustrated in Hebrews 11:1-39."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "perfect -- (See Scofield \"Matthew 5:48\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 12
+ }
+}

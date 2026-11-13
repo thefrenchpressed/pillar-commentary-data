@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "gaebelein",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Jehu’s Judgments, Baal-worship Destroyed, and His DeathCHAPTER 10\n\n1. The judgment upon the house of Ahab (2 Kings 10:1-11)\n\n2. The relations of Ahaziah slain (2 Kings 10:12-14; 2 Chronicles 22:8)\n\n3. Jehonadab spared (2 Kings 10:15-17)\n\n4. The Baal worship destroyed (2 Kings 10:18-28)\n\n5. Jehu’s record (2 Kings 10:29-31)\n\n6. Israel cut short (2 Kings 10:32-33)\n\n7. Jehu’s death (2 Kings 10:34-36)\n\nAnd now Jehu, the instrument, chosen for judgment, continued his judgment work without showing mercy. The long threatened national judgment upon Israel had begun.\n\nThe hint which Jezebel had given him concerning Zimri and the possibility of a rebellion may have influenced Jehu to put away the descendants of Ahab. There were seventy sons, which, according to Hebrew phraseology, means his grandsons and their offspring. He concocts a clever scheme by which the elders of Samaria and the guardians of the grandsons of Ahab were forced to kill the seventy. This was done probably to head off a rebellion against him. Then, according to the custom of those days, the ghastly evidence of the deed was piled in two heaps at the entering in of the gate. Then he addressed the people, showing that while he had slain his master, they were also guilty in slaying these seventy persons, and finally he added the justification of the deeds. “‘Know now that there shall fall unto the earth nothing of the Word of the LORD, which the LORD spake concerning the house of Ahab, for the LORD hath done that which He spake by His servant Elijah.’ So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.”\n\nThen forty-two princes and the sons of the brethren of Ahaziah (2 Chronicles 22:8) were slain. They were on the way to Jezreel, which showed their guilty affiliation with the wickedness of Jezebel. They were taken alive and then were slain at the pit of the shearing house, probably a cistern called Beth Eged.\n\nNext he met Jehonadab, the son of Rechab. The Rechabites belonged to the Kenites (1 Chronicles 2:55). They are first mentioned in Genesis 15:19. A part of this tribe had followed Israel (Numbers 10:29-32) and settled in the south of Judah (Judges 1:16), where they became attached to the Amalekites (1 Samuel 15:6). Jethro, Moses’ father-in-law, was a Kenite (Judges 1:16) and so was Jael, who slew Sisera (Judges 4:17). See the record of Jehonadab and his work for the tribe in Jeremiah 35:1-16.\n\nJehu recognized him as a friend and took him into his chariot. He may have been acquainted with Elijah; and the great work he did, as made known by Jeremiah, in separating them unto the Lord may have been brought about by the threatened judgment by Elijah and its execution through Jehu, of which Jehonadab knew and part of which he witnessed.\n\nThen in great subtility Jehu destroyed the worshippers of Baal who appeared at his summons in their festive vestments. Thus Jehu destroyed Baal out of Israel. But the summary of Jehu’s reign gives a mournful picture. Like Jeroboam, the son of Nebat, Jehu did not depart from the golden calves at Beth-el and at Dan. Nor did he take heed to walk in the law of the LORD God of Israel with all his heart. He is a sad illustration of a man who may be used of God and yet is disobedient in his own life; executing God’s plans, yet knowing nothing of real communion. But the LORD did not forget even this imperfect service (verse 30)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 11
+ }
+}

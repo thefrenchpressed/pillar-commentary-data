@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LAM",
+  "commentaryId": "gaebelein",
+  "name": "Lamentations",
+  "commonName": "Lamentations",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 3 The Prophet’s Suffering and Distress\n\nThis chapter is intensely personal. None but Jeremiah could have written these wonderful expressions of sorrow, the sorrows of the people of God into which he entered so fully, in such a way that they become his own. He shared all their afflictions, bore them himself and then was hated by them. It was the Spirit of Christ who created these feelings in the heart of the prophet. In reading these words of deep distress and the words of faith and waiting for Him, we must look beyond Jeremiah and see a picture of our Lord, “the Man of sorrows and acquainted with grief,” His sorrow and His afflictions, the emotions of His holy soul, as well as the experiences and soul exercise of the believing remnant of Israel in days to come.\n\nThe prophet speaks of himself as one who is smitten by the rod of God’s wrath, the man that hath seen affliction. He had not deserved that wrath; the wrath and affliction have come upon a sinful people, but he identifies himself with them. What must have been the suffering and the affliction of our Lord when He, at the close of His blessed life, suffered and died the death of the cross! The rod of righteousness fell on Him. More than Jeremiah did, He tasted that wrath, when He who knew no sin was made sin for us. “He (God) hath bent His bow, and set me as a mark for the arrow. He hath caused the arrows of His quiver to enter into my reins.\n\nI was a derision to all my people and their song all the day” (Lamentations 3:12-14). He speaks of “the wormwood and the gall” (Lamentations 3:19); of the “smitten cheek filled with reproach” (Lamentations 3:30).\n\nThrough such suffering Jeremiah passed as well as the godly of all ages, as well as those in the future. Jeremiah’s affliction but faintly foreshadows the afflictions of the Afflicted One. But while Jeremiah suffered with Jerusalem and for Jerusalem, he was not destitute of comfort. He knew the Lord and He sustained him in his affliction. How beautifully he speaks of the mercies of the Lord, of His compassions which never fail, of the greatness of His faithfulness (Lamentations 3:22-23). Such is the comfort still of all those who know the Lord; it is the song in the night: “The LORD is my portion, saith my soul; therefore will I hope in Him.\n\nThe LORD is good unto them that wait for Him, to the soul that seeketh Him.” All His saints speak thus when they feel the chastening hand of the Lord. He has full confidence in the Lord and knows “He doth not afflict willingly,” and that “the LORD will not cast off for ever.” And again, “though He cause grief, yet will He have compassion according to the multitude of His mercies.”\n\nBeginning with Lamentations 3:40, a real return is described. There is self-examination: “Let us search and try our ways and turn again to the LORD.” This is followed by prayer: “Let us lift up our hearts with our hands unto God in the heavens.” Then comes confession: “We have transgressed and have rebelled; Thou hast not pardoned.” It describes prophetically the repentance of a Jewish remnant when this present age ends and the Lord is about to be manifested in visible glory. Jeremiah’s lament over Jerusalem’s condition and the nation’s state is once more recorded in Lamentations 3:45-47. “Thou hast made us an offscouring and refuse in the midst of the people. All our enemies have opened their mouths against us. Fear and snare is come upon us, desolation and destruction.” Such will also be the complaint of the suffering remnant. This chapter ends with an imprecatory prayer. “Render unto them a recompense, O LORD, according to the works of their hands.\n\nGive them sorrow of heart, thy curse unto them. Persecute and destroy them in anger from under the heavens of the LORD.” It is like the imprecatory prayers in the Psalms, prayers which will be prayed when the godly in Israel suffer under their enemies in the great tribulation."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LAM",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LAM",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LAM",
+  "chapter": 4
+ }
+}

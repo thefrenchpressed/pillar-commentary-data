@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "scofield",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "king -- The second Psalm gives the order of the establishment of the kingdom. It is in six parts:\n\n(1) The rage of the Gentiles, the vain imagination of \"people\" (Jews), and the antagonism of rulers against Jehovah's anointed Psalms 2:1-3. The inspired interpretation of this is in Acts 4:25-28 which asserts its fulfilment in the crucifixion of Christ.\n\n(2) The derision of Jehovah Psalms 2:4 that men should suppose it possible to set aside His covenant 2 Samuel 7:8-17 and oath Psalms 89:34-37.\n\n(3) The vexation Psalms 2:5 fulfilled, first in the destruction of Jerusalem, A.D. 70; and in the final dispersion of the Jews at that time; and to be fulfilled more completely in the tribulation Matthew 24:29 which immediately precedes the return of the King. Matthew 24:30.\n\n(4) The establishment of the rejected King upon Zion Psalms 2:6.\n\n(5) The subjection of the earth to the King's rule Psalms 2:7-9 and\n\n(6) the present appeal to the world powers. Psalms 2:10-12. See Psalm 8., next in order of the Messianic Psalms. (Note. Psalms 2. 8. 16. 22. 23. 24. 40. 41. 45. 68. 69. 72. 89. 102. 110. and 118. are considered as Messianic. It is not questioned that many other Psalms also refer to Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "trust -- Trust is the characteristic O.T. word for the N.T. \"faith,\" \"believe.\" It occurs 152 times in the O.T., and is the rendering of Heb. words signifying to take refuge (e.g. Ruth 2:12 \"to lean on\" (e.g.) Psalms 56:3 \"to roll on\" (e.g.) Psalms 22:8 \"to stay upon\" (e.g.) Job 35:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 3
+ }
+}

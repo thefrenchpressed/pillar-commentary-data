@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "scofield",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "more than ten -- Or, as some copies read, no more than eight or ten days."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Agrippa -- This (Acts 5:13) was Herod Agrippa II., son of the Herod Agrippa I. of Acts 12:1, and great-grandson of Herod the Great. (See Scofield \"Matthew 2:1\").\n\nBernice, or Berenice, was the sister of Herod Agrippa II. Acts 5:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 26
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "gaebelein",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 21 The Repentance About Benjamin\n\n1. Sorrow of the people and Jabesh-Gilead smitten (Judges 21:1-15)\n\n2. The restoration of Benjamin (Judges 21:16-25)\n\nA tribe of the nation was almost entirely exterminated. Then the oath they had made not to give their daughters to wife to the Benjamites left assured the complete extinction of the tribe. The dreadful work they had done dawned suddenly upon them and weeping before Jehovah they said, “Why is this come to pass in Israel that there should be today one tribe lacking in Israel?” The answer surely was, it came to pass on account of their departure from God and their sins. Thus people ask when they behold the scenes of bloodshed and war, as we see in our times, why is this? and are even ready to blame God, instead of thinking of sin and its curse. Then once more they acted themselves and committed another deed of violence. Jabesh-Gilead is destroyed; only four hundred virgins are saved.\n\nThese were given to the Benjamites. But what hypocrisy they showed in having a feast of Jehovah and commanding the Benjamites to steal the daughters of Shiloh! Failure and decline is written in this book. God’s faithfulness towards His people whom He loves is not less prominent.\n\n“This is Israel, the people of God: infirm and wavering where good is to be accomplished; quick and decisive where patience and forbearance would become them; tolerant of what is only of themselves; scrupulously keeping an insane oath, yet managing to evade it by a jesuitry that deceives no one. Such is the people of God, and such is Christendom today; and such it has been. Let us search our hearts as we read the record,--not given as a record without purpose in it. How solemn is the repetition at the end of what has been the text of these closing chapters: ‘In those days there was no king in Israel: every man did what was right in his own eyes’“(Numerical Bible)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JDG",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "RUT",
+  "chapter": 1
+ }
+}

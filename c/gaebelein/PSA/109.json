@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 109,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Psalms 109-113\n\nPsalms 109 Christ in Humiliation\n\n1. Despised and rejected (Psalms 109:1-5)\n\n2. The rejectors and their fate (Psalms 109:6-20)\n\n3. The Christ in His sorrow (Psalms 109:21-25)\n\nThe five Psalms which are next grouped together belong to the most interesting in the whole collection. They give a marvellous prophecy concerning Christ, His rejection, exaltation and coming glory. In Psalms 109:1-31 we see Him rejected. In Psalms 110:1-7 He is at the Right hand of God, waiting till His enemies are made His footstool, returns as the victorious King and becomes the Priest after the order of Melchisedec. The three Psalms which follow, all Hallelujah Psalms, show forth His glory and His kingdom.\n\nPsalms 109:1-31 gives us once more the story of His rejection. We hear the complaints from Himself, indited by His Spirit. He is the hated One. They fight against Him without a cause. They reward Him with evil for good, and His love, the love which sought them, they answer with hatred. Verses 6-15 have reference to Judas who betrayed Him and applies to all those who reject Him. Psalms 109:8 is quoted by Peter in Acts 1:20. Of the betrayer it is said, “He loved cursing, so let it come unto him; as he delighted not in blessing, so let it be far from him.” But this is true of all who reject Christ. All the cursing and punishment which come upon the rejectors of Christ are self-chosen. In the closing verses we hear the weeping, sorrowful voice of the Rejected One."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 109
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 108
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 110
+ }
+}

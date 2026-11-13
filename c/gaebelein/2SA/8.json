@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "gaebelein",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "5. The Extension of His KingdomCHAPTER 8\n\n1. The Philistines and Moab smitten (2 Samuel 8:1-2)\n\n2. Hadadezer overthrown (2 Samuel 8:3-8)\n\n3. Further conquests and triumphs (2 Samuel 8:9-14)\n\n4. David’s reign and his associates (2 Samuel 8:15-18)\n\nGreat conquests and victories follow. David arose from the presence of the Lord to go forth to conquer. With such a message he had heard, assuring him of the Lord’s presence and power, of the success of his kingdom, he began to extend his kingdom over the different nations which surrounded the land. The Lord was with him and preserved him withersoever he went. The history of these wars for the enlargement of the kingdom of David we shall have occasion to follow a little closer in our annotations of the first book of Chronicles. The extension of the kingdom of our Lord when He comes and begins His kingly work among the nations, to rule them with a rod of iron, is foreshadowed in these events.\n\nWhen we read in verse 15 of David’s reign executing judgment and justice we have another faint picture of the rule of the coming King. The leading officers of the kingdom are mentioned. Joab was the general over his army; Jehosaphat the recorder. Zadok and Ahimelech were the priests; Seraiah the scribe. Benaiah had charge of the Cherethites and Pelethites; these two names mean “executioners and runners, while David’s sons were also ruling with him. Order prevailed in all things. When that true kingdom will be established on earth there will also be those who rule under the King, who have charge over five or ten cities (Luke 19:17-18). David’s sons who ruled with him may represent typically believers who are sons of God in Christ and fellow heirs with Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 9
+ }
+}
