@@ -117,7 +117,7 @@ first has a note. The digital text omits at least one note found in print
 
 ### gaebelein — Arno Gaebelein's Annotated Bible
 
-*Listed in the app as "Arno Gaebelein Bible Commentary".* The catalog name is chosen for the app's title
+*Listed in the app as "Gaebelein Bible Commentary".* (It was "Arno Gaebelein Bible Commentary" for a few hours; the label that left, "Arno Gaebelein", still crowded the book's name on David's device.) The catalog name is chosen for the app's title
 bar, not as the work's title: builds before 1.12 shorten a name only by
 stripping an ending such as " Bible Commentary", and the work's own title left
 a 30-character label that pushed the book's name off the bar. Name any new
