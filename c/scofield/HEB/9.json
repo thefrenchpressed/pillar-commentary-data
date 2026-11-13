@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "scofield",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "shewbread -- (See Scofield \"Exodus 25:30\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "mercyseat -- (Greek - ἱλαστήριον, place of propitation). (See Scofield \"Romans 3:25\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "perfect -- (See Scofield \"Matthew 5:48\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "redemption -- (See Scofield \"Romans 3:24\").\n\ntransgressions -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "sin -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "die -- Death, physical, Summary:\n\n(1) Physical death is a consequence of sin Genesis 3:19 and the universality of death proves the universality of sin Romans 5:12-14.\n\n(2) Physical death affects the body only, and is neither cessation of life nor of consciousness (See Scofield \"Habakkuk 2:5\"). See Scofield \"Luke 16:23\". Revelation 6:9,10.\n\n(3) All physical death ends in the resurrection of the body. See \"Resurrection\" Job 19:25. (See Scofield \"1 Corinthians 15:52\").\n\n(4) Because physical death is a consequence of sin, it is not inevitable to the redeemed Genesis 5:24; 1 Corinthians 15:51,52; 1 Thessalonians 4:15-17.\n\n(5) Physical death has for the believer a peculiar qualification. It is called \"sleep,\" because his body may be \"awakened\" at any moment Philippians 3:20,21; 1 Thessalonians 4:14-18.\n\n(6) The soul and spirit live, independently of the death of the body, which is described as a \"tabernacle\" (tent), in which the \"I\" dwells, and which may be put off 2 Corinthians 5:1-8; 1 Corinthians 15:42-44; 2 Peter 1:13-15.\n\n(7) At the believer's death he is \"clothed upon\" with a \"house from heaven\" pending the resurrection of the \"earthly house,\" and is at once \"with the Lord.\" 2 Corinthians 5:1-8; Philippians 1:23; Luke 23:43.\n\nAs to the death of Christ, (See Scofield \"Matthew 27:50\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\").\n\nsalvation -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 10
+ }
+}

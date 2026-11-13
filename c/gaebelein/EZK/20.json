@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "20-24\n\nFurther and Final Predictions Concerning the judgment of Jerusalem\n\n1. Jehovah rehearses His mercies bestowed upon Israel (Ezekiel 20:1-49)\n\n2. The impending judgment announced (Ezekiel 21:1-32)\n\n3. Jerusalem’s sins and whoredom (Ezekiel 22:1-31; Ezekiel 23:1-49)\n\n4. The parable of the boiling pot and the last word (Ezekiel 24:1-27)\n\nEzekiel 20:1-49. The chapter contains a divine retrospect and an arraignment of the people for their national sins. The following division will greatly assist in an analytical study of this chapter. Ezekiel 20:1-9 describe the nation’s sins in Egypt. Ezekiel 20:10-17 give the history of the first generation which came out of Egypt. It is a wonderful condensed rehearsal of all they were and what the Lord had done for them. The record of the second generation is contained in Ezekiel 20:18-26. This is followed by a description of their unfaithfulness and sins in the land (Ezekiel 20:27-32). Judgment then is announced and a future restoration promised. Ezekiel 20:40-44 are yet to be fulfilled. The fire of judgment to sweep over the south field (Judah) is announced in the final paragraph (Ezekiel 20:45-49)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 21
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LAM",
+  "commentaryId": "wesley",
+  "name": "Lamentations",
+  "commonName": "Lamentations",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": "Zion bewaileth her misery: confesseth her sins, ver. 1-6. Miseries of the chief ones: women who killed and dressed their own children, ver. 7-12. The sin of the false prophets and priests, their vain hope, ver. 13-19. Their king taken prisoner, ver. 20. Edom is threatened, and Zion comforted, ver. 21, 22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The top - Are scattered in the head of every street."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Earthen pitchers - The nobles, the priests, and the good men, are looked upon no better than earthen vessels, the workmanship of an ordinary potter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Cruel - The Jewish women are become cruel to their children, or forced to appear so, having through the famine no milk to give them, nor any thing to relieve them. Ostriches - Like ostriches that lay their eggs, and leave them in the sand."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Of Sodom - Their punishment was greater, because more lingering, and gradual, whereas Sodom was overthrown in a moment, and that by no human hands that abode upon her, causing her a continued torment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Nazarites - Her Nazarites in this place signify her separated ones, who either in respect of birth, education, estate, or place of magistracy, were distinguished from the rest of the people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Not known - So that those who before knew them, do not know them now."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Priests - The ecclesiastical men were a great cause of the first and last destruction of Jerusalem. And so they are of most other places that come to ruin, through their neglect of their duty, or encouraging others in their wicked courses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "They - The prophets and priests wandered up and down the streets polluting themselves with blood, either the blood of the children which they slew, or the just men, mentioned ver.13, the slaughter of whom they either encouraged, or at least did not discourage; so that one could not touch a prophet or priest, but he must be legally polluted, and there were so many of them, that men could not walk in the streets, but he must touch some of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Touch not - The Jews that made conscience of keeping the law against touching dead bodies, cried to the other Jews to leave the city as themselves did, the city being now so full of dead bodies that they could not stay in it without polluting themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The anger - These words seem to be the language of their enemies triumphing over them. They - Their enemies had no regard to the most venerable persons among them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "A nation - The Egyptians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "They - The Chaldeans."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The anointed - Zedekiah, who though a bad man yet afforded some protection to the Jews. We said - We promised ourselves that though the land of Judah was encompassed with Pagan nations, yet through Zedekiah's valour and good conduct we should live comfortably."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Rejoice - The prophet speaks ironically, Rejoice; but thy joy shall be but for a little time. Drunken - Thou shalt be intoxicated with it, and make thyself naked as drunken men sometimes do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Captivity - Not for thy past sins. Thy sins - By the punishment of them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 5
+ }
+}

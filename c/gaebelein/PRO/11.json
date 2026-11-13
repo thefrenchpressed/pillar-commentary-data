@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 11 The Contrast Continued\n\nThe continued contrast in this chapter between the righteous and the wicked contains many precious gems, sweet to faith and wholesome for instruction. In the second verse there is a warning as to pride. Pride and shame are vitally linked together, as is lowliness and wisdom. Lowliness therefore is true wisdom. A Rabbinical comment on this passage says, “Lowly souls are filled with wisdom as the lowly places are filled with water.” Again riches are mentioned. They profit nothing in the day of wrath. (See Zephaniah 1:1-18.) But righteousness delivered from death (Proverbs 11:4).\n\nWhat wisdom there is in Proverbs 11:8, “The righteous is delivered out of trouble, but the wicked cometh in his stead.” Even so will it be when the Lord comes and gives rest and deliverance to His own and trouble and wrath to the wicked 2 Thessalonians 1:1-12). Proverbs 11:19 has been rendered:\n\nHe that is steadfast in righteousness is so unto life,\n\nAnd he that pursueth evil doeth so unto his own death.\n\nThe delight of the Lord, declares the next proverb, is in the way of the upright, who remain steadfast in righteousness.\n\nIn Proverbs 11:30 we read that the fruit of the righteous is a tree of life, not the righteous is a tree of life, but the fruit of the righteous, which means that he gives forth blessing and life to others, and that is here expressed in one sentence, “and he that winneth souls is wise.” (See Daniel 12:3.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 12
+ }
+}

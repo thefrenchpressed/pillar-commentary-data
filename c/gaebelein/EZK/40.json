@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Chapters 40-48. The final nine chapters of this book form the climax of the great prophecies of Ezekiel; they belong to the most difficult in the entire prophetic Word. Once more the hand of the Lord rests upon the seer and in the visions of God he is brought into the land of Israel. In the very beginning of this grand finale we learn therefore that the visions concern the land of Israel. Let us remember, that after the fall of Jerusalem had been announced to Ezekiel (Ezekiel 33:21), his prophetic utterances and visions concern the future when Israel is to be regathered and restored to the land. The previous two chapters dealt with the last invasion of the land of Israel and the complete overthrow of Gog and its hordes.\n\nThe vision contained in this last section follows after Israel’s final deliverance. So much is clear as to the time when the prophecies of these eight chapters will be accomplished. They have not been fulfilled in the past, certainly not in the remnant which returned under Zerubbabel and Ezra. Nor have these prophecies been fulfilled since then. All is future. Only when the Lord has gathered Judah and Israel, when He has established His glorious Kingdom in their midst and delivered His people and the land from the last invader, will this last vision of Ezekiel become history.\n\nThis disposes then at once of the different modes of interpretation employed by so many expositors of this book. These are the following:\n\n1. The theory of interpretation which looks upon the vision of these chapters as fulfilled in the return of the remnant from Babylon. One of the expositors who follows this line stated that these visions are “an ideal representation of the Jewish state about to be restored after the captivity.” It does not need much argument to show that this mode of interpretation is erroneous. The temple which the remnant built does in no way whatever correspond with the magnificent structure which Ezekiel beheld in his vision. The fact is, if this temple is a literal building (as it assuredly is) it has never yet been erected. Furthermore, it is distinctly stated that the glory of the Lord returned to the temple and made His dwelling place there, the same glory which Ezekiel had seen departing from the temple and from Jerusalem.\n\nBut the glory did not return to the second temple. No glory cloud filled that house. And furthermore no high priest is mentioned in the worship of the temple Ezekiel describes, but the Jews after their return from Babylon had high priests again. Nor can the stream of healing waters flowing from the temple as seen by Ezekiel be in any way applied to the restoration from the Babylonian captivity. Expositors who follow this mode of interpretation claim that all has been fulfilled and that there is nothing in store for Israel in the future, It is the most superficial method and totally wrong.\n\n2. Another interpretation claims that the whole vision sprang from the imagination of the prophet. That it is all an ideal description of something which the expositor himself is unable to define. This mode of interpretation needs no further mention and answer.\n\n3. The third interpretation of these chapters is the allegorical, which spiritualizes everything, and claims that the Christian Church, its earthly glory and blessing, is symbolically described by the prophet. This is the weakest of all and yet the most accepted. But this theory gives no exposition of the text, is vague and abounds in fanciful applications, while the greater part of this vision is left unexplained even in its allegorical meaning, for it evidently has no such meaning at all.\n\nThe true interpretation is the literal one which looks upon these chapters as a prophecy yet unfulfilled and to be fulfilled when Israel has been restored by the Shepherd and when His glory is once more manifested in the midst of His people. The great building seen in his prophetic vision will then come into existence and all will be accomplished.\n\nBut while we are sure of the strictly future fulfillment of this final vision, the many details which abound in these chapters can hardly be fully interpreted as to their meaning. Much is obscure. That all has a deeper meaning we do not doubt; and here and there we shall offer suggestions, but many things we shall have to pass over. Before we turn to the text and open up the contents of these chapters, a telescopic view of the whole section is in order and will be helpful in our further studies.\n\nAs it will be impossible to give a detailed explanation of this future temple we give an analysis of these chapters. Our larger work on Ezekiel will be found helpful in a better understanding of this portion of this book.\n\nI. THE OF THE TEMPLE (40-47)CHAPTER 40\n\n1. The introduction (Ezekiel 40:1-4)\n\n2. The gate toward the east (Ezekiel 40:5-16)\n\n3. The outer court (Ezekiel 40:17-27)\n\n4. The inner court (Ezekiel 40:28-37)\n\n5. The tables for the offerings and the chambers for the inner court (Ezekiel 40:38-47)\n\n6. The porch of the house (Ezekiel 40:48-49)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 41
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 67,
+  "introduction": "A prayer for Israel, ver. 1. For the conversion of the Gentiles, ver. 2-5. A prospect of glorious times, ver. 6, 7. To the chief musician on Neginoth, A psalm or song.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Thy way - The way of truth, or the true religion; the same which in the next clause is called his saving health, and both together signify the way of salvation; deal so graciously with thy people, that thereby the Gentile - world may at last be allured to join with them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Judge - Rule them. Govern - Heb. lead; gently, as a shepherd doth his sheep; and not rule them with rigour, as other lords had done."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Them - When the people of the earth shall be converted to God, God will cause it to yield them abundance of all sorts of fruits. Under which one blessing, all other blessings both temporal and spiritual are comprehended. Our own - He who is Israel's God in a peculiar manner."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 67
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 66
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 68
+ }
+}

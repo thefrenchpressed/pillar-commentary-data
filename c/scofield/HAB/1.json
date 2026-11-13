@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HAB",
+  "commentaryId": "scofield",
+  "name": "Habakkuk",
+  "commonName": "Habakkuk",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "It seems most probable that Habakkuk prophesied in the latter years of Josiah. Of the prophet himself nothing is known. To him the character of Jehovah was revealed in terms of the highest spirituality. He alone of the prophets was more concerned that the holiness of Jehovah should be vindicated than that Israel should escape chastisement. Written just upon the eve of the captivity, Habakkuk was God's testimony to Himself as against both idolatry and pantheism.\n\nThe book is in five parts:\n\nHabakkuk's perplexity in view of the sins of Israel and the silence of God, 1:1-4. Historically this was the time of Jehovah's forbearance because of Josiah's repentance (2Ki22:18-20).\n\nThe answer of Jehovah to the prophet's perplexity1:5-11.\n\nThe prophet, thus answered, utters the testimony to Jehovah, 1:12-17; but he will watch for further answers, 2:1.\n\nTo the watching prophet comes the response of the \"vision,\" 2:20.\n\nAll ends in Habakkuk's sublime Psalm of the Kingdom.\n\nAs a whole the Book of Habakkuk raise and answers the question of God's consistency with Himself in view of permitted evil. The prophet thought that the holiness of God forbade him to go on with evil Israel. The answer of Jehovah announces a Chaldean invasion (Habakkuk 1:6), and a world- wide dispersion Habakkuk 1:5). But Jehovah is not mere wrath; \"He delighteth in mercy\" (Micah 7:18), and introduces into His answers to the perplexed prophet the great promises,; Micah 1:5; 2:3,4,14,20.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "burden -- See note 1, (See Scofield \"Isaiah 13:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "for I will work -- Verse 5 anticipates the dispersion \"among the nations\" (cf) Deuteronomy 28:64-67. While Israel as a nation is thus dispersed, Jehovah will \"work a work\" which Israel \"will not believe.\" Acts 13:37-41, interprets this prediction of the redemptive work of Christ. It is significant that Paul quotes this to Jews of the dispersion in the synagogue at Antioch."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAB",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NAM",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAB",
+  "chapter": 2
+ }
+}

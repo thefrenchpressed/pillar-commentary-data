@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "scofield",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "leaven -- See note 4, (See Scofield \"Matthew 13:33\")\n\nHerod -- See margin ref., (See Scofield \"Matthew 14:1\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "And he took -- Our Lord's action here is most significant, Having abandoned Bethsaida to judgment Matthew 11:12-24. He would neither heal in that village, nor permit further testimony to be borne there Mark 8:26. The probation of Bethsaida as a community was ended, but He would still show mercy to individuals. Cf Revelation 3:20.\n\nChrist is outside the door of that church, but \"If any man hear My voice,\" etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\") Also, Matthew 16:21-28; Mark 9:31; Luke 9:22-27; Luke 24:6"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "thou savourest -- i.e. thou art thinking man's thoughts, not the thoughts of God. Contra, Matthew 16:17"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "sinful -- Sin. (See Scofield \"Romans 3:23\")\n\nangels -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 9
+ }
+}

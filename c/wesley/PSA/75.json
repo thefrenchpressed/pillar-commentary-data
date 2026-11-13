@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 75,
+  "introduction": "Probably David wrote this psalm, at his coming to the crown, after the death of Saul, and delivered it to that Asaph, who was chief of the musicians. Herein he thanks God for bringing him to the throne, checks the insolence of his enemies, owns the sovereignty of God in all affairs, and promised to lay himself out for the public good. To the chief musician, Al-taschith, A psalm or song of Asaph. Title of the psalm. Asaph - This psalm seems to relate to the time when David had entered upon, but not got full possession of the kingdom.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Thy name - Thy self; art present with us, and ready to help."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Receive - The whole congregation, all the tribes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Dissolved - Or, destroyed; by intestine divisions and wars. I hear - I support it, by maintaining religion and justice, by setting up good magistrates, and encouraging good ministers, and good men, who are indeed the pillars of a nation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "I said - I charged them. Deal not - Desist from your practices. Lift not up - Do not carry yourselves scornfully and maliciously."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Lift not - A metaphor from untamed oxen, which will not bow their heads to receive the yoke. Stiff neck - With pride and contempt."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "For - God is here compared to the master of a feast, who then used to distribute portions of meat and drink to the several guests. A cup - Of vengeance. Red - Such as the best wine of Judea was. Mixture - The wine is mingled not with water, but with strengthening and intoxicating ingredients. Dregs - The worst and most dreadful part of those tribulations. Shall wring - This dreadful draught was brought upon them by their own choice and wickedness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Declare - The praises of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Horns - Their honour and power, which they made an instrument of mischief. Will - When I shall be advanced to the throne. But - Good men shall be encouraged and promoted."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 75
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 74
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 76
+ }
+}

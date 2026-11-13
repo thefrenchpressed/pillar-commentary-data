@@ -1,0 +1,146 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "wesley",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Now concerning the next question you proposed. All of us have knowledge - A gentle reproof of their self - conceit. Knowledge without love always puffeth up. Love alone edifies - Builds us up in holiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "If any man think he knoweth any thing - Aright, unless so far he is taught by God. He knoweth nothing yet as he ought to know - Seeing there is no true knowledge without divine love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "He is known - That is, approved, by him. Psalm 1:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "We know that an idol is nothing - A mere nominal god, having no divinity, virtue, or power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "For though there be that are called gods - By the heathens both celestial, (as they style them,) terrestrial, and infernal deities."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Yet to us - Christians. There is but one God - This is exclusive, not of the One Lord, as if he were an inferior deity; but only of the idols to which the One God is opposed. From whom are all things - By creation, providence, and grace. And we for him - The end of all we are, have, and do. And one Lord - Equally the object of divine worship. By whom are all things - Created, sustained, and governed. And we by him - Have access to the Father, and all spiritual blessings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Some eat, with consciousness of the idol - That is, fancying it is something, and that it makes the meat unlawful to be eaten. And their conscience, being weak - Not rightly informed. Is defiled - contracts guilt by doing it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "But meat commendeth us not to God - Neither by eating, nor by refraining from it. Eating and not eating are in themselves things merely indifferent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "For if any one see thee who hast knowledge - Whom he believes to have more knowledge than himself, and who really hast this knowledge, that an idol is nothing - sitting down to an entertainment in an idol temple. The heathens frequently made entertainments in their temples, on what hath been sacrificed to their idols. Will not the conscience of him that is weak - Scrupulous. Be encouraged - By thy example. To eat - Though with a doubting conscience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "And through thy knowledge shall the weak brother perish, for whom Christ died? - And for whom thou wilt not lose a meal's meat, so far from dying for him! We see, Christ died even for them that perish."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Ye sin against Christ - Whose members they are."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "If meat - Of any kind. Who will follow this example? What preacher or private Christian will abstain from any thing lawful in itself, when it offends a weak brother?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CO",
+  "chapter": 9
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 57,
+  "introduction": "David here begins with prayer and complaint, tho' not as without hope, ver. 1-6. He concludes with joy and praise, ver. 7- 11. To the chief musician Al-taschith, Michtam of David, when he fled from Saul in the cave. Title of the psalm. Al-taschith - The word signifies, destroy not. Which some think to be a preface, containing the sum of the psalm. The cave - Either\n\n1. That of Adullam, 1 Sam. xxii, 1, or\n\n2. That of Engedi, 1 Sam. xxiv, 1.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Send forth - Will discover them, by affording his gracious help in pursuance of his promises."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Lions - Fierce and bloody men. I lie - I have my abode. On fire - From hell. Who are mere fire - brands, breathing out wrath and threatenings, and incensing Saul against me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Excited - Glorify thy power, and goodness, and justice, and faithfulness, by my deliverance. Above, &c. - To the highest degree possible."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Fixed - In a stedfast belief of thy promises."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "My glory - My tongue, the instrument of singing. Awake - I will employ all the powers of my soul and body."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The people - Among the Israelites, and among the Heathens, as I shall have occasion."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 57
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 56
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 58
+ }
+}

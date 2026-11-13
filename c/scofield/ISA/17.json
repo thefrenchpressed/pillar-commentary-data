@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "burden of Damascus -- As in the burden of Moab, there was doubtless a near fulfilment in Sennacherib's approaching invasion, but Is 17:12-14 as evidently look forward to the final invasion and battle. (\"Armageddon,\" Revelation 16:14 (See Scofield \"Revelation 19:17\")) Cf. Isaiah 10:26-34."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 18
+ }
+}

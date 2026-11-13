@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 64,
+  "introduction": "David describes his enemies and prays for deliverance from them, ver. 1-6. Foretells their destruction, ver. 7-10. To the chief musician, A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Iniquities - They study diligently, to find new ways of doing mischief. Deep - Cunning, both to contrive and conceal, and to execute their plots."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Flee - Through fear of being involved in their destruction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Glad - For the honour of God, which by this means is vindicated."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 64
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 63
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 65
+ }
+}

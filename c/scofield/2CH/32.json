@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "scofield",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Also he -- Cf. Isaiah 22:1-13 The divine view at this time:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "high places -- (See Scofield \"1 Kings 3:2\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2CH",
+  "chapter": 34
+ }
+}

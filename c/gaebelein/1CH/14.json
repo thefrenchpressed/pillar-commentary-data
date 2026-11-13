@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. David’s Increase and BlessingCHAPTER 14\n\n1. Hiram (1 Chronicles 14:1-2)\n\n2. David’s family (1 Chronicles 14:3-7)\n\n3. The Philistines defeated (1 Chronicles 14:8-17)\n\nThe reader is referred to 2 Samuel 5:11-16 for the comment on verses 1-7. Beeliada is called in 2 Samuel 5:16 Eliada. Beeliada was probably changed to Eliada. David’s great victory over the Philistines is also recorded in 2 Samuel 5:17-25. He inquired of God and being permitted to go, he smote them at Baal-perazim, where also the idol images were burned with fire (in obedience to Deuteronomy 7:5; Deuteronomy 7:25). It was a great victory.\n\nBaal-perazim means “possessor of breaches.” In Isaiah the victory over the Philistines is used as a prophecy of the coming future judgment of the earth. “For the LORD shall rise up as in mount Perazim, He shall be wroth as in the valley of Gibeon, that He may do His work, His strange work, and bring to pass His act, his strange act” (Isaiah 28:21). A second time the Philistines came, and David, obedient to the divine instructions, gained another great victory. His fame went into all lands and the fear of him was brought by the LORD upon all nations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 15
+ }
+}

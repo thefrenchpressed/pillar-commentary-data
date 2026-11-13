@@ -1,0 +1,272 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "wesley",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Be ye therefore followers - Imitators. Of God - In forgiving and loving. O how much more honourable and more happy, to be an imitator of God, than of Homer, Virgil, or Alexander the Great!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "But let not any impure love be even named or heard of among you - Keep at the utmost distance from it, as becometh saints."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Nor foolish talking - Tittle tattle, talking of nothing, the weather, fashions, meat and drink. Or jesting - The word properly means, wittiness, facetiousness, esteemed by the heathens an half - virtue. But how frequently even this quenches the Spirit, those who are tender of conscience know. Which are not convenient - For a Christian; as neither increasing his faith nor holiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Because of these things - As innocent as the heathens esteem them, and as those dealers in vain words would persuade you to think them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Ye were once darkness - Total blindness and ignorance. Walk as children of light - Suitably to your present knowledge."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The fruit of the light - Opposite to \" the unfruitful works of darkness,\" Eph 4:11. Is in - That is, consists in. Goodness and righteousness and truth - Opposite to the sins spoken of, Eph 4:25,&c."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Reprove them - To avoid them is not enough."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "In secret - As flying the light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "But all things which are reproved, are thereby dragged out into the light, and made manifest - Shown in their proper colours, by the light. For whatsoever doth make manifest is light - That is, for nothing but light, yea, light from heaven, can make anything manifest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Wherefore he - God. Saith - In the general tenor of his word, to all who are still in darkness. Awake thou that steepest - In ignorance of God and thyself; in stupid insensibility. And arise from the dead - From the death of sin. And Christ shall give thee light - Knowledge, holiness, happiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Circumspectly - Exactly, with the utmost accuracy, getting to the highest pitch of every point of holiness. Not as fools - Who think not where they are going, or do not make the best of their way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "With all possible care redeeming the time - Saving all you can for the best purposes; buying every possible moment out of the hands of sin and Satan; out of the hands of sloth, ease, pleasure, worldly business; the more diligently, because the present are evil days, days of the grossest ignorance, immorality, and profaneness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "What the will of the Lord is - In every time, place, and circumstance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Wherein is excess - That is, which leads to debauchery of every kind. But be ye filled with the Spirit - In all his graces, who gives a more noble pleasure than wine can do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Speaking to each other - By the Spirit. In the Psalms - Of David. And hymns - Of praise. And spiritual songs - On any divine subject. By there being no inspired songs, peculiarly adapted to the Christian dispensation, as there were to the Jewish, it is evident that the promise of the Holy Ghost to believers, in the last days, was by his larger effusion to supply the lack of it. Singing with your hearts - As well as your voice. To the Lord - Jesus, who searcheth the heart."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Giving thanks - At all times and places. And for all things - Prosperous or adverse, since all work together for good. In the name of, or through, our Lord Jesus Christ - By whom we receive all good things."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "In the following directions concerning relative duties, the inferiors are all along placed before the superiors, because the general proposition is concerning submission; and inferiors ought to do their duty, whatever their superiors do. Wives, submit yourselves to your own husbands - Unless where God forbids. Otherwise, in all indifferent things, the will of the husband is a law to the wife. As unto the Lord - The obedience a wife pays to her husband is at the same time paid to Christ himself; he being head of the wife, as Christ is head of the church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "The head - The governor, guide, and guardian of the wife. And he is the Saviour of the body - The church, from all sin and misery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "In everything - Which is not contrary to any command of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Even as Christ loved the church - Here is the true model of conjugal affection. With this kind of affection, with this degree of it, and to this end, should husbands love their wives."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "That he might sanctify it through the word - The ordinary channel of all blessings. Having cleansed it - From the guilt and power of sin. By the washing of water - In baptism; if, with \"the outward and visible sign,\" we receive the \"inward and spiritual grace.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "That he might present it - Even in this world. To himself - As his spouse. A glorious church - All glorious within. Not having spot - Of impurity from any sin. Or wrinkle - Of deformity from any decay."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "As their own bodies - That is, as themselves. He that loveth his wife loveth himself - Which is not a sin, but an indisputable duty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "His own flesh - That is, himself. Nourisheth and cherisheth - That is, feeds and clothes it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "For we - The reason why Christ nourishes and cherishes the church is, that close connexion between them which is here expressed in the words of Moses, originally spoken concerning Eve. Are members - Are as intimately united to Christ, in a spiritual sense, as if we were literally \"flesh of his flesh, and bone of his bone.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "For this cause - Because of this intimate union. Gen 2:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EPH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EPH",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EPH",
+  "chapter": 6
+ }
+}

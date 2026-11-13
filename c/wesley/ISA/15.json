@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": "The Destruction of Moab, ver. 1-9.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The burden - A prophecy of the destruction of the Moabites, the inveterate enemies of the Jews, begun by the Assyrian, and finished by the Babylonian emperors. In a night - Suddenly and unexpectedly. Ar - The chief city of Moab. Kir - Another eminent city of Moab."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Bajith - Which signifies an house. It is supposed to be some eminent house or temple of their idols. Dibon - Another city of Moab. To weep - To offer their supplications with tears to their idols for help. Medeba - Two considerable cities, anciently belonging to the Moabites. Beard - The hair of their heads and beards was shaved, as was usual in great mournings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "On the tops - Which were made flat, to which men used to go up, to cry to God in heaven, or to men for help."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Heshbon - Two other Moabitish cities. Jahaz - Another city in the utmost borders of Moab. Soldiers - Who use to be the most courageous."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Moab - Tho' they are a most vile nation. Zoar - Zoar was a town bordering upon Moab. Of destruction - Such a cry as men send forth when they are just falling into the pit of destruction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Waters - Watery grounds being very fruitful, are commonly most inhabited; but now they also, much more the dry and barren grounds, shall be desolate and without inhabitant."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "They - Their enemies. Brook - Possibly he means some such river which ran into Euphrates, and so gave them opportunity of carrying their spoils by water unto Babylon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "The cry - Their cry fills all the parts of the country."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "More - More than hath been already mentioned. Lions - God shall send lions to find out those that escape the fury of men."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 16
+ }
+}

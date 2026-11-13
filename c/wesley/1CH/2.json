@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "wesley",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": "The sons of Jacob, ver. 1-2. Of Judah, to Jesse, ver. 3-12. Of Jesse, ver. 13-17. Of Caleb, the son of Hezron, ver. 18-20. Of Hezron, ver. 21-24. Of Jerahmeel down to Elishama, ver. 25-41. Another branch of Caleb's posterity, ver. 42-49. The sons of Caleb, the son of Hur, ver. 50-55.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Judah - Whom he puts first, because the best part of the right of the firstborn, namely, the dominion, was conferred upon him, Gen 49:8, and because the Messiah was to come out of his loins."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Dara - If these be the same who are mentioned as the sons of Machol, 1Kings 4:31, either the same man had two names, Zerah and Machol, as was usual among the Hebrews: or, one of these was their immediate father, and the other their grand - father. These are named, because they were the glory of their father's house. When the Holy Ghost would magnify the wisdom of Solomon, he saith, he was wiser than these four men. That four brothers should be so eminent, was a rare thing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Carmi - Who is here mentioned, because he was the son of Zimri, who is also called Zabdi, Jos 7:1. Achar - Called Achan, Jos 7:1, and here Achar, with a little variation for greater significancy: for Achar signifies a troubler."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Eliab - Called also Elihu, chap.27:18, unless that was another person, and the word brother be taken more largely for a kinsman, as it is frequently."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Seventh - He had eight sons, 1Sam 16:10, but probably one of them died presently after that time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Ishmaelite - By birth or habitation, but by profession an Israelite, 2Sam 17:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Her sons - The sons of Azubah, who is by way of distinction called his wife, when Jerioth probably was only his concubine, and, it may seem, barren: therefore upon Azubah's death he married another wife. And those other sons of this Caleb mentioned, ver.42, are his sons by some other wife distinct from all these."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Gilead - Of a man so called: a man of noted valour, and the great champion in those parts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Sons of Machir - Partly to his own sons, and partly to his son - in - law Jair, who by reason of that dear affection which was betwixt them, and his forsaking his own tribe and kindred to fight for them and to dwell with them, is here reckoned as his own son."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Tekoa - A known place whose father he is called, because he was either the progenitor of the people inhabiting there: or, their prince and ruler: or, the builder of the city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The sons - An expression often used in prophane authors too, where there is but one son."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Jarha - Probably he was not only a proselyte, but an eminent man: else an Israelite would not have given him his only daughter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "Beth - zur - A place in Judah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "Madmannah - This, and divers other following names are the names of places in Judah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "Bethlehem - That is, the inhabitants of Bethlehem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 55,
+    "content": [
+     {
+      "text": "Scribes - Either civil, who were public notaries, that wrote and signed legal instruments: or ecclesiastical. And these were either Levites, or Simeonites, or rather Kenites, and are here mentioned not as if they were of the tribe of Judah, but because they dwelt among them, and probably were allied to them by marriages, and so in a manner incorporated with them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 3
+ }
+}

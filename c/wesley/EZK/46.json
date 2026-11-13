@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": "Farther rules for the worship of the priests and the people, ver. 1-15. A rule, for the prince's disposal of his inheritance, ver. 16-18. A description of the places for the boiling and baking the offerings, ver. 19-24.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "In the sabbaths - Both weekly and other holy days, which are called sabbaths."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Go forth over against it - Perhaps, only to prevent all jostling and confusion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "His inheritance - Whatever lands of the prince are given to servants, shall at the year of Jubilee revert to the sons of the prince. For them - And to theirs after them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The outer court - Where the people were."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "A court - A smaller court made up on the outer sides with the walls of the greater square, and on the inside made with two walls, the one forty cubits long, the other thirty cubits broad."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "A row of building - A range of building on the inside of the walls of the lesser courts. Four - Four courts in the four corners."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 47
+ }
+}

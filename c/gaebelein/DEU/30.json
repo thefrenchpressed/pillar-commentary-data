@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "26. The Dispersion, the Return and the Final AppealCHAPTER 30\n\n1. The message of hope (Deuteronomy 30:1-10)\n\n2. The final appeal (Deuteronomy 30:11-20)\n\nThese things, which Moses spoke into the ears of the people were to come to pass. And they have been fulfilled. The people Israel are scattered among all the nations, and yet they have not been assimilated by the nations. They are kept as a separate people. Connected with the prediction of their dispersion is the message of hope, the prophecy relating to their return. The Lord promises, that if they return unto Him and obey His voice, that He will return unto them. “Then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee” (verse 3).\n\nThat will come to pass when this present age closes. Then when the greatest trouble, the time of Jacob’s trouble is upon them (Matt. 24) they will return.\n\nThe Lord Himself will return, as announced in the above verse, and gather them from all the nations. He will bring them back into their land; they will possess it once more. Spiritual blessings will also come upon them and upon their children. Earthly blessings will be multiplied unto them and the Lord will rejoice over them, because they are a converted, an obedient people. God’s gifts and calling, which are without repentance, will then be fully accomplished in that nation. “Behold I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely. And they shall be my people and I will be their God” (Jeremiah 32:37-38). “For I will take you from among the nations, and gather you out of all countries, and will bring you into your own land” (Ezekiel 36:24).\n\nMany more passages might be added from other portions of the prophetic Word. Moses, the prophet, speaks of that which all the other prophets after him have restated, confirmed, and enlarged.\n\nIsrael’s present condition, dispersed among the nations of the earth, is not permanent. God will bring them back and keep all the promises of blessing. How wonderful are some of the visions of glory relating to the time, when this will be accomplished. Read Isaiah 24; 60; 61; 62, etc.; these magnificent promises of blessing are not for a spiritual Israel, as people sometimes term the church, but for the literal Israel. Some say, the return predicted by Moses and the other prophets was fulfilled when a remnant of Jews came back from Babylon. This is incorrect for neither were the people scattered among all the nations, nor did the small remnant, which came back from the Babylonian captivity, enjoy the glories and blessings predicted in the prophetic Word.\n\nAnother return will take place, when their once rejected King comes back. The Old Testament is practically a sealed book to every person who does not believe in a literal restoration of Israel to their land.\n\nThe final appeal of Moses as given in the second part of this chapter, has for its leading note “obedience,” the characteristic word of this entire book. Notice in the last verse the significant statement, that the Lord, who is to be loved and whose voice is to be obeyed, is their life. “For He is thy life.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 31
+ }
+}

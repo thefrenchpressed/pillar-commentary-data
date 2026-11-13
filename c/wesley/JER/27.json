@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": "The prophet sends yokes to five neighbouring kings, thereby foreshewing their subjection to Nebuchadnezzar, ver. 1-7. He exhorts them to yield, and not to believe false prophets, ver. 8- 11. The like he doth to Zedekiah, ver. 12-18. The remnant of the vessels shall be carried to Babylon, and continue there 'till the appointed time, ver. 19-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Thus saith - God commands the prophet to procure some yokes with bonds to make them more fast; and to put one of them upon his own neck, that therein he might be a type both to his own people, and also the people afterward mentioned, that they should be in bondage to the king of Babylon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Of Edom - These nations were neighbours to the Jews, and their princes had their ambassadors resident in Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "All nations - That is, all these nations. His son - And Evil - Merodach his son, and Belshazzar his grand - child. Until - Until the period of his kingdom shall come, which was after seventy years, according to chap.29:10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 28
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "TIT",
+  "commentaryId": "scofield",
+  "name": "Titus",
+  "commonName": "Titus",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "grace -- Grace (in salvation). vs. Titus 3:7; Romans 3:24. (See Scofield \"John 1:17\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Saviour -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "redeem -- Sin. (See Scofield \"Romans 3:24\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "TIT",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "TIT",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "TIT",
+  "chapter": 3
+ }
+}

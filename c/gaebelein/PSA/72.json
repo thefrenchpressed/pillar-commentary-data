@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 72,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Kingdom Psalm1. The King, who reigns in righteousness (Psalms 72:1-4)\n\n2. His kingdom from sea to sea (Psalms 72:5-11)\n\n3. The blessings and the kingdom (Psalms 72:12-20)\n\nThe last Psalm of this Exodus section describes the establishment of the promised kingdom, the kingdom of heaven on earth. Surely the Spirit of God directed the arrangement of the Psalms, and put each into the right place. Here we have a beautiful prophecy of what is yet to be and for which all is waiting now, in a time when every form of government has failed and law and order seems to go to pieces. The King and the King’s Son is the Lord Jesus Christ, He who came as the Only-Begotten from the bosom of the Father to this earth, to seek the lost sheep of the house of Israel, offering them first the promised kingdom. His own received Him not. In previous Psalms we heard the voice of His complaints, His sorrows and saw the sufferings of the cross.\n\nBut here we behold Him enthroned as the King of Righteousness and the King of Peace. Righteousness and peace He alone can bring to man and He will surely bring both for the whole earth when the cloud brings Him back. Then He will be feared and worshipped as long as the sun and moon endure, for all times. Showers of blessing will fall and the righteous will flourish, while the wicked can trouble the righteous no more. Abundance of peace will be the lot of mankind then and His kingdom will include all the kingdoms of the earth. His enemies will lick the dust and kings will bring Him presents.\n\nAnd the blessings of His Kingdom! All the subjects in His kingdom will share them and all creation as well. The doxology of this section is the greatest of all. “And let the whole earth be filled with His glory. Amen and Amen.” --The prayers of David the Son of Jesse are ended.” Let us quote once more Prof. Davidson what he makes of this. “A note, probably added by the editor of the Elohistic collection, to mark the end of a group of Davidic Psalms.” What blindness! David had seen the glories of the kingdom of Him who is His Lord and His Son and then declared “his prayers are ended.” He has nothing more to pray for."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 72
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 71
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 73
+ }
+}

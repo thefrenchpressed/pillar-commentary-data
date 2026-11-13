@@ -1,0 +1,227 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": "In this chapter the prophet tells them, that a final ruin is coming, ver. 1-6. A ruin just at the door, ver. 7-10. An unavoidable ruin, because of their sins, ver. 11-15. That their strength and wealth would be no fence against it, ver. 16-19. That the temple, which they trusted in, should itself be ruined, ver. 20- 22. That it should be an universal ruin, the sin that brought it being universal, ver, 23-27.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "An end - An end of God's patience, and of the peace and welfare of the people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Recompense - The punishment of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "An evil - An evil and sore affliction, a singular, uncommon one."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "An end - When the end is come upon the wicked world, then an only evil comes upon it. The sorest of temporal judgments have their allays; but the torments of the damned are an evil, an only evil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The morning - The fatal morning, the day of destruction. Sounding - Not a mere echo, not a fancy, but a real thing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Is come - Of your wickedness; pride and violence in particular."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "None - They shall be utterly wasted for their sins. Wailing - The living shall not bewail their dead friends, because they shall judge the dead in a better case than the living."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Mourn - Men usually part with their estates grieving that they must transmit their right to others; but let them now think how little a while they could have kept them, and how little time they shall keep them who have bought them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Yet alive - For if any should survive the captivity, yet the conqueror wasting and destroying all, would confound all ancient boundaries. Touching - The evils threatened are designed against all the multitude of Israel. Strengthen - Nor shall any one man of them all he able to secure himself, by any sinful contrivance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "They - The house of Israel have summoned in all fit for arms. None - There is not a man going to the war. Wrath - That displeasure which takes away their courage."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Without - In the countries. Within - The besieged city. Field - Whoever is in the field."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Iniquity - Either for the punishment of their iniquity, or for their iniquity itself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Baldness - Either by pulling off the hair amidst their sorrows, or cutting it off in token of mourning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Cast - That they may be the lighter to fly. Removed - Carried away into Babylon. Not satisfy - They shall afford them no comfort. Stumbling - block - This silver and gold they coveted immeasurably, and abused to pride, luxury, idolatry and oppression; this that they stumbled at and fell into sin, now they stumble at and fall into the deepest misery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The beauty - The temple, and all that pertained to it, which was the beauty and glory of that nation. He set - God commanded it should be beautiful and magnificent. Images - Their idols. Far from them - I have sent them far from the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "It - My temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Turn - Either from the Jews, or from the Chaldeans, neither relieving the one nor restraining the other. Secret place - The temple, and the holy of holies. Robbers - The soldiers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "A chain - To bind the captives."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "The pomp - The magnificence and glory, wherein they boasted; or the temple that the Jews gloried in."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Seek - But in vain. The priest - He shall have no words either of counsel or comfort to say to them. Ancients - Nor shall their senators know what to advise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The king - Zedekiah. The prince - Every magistrate. Troubled - Hang down, and melt away. What can men contrive or do for themselves, when God is departed from them? All must needs be in tears, all in trouble, when God comes to judge them according to their deserts, and so make them know, that he is the Lord, to whom vengeance belongeth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 144,
+  "introduction": "David blesses God for his mercies, ver. 1-4. Prays against his enemies, ver. 5-8. Promises to praise him, ver.9-11. The happiness of those who serve God, ver. 12-15. A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Subdued - Who hath disposed my peoples hearts to receive and obey me as their king."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Come - To help me. Smoke - As Sinai did at thy glorious appearance, Exod 19:18. This is a figurative and poetical description of God's coming to take vengeance upon his enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Strange children - Either of the Heathen nations: or of the rebellious Israelites."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Vanity - Vain brags and threatenings which shall come to nothing. Falsehood - Deceiving themselves, by being unable to do what they designed; and others, by not giving them that help which they promised."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "That - This mercy I beg not only for my own sake, but for the sake of thy people, that they may enjoy those blessings which thou hast promised them; and particularly, that our sons, who are the strength and hopes of a nation, may be like plants, flourishing and growing in height and strength, as plants do in their youth; for when they grow old, they wither and decay. Cornerstone - Strong and beautiful."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Breaking in - Of enemies invading the land, or assaulting our cities, and making breaches in their walls. Going out - Of our people, either out of the cities to fight with an invading enemy: or out of the land into captivity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 144
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 143
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 145
+ }
+}

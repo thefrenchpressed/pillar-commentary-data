@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "maclaren",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "THE HARVEST OF A GODLESS LIFE\n\nIsaiah 17:10 - Isaiah 17:11.\n\nThe original application of these words is to Judah’s alliance with Damascus, which Isaiah was dead against. He saw that it would only precipitate the Assyrian invasion, as in fact it did. Judah had forsaken God, and because they had done so, they had gone to seek for themselves delights-alliance with Damascus. The image of planting a garden of pleasures, and ‘vine slips of a stranger’ refers to sensuous idolatry as well as to the entangling alliance. Then follows a contemptuous description of the rapid growth of this alliance and of the care with which Israel cultivated it. ‘In a day thou makest thy plant to grow’ \\, and next morning it was in blossom, so sedulously had they nursed and fostered it. Then comes the smiting contrast of what it was all for-’ A harvest heap in the day of sickness and incurable pain.’\n\nNow we may take this in a more general way as containing large truths which affect the life of every one of us.\n\nI. The Sin of a Godless Life.\n\n\\ Notice the Sin charged. It is merely negative-forgettest. There is no charge of positive hostility or of any overt act. This forgetfulness is most natural and easy to be fallen into. The constant pressure of the world. It indicates alienation of heart from God.\n\nIt is most common among us, far more so than active infidelity, far more so than gross sin, far more so than conscious hostility.\n\n\\ The implied Criminality of it. He is the ‘Rock of thy strength’ and the ‘God of thy salvation.’ Rock is the grand Old Testament name of God, expressing in a pregnant metaphor both what He is in Himself and what in relation to those who trust Him. It speaks of stability, elevation, massiveness, and of defence and security. The parallel title sets Him forth as the Giver of salvation; and both names set in clear light the sinful ingratitude of forgetting God, and force home the question: ‘Do ye thus requite the Lord, oh foolish people and unwise?’\n\n\\ The implied Absurdity of it. What a contrast between the safe ‘munitions of rocks’ and the unsheltered security of these Damascene gardens! What fools to leave the heights and come down into the plain! Think of the contrast between the sufficiency of God and the emptiness of the substitutes. Forgetfulness of Him and preference of creatures cannot be put into language which does not convict it of absurdity.\n\nII. The Busy Effort and Apparent Success of a Godless Life.\n\n\\ If a man loses his hold on God and has not Him to stay himself on, he is driven to painful efforts to make up the loss. God is needed by every soul. If the soul is not satisfied in Him, then there are hungry desires. This is the explanation of the feverish activity of much of our life.\n\n\\ Such work is far harder than the work of serving God. It takes a great deal of toil to make that garden grow. The world is a hard taskmaster. God’s service is easy. He sets us in Eden to till and dress it, but when we forget Him, the ground is cursed, and bears thorns and thistles, and sweat drips from our brows.\n\nMen take more pains to damn themselves than to save themselves. There is nothing more wearying than the pursuit of pleasure. ‘Pleasant plants’ -that is a hopeless kind of gardening. There is nothing more degrading.\n\n‘Ye lust and desire to have,’ -what a contrast is in, Ask and have! We might live even as the lilies or the ravens, or with only this difference, that we laboured, but were as uncaring and as peaceful as they.\n\nGod is given. The world has to be bought. Its terms are ‘Nothing for nothing.’\n\n\\ Such work has sometimes quick, present success.\n\n‘In the day.’ It is hard for men to labour towards far-off unseen good. We like to have what will grow up in a night, like Jonah’s gourd. So these present satisfactions in a worldly life appeal to worldly, sensuous natures. And it is hard to set over against these a plant which grows slowly, and only bears fruit in the next world.\n\nIII. The End of it all.\n\n‘A harvest heap in the day of grief.’ This clearly points on to a solemn ending-the day of judgment.\n\n\\ How poor the fruit will he that a God-forgetting man will take out of life! There is but one heap from all the long struggle. He has ‘sowed much and brought home little.’ What shall we take with us out of our busy years as their net result? A very small sack will be large enough to hold the harvest that many of us have reaped.\n\n\\ All this God-forgetting life of pleasure-seeking and idolatry is bringing on a terrible, inevitable consummation.\n\n‘Put in the sickle, for the harvest is ripe.’\n\nNo doubt there is often a harvest of grief and desperate sorrow springing, even in this life, from forgetting God. For it is only they who set their hopes on Him that are never disappointed, and only they who have chosen Him for their portion who can always say, ‘I have a goodly heritage.’ But the real harvest is not reaped till death has separated the time of sowing from that of ingathering. The sower shall reap; i.e. every man shall inherit the consequences of his deeds. ‘They that have planted it shall eat it.’\n\n\\ That harvest home will be a day of sadness to some. These are terrible words-’ grief and desperate sorrow,’ or ‘pain and incurable sickness.’ We dare not dilate on this. But if we trust in Christ and sow to the Spirit, we shall then ‘rejoice before God as with the joy of harvest,’ and ‘return with joy, bringing our sheaves with us.’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 25
+ }
+}

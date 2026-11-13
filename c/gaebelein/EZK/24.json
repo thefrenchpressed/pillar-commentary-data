@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ezekiel 24:1-27. The exact date is given by the prophet. It was the tenth day of the tenth month in the ninth year. What happened also on that date we find recorded in 2 Kings 25:1: “And it came to pass in the ninth year of his reign in the tenth month, in the tenth day of the month, that Nebuchadnezzar, King of Babylon, came, he and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.” How did Ezekiel know about all this? It was the Lord who gave him this information and led him to record the date. This is the statement of the second verse: “Son of man, write thee the name of the day, even of this selfsame day, the king of Babylon set himself against Jerusalem this same day.” What does higher criticism have to say to this?\n\nWe quote a recent commentator: “These verses (2) force on us in the clearest fashion the dilemma--either Ezekiel was a deliberate deceiver or he was possessed of some kind of a second sight!” What about divine revelation? This the “learned” men refuse to think even possible. The boiling pot announced is the symbol of Jerusalem.\n\nEzekiel 24:15-18 announce the death of Ezekiel’s wife, and he is commanded not to mourn or weep; all the customary signs of grief are forbidden him. While he faithfully delivered the message in the morning, even his wife was taken from his side. Death had dissolved the marriage union and taken from the prophet the beloved wife. Even so the relationship between Jehovah and Jerusalem was now completely to be severed. The question of the people and the answer is found in Ezekiel 24:19-27. Read Ezekiel 24:26-27 and compare with Ezekiel 33:21-22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 25
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 146,
+  "introduction": "The psalmist praises God, and exhorts all to trust in him alone, ver. 1-5. Because of his power, faithfulness and everlasting kingdom, ver. 6-10.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "That day - As soon as ever he is dead. Thoughts - All his designs and endeavours either for himself or for others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "For ever - Both because he liveth for ever to fulfil his promises, and because he is eternally faithful."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 146
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 145
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 147
+ }
+}

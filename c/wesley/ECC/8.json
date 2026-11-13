@@ -1,0 +1,173 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "wesley",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": "The benefit of wisdom, ver. 1. honour the king and obey God, ver. 2-5. Prepare for sudden evils, and for death, ver. 6-8. Marvel not at oppression, or the present impunity of the wicked, ver. 9-11. It shall be well with the good, and ill with the wicked, though not immediately, ver. 12-14. Therefore cheerfully use the gifts of God, and acquiesce in his will, ver. 15-17",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Who is wise - There are few wise men in this world. Who knoweth - How few understand the reasons of things and can rightly expound the word and works of God. Wisdom - Makes a man venerable, chearful, mild, and amiable. The face is put for the mind, because the mind discovers itself in the countenance. Boldness - The roughness or fierceness. Changed - Into gentleness and humility."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The oath - Because of that oath which thou hast taken to keep all God's laws, whereof this of obedience to superiors is one."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "To go - In discontent, withdrawing thyself from the king's service or obedience. Stand not - if thou hast offended him, persist not in it. For - His power is uncontrollable."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The commandment - Solomon passes to a new subject. Shall feel - Shall be delivered from those mischiefs which befal the disobedient. Discerneth - Both when, and in what manner he must keep the commands of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Because - There is a fit way and season for the accomplishment of every business, which is known to God, but for the most part hidden from man. Therefore - Because there are few who have wisdom to discern this, most men expose themselves to manifold miseries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "For - Men are generally ignorant of future events, and therefore their minds are disquieted."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "To retain - To keep it in the body. This is added as another evidence of man's misery. No discharge - In that fatal conflict between life and death, when a man is struggling with death, though to no purpose, for death will be always conqueror. Neither - And although wicked men, who most fear death, use all possible means, to free themselves from it, yet they shall not escape it. The most subtle wickedness cannot outwit death, nor the most daring wickedness out - brave it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "To his hurt - There are some kings, who use their power tyrannically, whereby they not only oppress their people, but hurt themselves, bringing the vengeance of God upon their own heads."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And so - In like manner. The wicked - Wicked princes or rulers. Buried - With state and pomp. Who - Had administered publick justice, which is frequently signified by the phrase of coming in and going out before the people. The holy - The throne or tribunal seems to be so called here, to aggravate their wickedness, who being advanced by God into so high and sacred a place, betrayed so great a trust. Where - They lived in great splendor, and were buried with great magnificence. This - That men should so earnestly thirst after glory, which is so soon extinct."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Therefore - God's forbearance makes them presumptuous and secure."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "A shadow - His life, though it may seem long, yet in truth is but a shadow, which will quickly vanish and disappear."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Done - Either by wicked potentates, who do commonly advance unworthy men, and oppress persons of greatest virtue and merit: or, by God's providence, who sees it fit for many weighty reasons so to manage the affairs of the present world. To whom - Who meet with such usage as the worst of men deserve. It happeneth - Who, instead of those punishments which they deserve, receive those rewards which are due to virtuous men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "To be merry - This he speaks of sensual delights."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "To see - To observe mens various designs and employments, and their unwearied labours about worldly things. For there is - Having now mentioned the business which is done, or which man doth, upon earth, he further adds, as an evidence of man's eagerness in pursuing his business, for even by day and by night he (the busy man) seeth not sleep with his eyes. He grudges himself necessary refreshments, and disquiets himself with endless cares and labours."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "I beheld - I considered the counsels and ways of God, and the various methods of his providence, and the reasons of them. Find out - No man, though ever so wise, is able fully and perfectly to understand these things. And therefore it is best for man not to perplex himself with endless enquiries, but quietly to submit to God's will and providence, and to live in the fear of God, and the comfortable enjoyment of his blessing."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ECC",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ECC",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ECC",
+  "chapter": 9
+ }
+}

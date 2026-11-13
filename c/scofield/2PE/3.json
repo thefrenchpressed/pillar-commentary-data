@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2PE",
+  "commentaryId": "scofield",
+  "name": "2 Peter",
+  "commonName": "2 Peter",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Saviour -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "righteousness -- (See Scofield \"1 John 3:7\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "salvation -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "grace -- Grace (imparted). Summary (see \"Grace,\") (See Scofield \"John 1:17\") grace is not only dispensationally a method of divine dealing in salvation\n\n(See Scofield \"John 1:17\") but is also the method of God in the believer's life and service. As saved, he is \"not under the law, but under grace\" Romans 6:14. Having by grace brought the believer into the highest conceivable position. Ephesians 1:6. God ceaselessly works through grace, to impart to, and perfect in him, corresponding graces; John 15:4,5; Galatians 5:22,23.\n\nGrace, therefore, stands connected with service Romans 12:6; 15:15,16; 1 Corinthians 1:3-7; 3:10; 15:10; 2 Corinthians 12:9,10; Galatians 2:9; Ephesians 3:7,8; Ephesians 4:7; Philippians 1:7; 2 Timothy 2:1,2; 1 Peter 4:10 with Christian growth; 2 Corinthians 1:12; Ephesians 4:29; Colossians 3:16; 4:6; 2 Thessalonians 1:12; Hebrews 4:16; 12:28,29; 13:9; James 4:6; 1 Peter 1:2; 3:7; 5:5,10; 2 Peter 3:18; Jude 1:4 and with giving; 2 Corinthians 4:15; 8:1,6,7,19; 9:14\n\ngrace -- Grace (imparted). Romans 6:1; 2 Peter 3:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2PE",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2PE",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1JN",
+  "chapter": 1
+ }
+}

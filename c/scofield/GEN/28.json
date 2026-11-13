@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "life -- Genesis 26:34,35.\n\nHeth was ancestor of the Hittites."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Mahalath -- Genesis 36:3 is called Bashemath:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And Jacob went out -- Bethel becomes, because of Jacob's vision there, one of the significant places of Scripture. To the Christian it stands for a realization, however imperfect, of the heavenly and spiritual contents of faith, answering to Paul's prayer in Ephesians 1:17-23. Dispensationally, the scene speaks of Israel the nation, cast out of the Land of Promise because of evil-doing there, but holding the promise of restoration and blessing; Genesis 28:15; Deuteronomy 30:1-10. To \"an Israelite indeed\" Christ speaks of Jacob's vision as to be fulfilled in the Son of man (cf); Genesis 28:12; John 1:47-51."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "angels -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Bethel -- i.e. the house of God. Cf. Genesis 35:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 29
+ }
+}

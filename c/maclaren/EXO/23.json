@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "maclaren",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "THE FEAST OF IN THE END OF THE YEAR\n\nExodus 23:16.\n\nThe Israelites seem to have had a double beginning of the year-one in spring, one at the close of harvest; or it may only be that here the year is regarded from the natural point of view-a farmer’s year. This feast was at the gathering in of the fruits, which was the natural close of the agricultural year.\n\nThis festival of ingathering was the Feast of Tabernacles. It is remarkable that the three great sacred festivals, the Passover, Pentecost, Tabernacles, had all a reference to agriculture, though two of them also received a reference to national deliverances. This fact may show that they were in existence before Moses, and that he simply imposed a new meaning on them.\n\nBe that as it may, I take these words now simply as a starting-point for some thoughts naturally suggested by the period at which we stand. We have come to the end of another year-looked for so long, passed so swiftly, and now seeming to have so utterly departed!\n\nI desire to recall to you and to myself the solemn real sense in which for us too the end of the year is a ‘time of ingathering’ and ‘harvest.’ We too begin the new year with the accumulated consequences of these past days in our ‘barns and garners.’\n\nNow, in dealing with this thought, let me put it in two or three forms.\n\nI. Think of the past as still living in and shaping the present.\n\nIt is a mere illusion of sense that the past is gone utterly. ‘Thou carriest them away, as with a flood.’ We speak of it as irrevocable, unalterable, that dreadful past. It is solemnly true that ‘ye shall no more return that way.’\n\nBut there is a deeper truth in the converse thought that the apparently transient is permanent, that nothing human ever dies, that the past is present. ‘The grass withereth, the flower fadeth,’ -yes, but only its petals drop, and as they fall, the fruit which they sheltered swells and matures.\n\nThe thought of the present as the harvest from the past brings out in vivid and picturesque form two solemn truths.\n\nThe first is the passing away of all the external, but of it only. It has all gone where the winter’s cold, the spring rains, the summer’s heats have gone. But just as these live in the fruitful results that have accrued from them, just as the glowing sunshine of the departed ardent summer is in the yellow, bending wheat-ear or glows in the cluster, so, in a very solemn sense, ‘that which hath been is now’ in regard to every life. The great law of continuity makes the present the inheritor of the past. That law operates in national life, in which national characteristics are largely precipitates, so to speak, from national history. But it works even more energetically, and with yet graver consequences, in our individual lives. ‘The child is father of the man.’ What we are depends largely on what we have been, and what we have been powerfully acts in determining what we shall be. Life is a mystic chain, not a heap of unconnected links.\n\nAnd there is another very solemn way in which the past lives on in each of us. For not only is our present self the direct descendant of our past selves, but that past still subsists in that we are responsible for it, and shall one day have to answer for it. The writer of Ecclesiastes followed the statement just now quoted as to the survival of the past, with another, which is impressive in its very vagueness: ‘God seeketh again that which is passed away.’\n\nSo the undying past lives in its results in ourselves, and in our being answerable for it to God.\n\nThis metaphor is insufficient in one respect. There is not one epoch for sowing and another for reaping, but the two processes are simultaneous, and every moment is at once a harvest and a seed-time.\n\nThis fact masks the reality of the reaping here, but it points on to the great harvest when God shall say, ‘Gather the wheat into My barns!’\n\nII. Notice some specific forms of this reaping and ingathering.\n\n\\ Memory.\n\nIt is quite possible that in the future it may embrace all the life.\n\n‘Chambers of imagery.’\n\n\\ Habits and character. Like the deposit of a flood. ‘Habitus’ means clothing, and cloth is woven from single threads.\n\n\\ Outward consequences, position, reputation, etc.\n\nIII. Make a personal reference to ourselves.\n\nWhat sort of harvest are we carrying over from this year? Lay this to heart as certain, that we enter on no new year-or new day-empty-handed, but always ‘bearing our sheaves with us.’ ‘Be not deceived! God is not mocked. Whatsoever a man soweth, that shall he also reap.’\n\nBut remember, that while this law remains, there is also the law of forgiveness, ‘Go in peace!’ and there may be a new beginning, ‘Sin no more!’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EXO",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EXO",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EXO",
+  "chapter": 24
+ }
+}

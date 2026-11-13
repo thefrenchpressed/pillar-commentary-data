@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "maclaren",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "THE VISION OF\n\nGenesis 1:26 - Genesis 2:3.\n\nWe are not to look to Genesis for a scientific cosmogony, and are not to be disturbed by physicists’ criticisms on it as such. Its purpose is quite another, and far more important; namely, to imprint deep and ineffaceable the conviction that the one God created all things. Nor must it be forgotten that this vision of creation was given to people ignorant of natural science, and prone to fall back into surrounding idolatry. The comparison of the creation narratives in Genesis with the cuneiform tablets, with which they evidently are most closely connected, has for its most important result the demonstration of the infinite elevation above their monstrosities and puerilities, of this solemn, steadfast attribution of the creative act to the one God. Here we can only draw out in brief the main points which the narrative brings into prominence.\n\n1. The revelation which it gives is the truth, obscured to all other men when it was given, that one God ‘in the beginning created the heaven and the earth.’ That solemn utterance is the keynote of the whole. The rest but expands it. It was a challenge and a denial for all the beliefs of the nations, the truth of which Israel was the champion and missionary. It swept the heavens and earth clear of the crowd of gods, and showed the One enthroned above, and operative in, all things. We can scarcely estimate the grandeur, the emancipating power, the all-uniting force, of that utterance.\n\nIt is a worn commonplace to us. It was a strange, thrilling novelty when it was written at the head of this narrative. Then it was in sharp opposition to beliefs that have long been dead to us; but it is still a protest against some living errors. Physical science has not spoken the final word when it has shown us how things came to be as they are. There remains the deeper question, What, or who, originated and guided the processes? And the only answer is the ancient declaration, ‘In the beginning God created the heaven and the earth.’\n\n2. The record is as emphatic and as unique in its teaching as to the mode of creation: ‘God said... and it was so.’ That lifts us above all the poor childish myths of the nations, some of them disgusting, many of them absurd, all of them unworthy. There was no other agency than the putting forth of the divine will. The speech of God is but a symbol of the flashing forth of His will. To us Christians the antique phrase suggests a fulness of meaning not inherent in it, for we have learned to believe that ‘all things were made by Him’ whose name is ‘The Word of God’; but, apart from that, the representation here is sublime. ‘He spake, and it was done’; that is the sign-manual of Deity.\n\n3. The completeness of creation is emphasised. We note, not only the recurrent ‘and it was so,’ which declares the perfect correspondence of the result with the divine intention, but also the recurring ‘God saw that it was good.’ His ideals are always realised. The divine artist never finds that the embodiment of His thought falls short of His thought.\n\n‘What act is all its thought had been?\n\nWhat will but felt the fleshly screen?\n\nBut He has no hindrances nor incompletenesses in His creative work, and the very sabbath rest with which the narrative closes symbolises, not His need of repose, but His perfect accomplishment of His purpose. God ceases from His works because ‘the works were finished,’ and He saw that all was very good.\n\n4. The progressiveness of the creative process is brought into strong relief. The work of the first four days is the preparation of the dwelling-place for the living creatures who are afterwards created to inhabit it. How far the details of these days’ work coincide with the order as science has made it out, we are not careful to ask here. The primeval chaos, the separation of the waters above from the waters beneath, the emergence of the land, the beginning of vegetation there, the shining out of the sun as the dense mists cleared, all find confirmation even in modern theories of evolution. But the intention of the whole is much rather to teach that, though the simple utterance of the divine will was the agent of creation, the manner of it was not a sudden calling of the world, as men know it, into being, but majestic, slow advance by stages, each of which rested on the preceding.\n\nTo apply the old distinction between justification and sanctification, creation was a work, not an act. The Divine Workman, who is always patient, worked slowly then as He does now. Not at a leap, but by deliberate steps, the divine ideal attains realisation.\n\n5. The creation of living creatures on the fourth and fifth days is so arranged as to lead up to the creation of man as the climax. On the fifth day sea and air are peopled, and their denizens ‘blessed,’ for the equal divine love holds every living thing to its heart. On the sixth day the earth is replenished with living creatures. Then, last of all, comes man, the apex of creation. Obviously the purpose of the whole is to concentrate the light on man; and it is a matter of no importance whether the narrative is correct according to zoology, or not.\n\nWhat it says is that God made all the universe, that He prepared the earth for the delight of living creatures, that the happy birds that soar and sing, and the dumb creatures that move through the paths of the seas, and the beasts of the earth, are all His creating, and that man is linked to them, being made on the same day as the latter, and by the same word, but that between man and them all there is a gulf, since he is made in the divine image. That image implies personality, the consciousness of self, the power to say ‘I,’ as well as purity.\n\nThe transition from the work of the first four days to that of creating living things must have had a break. No theory has been able to bridge the chasm without admitting a divine act introducing the new element of life, and none has been able to bridge the gulf between the animal and human consciousness without admitting a divine act introducing ‘the image of God’ into the nature common to animal and man. Three facts as to humanity are thrown up into prominence: its possession of the image of God, the equality and eternal interdependence of the sexes, and the lordship over all creatures. Mark especially the remarkable wording of Gen 1:27: ‘created He him male and female created He them.’ So ‘neither is the woman without the man, nor the man without the woman.’ Each is maimed apart from the other. Both stand side by side, on one level before God. The germ of the most ‘advanced’ doctrines of the relations of the sexes is hidden here."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "GEN",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "GEN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "GEN",
+  "chapter": 3
+ }
+}

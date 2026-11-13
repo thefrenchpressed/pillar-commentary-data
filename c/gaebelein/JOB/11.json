@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 11 Zophar’s First Address\n\n1. Job’s multitude of words rebuked (Job 11:1-6)\n\n2. The greatness and omniscience of God (Job 11:7-12)\n\n3. That Job repent and receive the Blessings (Job 11:13-20)\n\nJob 11:1-6. The third friend of Job is in every way the weakest. Speaking last he must have been the youngest of the three. He lacks the dignity of Eliphaz and the gentleness of Bildad, nor does he possess the depths of either. Evidently Job’s speech has taxed his patience and irritated him.\n\nShould not thy mass of words be answered?\n\nAnd a man so full of talk, should he be justified?\n\nCan thy boastings make men hold their peace?\n\nAnd when thou mockest, shall no man make thee ashamed?\n\nFor thou sayest ‘My doctrine is pure\n\nAnd I am clean in His eyes.\n\nBut Oh that God might speak\n\nAnd open His lips against thee.\n\nThat He would show thee the secrets of wisdom,\n\nThat is manifold in effectual working!\n\nKnow therefore that God exacts not more\n\nthan thine iniquity deserveth.\n\nOne can almost feel the boisterous spirit in which this rebuke must have been delivered.\n\nJob 11:7-12. He now reminds Job of the greatness and omniscience of the God whom he accused. Could he by searching find out God or find out the Almighty unto perfection? “It is high as heaven; what canst thou do? Deeper than Sheol; what canst thou know? The measure thereof is longer than the earth, and broader than the sea.” But more than that He is an omniscient God, the searcher of hearts. He knoweth vain men and seeth iniquity also. So far it all seems well.\n\nJob 11:13-20. So far all sounds well, but now he follows the same argument as his friends. He too believes that Job is a wicked man who has hidden iniquity, and that this must explain his affliction. So he turns exhorter and calls on him to repent. Set thine heart aright, he tells Job; stretch out thy hands towards Him. Put iniquity away, do not permit iniquity to be in thy tents! He talks as if he is very sure, more so than Eliphaz and Bildad, that Job is guilty of much sin. Then he draws a charming picture of the blessed results if Job confesses and repents. He would forget his misery “as waters that are passed away.”\n\nEverything is painted by him in the rosiest colors as if he knew what God would do for Job. The time did come when Job got richer blessings than those outlined by Zophar. And what Zophar said, “Yea, many shall make suit unto thee” (marginal reading: entreat thee), came actually true when Eliphaz, Bildad and Zophar had to humble themselves before this Servant of God. Zophar’s final word is a warning of the fate of the wicked. It was meant for Job. The blunt, rough way of Zophar, who does not contribute anything new and fresh to the controversy, makes Job more confident that he is right and he gives a remarkable answer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 12
+ }
+}

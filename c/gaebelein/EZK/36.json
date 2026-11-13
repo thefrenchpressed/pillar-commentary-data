@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ezekiel 36:1-38. With this chapter the great prophetic utterances of Ezekiel begin concerning the future restoration and blessing of Israel. From here on to the end of the book, all is still unfulfilled, nor can it be fulfilled until the Lord Jesus Christ comes again and is enthroned as King. The first seven verses (Ezekiel 36:1-7)announce once more the future judgment of Israel’s enemies. Then comes the promised return to the land Ezekiel 36:8-15. The mountains of Israel, barren so long, shall be inhabited again.\n\nIsrael’s past sins and chastisement are reviewed in Ezekiel 36:16-20, and then comes that great message of restoration and blessing through grace in that day when their once rejected King returns and they bow before Him. The characteristic words in Ezekiel 36:23-28 are the words “I will do.” It is the word of sovereign grace. Eighteen times Jehovah says what He will do. They are the “I wills” of Israel’s hope and coming glory.\n\nHe will gather them from among the nations and all countries and bring them back to their own land. Only a superficial expositor can speak of a fulfillment when they returned from Babylon. But even if this were so, though it is not, the verses which follow have never been fulfilled in the past. The cleansing of the nation is next promised: “I will sprinkle clean water upon you and ye shall be clean.” It refers us to the water mixed with the ashes of the red heifer, which was sprinkled with a hyssop on the unclean, typifying the precious blood of Christ in its cleansing power Hebrews 9:13-28; Hebrews 10:22. Thus, when the people of Israel believe on Him and look upon Him whom they pierced Zechariah 12:10, they will be cleansed. “In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness” Zechariah 13:1. Then follows the promise of the new birth of Israel. “A new heart will I also give you, and a new spirit will I put within you.” The stony heart is to be taken away and they will receive a heart of flesh.\n\nOur Lord had this passage in mind when He talked with Nicodemus about the new birth. Nicodemus, the teacher in Israel, was ignorant of the fact that this new birth for Israel is necessary in order to be in that coming kingdom and to receive its blessings. Therefore the Lord said to him, “If I have told you earthly things (about Israel and the new birth as the way into the kingdom) and ye believe not, how shall ye believe if I tell you of heavenly things?” (the heavenly blessings which follow His sacrificial death)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 37
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 30 Jacob with Laban\n\n1. The sons of Bilhah: Dan and Naphtali (Genesis 30:1-8)\n\n2. The sons of Zilpah: Gad and Asher (Genesis 30:9-13)\n\n3. The children of Leah: Issachar, Zebulon and Dinah (Genesis 30:14-20)\n\n4. The birth of Joseph (Genesis 30:22-24)\n\n5. Jacob’s request to return (Genesis 30:25-26)\n\n6. Laban’s confession and Jacob’s prosperity (Genesis 30:27-43)\n\nLittle comment is needed on this. The avarice and deceit of Laban is matched by the dexterity and cunning of Jacob. Joseph’s birth marks an important event. It is then that Jacob said unto Laban, “Send me away that I may go unto mine own place and to my country.” All this is likewise typical. Rachel the first loved represents Israel; Leah, the Gentiles. The names Reuben, Simeon, Levi and Juda (see translations) tell out the story of His grace towards the Gentiles. Rachel, the barren, was remembered and gave birth to Joseph (adding), the one who was made great among the Gentiles and the deliverer of his brethren, and therefore the type of Christ. How interesting that Jacob thought at once of returning when Joseph had been born. But he had to wait six years more."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 31
+ }
+}

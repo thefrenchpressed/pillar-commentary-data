@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "V. THE OF THE SONS OF 10 Shem, Ham, and Japheth and Their Seed\n\n1. The sons of Japheth (Genesis 10:2-5)\n\n2. The sons of Ham (Genesis 10:6-20)\n\n3. The sons of Shem (Genesis 10:21-32)\n\nHere we have the beginning of the nations. God knows them and keeps track of the nations of the earth. The order of the sons of Noah is here changed. Japheth comes first. Ham’s place is unchanged. Shem comes last.\n\nThis order is given in view of Noah’s prophecy. Among the descendants of Ham we find Nimrod, a mighty hunter. His name means “Let us rebel.” Here also we find Babel mentioned for the first time. Babylon has for its founder “a mighty one in the earth-a mighty hunter.” Mentioned here for the first time Babylon is seen springing from the race which is under a curse, and having for its founder a mighty one in the earth, a second Cain. We have here the birth of Babylon, while the entire Bible, from now on to the eighteenth chapter of the “book of the Revelation of Jesus Christ,” gives us its development, its Satanic opposition to all that is from above, and its final great fall and destruction. Babylon! what a sinister word!\n\nBoth city and system, such as is seen in its finality in Rev. 17 and 18, are Satan’s stronghold.\n\nIt would be interesting to follow all these names and trace them in the Scriptures and in history. But this we cannot do."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 11
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "scofield",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "Hosea was a contemporary of Amos in Israel, and of Isaiah and Micah in Judah, and his ministry continued after the first, or Assyrian, captivity of the northern kingdom 2 Kings 15:29. His style is abrupt, metaphorical, and figurative.\n\nIsrael is Jehovah's adulterous wife, repudiated, but ultimately to be purified and restored. This is Hosea's distinctive message, which may be summed up in his two words, Lo-ammi, \"not my people,\" and Ammi, \"my people.\" Israel is not merely apostate and sinful--that is said also; but her sin takes its character from the exalted relationship into which she has been brought.\n\nThe book is in three parts:\n\nThe dishonoured wife, 1:1-3:5.\n\nThe sinful people, 4:1-13:8.\n\nThe ultimate blessing and glory of Israel, 13:9-14:9.\n\nThe events recorded in Hosea cover a period of 60 years (Ussher)",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "days -- i.e. of the 1260,1290, and 1335 days."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "my people -- \"My people\" is an expression used in the O.T. exclusively of Israel the nation. It is never used of the patriarchs, Abraham, Isaac, and Jacob. Matthew 2:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Israel -- \"Israel\" in Hosea means the ten tribes forming the northern kingdom as distinguished from \"Judah\" (the tribes of Judah and Benjamin) forming the southern kingdom which adhered to the Davidic family. (See) 1 Kings 12:1-21. The promise of verse 10 awaits fulfilment. See \"Israel\"; Genesis 12:2,3; Romans 11:26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HOS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DAN",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HOS",
+  "chapter": 2
+ }
+}

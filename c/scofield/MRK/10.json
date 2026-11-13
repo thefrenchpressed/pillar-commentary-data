@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "scofield",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "young -- little. Cf. Matthew 5:16"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "blessed them -- In Hebrew custom, a father's act. (Cf) Genesis 27:38\n\n\"He had no children that He might adopt all children.\"--Bengel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Why callest -- Par., Believing Me to be but a human teacher, why callest thou Me \"good,\" etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "astonished -- Or, amazed, i.e. as Jews: knowing that temporal prosperity was, to the Jew as such, a token of divine favour. e.g. Deuteronomy 28:1-12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "eye of -- It has been thought the reference here was to a postern door set in a gate of Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Then Peter -- Cf. See note 2, Matthew 19:27-30\n\n(See Scofield \"Matthew 19:28\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "life -- Or, soul. Cf. Isaiah 53:10,12 (Greek - ἀπόλλυμι,\" the soul or the essential life, not as commonly, \"zoe,\" the active life)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "And they -- Cf. (See Scofield \"Matthew 20:30\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "Lord -- Gr. \"Rabboni,\" my Master, a term of reverent love. Cf. John 20:16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 11
+ }
+}

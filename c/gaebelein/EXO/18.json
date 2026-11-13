@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "gaebelein",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 18 Moses and Jethro\n\n1. The coming of Jethro (Exodus 18:1-5)\n\n2. Moses’ and Jethro’s communion (Exodus 18:6-12)\n\n3. Jethro’s advice (Exodus 18:13-23)\n\n4. Moses’ action (Exodus 18:24-27)\n\nThis chapter concludes the first section of the second part of Exodus. We have in it a beautiful dispensational foreshadowing of things to come. God had redeemed Israel, delivered them from Pharaoh’s host, manifested His power and had given them victory. The priest of Midian, a Gentile, now comes, having heard all that Jehovah had done for Moses and for Israel, his people. Zipporah, Moses’ wife, and his two sons are with him. What a happy reunion.\n\nAnd there was praise unto Jehovah from the lips of the Gentile as well as burnt offering and sacrifices for God. It foreshadows what will take place when Israel is finally restored and delivered. Then the Gentiles will come and “many nations shall be joined unto the Lord in that day” (Zechariah 2:11). Read Jeremiah 16:14-21. First Jehovah’s power in the restoration of His scattered people is mentioned; then the coming of the Gentiles is announced. “The Gentiles shall come unto thee from the ends of the earth.”\n\nMoses judging, and the faithful men, fearing God, judging with him, may well remind us of that day, when He who is greater than Moses will judge the earth in righteousness. Then we shall have share with Him. “Do ye not know that the saints shall judge the world?” (1 Corinthians 6:2).\n\nwhat grace is and grace has done and will do is the most beautiful and precious revelation of Exodus up to the end of the eighteenth chapter. Jehovah took notice of the poor slaves. He heard their cry. He sent them a deliverer. He smote Egypt with great tribulation and judgment. He sheltered His people under the blood. He led them forth as His redeemed people. Their enemies perished through His power and He brought them through the Red Sea. He gave them bread from heaven and water out of the rock. Victory was on their side and the glory of His name extended to the Gentiles. But over our brief and imperfect annotations we have to write, “Not the half has been told.”\n\nExodus19:1-25\n\n2. At Sinai: The Covenant and the LawCHAPTER 19 Israel at Sinai and the Covenant\n\n1. Israel before Mount Sinai (Exodus 19:1-2)\n\n2. The covenant and calling of Israel stated (Exodus 19:3-6)\n\n3. The covenant accepted (Exodus 19:7-15)\n\n4. The glory of the Lord at Sinai (Exodus 19:16-25)\n\nSinai is mentioned 31 times in the Pentateuch and only three times more in the rest of the Old Testament. In the New Testament the word occurs only in Acts 7:30; Acts 7:38 and Galatians 4:24-25. The place where the law was given is a barren wilderness of high towering rocks. Moses went up to God and Jehovah reminded the people first of all of His gracious dealing with them. Then He revealed His purposes concerning them as a nation. They were to be His peculiar treasure above all people and to be unto Him a kingdom of priests and an holy nation.\n\nThis purpose is founded upon a theocracy, that is, He Himself would reign over them as King. For this He must ask obedience from them. How else could they be a kingdom of priests and a separated people, unless they harkened to His voice, and kept His covenant? But it is still the purpose of grace. Jehovah in His grace would make all this possible if they had received it. The law which followed, with its principle, obedience, as the place of blessing, never led to the realization of Israel ‘s calling, nor ever will.\n\nWhen at least Israel becomes the kingdom of priests, it will be through grace and not of works.\n\nIt was a fatal thing, which all the people did when they answered together, “all that the Lord hath spoken we will do.” It was a presumptuous declaration, which sprang from self-confidence and showed clearly that they had no appreciation for that grace which had visited them in Egypt and brought them hitherto. They had received grace, they needed grace. With the vow they had made, they had put themselves under the law. The legal covenant had its beginning with the rejection of the covenant of grace, and the legal covenant ends with the acceptance of grace. God permitted all this for a wise purpose. For what the law serves, why it was given, is fully answered in the New Testament (See Romans 7 and Galatians 3). In this we cannot enter here.\n\nAt once the scene changes. The character of the law they had chosen and its ministration unto death is manifested in the outward phenomena of clouds and darkness and in the first mention of death since they had left Egypt. “Whosoever toucheth the mount shall surely be put to death.” On the third day the glory of the Lord appeared. The thunderings, lightnings, the trumpet, the trembling of the mountain, the voice of God, which accompany the manifestation of Jehovah, may be traced throughout the Bible. All this will be repeated in His glorious second coming. (Deuteronomy 33:1-3; 1 Samuel 2:10; Psalms 18:7-16; Heb. 3; Revelation 10:4, etc.)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 19
+ }
+}

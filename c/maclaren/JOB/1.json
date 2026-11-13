@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "maclaren",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "SORROW THAT\n\nJob 1:21.\n\nThis book of Job wrestles with the problem of the meaning of the mystery of sorrow. Whether history or a parable, its worth is the same, as tortured hearts have felt for countless centuries, and will feel to the end. Perhaps no picture that was ever painted is grander and more touching than that of the man of Uz, in the antique wealth and happiness of his brighter days, rich, joyful, with his children round him, living in men’s honour, and walking upright before God. Then come the dramatic completeness and suddenness of his great trials. One day strips him of all, and stripped of all he rises to a loftier dignity, for there is a majesty as well as an isolation in his sorrow.\n\nHow many spirits tossed by afflictions have found peace in these words! How many quivering lips have tried to utter their grave, calm accents! To how many of us are they hallowed by memories of times when they stood between us and despair!\n\nThey seem to me to say everything that can be said about our trials and losses, to set forth the whole truth of the facts, and to present the whole series of feelings with which good men may and should be exercised.\n\nI. The vindication of sorrow.\n\nHe ‘rent his clothes’ -the signs and tokens of inward desolation and loss.\n\nIt is worth our while to stay for one moment with the thought that we are meant to feel grief. God sends sorrows in order that they may pain. Sorrow has its manifold uses in our lives and on our hearts. It is natural. That is enough. God set the fountain of tears in our souls. We are bidden not to ‘despise the chastening of the Lord.’ It is they who are ‘exercised’ thereby to whom the chastisement is blessed.\n\nIt is sanctioned by Christ. He wept. He bade the women of Jerusalem weep for themselves and for their children.\n\nReligion does not destroy the natural emotions-sorrow as little as any other. It guides, controls, curbs, comforts, and brings blessings out of it. So do not aim at an impossible stoicism, but permit nature to have its way, and look at the picture of this manly sorrow of Job’s-calm, silent, unless when stung by the undeserved reproaches of these three ‘orthodox liars for God,’ and going to God and worshipping.\n\nII. The recognition of loss and sorrow as the law of life.\n\n‘Naked came I out of my mother’s womb.’\n\nWe need not dwell on the figure ‘mother,’ suggesting the grave as the kindly mother’s bosom that gathers us all in, and the thought that perhaps gleams forth that death, too, is a kind of birth.\n\nBut the truth picturesquely set forth is just the old and simple one-that all possessions are transient.\n\nThe naked self gets clothed and lapped round with possessions, but they are all outside of it, apart from its individuality. It has been without them. It will be without them. Death at the end will rob us of them all.\n\nThe inevitable law of loss is fixed and certain. We are losing something every moment-not only possessions, but all our dearest ties are knit but for a time, and sure to be snapped. They go, and then after a while we go.\n\nThe independence of each soul of all its possessions and relations is as certain as the loss of them. They may go and we are made naked, but still we exist all the same. We have to learn the hard lesson which sounds so unfeeling, that we can live on in spite of all losses. Nothing, no one, is necessary to us.\n\nAll this is very cold and miserable; it is the standing point of law and necessity. An atheist could say it. It is the beginning of the Christian contemplation of life, but only the beginning.\n\nIII. The recognition of God in the law.\n\n‘The Lord gave, and the Lord hath taken away.’ That is a step far beyond the former. To bring in the thought of the Lord makes a world of difference.\n\nThe tendency is to look only at the second cause. In Job’s case there were two classes of agencies, men, Chaldeans and Sabeans, and natural causes, fire and wind, but he did not stop with these.\n\nThe grand corrective of that tendency lies in the full theistic idea, that God is the sole cause of all. The immanence of Deity in all things and events is our refuge from the soul-crushing tyranny of the reign of law.\n\nThat devout recognition of God in law is eminently to be made in regard to death, as Job does in the text: ‘The number of his months is with Thee.’ Death is not any more nor any less under His control than all other human incidents are. It has no special sanctity, nor abnormally close connection with His will, but it no more is exempt from such connection than all the other events of life. The connection is real. He opens the gate of the grave and no man shuts. He shuts, and no man opens.\n\nJob did not forget the Lord’s gifts even while he was writhing under the stroke of His withdrawings. Alas! that it should so often need sorrow to bear into our hearts that we owe all to Him, but even then, if not before, it is well to remember how much good we have received of the Lord, and the remembrance should not be ‘a sorrow’s crown of sorrow,’ but a thankful one.\n\nIV. The thankful resignation to God’s loving administration of the law.\n\nThe preceding words might be said with mere submission to an irresistible power, but this last sentence climbs to the highest of the true Christian idea. It recognises in loss and sorrow a reason for praise.\n\nWhy?\n\nBecause we may be sure that all loss is for our good.\n\nBecause we may be sure that all loss is from a loving God. In loss of dear ones, our gain is in drawing nearer to God, in being taught more to long for heaven. In our relation to them, a loftier love, a hallowing of all the past. Their gain is in their entrance to heaven, and all the glory that they have reached.\n\nThis blessing of God for loss is not inconsistent with sorrow, but anticipates the future when we shall know all and bless Him for all."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JOB",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EST",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JOB",
+  "chapter": 5
+ }
+}

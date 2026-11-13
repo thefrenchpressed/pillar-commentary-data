@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "scofield",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "builded -- Cf. Exodus 33:7-11. This arrangement for worship was temporarily called the \"tabernacle.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "eat and drink -- Symbol of communion. Cf. Luke 22:15-18. A blood-sprinkled people, see Hebrews 9:19-22 who had not yet broken the law could thus commune with God. Never again was this repeated. Cf. Exodus 24:9-11 with Leviticus 16:2 and Hebrews 9:6-8 But cf., under grace,; Ephesians 2:13; Hebrews 10:19,20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 25
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "9-10 Job Answers Bildad\n\n1. The supremacy and power of God (Job 9:1-10)\n\n2. How then can Job meet Him? (Job 9:11-21)\n\n3. He destroyeth the perfect and the wicked (Job 9:22-24)\n\n4. Confession of weakness and the need of a daysman (Job 9:25-35)\n\n5. Murmuring against God (Job 10:1-17)\n\n6. Welcoming death (Job 10:18-22)\n\nJob 9:1-10. The final words of Bildad seemed to have had a momentary soothing effect upon Job. Of a truth it is so. But here is the question, How can a man be just with God? And what a God He is! If a man contend in argument with Him, of a thousand things he could not answer one. Even if it is the wisest among men, and strongest, who stood up against Him, he did not prosper. He moveth and overturneth mountains; He makes the earth to tremble, bids the sun and it does not shine. He made the mighty constellations in the sky, Arcturus, Orion and Pleiades--\n\nWho doeth mighty things works, past finding out,\n\nAnd wondrous things, in number infinite.\n\nHow then can a man be just with such a God of power and greatness?\n\nJob 9:11-21. And such a Being Job declares is for him inaccessible.\n\nBehold, He passeth, but I see Him not,\n\nHe sweepeth by, but is invisible.\n\nLO, He doth seize; who then can hold Him back?\n\nOr who shall say to Him, What doest Thou?\n\nShould God at length His anger not avert,\n\nHelpers of pride must stoop beneath His hand\n\nHow then can I address and answer Him?\n\nOr choose my words in argument with Him?\n\nHow can Job confront such a one? Should he attempt to justify himself, his own mouth and lips would instantly condemn him; and if he were to say, I am perfect and blameless, He would only prove his perverseness.\n\nJob 9:22-24. But the words which follow sound almost like the ravings of a madman. He speaks out, but not in the fear of God. He assumes indifference and says that it is all the same to him, whether he is right or wrong, for God destroyeth the perfect and the wicked alike; in other words He is an unjust God. When the pestilential scourge marcheth through the land and slays suddenly, He but mocks at the innocent who are taken away. The earth is given by Him into the hands of the wicked; injustice reigns everywhere. If God has not done all this, who then is it? Horrible words these which must have been whispered in his despairing soul by that being who is as much the accuser of God to the brethren, as the accuser of the brethren before God.\n\nJob 9:25-35. Then he confesseth his impotence. His days are swiftly passing. He cannot clear himself. He expresses his fear that God will not hold him innocent; He will account him guilty. If then he is wicked all his labours are in vain.\n\nWhatever he does cannot change matters. Even if he bathed himself in water pure as snow, and washed his hands with soap, so as to be as clean as he never was before, yet God would surely plunge him into the ditch. All self-help, and self-improvement is in vain. But then a ray of light. He needs another to help him, to bring him in touch with God, to make him just with God. He calls for a daysman, an umpire, one that might lay His hand on God and on him, the sinner, so that the rod be taken from him and he be freed from fear.\n\nThe daysman we find later in this book foreshadowed. But He has come; Christ Jesus our Lord.\n\nJob 10:1-17. And now the darkest of all. Not so much is it the physical agony, the boils and running sores, torturing him, as it is the bitter consciousness that he is loosing hold on God, that he begins to look upon Him no longer as a loving friend, but as a harsh, unmovable tyrant. It is a death struggle through which he passeth. His soul is weary of his life and so he tells out the bitterness of his heart. What accusations are here!\n\nBold language indeed for the creature of the dust, and such an afflicted creature as he was--” I will say unto God--Show me wherefore Thou contend with me.” He charges God that He planned his calamity and destruction (Job 10:6-13). It is as if Job confesseth in his blindness by his words that he is in the hands of an all-powerful, merciless being, not a God of love and justice, but an enemy.\n\nJob 10:18-22. What then is the use of living? Oh, if he only had been carried from the womb to the grave!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 11
+ }
+}

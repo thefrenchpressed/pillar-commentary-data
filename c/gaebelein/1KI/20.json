@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "gaebelein",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. King Ahab: His Wicked Reign and EndCHAPTER 20 Ahab’s War with the Syrians and His Victory\n\n1. The siege and relief of Samaria (1 Kings 20:1-21)\n\n2. The victory at Aphek (1 Kings 20:22-34)\n\n3. A prophet’s symbolical action and his message (1 Kings 20:35-43)\n\nTwo expeditions of Ben-hadad (son of the Sun) against Israel are recorded in this chapter. When Ben-hadad forced the war and insulted the King of Israel, Ahab prepared for the battle. Then a prophet came to Ahab, most likely one of those who had been hidden by Obadiah. He brought a message from the Lord. “Thus saith Jehovah, Hast thou seen all this great multitude? behold I will deliver it into thine hand this day; and thou shalt know that I am Jehovah.” From this we may gather that a spiritual revival must have taken place in Israel after the manifestation of Jehovah on Carmel. Jezebel, after her rage on account of Elijah’s deed, is not mentioned again till after Ahab’s failure. The Lord in graciousness gave to Ahab another evidence that He is the Lord and can smite the enemies of Israel.\n\nThe Syrians were defeated. Another message came to Ahab through the prophet. A year later Ben-hadad made another expedition against Israel. “And there came a man of God, and spake unto the King of Israel, and said, Thus saith Jehovah, because the Syrians have said, The LORD is the God of the hills but not the God of the valleys, therefore will I deliver all this great multitude into their hand, and ye shall know that I am the LORD.” A great victory followed at Aphek. But Ahab let Ben-hadad, who had defied Jehovah, live. More than that, he treated him like a friend and brother, had him come into his chariot, and made a covenant with him. In showing such clemency to the enemy of God, Ahab revealed the state of his soul.\n\nHe had no heart for the Lord and was bound to follow his wicked ways.\n\nThen one of the sons of the prophets (Josephus saith it was Micaiah; 22:8) was commanded by the Lord to ask another prophet to smite him. The prophet refused the unquestioning obedience demanded from a prophet and therefore the judgment of God overtook him. The purpose of God in bringing the judgment message home to Ahab is carried out nevertheless. Then Ahab pronounced his own doom for showing leniency to Ben-hadad."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1KI",
+  "chapter": 21
+ }
+}

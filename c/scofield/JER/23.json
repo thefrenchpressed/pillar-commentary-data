@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "scofield",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "restoration -- This final restoration is shown to be accomplished after a period of unexampled tribulation Jeremiah 30:3-10 and in connection with the manifestation of David's righteous Branch Jeremiah 23:5 who is also Jehovah-tsidkenu Jeremiah 23:6. The restoration here foretold is not to be confounded with the return of a feeble remnant of Judah under Ezra, Nehemiah, and Zerubbabel at the end of the 70 years Jeremiah 29:10. At His first advent Christ, David's righteous Branch Luke 1:31-33 did not \"execute justice and judgment in the earth,\" but was crowned with thorns and crucified. Neither was Israel the nation restored, nor did the Jewish people say, \"The Lord our righteousness.\" Cf. Romans 10:3. The prophecy is yet to be fulfilled. Acts 15:14-17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "remnant -- (See Scofield \"Jeremiah 15:21\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Branch -- (See Scofield \"Isaiah 4:2\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 25
+ }
+}

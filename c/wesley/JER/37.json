@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 37,
+  "introduction": "The Egyptians raise the siege of the Chaldeans: and king Zedekiah sends to Jeremiah, to pray and inquire of the Lord for them, ver. 1-5. He prophesies the Chaldeans return and victory, ver. 6-10. He is apprehended for a fugitive, beaten, and put into prison, ver. 11-15. He assures Zedekiah of the captivity; and, entreating for liberty, obtains some favour, ver. 16-21.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And burn it - When God is resolved upon an effect, the instruments are little to be regarded. It is not the arm of flesh, but the power of God which is in that case to be considered."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Went forth - Jeremiah knowing the city would suddenly be taken, and that he could be no farther useful to the people, taking advantage of the withdrawing of the Chaldean army, resolves to go to his own country, to Anathoth, in the crowd of people that were going out."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Of Benjamin - The gate that looked toward the inheritance of that tribe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The dungeon - The Hebrew words signify some pit, or deep hole, where were some cells or apartments, in which they were wont to keep those whom they judged great malefactors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Is there - Hath God revealed any thing to thee, concerning the issue of the return of the Chaldean army."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 37
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 38
+ }
+}

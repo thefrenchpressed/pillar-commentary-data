@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "5. Solomon’s Prosperity and ActivitiesCHAPTER 8\n\n1. The fortifications of cities (2 Chronicles 8:1-6)\n\n2. The subjection of the strangers (2 Chronicles 8:7-10)\n\n3. The removal of the daughter of Pharaoh (2 Chronicles 8:11)\n\n4. The perfected service (2 Chronicles 8:12-16)\n\n5. The expedition to Ophir (2 Chronicles 8:17-18)\n\nThe activities of the King included the fortification of certain cities. (See 1 Kings 9.) First the cities are mentioned which Huram restored to Solomon. These are the cities which Solomon had previously given to him for security. 1 Kings 9:10-14 explains this statement which otherwise would be obscure. All the strangers, the Canaanites, dwelling in the land were put into subjection and had to pay tribute to Solomon. They were the servants. “But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains and captains of his horsemen and chariots.” it foreshadows the age in which all will be put in subjection under Him who will be King to rule in righteousness (Isaiah 32:1; Hebrews 2:8). Then His own people will serve Him, for they “shall be willing in the day of His power” (Psalms 110:3). The only mention made of the daughter of Pharaoh in Chronicles is in this chapter (verse 11).\n\nHe married her in the beginning of the reign. Her removal to the house Solomon had built for her now took place. On the typical meaning of Pharaoh’s daughter see 1 Kings 3:1. The worship in the house was then carried on in a perfect way. At the appointed times all was done and all David, the man of God, had commanded was carried out (verse 14). There was no departure from the commandment of the king, so the house of the Lord was perfected.\n\nIt foreshadows a perfect obedience and worship which the earth will see when the true King has come. Then, as it was in Solomon’s day, the King’s commandment will be the absolute rule for everything (verse 15)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 9
+ }
+}

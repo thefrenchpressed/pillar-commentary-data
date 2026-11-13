@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 54,
+  "introduction": "The blessings and fulness of the gospel-church, ver. 1-4. The Gentiles becoming Christ's spouse, to whom his love is everlasting, ver. 5-10. Her glories, ver. 11, 12. The gifts of the Holy Ghost, ver. 13. Her sure preservation, ver. 14-17",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sing - The prophet having largely discoursed of the sufferings of Christ, and of the blessed fruits thereof, and here foreseeing that glorious state of the church, he breaks forth into this song of triumph. And as the foregoing chapter literally speaks of Christ, so doth this of the church of Christ. This church, consisting at first of the Jews, and afterwards of the Gentiles, had been barren, 'till the coming of Christ. The desolate - The church of the Gentiles, which in the times of the Old Testament was desolate, does now bring forth to God a more numerous posterity than that of the Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Enlarge - That it may be capable of the Gentiles, who shall flock to thee in great numbers. Strengthen - That they may be able to support that great weight which the tents thus enlarged, shall be upon them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "For - Thou shalt bring forth a multitude of children; for this word is commonly used of any extraordinary propagation of living creatures. On the left - On every side, in all the parts of the world. Thy seed - Thy spiritual seed, the church of the New Testament, which is accounted Abraham's seed, or children."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Ashamed - For the barrenness and widowhood, which once was the matter of thy grief and shame. Forget - Thou shalt not be upbraided with thy former barrenness in thy youthful state."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Thy maker - Will own thee for his spouse. The Lord - Who hath the sovereign command of all men and creatures, and therefore can subdue the Gentiles to thee, and can make thee to increase and multiply in so prodigious a measure, even in thine old age, notwithstanding thy barrenness in the days of thy youth, of which he speaks in the foregoing verse. The God - The God and father of all nations, whereas formerly he was called only the God of Israel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Called thee - To return to him. As forsaken - When thou wast like a woman forsaken. And grieved - For the loss of her husband's favour. Of youth - As affectionately as an husband recalls his wife which he married in his youth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "For a moment - In comparison of God's everlasting kindness. Gather thee - From all the places where thou art dispersed, from all parts of the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "With everlasting kindness - With kindness to thee and thy seed through all succeeding generations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "This - This covenant of grace and peace made with thee shall be as certain and perpetual as that which I made with Noah, that there should never be another flood to drown the world. Wrath - So as to forsake thee utterly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The mountains - Shall sooner depart from their places than any kindness shall depart from thee. The covenant - That covenant whereby I have made peace and friendship with thee, and have promised to thee all manner of happiness. God will not cast off his Christian church, as he cast off the church of the Jews, the New covenant is established upon better and surer promises than the Old. The Lord - Who doth this not for thine own merits, but merely for his own grace and mercy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "O thou - Who hast been, in a most afflicted and comfortless condition. With sapphires - I will make thee exceeding beautiful and glorious, by a plentiful effusion of excellent gifts, and graces."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Agates - The proper signification of the Hebrew names of precious stones is unknown to the Jews themselves. It may suffice us to know that this was some very clear and transparent, and precious stone. Thy borders - The utmost parts or walls."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Taught - Not only outwardly by his word, but inwardly by his spirit. The peace - Inward peace arising from the clear discoveries of God's love and reconciliation to us, and wrought by the spirit of adoption, which is more abundantly given to believers under the gospel, than under the law. Outward peace, safety, and happiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Established - Thine affairs shall be managed with righteousness, which is the glory of any society. Oppression - Either by thine own governors, or by foreign powers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Behold - It is true some will combine and make an attempt against thee. But - Without any such commission from me, as Sennacherib and Nebuchadnezzar had."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The smith - Both the smith that makes warlike instruments, and the soldier that uses them, are my creatures, and totally at my command, and therefore they cannot hurt you without my leave. The waster - To destroy only whom and when I please."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Condemn - And I will deliver thee not only from the fury of war, but also from the strife of tongues. This - This blessed condition, is the portion allotted them by me. Righteousness - The reward of their righteousness. Of me - I give it, and I will continue it to them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 54
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 53
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 55
+ }
+}

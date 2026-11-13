@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "scofield",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "burden -- (See Scofield \"Isaiah 13:1\"), note 1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "because of him -- There seems to be a reference here to the advance and return of Alexander (Zechariah 9:13) after the battle of Issus, who subdued the cities mentioned in Zechariah 9:1-6, and afterward returned to Greece without harming Jerusalem. But the greater meaning converges on the yet future last days (See Scofield \"Acts 2:17\") as the last clause of verse Zechariah 9:8 shows, for many oppressors have passed through Jerusalem since the days of Alexander."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "behold, thy King -- The events following this manifestation of Christ as King are recorded in the Gospels. The real faith of the multitude who cried, \"Hosanna\" is given in Matthew 21:11 and so little was Jesus deceived by His apparent reception as King, that He wept over Jerusalem and announced its impending destruction (fulfilled A.D. 70; Luke 19:38-44. The same multitude soon cried, \"Crucify Him.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And I will cut off -- Having introduced the King in Zechariah 9:9,; Zechariah 9:10 and the verses which follow look forward to the end-time and kingdom. Except in verse 9, this present age is not seen in Zechariah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Marg\n\nprisoners -- Cf. Isaiah 24:17-23; Zechariah 9:21,23 fix the time as the day of the LORD. Revelation 19:11-21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Marg\n\nstrong hold -- See context, Zechariah 9:14. Also, Jeremiah 16:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEC",
+  "chapter": 10
+ }
+}

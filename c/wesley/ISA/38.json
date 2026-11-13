@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 38,
+  "introduction": "Hezekiah in his sickness receives from Isaiah a message of death, ver. 1. By prayer, ver. 2, 3. hath his life lengthened; the sun goeth backward for a sign thereof, ver. 4-8. His song of praise to God, ver. 9-20.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "I reckon - When I could not rest all the night even 'till morning, my thoughts were presaging that God would instantly break me to pieces, and the like thoughts followed me from morning 'till evening."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "By these - By thy promises, and thy performance of them; therefore it is not strange, that one word of God hath brought me back from the jaws of death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Praise - The dead are not capable of glorifying thy name among men upon earth. They cannot expect nor receive the accomplishment of thy promised goodness in the land of the living."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Was ready - Was a present help."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 38
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 39
+ }
+}

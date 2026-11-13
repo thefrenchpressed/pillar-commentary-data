@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "scofield",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "But Absalom fled, and went to Talmai -- 1 Samuel 27:8. David, in the years of his wanderings, made a savage raid upon Geshur, and evidently bore away Maacah, daughter of the king of Geshur. Of her was born Absalom, and in him was her wild Bedouin blood, and the blood of a father who had been the reckless chief of a handful of desperate men.; 2 Samuel 3:3; 23:8-39 and whom only the divine love could tame. 2 Samuel 22:36. In Absalom David reaped from his own sowing."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 14
+ }
+}

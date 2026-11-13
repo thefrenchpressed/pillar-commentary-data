@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 73,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "III. THE SECTION: BOOK THREE: Psalms 73-89\n\nThe third division of the book of Psalms corresponds in character to the third book of the Pentateuch, the book of Leviticus. That is the book of the Sanctuary, of Holiness. And this section, which is the shortest, also has the same character. Each Psalm brings the sanctuary of Israel in view, with the same prophetic-dispensational character as in the first two books. The Companion Bible gives the following division of the 17 Psalms: Psalms 73-89, The Sanctuary in Relation to Jehovah.\n\nPsalms of Asaph Concerning the Sanctuary (73-77) Psalms 73\n\nThe Problem of the Suffering of the Righteous\n\n1. The perplexity (Psalms 73:1-9)\n\n2. Departure from God (Psalms 73:10-14)\n\n3. The sanctuary and the solution (Psalms 73:15-28)\n\nEleven Psalms by Asaph open this Leviticus section. The clean heart is mentioned at once, and the assurance that truly God is good unto Israel and to those of clean heart. But here is the old question, the wicked prosper in spite of all their pride, their violence and corruption, while the righteous suffer. The prosperity of the wicked had an evil effect too upon the people, who departed from God. And Asaph’s steps had well nigh slipped, as some said, “Verily I cleaned my heart in vain and washed my hands in innocency.” Then he turns to the sanctuary and finds the solution. In the light of God and His holiness he sees their end.\n\nDesolation is coming upon them in a moment, they are utterly consumed with terrors. Then having had the vision of the sanctuary he grieves over his foolishness, like a beast which does not know God. But could there be more beautiful words than those in Psalms 73:23-26! Read and enjoy them. But the experience of Asaph will be the experience of the godly remnant."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 73
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 72
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 74
+ }
+}

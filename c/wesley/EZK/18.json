@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": "God reproves a corrupt proverb, ver. 1-4. It shall be well with the righteous, ver. 5-9. but ill with the wicked man, tho' he had a good father, ver. 10-13. It shall be well with a good man, tho' he had a wicked father, ver. 14-18. Therefore God is righteous, ver. 19-20. It shall be well with penitents, but ill with apostates, ver. 21-29. An exhortation to repentance, ver. 30-32.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The land of Israel - The two tribes, not the ten. The fathers - Our fore - fathers. Have eaten - Have sinned. The childrens - We their children, who were unborn, suffer for their sins."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Behold - There can be no colour of partial judgment in the proceedings of God, who is equally God to all. All souls - All persons. The soul - The person, whether father or son, shall die, shall bear his own punishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Hath not eaten - Hath not committed idolatry, offering sacrifice, and eating of the things sacrificed to idols; whose temples and altars were on mountains, chap. 20. &28. Hos 4:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Increase - Illegal interest. Iniquity - Injustice of every kind."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Shall live - Shall be delivered from famine, pestilence, and sword, and shall see good days."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "His blood - Heb. 'Tis plural, bloods; both the blood of the innocent which he murdered, and his own blood which thereby he forfeited; the blood of his own soul and life: that is the whole blame of his misery in time and eternity, shall lie upon himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Hath taken off - Withdrawn his hand from hurting or wronging the poor, tho' he had power to do it securely."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Shall not bear - This is a most unquestionable truth; and tho' perhaps it may seem otherwise in some cases, yet could we see perfectly the connexion between persons and persons; could we see the connexion of sins and sins, and how easily, secretly, and undiscerned men become guilty of the same sins, we should see father and son, though perhaps one of them might not do the evil, both guilty, and neither punished for the sin farther than if it was his own: nor do the scriptures, Exod 20:5 Deut 28:18, doom persons to punishment for sins from which they are wholly free; but if children shall follow their fathers in sin, then if they die for those sins, 'tis because these are their own, not as they are their fathers. The righteousness - It shall be well with the righteous, for he shall eat the fruit of his doing, he shall be rewarded as a righteous one. The wickedness - The reward of wickedness. \"The son shall not die, not die eternally, for the iniquity of the father, if he do not tread in the steps of it: nor the father for the iniquity of the son, if he do all he can to prevent it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Not mentioned - Not to him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The way - His whole management of affairs. Not equal - Not right, or consistent with his own declaration, and law."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "He shall surely live - \"That is, he shall be restored to the favour of God, which is the life of the soul.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Make you a new heart - Suffer me to do it in you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "I have no pleasure - Sinners displease God when they undo themselves; they please him when they return."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 19
+ }
+}

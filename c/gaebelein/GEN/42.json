@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 42 The First Visit of Joseph’s Brethren\n\n1. Joseph’s brethren sent to Egypt (Genesis 42:1-5)\n\n2. Joseph meets his brethren (Genesis 42:6-16)\n\n3. Put in prison for three days (Genesis 42:17)\n\n4. Joseph’s demand (Genesis 42:18-20)\n\n5. The accusing conscience (Genesis 42:21-23)\n\n6. Joseph weeps and Simeon bound (Genesis 42:24)\n\n7. The return of the nine (Genesis 42:25-38)\n\nThe famine years bring Joseph’s brethren to repentance and after the deepest exercise Joseph makes himself known to them and they find forgiveness and deliverance. Thus it will be during the tribulation of the last days of the present age. The remnant of Israel will pass through that time called “Jacob’s trouble” and be saved out of it. Then the Lord Jesus Christ will make Himself known to His brethren, according to the flesh.\n\nJoseph’s treatment of his brethren, whom he recognized, was harsh, so that they might be led to acknowledge their sin. And they readily confess their guilt on account of having sold their brother and take the harsh treatment and imprisonment they received as a just retribution. And Joseph understood all their words so that he wept. And He who was rejected by His own has a loving sympathy for this nation. Simeon remains behind; while Joseph demands Benjamin. The grief of Jacob is pathetic."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 43
+ }
+}

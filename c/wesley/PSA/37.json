@@ -1,0 +1,236 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 37,
+  "introduction": "David exhorts to patience and confidence in God, ver. 1-8. Shews the different state of the righteous and the wicked, ver. 9- 40. A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fret not - Because they prosper in their wicked enterprizes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Commit - All thy cares and business, and necessities, commend to God by fervent prayer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Judgment - It shall be as visible to men, as the light of the sun, at noon - day."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Rest - Do not repine at his dealings, but quietly submit to his will, and wait for his help."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Fret not - Either against the sinner for his success; or against God. Do evil - If grief arise in thee, take care that it do not transport thee to sin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The earth - This for the most part was literally fulfilled in that state of the church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Not be - He shall be dead and gone. Diligently - Industriously seeking him. His place - His place and estate, and glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "But - Those who patiently bear God's afflicting hand, and meekly pass by injuries. Peace - Partly of outward peace and prosperity, which God in his due time will give them: but principally of inward peace, in the sense of God's favour and the assurance of endless happiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "His day - The day appointed by God for his punishment or destruction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Knoweth - Observes with care and affection. The days - All things which befal them, their dangers and fears, and suffering. For ever - To them and their seed for ever: and when they die their inheritance is not lost, but exchanged for one infinitely better."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Fat - Which in an instant melts before the fire."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Established - So that he shall not fall into mischief."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Fall - Into trouble."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Forsaken - These temporal promises, were more express to the Jews in the times of the Old Testament, than to Christians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Blessed - Not only with spiritual, but with temporal blessings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Dwell - Thou shalt dwell in the land, and afterwards in heaven."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "The mouth - Having shewed, God's singular care over the righteous, he proceeds to give a character of them. Judgment - Of God's judgment, word or law."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Heart - His thoughts, meditations and affections are fixed upon it. Slide - Slide, or swerve, from the rule, from God's law."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Bay - tree - Which is continually green and flourishing even in winter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Yet - He was gone in an instant. But - There was no monument or remainder of him left."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Peace - Though he may meet with troubles in his way, yet all shall end well."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Together - All without exception."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 37
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 38
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "II. THE OF THE LAW, AND, AND CURSE\n\n1. The Proclamation of the DecalogueCHAPTERS 4:44-5:33\n\n1. The introductory words (Deuteronomy 4:44-49)\n\n2. The law proclaimed (Deuteronomy 5:1-21)\n\n3. Moses, the mediator (Deuteronomy 5:22-33)\n\nFirst a general announcement is given of the discourse on the law. The fact is emphasized, that it was set before them after they came forth out of Egypt. Then the victories over Sihon and Og are mentioned once more and that they now possessed their land. Why this repetition? It was to remind them of the goodness and faithfulness of Jehovah, whose law they were about to hear expounded. It was to be a helpful encouragement to them and stimulate their obedience, while it also was the pledge of greater victories and blessings to come. Jehovah would keep His promise.\n\nAll Israel is gathered about Moses. The aged servant, so soon to leave their midst, now solemnly begins to utter the main discourse, which composes this book. The first verse of the fifth chapter contains the four words, which are found so often in this book of moral responsibility and practical obedience. These words are “hear” (over thirty times); “learn” (seven times); “keep” (thirty-nine times); “do” (almost one hundred times). These are therefore characteristic words of this great book. They were to hear, and hearing to learn, and learning to keep, and keeping to do.\n\nAnd this is still Jehovah’s demand of us His people. All who have a spiritual nature love to have it so. What is more delightful and blessed, than to hear Him speak, to learn of Him, to keep His Word and to do what He tells us!\n\nJehovah had made a covenant with them, not with their fathers, the patriarchs. The law covenant was made 430 years after Abraham. Moses then speaks in their hearing the words of the Decalogue. The words differ somewhat from the twentieth chapter in Exodus, showing again that Deuteronomy is not a mechanical repetition of previous history. Higher criticism with its confused and confusing theories has made the best of this difference. Upon this difference critics claim that Moses could not have been the author of both.\n\nSays a critic: “Indeed he could not have written either in its present form, because that in Exodus is Jehovistic, and older than the record in Deuteronomy” (Dr. Davidson). Such an assertion simply shows the blindness of these men of supposed learning and scholarship. Anyone can see that the records in Exodus and Deuteronomy differ. We do not need scholarship for that. The mysterious person, whom the critics call “Deuteronomist” certainly possessed the record in Exodus and could have easily copied the exact words.\n\nBut why is there a difference? Exodus gives the history; Deuteronomy does not repeat that history, but in restating the Decalogue, Moses makes such comments which are in perfect keeping with the object of Deuteronomy. If Deuteronomy claimed to be a literal repetition of the history recorded in Exodus and Numbers, then one might speak of discrepancy.\n\n“Deuteronomy proves that we have here a grave and instructive reference to the commandments formally given in the second book of Moses. Such moral motives as are added are therefore as appropriate in Deuteronomy as they could not, ought not to, be in Exodus. The remembrance of their own estate as slaves in Egypt till delivered by Jehovah is most suitable in verse 15; but it is certain that this is an appeal to their hearts, not the ground stated by God in promulgating the fourth commandment. All is perfect in its own place, and the imputation of self contradiction as baseless as it is malicious and irreverent. But one must only expect this from men whose aim is to reduce the inspired writers to their own level, and who think that piety can co-exist with fraud, yea, with fraudulent falsehood about God.”\n\nMoses left out purposely certain statements he uttered when the law was given through him in Exodus; and he added by way of comment other words in fullest keeping with the moral purpose of his message to the people. This is most evident in connection with the commandment to keep the Sabbath-day holy. In Exodus 20 we find the words “for in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day; wherefore the LORD blessed the Sabbath-day and hallowed it.” This reference to creation is omitted now by Moses, but he adds another spiritual motive to keep that day. “And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm; therefore, the LORD thy God commanded thee to keep the Sabbath-day” (verse 15). We see at once that the characteristic of Deuteronomy is maintained. The people are reminded of the faithfulness and goodness of Jehovah, His gracious dealing with them, and that is made the ground of their responsibility to obey His Word. See in connection with the Sabbath Exodus 31:12-17.\n\nIt was a sign between Jehovah and Israel. We refer the reader to our remarks on the Sabbath in the analysis of Exodus.\n\nMoses then confirms the record in Exodus. “And He wrote them in two tables of stone, and delivered them unto me.” They possessed them. Moses was also appointed as mediator, the type of Him, who is mediator between God and man, our Lord Jesus Christ. And He has done more than Moses did; He made atonement. The people had recognized their sinful distance from God as well as their merited condemnation (that which is the purpose of the law), and therefore had asked for the mediator. Note verse 29: Jehovah speaks, the One who searches the heart and knows what is in man. Absolute obedience is again demanded in the closing verses of this chapter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 6
+ }
+}

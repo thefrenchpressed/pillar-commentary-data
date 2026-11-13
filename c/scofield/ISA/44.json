@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Jesurun -- i.e. upright. Symbolical name of Israel. Deuteronomy 32:15; 33:5,26"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "redeemed -- Heb. \"goel,\" Redemp. (Kinsman type). (See Scofield \"Isaiah 59:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "redeemed -- Heb. \"goel,\" Redemp. (Kinsman type). (See Scofield \"Isaiah 59:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "redeemed -- Heb. goel, Redemp. (Kinsman type). (See Scofield \"Isaiah 59:20\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Cyrus -- Cf. 1 Kings 13:2 where Josiah was mentioned by name three hundred years before his birth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 45
+ }
+}

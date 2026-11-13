@@ -1,0 +1,146 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "scofield",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "glorify -- Seven petitions:\n\n(1) That Jesus may be glorified as the Son who has glorified the Father (John 17:1), Philippians 2:9-11.\n\n(2) for restoration to the eternal glory (John 17:5);\n\n(3) for the safety of believers from\n\n(a) the world (John 17:11) (b) the evil one (John 17:15);\n\n(4) for the sanctification of believers (John 17:17);\n\n(5) for the spiritual unity of believers (John 17:21);\n\n(6) that the world may believe (John 17:21);\n\n(7) that believers may be with Him in heaven to behold and share His glory (John 17:24)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "give eternal life -- Christ's gifts to those whom the Father gave Him: Eternal life John 17:2; the Father's name (John 17:6,26; 20:17), the Father's words (John 17:8,14)); His own joy (John 17:13); His own glory (John 17:22).\n\ngiven him -- Seven times Jesus speaks of believers as given to Him by the Father (John 17:2,6,9,11,12,24). Jesus Christ is God's love-gift to the world (John 3:16), and believers are the Father's love-gift to Jesus Christ. It is Christ who commits the believer to the Father for safe keeping, so that the believer's security rests upon the Father's faithfulness to His Son Jesus Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. John 17:14,16; 7:7. (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. John 18:36; 7:7, (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "world -- kosmos = world-system. John 18:36; 7:7. (See Scofield \"Revelation 13:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "perfect -- (See Scofield \"Matthew 5:48\").\n\nworld -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 18
+ }
+}

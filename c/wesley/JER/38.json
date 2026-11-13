@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 38,
+  "introduction": "Jeremiah prophesies; is by the princes, with the king's permission, cast into a dungeon; but is by Ebed-melech, with the king's consent, taken out again, ver. 1-13. He has a secret conference with the king, in which he counsels him by yielding, to save his life, ver. 14-23. By the king's command he conceals the conference from the princes, ver. 24-27. He abides in prison 'till Jerusalem is taken, ver. 28.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "For the king - I see I am as it were no king. I can do nothing against you, you will do what you please."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Thirty men - Probably the king commanded Ebed - melech to take thirty men to guard him against any opposition."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Lest they - Lest the Chaldeans should deliver me into the hands of those Jews which have fallen to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The women - Thou that art afraid of the insultings of men, shalt fall under the insultings of the women. Thy friends - For this thou mayest thank thy priests, and false prophets. And they - Have forsaken thee, every one shifting for himself."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 38
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 39
+ }
+}

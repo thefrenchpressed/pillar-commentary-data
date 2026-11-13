@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 6\n\n1. The call to the children of Benjamin (Jeremiah 6:1-8)\n\n2. Corruption and the deserved judgment (Jeremiah 6:9-26)\n\n3. The prophet addressed (Jeremiah 6:27-30)\n\nJeremiah 6:1-8. The children of Benjamin are exhorted to flee for safety on account of the evil from the north. There were probably among the Benjamites God-fearing men. Those who heeded the call fled and escaped. It is a warning message which follows: “Be thou instructed, O Jerusalem, let my soul depart from thee; lest I make thee desolate, a land not inhabited.” But they heeded it not.\n\nJeremiah 6:9-26. They did not hear because they had uncircumcised ears, neither had they delight in the Word of the Lord. How true this is today of the great mass of professing Christians! The Lord will now no longer restrain His fury; He will pour it out upon them. Covetousness, the love of money, as it is in our day, was the controlling passion. Prophet and priest dealt falsely; their one message, like the one message of the prophet and priest today, was peace, peace, when there was no peace. Then once more the judgment from the north is announced (Jeremiah 6:18-26).\n\nJeremiah 6:27-30. In the final paragraph of this chapter the Lord speaks intimately to the prophet. He is encouraged and strengthened. He is set as a tower and as a fortress. What a position of honor! May we consider it as we are as His believing people surrounded by the flood of apostasy; that we, too, are called to be a tower and fortress."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 7
+ }
+}

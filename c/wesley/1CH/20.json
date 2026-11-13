@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "wesley",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": "Rabbah is taken, ver. 1-3. The Philistine giants are slain, ver. 4-8.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "To weigh a talent - Or, to be worth a talent, that is, five thousand four hundred and seventy five pounds."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "They fell, &c - We need not fear great men against us, while we have the great God for us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 21
+ }
+}

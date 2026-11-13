@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "gaebelein",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Childbirth Laws and Inherited SinCHAPTER 12\n\n1. The man-child (Leviticus 12:1-4)\n\n2. The maid-child (Leviticus 12:5)\n\n3. The offerings (Leviticus 12:6-8)\n\nThe childbirth laws as contained in this chapter are full of meaning. The woman is constituted unclean by the birth of a child. When a man-child was born, she was to be unclean for seven days, and her purification was to end thirty-three days after that; forty days after childbirth. In case of the birth of a maid-child the days of uncleanness were just double, fourteen and sixty-six. But why was this? The key to the spiritual meaning of this chapter is found in this very fact. “Adam was not deceived, but the woman being deceived was in the transgression” (1 Timothy 2:14).\n\nIt was by the woman that the fall was brought about through the Serpent. The facts that sin is in the world, how it came into the world and that sin is inherited, transmitted from generation to generation, are made known in this brief chapter. The woman is constituted unclean because she is a sinful creature. Her sorrow and pain in childbirth, which no science nor discovery can remove, is a definite witness to the truth as contained in the third chapter of Genesis. And because she is a sinful creature and unclean, her offspring too is sinful and unclean, for “who can bring a clean thing out of an unclean?” What later David expressed, when he stood in the light, confessing his sin, is here seen in the childbirth laws. “Behold I was shapen in iniquity; and in sin did my mother conceive me” (Psalms 51:5) And one well may think here of her who was a sinful woman like every other woman, but who conceived by the Holy Spirit, Mary, the virgin. The One born of her had no sin, but is “that holy thing” called the Son of God (Luke 1:35).\n\non the eighth day the male child was to be circumcised. Both “circumcision” and “the eighth day” are of spiritual significance. The eighth day is the type of resurrection, the new creation. Circumcision is given in the New Testament in its true meaning. See Romans 6:6; Colossians 2:11; Philippians 3:3. This indicates the manner in which God hath dealt with inherited sin in the cross of His blessed Son, our Saviour and Lord. Then follows the commandment concerning the offerings, when the days of purification were ended. It was for both the male and the female, the same offering, a lamb and a young pigeon or turtle dove. “And if she be not able to bring a lamb, then she shall bring two turtles or two young pigeons.” Read and compare with Luke 2:22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LEV",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LEV",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LEV",
+  "chapter": 13
+ }
+}

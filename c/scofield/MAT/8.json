@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "scofield",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "behold, there came a leper -- The King, having in Chapters 5.-7. declared the principles of the kingdom, makes proof, in Chapters 8., 9., of His power to banish from the earth the consequences of sin, and to control the elements of nature.\n\nLord -- Gr. Kurios. The first occurrence of the word is applied to Jesus with His evident sanction. In itself the word means \"master,\" and is so used of mere human relationships in, e.g. Matthew 6:24; 15:27; Mark 13:35; Ephesians 6:9 Both uses, divine and human, are brought together in Colossians 4:1. It is the (Greek - ἀθέμιτος Heb). \"Adonai.\" (See Scofield \"Genesis 15:2\"), and is so used by Jesus Christ in Matthew 22:43-35. In the N.T. the distinctive uses of Kurios (Lord) are:\n\n(1) As the N.T. translation of the Heb. Jehovah (Lord), e.g. Matthew 1:20,22; 2:15; 3:3; 4:7,10; 11:25; 21:9; Mark 12:29,30; Luke 1:68; 2:9\n\n(2) Jesus Himself so uses Kurios, e.g. Matthew 4:7,10; 11:25; Mark 12:11.\n\n(3) But the great use of Kurios is as the divine title of Jesus, the Christ. In this sense it occurs in the N.T. 663 times. That the intent is to identify Jesus Christ with the O.T. Deity is evident from Matthew 3:3; 12:8; 21:9; Psalms 118:26; Matthew 22:43-45; Luke 1:43; John 8:58; 14:8-10; John 20:28; Acts 9:5; 13:33. (Psa.2.). (See Scofield \"John 20:28\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "centurion -- A Roman commander of 100 men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "heaven -- kingdom, (See Scofield \"Matthew 3:2\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "possessed -- (Greek - δαιμονίζομαι - \"demonized\"). (See Scofield \"Matthew 7:22\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Ezekiel 2:1\"). Our Lord thus designates Himself about eighty times. It is His racial name as the representative Man, in the sense of 1 Corinthians 15:45-47 as Son of David is distinctly his Jewish name, and Son of God His divine name. Our Lord constantly uses this term as implying that his mission (e.g.); Matthew 11:19; Luke 19:10. His death and resurrection (e.g.); Matthew 12:40; 20:18; 26:2 and His second coming (e.g.); Matthew 24:37-44; Luke 12:40 transcended in scope and result all merely Jewish imitations. When Nathanael confesses him as \"King of Israel,\" our Lord's answer is, \"Thou shalt see greater things... the angels of God ascending and descending upon the Son of man.\" When His messengers are cast out by the Jews, His thought leaps forward to the time when the Son of man shall come, not then to Israel only but to the race; Matthew 10:5,6; 8:23. It is in this name, also, that universal judgment is committed to Him John 5:22,27. It is also a name indicating that in Him is fulfilled the O.T. foreview of blessing through a coming man. See Scofield \"Genesis 1:26\"; Genesis 3:15; 12:3; Psalms 8:4; 80:17; Isaiah 7:14; 9:6,7; 32:2; Zechariah 13:7; Isaiah 32:2; Zechariah 13:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "possessed -- (Greek - δαιμονίζομαι - \"demonized\"). (See Scofield \"Matthew 7:22\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "devils -- demons. (See Scofield \"Matthew 7:22\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 9
+ }
+}

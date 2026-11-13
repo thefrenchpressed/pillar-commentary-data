@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "scofield",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Jupiter -- Latin for Gr. Zeus, the national god of the Greeks.\n\nMercurius -- Gr. Hermes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "ordained -- (Greek - μάγος, to designate by stretching out (or pointing with) the hand)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 15
+ }
+}

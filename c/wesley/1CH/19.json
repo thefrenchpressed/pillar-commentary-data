@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "wesley",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": "David's friendly message to king Hanun, ver. 1, 2. Hanun's base usage of his ambassadors, ver. 3-5. The Ammonites prepare for war, ver. 6, 7. David overthrows them and the Syrians, ver. 8- 19.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Chariots - Thirty two thousand men, who fought partly from chariots, and partly on foot with chariots, or attending upon the chariots, as the ancient manner of fighting was."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "His servants - Let those who have in vain stood it out against God, be thus wise for themselves. Let them become his servants; for they are undone, if they remain his enemies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 20
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": "This psalm is a celebration of God's great goodness to him, and all his people. In it there are some passages which cannot belong to Christ, and some which do not properly belong to David, or to that time and state of the church, but only to Christ, and to the times of the New Testament. He praises God for delivering him out of deep distress, ver. 1-5. Thence takes occasion to speak of the work of our redemption by Christ, ver. 6- 10. Prays for mercy and grace both for himself and for his brethren, ver. 11-17. To the chief musician, A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Pit - Desperate dangers and calamities. Rock - A place of strength and safety. Established - Kept me from falling into mischief."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "And fear - Shall stand in awe of that God, whom they see to have so great power, either to save or to destroy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "The proud - Or, the mighty, the great and proud potentates of the world, to whom most men are apt to look and trust. Turn - From God, in whom alone they ought to trust. To lies - To lying vanities, such as worldly power and wisdom, and riches, and all other earthly things, or persons, in which men are prone to trust: which are called lies, because they promise more than they perform."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Many - This verse seems to be interposed as a wall of partition, between that which David speaks in his own person, and that which he speaks in the person of the Messiah, in the following verses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Sacrifice - These and the following words, may in an improper sense belong to the time of David; when God might be said, not to desire or require legal sacrifices comparatively. Thou didst desire obedience rather than sacrifices, but in a proper sense, they belong only to the person and times of the Messiah, and so the sense is, God did not desire or require them, for the satisfaction of his own justice, and the expiation of mens sins, which could not possibly be done by the blood of bulls or goats, but only by the blood of Christ, which was typified by them, and which Christ came into the world to shed, in pursuance of his father's will, as it here follows, ver.7,8. So here is a prediction concerning the cessation of the legal sacrifice, and the substitution of a better instead of them. Opened - Heb. bored. I have devoted myself to thy perpetual service, and thou hast accepted of me as such, and signified so much by the boring of mine ears, according to the law and custom in that case, Exod 21:5,6. The seventy Jewish interpreters, whom the apostle follows, Heb 10:5, translate these words, a body hast thou prepared me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Them - These words literally and truly belong to Christ, and the sense is this; seeing thou requirest a better sacrifice than those of the law, lo, I offer myself to come, and I will in due time come, into the world, as this phrase is explained in divers places of scripture, and particularly Heb 10:5, where this place is expressly applied to Christ. Volume - These two words, volume and book are used of any writing, and both express the same thing. Now this volume of the book is the law of Moses, which is commonly and emphatically called the book, and was made up in the form of a roll or volume, as the Hebrew books generally were. And so this place manifestly points to Christ, concerning whom much is said in the books of Moses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "I delight - This is eminently true, of Christ, and is here observed as an act of heroic obedience, that he not only resolved to do, but delighted in doing the will of God, or what God had commanded him, which was to die, and that a most shameful, and painful, and cursed death. My heart - I do not only understand it, but receive it with heartiest love, delighting both to meditate of it, and to yield obedience to it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Righteousness - Thy faithfulness. Great congregation - In the most public and solemn assemblies: not only to the Jews, but also to all nations; to whom Christ preached by his apostles, as is observed Eph 2:17. Not refrained - From preaching it, even to the face of mine enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "With - hold not - David, having been transported by the spirit of God to the commemoration of the great mystery of the Messiah, he now seems to be led back by the same spirit, to the consideration of his own case."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Taken hold - Mens sins are figuratively said to take hold of them, as an officer takes hold of a man whom he arrests. To look - Unto God or men, with any comfort: I am ashamed and confounded."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Shame - Their sinful and shameful actions."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 41
+ }
+}

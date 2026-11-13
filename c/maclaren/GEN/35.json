@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "maclaren",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A VOW\n\nGenesis 35:1.\n\nThirty years at least had passed since Jacob’s vow; ten or twenty since his return. He is in no haste to fulfil it, but has settled down at Shechem and bought land there, and seems to have forgotten all about Bethel.\n\n1. The lesson of possible negligence.\n\n\\ We are apt to forget vows when God has fulfilled His side of them. Resolutions made in time of trouble are soon forgotten. We pray and think about God more then than when things go well with us. Religion is in many men’s judgment for stormy weather only.\n\n\\ We are often more resolved to make sacrifices in the beginning of our Christian course than afterwards.\n\nMany a brilliant morning is followed by cloudy day.\n\nYouth is often full of enthusiasms which after-days forget.\n\n2. The reasons for the negligence.\n\nJacob felt a gradual fading away of impressions of need. He was comfortably settled at Shechem. He was surrounded by a wild, godless household who cherished their idols, and he knew that if he went to Bethel idolatry must be given up.\n\n3. The essentials to communion and service.\n\nSurrender. Purity. Must bury idols under oak.\n\n4. The reward of sacrifice and of duty discharged.\n\nThe renewed appearance of God. The confirmation of name Israel. Enlarged promises. So the old man’s vision may be better than the youth’s, if he lives up to his youthful vows."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "GEN",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "GEN",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "GEN",
+  "chapter": 37
+ }
+}

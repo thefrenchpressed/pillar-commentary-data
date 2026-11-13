@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "gaebelein",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. David’s Song of DeliveranceCHAPTER 22\n\n1. The praise of Jehovah (2 Samuel 22:1-4)\n\n2. The sorrows of the past (2 Samuel 22:5-7)\n\n3. God’s presence and intervention (2 Samuel 22:8-20)\n\n4. Reward and approval (2 Samuel 22:21-28)\n\n5. The judgment of the enemies (2 Samuel 22:29-43)\n\n6. The exaltation above the adversaries (2 Samuel 22:44-49)\n\n7. The praise of Jehovah (2 Samuel 22:50-51)\n\nIt would take many pages to give an exposition of this great song which in the Book of Psalms, with a few changes, is known as Psalms 18. He uttered these words through the Spirit of the Lord. “The Spirit of the LORD spake by me and His word was in my tongue” (2 Samuel 23:2). It is therefore a great prophetic utterance. The song takes us beyond David and his experience. His sufferings and deliverances are indicated, but they are but prophetic of Him, whose sufferings and whose victory are foreshadowed in David’s life and experience. The great deliverance psalm includes therefore prophetically the story of David’s greater Son, our Lord Jesus Christ.\n\nIn verses 5-7 we have David’s suffering when an exile, persecuted by Saul; prophetically the suffering of Christ, who was compassed by the waves of death and who was plunged beneath these dark waves and saved out of death. Verses 8-20 describe the intervention.\n\nNothing in the life of David could be made to fit this; but being a prophetic utterance there is no difficulty to trace here the resurrection of Christ, who was brought forth into a large place (verse 20). “He delivered me, for He delighted in Me” can only be truthfully applied to Christ. And all looks forward to a still greater intervention and manifestation of God. Verses 21-28 equally can only be true of our Lord. “For I have kept the ways of the Lord, and have not wickedly departed from my God.” It is impossible to say that David spoke of himself. The history we have traced gives a far different story. But every word is true if we think of David’s Son, our Lord. And the judgment and exaltation described in the closing stanzas of this song will be realized in Him into whose hands the Father has committed all judgment.\n\nHe will be “the head of the nations” and a people will serve Him (verses 44-45). That David had before his heart the great covenant-promise (chapter 7) and that his vision was enlarged so that he beheld “His Anointed” and His coming manifestation and kingdom becomes sufficiently clear in the last two verses of the song."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2SA",
+  "chapter": 23
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "wesley",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Then the high priest and the chief of the Jews appeared against Paul - In so long a time their rage was not cooled. So much louder a call had Paul to the Gentiles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "But Festus answered - So Festus's care to preserve the imperial privileges was the means of preserving Paul's life. By what invisible springs does God govern the world! With what silence, and yet with what wisdom and energy!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Let those of you who are able - Who are best able to undertake the journey, and to manage the cause. If there be any wickedness in him - So he does not pass sentence before he hears the cause."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Not more than ten days - A short space for a new governor to stay at such a city as Jerusalem. He could not with any convenience have heard and decided the cause of Paul within that time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Bringing many accusations - When many accusations are heaped together, frequently not one of them is true."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "While he answered - To a general charge a general answer was sufficient."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Art thou willing to go up to Jerusalem - Festus could have ordered this without asking Paul. But God secretly overruled the whole, that he might have an occasion of appealing to Rome."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "I am standing at Cesar's judgment seat - For all the courts of the Roman governors were held in the name of the emperor, and by commission from him. No man can give me up - He expresses it modestly: the meaning is, Thou canst not. I appeal to Cesar - Which any Roman citizen might do before sentence was passed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The council - It was customary for a considerable number of persons of distinction to attend the Roman governors. These constituted a kind of council, with whom they frequently advised."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Agrippa - The son of Herod Agrippa, Acts 12:1; and Bernice - His sister, with whom he lived in a scandalous familiarity. This was the person whom Titus Vespasian so passionately loved, that he would have made her empress, had not the clamours of the Romans prevented it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Desiring judgment against him - As upon a previous conviction, which they falsely pretended."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "It is not the custom of the Romans - How excellent a rule, to condemn no one unheard! A rule, which as it is common to all nations, (courts of inquisition only excepted,) so it ought to direct our proceedings in all affairs, not only in public, but private life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Such things as I supposed - From their passion and vehemence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "But had certain questions - How coldly does he mention the things of the last importance! And about one Jesus - Thus does Festus speak of Him, to whom every knee shall bow! Whom Paul affirmed to be alive - And was this a doubtful question? But why, O Festus, didst thou doubt concerning it? Only because thou didst not search into the evidence of it. Otherwise that evidence might have opened to thee, till it had grown up into full conviction; and thy illustrious prisoner have led thee into the glorious liberty of the children of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "With the tribunes and principal men of the city - The chief officers, both military and civil."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ACT",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ACT",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ACT",
+  "chapter": 26
+ }
+}

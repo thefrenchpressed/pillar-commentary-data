@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "wesley",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": "Jehoshaphat is established in his kingdom, ver. 1-3. His piety, ver. 4-6. He sends Levites to teach Judah, ver. 7-9. His influence over his neighbours, ver. 10, 11. His greatness, captains and armies, ver. 12-19.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Sought not, &c. - It is true, he recovered from that fall. \"Yet perhaps, says Mr. Henry, he never, while he lived, fully retrieved the spiritual strength he lost by it.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Brought presents - As subjects in those times used to do to their kings, as a token of their respect and subjection to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Lifted up - Above all discouragements, and fears. He was valiant and resolute for God and his ways. Groves - Those wherein idols were worshipped, and though Asa had done this before, yet either he did not do it thoroughly; or the Jews (who were many of them mad upon their idols) had secretly made new ones, in the latter part of his reign, when he grew more infirm in body, and more remiss in God's cause."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "To teach - To inform the people of their duty, and of the king's pleasure, as judges teach or instruct the people in the laws of the land, when they deliver their charges upon the bench; so did these princes in the king's name admonish and require the people to observe and obey the laws of God, which were the municipal laws of that land: the particular explication and enforcement whereof, they left to the Levites and priests here following, who were sent for this end, and accordingly taught the people, ver.9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "And they taught, &c. - And these itinerant judges and itinerant preachers together, Mr. Henry observes were instrumental to diffuse a blessed light throughout the cities of Judah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Fear fell - Justly concluding from his singular piety that God would eminently appear for him, for even the Heathens could not but observe, that the kings of Judah were either prosperous or unhappy, according as they served God or forsook him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Business - To repair and fortify them, and furnish them with provisions: and to purge out all their relicks of idolatry and injustice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Waited - These above - mentioned were the trained bands or auxiliaries: whose chief officers waited on the king to receive his commands, and to raise, and bring in all, or part of their forces, to the service of the king as need required. A vast number for so small a compass of ground, to furnish out and maintain. But we may consider, that God had promised to make the seed of Abraham like the sand of the sea for number; that there had now been a long peace; that many were come to them from the kingdom of Israel and that Jehoshaphat was under a special blessing of God. They were doubtless dispersed all the country over, every one residing on his own land: only they were ready at call, whenever there was occasion."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 18
+ }
+}

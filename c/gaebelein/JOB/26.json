@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 26Job’s Reply\n\n1. A sarcastic beginning (Job 26:1-4)\n\n2. Job also knows and can speak of the greatness of God (Job 26:5-14)\n\nJob 26:1-4. You have helped me greatly, Bildad, me, who am without power. Whom dost thou instruct anyway? And what kind of a spirit is it which speaks through thee? In other words he means to say, I have no more use for your argument at all.\n\nJob 26:5-14. But let me, Bildad, tell you something about the greatness of God before which your words pale into nothing. And so he utters a description of God’s greatness which is indeed greater than Bildad’s. And after this sublime unfolding of God’s greatness and power, he truthfully says:\n\nLo, these are but the outlines of His ways\n\nA whisper only do we hear of Him\n\nBut who can comprehend the thunder of His power?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 27
+ }
+}

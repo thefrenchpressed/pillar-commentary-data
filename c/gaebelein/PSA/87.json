@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 87,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Zion and Its Coming Glories\n\nAnother Korah Psalm. Zion is the object of Jehovah’s love where He will manifest His glory. Glorious things are spoken of the city of God. This we learn from many visions of the prophets. When these prophecies are fulfilled and the glory has come, then Rahab (pride--Egypt) and Babylon shall know, as well as Philistia, Tyre and Cush. Nations will be born again and turn to the Lord and share the blessings of the kingdom. Then the singers will sing “All my springs are in Thee,” in Him who dwelleth in Zion. The Christian believer gives now this testimony and knows its blessed truth, that Christ is all and in Him we have all our resources. But what will it be when nations with Zion shall know this!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 87
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 86
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 88
+ }
+}

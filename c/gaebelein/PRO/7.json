@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 7\n\nThe entire chapter is a continuation of the strange woman and the warning against her. The Word and the law of the Lord will keep the obedient son from her. If Solomon had obeyed the Word of God, not to multiply wives (Deuteronomy 17:17) his end would not have been spent in the degrading fellowship with the harlots of other nations. The description is very graphic. What the word pictures is as prominent in the great centers of Christendom as it was thousands of years ago in Babylon and Egypt. And so it is still true:\n\nShe hath cast down many wounded;\n\nYea, many strong men have been slain by her.\n\nHer house is the way to hell,\n\nGoing down to the chambers of death.\n\nBut think of Solomon after having received these inspired descriptions and warnings, that he should have been forgetful of them all."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 8
+ }
+}

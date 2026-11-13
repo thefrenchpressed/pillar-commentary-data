@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "wesley",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": "Directions given to Joshua concerning Jericho, ver. 1-5. The people compass the city seven days, ver. 6-14. The taking it, with the charge to destroy it utterly, ver. 15-21. The preservation of Rahab and her relations, ver. 22-25. A curse pronounced on any that should rebuild it, ver. 26, 27.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Round about the city once - At a convenient distance, out of the reach of their arrows. Six days - Every day once. This and the following course might seem ridiculous and absurd, and is therefore prescribed by God, that they might learn to take new measures of things, and to expect success not from their own valour, or skill, but merely from God's appointment and blessing; and in general, not to judge of any of God's institutions by mere carnal reason, to which divers of their ceremonies would seem no less foolish than this action."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The wall - Not all of it; which was unnecessary, and might have given the people better opportunity of escaping, but only a considerable part of it, where the Israelites might fitly enter: for Rahab's house was not overthrown, ver.22. Flat - Heb. under it, it was not battered down with engines which would have made part of it fall out of its place; but it fell of its own accord, and therefore in the place it did formerly stand in. God chose this way, to try the faith and obedience of the people: whether they would observe a precept, which to human policy seemed foolish, and believe a promise, which seemed impossible to be performed: whether they could patiently bear the reproaches of their enemies, and patiently wait for the salvation of God. Thus by faith, not by force, the walls of Jericho fell down."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Of rams horns - Of the basest matter, and the dullest sound, that the excellency of the power might be of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Him that is armed - God would have them armed both for the defense of themselves and the ark, in case the enemies should make a sally upon them, and for the execution of the Lord's vengeance upon that city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The rereward - Which being opposed to the armed men, may seem to note the unarmed people, who were desirous to be spectators of this wonderful work."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Ye shall not shout - Because shouting before the time appointed, would be ineffectual, and so might give them some discouragement, and their enemies matter of insulting."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Shout - To testify your faith in God's promise, and thankfulness for this glorious mercy; to encourage yourselves and brethren, and to strike a terror into your enemies. Given you the city - It is given to them, to be devoted to God, as the first, and perhaps the worst of all the cities of Canaan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Accursed - That is, devoted to utter destruction. This he speaks by direction from God, as is evident from 1Kings 16:34. To the Lord - Partly because the first - fruits were appropriated to God; partly lest the soldiers being glutted with the spoil of the rich city, should grow sluggish in their work; and partly to strike the greater terror into the rest of their enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "A curse - By provoking God to punish them for your sin, in which they may be one way or other involved; or the whole camp having sins of their own, God might take what occasion he saw fit to inflict this punishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Vessels of brass and iron - Except that of which images were made, which were to be utterly destroyed. Unto the Lord - Being first made to pass through the fire, Numb 31:22,23. Treasury of the Lord - To be employed wholly for the uses of the tabernacle, not to be applied to the use of any private person or priest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Young and old - Being commanded to do so by the sovereign Lord of every man's life; and being informed by God before that the Canaanites were abominably wicked, and deserved the severest punishments. As for the infants, they were guilty of original sin, and otherwise at the disposal of their creator; but if they had been wholly innocent, it was a great favour to them to take them away in infancy, rather than reserve them to those dreadful calamities which those who survived them were liable to."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Harlot's house - Which together with the wall upon which it leaned, was left standing, by a special favour of God to her."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Without the camp of Israel - 'Till they were cleansed from the impurities of their Gentile state, and instructed in the Jewish religion, and solemnly admitted into that church, for which Rahab's good counsel and example had doubtless prepared them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The harlot olive - For that general command of rooting out the Canaanites seems to have had some exception, in case any of them had sincerely and seasonably cast off their wickedness, and submitted to the Israelites."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Adjured them - Or, made them to fear; caused the people, or some in the name of all, to swear for the present and succeeding generations, and to confirm their oath by a curse. Before the Lord - That is, from God's presence, and by his sentence, as they are said to cast lots before the Lord, Josh 18:8,10, that is, expecting the design from God. He intimates, that he doth not utter this upon a particular dislike of that place, but by divine inspiration. God would have the ruins of this city remain as a standing monument of God's justice against this wicked and idolatrous people, and of his almighty power in destroying so great and strong a city by such contemptible means. Buildeth - That is, that shall attempt to build it. So this curse is restrained to the builder, but no way belongs to those who should inhabit it after it was built, as is evident from 2Kings 4:18 Luke 19:1,5. In his youngest son - That is, he shall lose all his children in the work, the first at the beginning, others in the progress of it by degrees, and the youngest in the close of it, when the gates use to be set up. This was fulfilled, 1Kings 16:34."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The word of the Lord was with him - (So the Chaldee:) Even Christ himself, the same that was with Moses. Nothing makes a man appear more truly great, than to have the evidences of God's presence with him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 7
+ }
+}

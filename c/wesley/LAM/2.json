@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LAM",
+  "commentaryId": "wesley",
+  "name": "Lamentations",
+  "commonName": "Lamentations",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": "Jeremiah laments the misery of Jerusalem, and its causes, and their enemies derision, ver. 1-17. An exhortation to true sorrow and repentance, and a fervent prayer, ver. 18-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "His footstool - His temple; but suffered the Chaldeans to destroy it. Cast down - That is, thrown them down from the highest glory and honour, to the meanest degree of servitude."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Polluted - Dealt with them as with a polluted thing; cast them off, brake them in pieces."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The horn - All their beauty and strength. Drawn back - God hath drawn back his assistance which he was wont to give the Jews against their enemies. Round about - God consumed them, not in this or that part, but round about, as a fire seizing an house at once on all sides."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "He - That is, God, (whom by their sins they had provoked and made their enemy) behaved himself as an enemy. And slew - All their young men, and maidens who were pleasant to look upon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "His tabernacle - His temple. The places - The synagogues. The king - By the king and the priests are meant persons of greatest rank and eminency, though it is thought here is a special reference to Zedekiah the king of Judah, and Seraiah who was the high priest; the former of which was miserably handled, the latter slain."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "They - The enemies with their triumphs and blasphemies, made as great a noise, as those that sang holy songs, or played on instruments, were wont to make to the glory of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "The wall - The strength and security of the Jews. A line - Artificers used with lines not only to mark out places for building, but also for destruction, to direct them what to cut off; and such a line is here meant."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Among the Gentiles - In miserable captivity. The law - Is no more read, opened or observed. Her prophets - They had but very few prophets, from this time to the time of the gospel, and very few of those at this time alive had any revelation from God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The virgins - The whole city is in a mournful posture."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Mine eyes - This whole verse is but expressive of the prophets great affliction for the miseries come upon the Jews. He wept himself almost blind. Bowels - His passion had disturbed his bodily humours, that his bowels were troubled. Liver - His gall lying under his liver. All these are expressions of great affliction and sorrow. Swoon - During the famine, occasioned by the long siege."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Bosom - When they died in their mother's arms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Who - There was no people whose condition was in any degree parallel to the misery of the Jews: nor was there any cure for them, their breach was like a sea breach where the waters come in with such a torrent, that there is no making any defence against them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The prophets - False prophets told you vain stories. Not discovered - Whereas they ought to have made you sensible of your sins, and this might have prevented your captivity. False burdens - False stories to encourage you in sin, and so cause your banishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "O wall - That is, those that are upon it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Whom - Not the Heathen, but to thy own people. Women - Wilt thou suffer women to satisfy their hunger with the fruit of their own bodies?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "My terrors - As my people were wont to be called together from all parts in a solemn day, so now my terrible enemies, or terrible things are by thee called together."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Analysis and Annotations\n\nI. BEFORE THE FALL OF\n\nA. judgment Predictions Concerning Jerusalem (1-24) 1:1-3:14 The Vision of Glory and the Call of the Prophet\n\n1. The introduction (Ezekiel 1:1-3)\n\n2. The vision of glory (Ezekiel 1:4-28)\n\n3. Ezekiel’s call and commission (Ezekiel 2:1-8)\n\n4. The roll eaten and the repeated commission (Ezekiel 2:9-10; Ezekiel 3:1-14)\n\nEzekiel 1:1-3. The introductory words give us the time when Ezekiel was among the captives by the river Chebar. Four things are mentioned by Ezekiel, who is evidently the author of this book, for he uses the personal pronoun--the heavens were opened--he saw visions of God--the word of the Lord came unto him--the hand of the Lord was upon him. Ezekiel is the only prophet in the Old Testament of whom it is said that he saw the heavens opened. Four times the New Testament mentions opened heavens Matthew 3:16; John 1:51; Revelation 4:1; Revelation 19:11. He then saw the visions of God concerning His governmental dealings with His people Israel.\n\nThen the hand of the Lord was also upon him when the word of the Lord had come unto him. Notice the order: An opened heaven, a vision, the call, and enablement by the power of God. Such is still the order for the servants of the Lord. The phrase, “The hand of the LORD was upon him,” or came upon me, is found seven times in Ezekiel, in Ezekiel 1:3; Ezekiel 3:14 and Ezekiel 3:22; Ezekiel 8:1; Ezekiel 23:22; Ezekiel 37:1; Ezekiel 40:1.\n\nEzekiel 1:4-28. Then he had his great and wonderful vision, which is repeatedly mentioned in his book. We find it mentioned again in chapters 10 and 11, where it is seen departing from Jerusalem. Its return is promised in connection with the great millennial temple after the Lord’s return (chapter 43). The vision is the vision of the glory of the Lord (Ezekiel 1:28), The vision comes from the north, for a storm cloud of divine indignation from the north (Babylon) was to burst over the house of Judah. The whirlwind, the cloud, and the fire Ezekiel beheld are symbols of glory, the divine presence and judgment. (See Psalms 18:8-13; Habakkuk 3:1-19; Jeremiah 4:12-31).\n\nThe vision then indicated the presence of the God of Israel and His glory, ready to deal in judgment with His apostate people. The living creatures are the same as mentioned and seen in Revelation 4:6-9.\n\nThey are the cherubim, not fictitious creatures or symbols, but real beings. Their position is in connection with the throne. But upon the throne there was one who had the likeness as the appearance of a man. And this man was enshrouded in glory, with the rainbow about him. All this shows forth the glory of Him who is God’ vision, glory and presence, the Son of God. It anticipates the Lord Jesus Christ, His exaltation upon the throne, government and judgment resting in His hands, who is now the Man in the glory. While the cherubim with their fourfold faces also symbolize the Lord Jesus, here in this vision they are seen in connection with judgment. It is the same in Revelation Revelation 6:1-17; Revelation 15:7.\n\nAnd then the wheels and their work. In them was the spirit of these great creatures; the rims of the wheels (not rings) were full of eyes. There was an orderly movement of these wheels. The wheels are on the chariot upon which rested the throne of God. They show forth and symbolize the purposes of God in the execution of His inerrant governmental dealings on earth. God controls it all, and His Spirit directs every movement. Much that is ridiculous has been written on this, and some would-be expositors claim that Ezekiel beheld an acroplane.\n\n“Intelligence, strength, stability and swiftness in judgment, and, withal, the movement of the whole course of earthly events, depended on the throne. This living energy animated the whole. The cherubic supporters of the throne, full of eyes themselves, moved by it; the wheels of God’s government moved by the same spirit, and went straight forward. All was subservient to the will and purpose of Him who sat on the throne judging right. Majesty, government and providence united to form the throne of His glory. But all the instruments of His glory were below the firmament; He whom they glorified was above” (Synopsis of the Bible)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LAM",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 2
+ }
+}

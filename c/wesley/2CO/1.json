@@ -1,0 +1,227 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "wesley",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "IN this epistle, written from Macedonia, within a year after the former, St. Paul beautifully displays his tender affection toward the Corinthians, who were greatly moved by the seasonable severity of the former, and repeats several of the admonitions he had there given them. In that he had written concerning the affairs of the Corinthians: in this he writes chiefly concerning his own; but in such a manner as to direct all he mentions of himself to their spiritual profit. The thread and connection of the whole epistle is historical: other things are interwoven only by way of digression. It contains,\n\nI.The inscription, C.i. 1, 2\n\nII.The treatise itself.\n\n1. In Asia I was greatly pressed; but God comforted me; as I acted uprightly; even in this, that I have not yet come to you; who ought to obey me, Cii. 11\n\n2. From Troas I hastened to Macedonia, spreading the gospel everywhere, the glorious charge of which I execute, according to its importance, Cvii. 1\n\n3. In Macedonia I received a joyful message concerning you, 2-16\n\n4. In this journey I had a proof of the liberality of the Macedonians, whose example ye ought to follow, C.viii.1-C.ix.15\n\n5. I am now on my way to you, armed with the power of Christ. Therefore obey, C.x 1-C.xiii.10 The conclusion 11-13\n\n2nd CORINTHIANS",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Timotheus our brother - St. Paul writing to Timotheus styled him his son; writing of him, his brother."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Blessed be the God and Father of our Lord Jesus Christ - A solemn and beautiful introduction, highly suitable to the apostolical spirit. The Father of mercies, and God of all comfort - Mercies are the fountain of comfort; comfort is the outward expression of mercy. God shows mercy in the affliction itself. He gives comfort both in and after the affliction. Therefore is he termed, the God of all comfort. Blessed be this God!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Who comforteth us in all our affliction, that we may be able to comfort them who are in any affliction - He that has experienced one kind of affliction is able to comfort others in that affliction. He that has experienced all kinds of affliction is able to comfort them in all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "For as the sufferings of Christ abound in us - The sufferings endured on his account. So our comfort also aboundeth through Christ - The sufferings were many, the comfort one; and yet not only equal to, but overbalancing, them all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "And whether we are afflicted, it is for your comfort and salvation - For your present comfort, your present and future salvation. Or whether we are comforted, it is for your comfort - That we may be the better able to comfort you. Which is effectual in the patient enduring the same sufferings which we also suffer - Through the efficacy of which you patiently endure the same kind of sufferings with us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "And our hope concerning you - Grounded on your patience in suffering for Christ's sake, is steadfast."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "We would not have you ignorant, brethren, of the trouble which befell us in Asia - Probably the same which is described in the nineteenth chapter of the Acts. Acts 19:1 The Corinthians knew before that he had been in trouble: he now declares the greatness and the fruit of it. We were exceedingly pressed, above our strength - Above the ordinary strength even of an apostle."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Yea, we had the sentence of death in ourselves - We ourselves expected nothing but death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "We trust that he will still deliver - That we may at length be able to come to you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "You likewise - As well as other churches. Helping with us by prayer, that for the gift - Namely, my deliverance. Bestowed upon us by means of many persons - Praying for it, thanks may be given by many."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "For I am the more emboldened to look for this, because I am conscious of my integrity; seeing this is our rejoicing - Even in the deepest adversity. The testimony of our conscience - Whatever others think of us. That in simplicity - Having one end in view, aiming singly at the glory of God. And godly sincerity - Without any tincture of guile, dissimulation, or disguise. Not with carnal wisdom, but by the grace of God - Not by natural, but divine, wisdom. We have had our conversation in the world - In the whole world; in every circumstance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Ye have acknowledged us in part - Though not so fully as ye will do. That we are you rejoicing - That ye rejoice in having known us. As ye also are ours - As we also rejoice in the success of our labours among you; and we trust shall rejoice therein in the day of the Lord Jesus."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "In this confidence - That is, being confident of this."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Did I use levity - Did I lightly change my purpose? Do I purpose according to the flesh - Are my purposes grounded on carnal or worldly considerations? So that there should be with me yea and nay - Sometimes one, sometimes the other; that is, variableness and inconstancy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Our word to you - The whole tenor of our doctrine. Hath not been yea and nay - Wavering and uncertain."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "For Jesus Christ, who was preached by us - That is, our preaching concerning him. Was not yea and nay - Was not variable and inconsistent with itself. But was yea in him - Always one and the same, centering in him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "For all the promises of God are yea and amen in him - Are surely established in and through him. They are yea with respect to God promising; amen, with respect to men believing; yea, with respect to the apostles; amen, with respect to their hearers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "I say, to the glory of God - For it is God alone that is able to fulfil these promises. That establisheth us - Apostles and teachers. With you - All true believers. In the faith of Christ; and hath anointed us - With the oil of gladness, with joy in the Holy Ghost, thereby giving us strength both to do and suffer his will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Who also hath sealed us - Stamping his image on our hearts, thus marking and sealing us as his own property. And given us the earnest of his Spirit - There is a difference between an earnest and a pledge. A pledge is to be restored when the debt is paid; but an earnest is not taken away, but completed. Such an earnest is the Spirit. The first fruits of it we have Rom 8:23; and we wait for all the fulness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "I call God for a record upon my soul - Was not St. Paul now speaking by the Spirit? And can a more solemn oath be conceived? Who then can imagine that Christ ever designed to forbid all swearing? That to spare you I came not yet to Corinth - Lest I should be obliged to use severity. He says elegantly to Corinth, not to you, when be is intimating his power to punish."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Not that we have dominion over your faith - This is the prerogative of God alone. But are helpers of your joy - And faith from which it springs. For by faith ye have stood - To this day. We see the light in which ministers should always consider themselves, and in which they are to be considered by others. Not as having dominion over the faith of their people, and having a right to dictate by their own authority what they shall believe, or what they shall do; but as helpers of their joy, by helping them forward in faith and holiness. In this view, how amiable does their office appear! and how friendly to the happiness of mankind! How far, then, are they from true benevolence, who would expose it to ridicule and contempt!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CO",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CO",
+  "chapter": 2
+ }
+}

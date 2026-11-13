@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 61,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 61\n\nThe King, Jehovah’s Messenger: His People and their Salvation Song of Solomon 1. Jehovah’s Messenger and His work (Isaiah 61:1-5) 2. His people a kingdom of priests and their work (Isaiah 61:6-9) 3. The salvation song (Isaiah 61:10) 4. The blessings of the whole earth (Isaiah 61:11 Luke 4:1-44 tells us that the Lord Jesus Christ applied the opening verses to Himself. The destructive criticism denies both the Isaiah authorship of this chapter and its messianic application.\n\nThe satanic origin of this kind of criticism is here fully exposed. But our Lord did not quote the whole of verse 2. He only read up to “the acceptable year of the Lord.” This sentence marks the work He did in His first advent. The day of vengeance is introduced by His second advent. The results of His second coming are described in the verses which follow. Then Israel will be the kingdom of priests and a holy nation Exodus 19:1-25).\n\nThey will sing the song of salvation (Isaiah 61:10). Righteousness and praise will follow."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 61
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 60
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 62
+ }
+}

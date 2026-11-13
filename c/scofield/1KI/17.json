@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "scofield",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Elijah -- Heb. \"Elijahu,\" Luke 1:17; 4:25 called Elias.\n\nAhab -- It was a small thing for a man whose life was passed in Jehovah's presence to stand before Ahab."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Zarephath -- called Sarepta, Obadiah 1:20; Luke 4:26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1KI",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1KI",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1KI",
+  "chapter": 18
+ }
+}

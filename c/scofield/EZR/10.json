@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "scofield",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "ninth month -- i.e. December."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "tenth month -- i.e. January."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "first month -- i.e. April."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Machnadebai -- Or, Mabnadebai, according to some copies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZR",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NEH",
+  "chapter": 1
+ }
+}

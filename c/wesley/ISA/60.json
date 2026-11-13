@@ -1,0 +1,218 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 60,
+  "introduction": "The glory and blessing of the new church after a short affliction, ver. 1-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Arise - A word of encouragement accommodated to the Jewish, or Hebrew style, wherein, as by lying down, is described a servile and calamitous condition, chap.47:1, so by rising, and standing up, a recovery out of it, into a free, and prosperous one, as may be seen frequently; Rouze up, intimating her deliverance to be at hand. Here under a type, of Jerusalem's restoration, is displayed the flourishing state of the Gentile - church, under the Messiah. Thy light - Thy flourishing and prosperous state."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The darkness - All kinds of errors. The Lord - Christ. Shall be seen - Shall be conspicuous; as the Lord's arising, to the darkness covering the earth, so the glory being seen, answers to that gross darkness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The Gentiles - A plain prophecy of the calling of the Gentiles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "See - With delight the multitudes of thy children running to thee. Flow - They shall flock together to behold such an amazing sight. Fear - Or stand amazed. Enlarged - Both with joy, and love. The abundance - The islands of the sea, the nations, shall turn to thee in religion, and affection. The forces - Or wealth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The multitude - The treasure, that is brought upon camels. By these, and such like figurative expressions in several verses of this chapter is implied the coming in of all nations to Christ, and therefore they are brought in as presenting the chief commodities of their respective countries. Dromedaries - A smaller sort of camel. Ephah - The Midianites, and Ephahites dwelt beyond Arabia. Sheba - A country in Arabia Felix, whose queen it was, that came to visit Solomon, and her bringing gifts might be a type of this, Solomon being a type of Christ. Gold - The principal commodities with which this country abounded, by which we are to understand whatever is precious."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Kedar - Arabia Petrea. Acceptance - They shall not now, as heretofore, be rejected. The house - The temple, or my house: God shall become glorious by the multitude of sacrifices, that shall be offered, and accepted here. This is a type of how glorious his New Testament worship shall be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "A cloud - These metaphors import the number as well as speed, of those that should be begotten by the apostles doctrine."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Ships - To convey them to me. Tarshish - Those that traffick by sea. In naming this he implies all that had commerce with other nations. From far - From the remotest parts. Glorified - He will make thee honourable in the eyes of the world, especially in setting up the ministry of the gospel in the midst of thee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Minister - Shall administer all necessaries to thee. I had mercy - As I afflicted thee in my anger, so out of my compassion I will abundantly bless thee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Therefore - For that purpose; by reason of the conflux of people, that shall be continually flocking thither."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Serve - That will not submit to Christ's scepter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The glory - The box, the fir, the pine, and the cedar, on account whereof Lebanon was so famous; kings and great ones, the glory of the world, and also persons of a lower rank, shall be the materials, and members of Christ's church. To beautify - This is the reason and end why the glory of Lebanon is to be brought hither; by these trees understand the beauty, and nobility of the church. Sanctuary - The temple wherein was the sanctuary. The place of my feet - The ark, so called, because, supposing God after the manner of men, to sit between the wings of the cherubim, his feet would rest upon the ark. All this is made good in the gospel - church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The sons - Either their posterity, or themselves, for it is the manner of the Hebrews so to speak. Bending - Humbling themselves, as penitents. Call thee - They shall acknowledge her to be so."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Forsaken - Both of God and of her inhabitants. No man went - Thy streets were left desolate."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Shalt suck - That the church shall draw, or receive the wealth of nations, and the riches, and power of kings, and whatever is most excellent, and that it shall come freely, and affectionately, as milk flows from the breast of the mother."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "For brass - An allusion to the days of Solomon, when gold was as brass. Peace - Loving, meek, and peaceable. Righteousness - Most righteous. Such even thy tax - gatherers shall be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Salvation - They shall be safe, and able to defend thee; thou shalt be as safe, as salvation itself can make thee. Thy gates - Within and upon thy gates and walls, thou shalt sing praises. All this will be fulfilled during the thousand years wherein Christ shall reign upon earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The sun - These shall not be esteemed in comparison of the spiritual light of the church; but here laid down for the churches comfort as the former was for her safety, so that God will not only be a shield, but a sun. The Lord - Christ shall scatter all darkness and ignorance, and this light shall not wax, and wane, and suffer eclipses, and settings, as the sun and moon do, but shall be constant, without shadow of change. The glory - Always ministering matter of glorying in him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The branch - Thy people being of my planting, the work of my hands."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "In time - In due time, the time that I have appointed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 60
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 59
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 61
+ }
+}

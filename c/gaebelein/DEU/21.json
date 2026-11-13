@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "17. The Expiation of an Uncertain Murder and Various InstructionsCHAPTER 21\n\n1. The expiation of an unknown murder (Deuteronomy 21:1-9)\n\n2. Concerning a wife, who had been a prisoner of war (Deuteronomy 21:10-14)\n\n3. The right of the firstborn (Deuteronomy 21:15-17)\n\n4. The punishment of a rebellious son (Deuteronomy 21:18-21)\n\n5. The burial of one who hanged on a tree (Deuteronomy 21:22-23)\n\nThe expiation of an unknown murder seems to find an interesting application in the case of the nation itself. Bloodguiltiness is upon them for they cried “His blood be upon us and upon our children.” And the nation has suffered as the result of it. But there is a full expiation coming through Him who prayed for them on the cross, “Father, forgive them for they know not what they do.” He died for them as the heifer (the type of Christ) died in the rough valley (the type of His deep humiliation) for the unknown murder. Then the prayer in verse 8 will be graciously answered, when Israel turns to the Lord in the day of His manifestation. “Be merciful, O LORD, unto Thy people Israel, whom Thou hast redeemed, and lay not innocent blood unto Thy people of Israel’s charge. And the blood shall be forgiven them.”\n\nThe woman captive desired by an Israelite for a wife could not be one of the Canaanitish races for they were to be all slain; but other Gentiles are meant. She was to be mercifully protected. Polygamy is taken in consideration in verses 15-17 and a law is given in view of it to guard against an abuse in favor of a beloved wife. The son of the hated wife, if he is the firstborn, cannot be defrauded of his birthright; he must receive the double portion. If we look deeper we shall find here too the dispensational lesson concerning Israel’s relation to Jehovah. Israel has been the unfaithful wife, but she will be reinstated in due time and receive the blessing promised unto her.\n\nThe stubborn and rebellious son, who is to be stoned to death, is but another type of the finally disobedient in Israel. While in the future the penitent and believing remnant of Israel will be reinstated in Jehovah’s favor and inherit the glorious things promised to them, the apostate part of that nation, going on in self-will and rebellion, will be cut off in judgment. The prophetic Word predicts such a stubborn and rebellious condition among the great mass of that people before the Lord comes. But the same judgment also falls upon the rebellious, disobedient among the Gentiles, those who profess to be children of God, but their disobedience shows that they are not.\n\nThe close of this remarkable chapter plainly refers to our blessed Lord and His work on the cross. Galatians 3:13 quotes verse 23 and applies it to the Lord Jesus."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 22
+ }
+}

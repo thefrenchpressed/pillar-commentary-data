@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "maclaren",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "GOD’ S\n\nDeuteronomy 7:9.\n\n‘Faithful,’ like most Hebrew words, has a picture in it. It means something that can be \\ leant on, or \\ builded on.\n\nThis leads to a double signification-\\ trustworthy, and that because \\ rigidly observant of obligations. So the word applies to a steward, a friend, or a witness. Its most wonderful and sublime application is to God. It presents to our adoring love-\n\nI. God as coming under obligations to us.\n\nA marvellous and blessed idea. He limits His action, regards Himself as bound to a certain line of conduct.\n\n1. Obligations from His act of creation.\n\n‘A faithful Creator,’ bound to take care of those whom He has made. To supply their necessities. To satisfy their desires. To give to each the possibility of discharging its ideal.\n\n2. Obligations from His past self.\n\n‘God is faithful by whom ye were called,’ therefore He will do all that is imposed on Him by His act of calling.\n\nHe cannot begin without completing. There are no abandoned mines. There are no half-hewn stones in His quarries, like the block at Baalbec. And this because the divine nature is inexhaustible in power and unchangeable in purpose.\n\n3. Obligations from His own word.\n\nA revelation is presupposed by the notion of faithfulness. It is not possible in heathenism. ‘Dumb idols,’ which have given their worshippers no promises, cannot be thought of as faithful. By its grand conception of Jehovah as entering into a covenant with Israel, the Old Testament presents Him to our trust as having bound Himself to a known line of action. Thereby He becomes, if we may so phrase it, a constitutional monarch.\n\nThat conception of a Covenant is the negation of caprice, of arbitrary sovereignty, of mystery. We know the principles of His government. His majestic ‘I wills’ cover the whole ground of human life and needs for the present and the future. We can go into no region of life but we find that God has defined His conduct to us there by some word spoken to our heart and binding Him.\n\n4. Obligations from His new Covenant and highest word in Jesus Christ.\n\n‘He is faithful and just to forgive us our sins.’\n\nII. God as recognising and discharging these obligations.\n\nThat He will do so comes from His very nature. With Him there is no change of disposition, no emergence of unseen circumstances, no failure or exhaustion of power.\n\nThat He does so is matter of fact. Moses in the preceding context had pointed to facts of history, on which he built the ‘know therefore’ of the text. On the broad scale the whole world’s history is full of illustrations of God’s faithfulness to His promises and His threats. The history of Judaism, the sorrows of nations, and the complications of national events, all illustrate this fact.\n\nThe personal history of each of us. The experience of all Christian souls. No man ever trusted in Him and was ashamed. He wills that we should put Him to the proof.\n\nIII. God as claiming our trust.\n\nHe is faithful, worthy to be trusted, as His deeds show.\n\nFaith is our attitude corresponding to His faithfulness. Faith is the germ of all that He requires from us. How much we need it! How firm it might be! How blessed it would make us!\n\nThe thought of God as ‘faithful’ is, like a precious stone, turned in many directions in Scripture, and wherever turned it flashes light. Sometimes it is laid as the foundation for the confidence that even our weakness will be upheld to the end, as when Paul tells the Corinthians that they will be confirmed to the end, because ‘God is faithful, through whom ye were called into the fellowship of His Son’ \\. Sometimes there is built on it the assurance of complete sanctification, as when he prays for the Thessalonians that their ‘whole spirit and soul and body may be preserved blameless unto the coming of our Lord’ and finds it in his heart to pray thus because ‘Faithful is He that calleth you, who will also do it’ \\. Sometimes it is presented as the steadfast stay grasping which faith can expect apparent impossibilities, as when Sara ‘judged Him faithful who had promised’ \\. Sometimes it is adduced as bringing strong consolation to souls conscious of their own feeble and fluctuating faith, as when Paul tells Timothy that ‘If we are faithless, He abideth faithful; for He cannot deny Himself’ \\. Sometimes it is presented as an anodyne to souls disturbed by experience of men’s unreliableness, as when the apostle heartens the Thessalonians and himself to bear human untrustworthiness by the thought that though men are faithless, God ‘is faithful, who shall establish you and keep you from evil’ \\.\n\nSometimes it is put forward to breathe patience into tempted spirits, as when the Corinthians are comforted by the assurance that ‘God is faithful, who will not suffer you to be tempted above that ye are able’ \\. Sometimes it is laid as the firm foundation for our assurance of pardon, as when John tells us that ‘If we confess our sins, He is faithful and just to forgive us our sins’ \\. And sometimes that great attribute of the divine nature is proposed as holding forth a pattern for us to follow, and the faith in it as tending to make us in a measure steadfast like Himself, as when Paul indignantly rebuts his enemies’ charge of levity of purpose and vacillation, and avers that ‘as God is faithful, our word toward you is not yea and nay’ \\."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "DEU",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "DEU",
+  "chapter": 8
+ }
+}

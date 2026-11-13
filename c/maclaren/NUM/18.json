@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "maclaren",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "SERVICE A GIFT\n\nNumbers 18:7.\n\nAll Christians are priests-to offer sacrifices, alms, especially prayers; to make God known to men.\n\nI. Our priesthood is a gift of God’s love.\n\nWe are apt to think of our duties as burdensome. They are an honour and a mark of God’s grace.\n\n1. They are His gift-\n\n\\ The power to do. All capacities and possessions from Him.\n\n\\ The wish to do. ‘Worketh in you to will.’\n\n\\ The right to do, through Christ.\n\n2. They are a blessing.\n\n\\ Note the good effects on ourselves-the increase of fellowship with Him, the strengthening of all holy desires.\n\n\\ The future benefits. Apply this to prayer and to effort on behalf of our fellow-men.\n\nII. Our priesthood is to be done as a service-under a sense of obligation to a master, with diligence \\.\n\nIII. Our priesthood is to be done as a gift to God-to be done joyfully, giving ourselves back to Him: ‘Yield yourselves unto God’ -’ your reasonable service.’\n\nThen only do we really possess ourselves, and ‘all things are ours, for we are Christ’s, and Christ is God’s.’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 20
+ }
+}

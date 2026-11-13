@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "scofield",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Molech -- Called Moloch. Acts 7:43."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 19
+ }
+}

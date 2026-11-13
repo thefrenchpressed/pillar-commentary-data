@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. LeviCHAPTER 6\n\n1. The high-priestly line (1 Chronicles 6:1-15)\n\n2. Levitical genealogies (1 Chronicles 6:16-30)\n\n3. David’s chief musicians (1 Chronicles 6:31-48)\n\nThe high-priestly line is first given, starting with Levi, and followed down to the exile. From Eleazar the son of Aaron, twenty-two generations are named. Moses is not mentioned in this list. With Aaron his brother he is called a priest (Psalms 99:6), yet he was chosen as the great leader of the people before the consecration of the levitical priesthood. This is the reason why his name is not found here. The last priest named before the captivity is Jehozadak (also called Jozadak). He was carried into captivity and was the father of Joshua, the high-priest, who returned from Babylon (Ezra 3:2; Ezra 5:2; Nehemiah 12:26; Haggai 1:1; Haggai 1:12; Zech. 6).\n\nAfter the genealogies of the sons of Levi, who were not priests, the list of the names of David’s singers and musicians is given. “These are they whom David set over the service of song in the house of the LORD, after that the ark had rest. And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem, and then they waited on their office according to their order.” Heman stands first. He was Samuel’s grandson. Psalms 88 is by Heman, the Ezralite. Asaph, the son of Berachiah (verse 39), was the poet-prophet. Psalms 50 and 73-88 bear his name.\n\nThe sons of Asaph are later mentioned as choristers of the temple (1 Chronicles 25:1-2; 2 Chronicles 5:12; Ezra 2:41, etc.). Two other prominent persons bore the name of Asaph; Asaph, the recorder to King Hezekiah (2 Kings 18:18; Isaiah 36:3), and Asaph, the forester under Artaxerxes (Nehemiah 2:8). Ethan or Jeduthun (1 Chronicles 9:16; 1 Chronicles 16:41; 1 Chronicles 25:1; 2 Chronicles 35:15) is the author of Psalm 89."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 7
+ }
+}

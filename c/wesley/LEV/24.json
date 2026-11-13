@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "wesley",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": "Laws concerning the lamps, ver. 1-4. The shew-bread, ver. 5-9. Blasphemy occasioned by that of Shelomith's son, ver. 10-16. The law of retaliation, ver. 17-22. The blasphemer stoned, ver. 23.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "To cause the lamps to burn - Heb. the lamp: yet Lev 24:4, it is the lamps: The seven lamps made all one lamp. In allusion to which, the Blessed Spirit is represented, Rev 4:5, by seven lamps of fire before the throne. For there are diversities of gifts, but one spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Aaron - Either by himself, or by his sons, Exo 25:37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "The pure candlestick - So called, partly because it was made of pure gold, partly because it was to be always kept clean."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Thou - By the priests or Levites, whose work it was to prepare them, 1Chr 9:32. Twelve cakes - Representing the twelve tribes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Two rows - Not one above another, but one beside another, as the frankincense put upon each, Lev 24:7, shews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Pure frankincense - Unmixed and uncorrupted, or of the best sort, to be burnt before the Lord. On the bread - And this was done every time that the bread was changed. For a memorial - For that part which properly belonged to God, whereas the rest belonged to the priests."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "From the children of Israel - And these cakes are said to be received from or offered by the children of Israel, bought with the money which they contributed. By an everlasting covenant - By virtue of that compact made between me and them, by which they were obliged to keep this amongst other commands, and, they so doing, I am obliged to be their God and to bless them. And this may be here called an everlasting covenant, not only because it was to endure as long as the Jewish polity stood, but also because this was to stand everlastingly, or continually, and therefore the new cakes were first brought before the old were taken away."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "It - The old bread now to be taken away. Made by fire - The incense was offered by fire, and that for or instead of the bread, and therefore the bread was reputed as if it had been so offered."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Whose father was an Egyptian - This circumstance seems noted, partly to shew the danger of marriages with persons of wicked principles, and partly by this severity against him who was a stranger by the father, and an Israelite by the mother, to shew that God would not have this sin go unpunished amongst his people, what - soever he was that committed it. Went out - Out of Egypt, being one of that mixed multitude, which came out with the Israelites, Exo 12:32. It is probable, this was done when the Israelites were near Sinai."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The name of the Lord - The words of the Lord, or of Jehovah, are supplied out of Lev 24:16, where they are expressed; here they are omitted perhaps for the aggravation of his crime. He blasphemed the name so called by way of eminency; that name which is above every name; that name which a man should in some sort tremble to mention; which is not to be named without cause or without reverence. And cursed - Not the Israelite only, but his God also, as appears from Lev 24:15,16. And they brought him - Either the people who heard him, or the inferior magistrate, to whom he was first brought."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "That the mind of the Lord might be shewed - For God had only said in general, that he would not hold such guiltless, that is, he would punish them, but had not declared how he would have them punished by men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Lay their hands upon his head - Whereby they gave public testimony that they heard this person speak such words, and did in their own and all the peoples names, demand justice to be executed upon him, that by this sacrifice God might be appeased, and his judgments turned away from the people, upon whom they would certainly fall if he were unpunished. Stone him - The same punishment which was before appointed for those who cursed their parents."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Whosoever curseth his God - Speaketh of him reproachfully. Shall bear his sin - That is, the punishment of it; shall not go unpunished."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "He that blasphemeth the name of the Lord - This is a repetition of the same sin in other words, which is common. As this law is laid down in general terms, Lev 24:15, so both the sin and the punishment are particularly expressed, Lev 24:16. All the congregation - To shew their zeal for God, and to beget in them the greater dread and abhorrence of blasphemy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "He that killeth - This law is repeated here, to prevent the mischievous effects of men's striving together, which as here it caused blasphemy, so it might in others lead to murder."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "One law - That is, in matters of common right, but not as to church privileges."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Stone him with stones - This blasphemer was the first that died by the law of Moses. Stephen the first that died for the gospel, died by the abuse of the law. The martyr and the malefactor suffered the same death; but how vast the difference between them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 25
+ }
+}

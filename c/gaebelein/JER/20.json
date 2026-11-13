@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 20\n\nPashur.-Jeremiah’s Perplexity and Complaint\n\n1. Pashur and Jeremiah (Jeremiah 20:1-6)\n\n2. Jeremiah’s great perplexity and complaint (Jeremiah 20:7-18)\n\nJeremiah 20:1-6. A great scene now follows the message in connection with the broken bottle. The great Pashur, the chief governor in the house of the LORD had heard of the message. He smites Jeremiah and puts him in the stocks, which must have been some form of cruel torture by which the victim was rendered helpless, besides being exposed to the vulgarity of the people who passed by and would taunt him. In this position Jeremiah remained all night before the high gate of Benjamin. In the morning he was released.\n\nHe then speaks as only an inspired prophet can speak. His name Pashur should now be “Magor-missabib,” which means “terror on every side.” The awful fate of Pashur and his own is predicted. He is dumb, perhaps even then terror-stricken, as he looks into the flashing eyes of the man of God and listens to the fiery words.\n\nJeremiah 20:7-18. What follows now is a most passionate outburst, revealing an unspeakable emotion of the soul, as perhaps nowhere else in the prophetic Scriptures. Even critics acknowledge this as “one of the most powerful and impressive passages in the whole of the prophetic literature, a passage which takes us, as no other, not only into the depths of the prophet’s soul, but into the secrets of his prophetic consciousness.” “LORD,” he cries, “Thou has deceived me, and I was deceived.” The Revised Version has translated it, “Thou has persuaded m,” but that is not correct. He acknowledges himself deceived, or enticed. He is troubled with doubt. He speaks of his great trials.\n\nHe is a laughing stock--he is a reproach and a derision all the day. He tried to stop mentioning Him and not to speak any more in His name; but he tried to turn back upon his commission. But then the fire burned within him; his conscience became as a burning fire. He had heard defaming, his best friends had said “We will denounce him.” They thought of taking revenge on him.\n\nBut suddenly faith is victorious. He must have remembered the words of the Lord in connection with his commission, “For I am with thee saith the LORD, to deliver thee” (chapter 1). And so he cries out, “The LORD is with me.” He prays to see His vengeance on his enemies, for unto Him he had revealed His cause. And then the singing! “Sing unto the LORD, praise ye the LORD; for He has delivered the soul of the needy from the hand of the evil-doers.” Such is the experience of the godly remnant in fears an doubts, troubled on all sides, fleeing to Jehovah, till the singing times come, when He appears for their deliverance and the hallelujahs will sweep the earth and the heavens.\n\nBut his grief overwhelms him. Perhaps he thought again of all the sneers and mockeries, of all the harsh words, the unfaithful friends and the physical pain he endured. He is occupied with himself and the soul struggle begins anew and culminates in a near collapse. He curses, as Job did, the day in which he was born."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 21
+ }
+}

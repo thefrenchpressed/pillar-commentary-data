@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "wesley",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "At that time - When our Lord had spent about a year in his public ministry. Tetrarch - King of a fourth part of his father's dominions. Mark 6:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "He is risen from the dead - Herod was a Sadducee: and the Sadducees denied the resurrection of the dead. But Sadduceeism staggers when conscience awakes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "His brother Philip's wife - Who was still alive. Mark 6:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "It is not lawful for thee to have her - It was not lawful indeed for either of them to have her. For her father Aristobulus was their own brother. John's words were rough, like his raiment. He would not break the force of truth by using soft words, even to a king."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "He would have put him to death - ln his fit of passion; but he was then restrained by fear of the multitude; and afterward by the reverence he bore him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The daughter of Herodias - Afterward infamous for a life suitable to this beginning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Being before instructed by her mother - Both as to the matter and manner of her petition: She said, Give me here - Fearing if he had time to consider, he would not do it: John the Baptist's head in a charger - A large dish or bowl."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "And the king was sorry - Knowing that John was a good man. Yet for the oath's sake - So he murdered an innocent man from mere tenderness of conscience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And he sent and beheaded John in the prison, and his head was given to the damsel - How mysterious is the providence, which left the life of so holy a man in such infamous hands! which permitted it to be sacrificed to the malice of an abandoned harlot, the petulancy of a vain girl, and the rashness of a foolish, perhaps drunken prince, who made a prophet's head the reward of a dance! But we are sure the Almighty will repay his servants in another world for what ever they suffer in this."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Jesus withdrew into a desert place - To avoid Herod: Because of the multitude pressing upon him, Mark 6:32: and To talk with his disciples, newly returned from their progress, Luke 9:10: apart - From all but his disciples. John 6:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The time is now past - The usual meal time. Mark 6:35; Luke 9:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "He constrained his disciples - Who were unwilling to leave him. Mark 6:45; John 6:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "In the evening - Learned men say the Jews reckoned two evenings; the first beginning at three in the afternoon, the second, at sunset. If so, the latter is meant here."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The fourth watch - The Jews (as well as the Romans) usually divided the night into four watches, of three hours each. The first watch began at six, the second at nine, the third at twelve, the fourth at three in the morning. If it be thou - It is the same as, Since it is thou. The particle if frequently bears this meaning, both in ours and in all languages. So it means, John 13:14,17. St. Peter was in no doubt, or he would not have quitted the ship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "He was afraid - Though he had been used to the sea, and was a skilful swimmer. But so it frequently is. When grace begins to act, the natural courage and strength are withdrawn."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Thou art the Son of God - They mean, the Messiah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Mark 6:45."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 15
+ }
+}

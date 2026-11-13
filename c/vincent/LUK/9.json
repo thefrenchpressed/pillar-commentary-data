@@ -1,0 +1,452 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "vincent",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Called together. Matthew and Mark have called to."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Take [αιρετε]. Lit., lift, with a view of carrying away.\n\nStaves. Following the reading rJabdouv, for which read rJabdon, staff. Two coats [αναδυοχιτωνας]. Lit., two apiece: the force of ajna, as in John 2:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "There abide. See on Matthew 10:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Shake off. See on Matthew 10:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Throughout the towns [καταταςκωμας]. Rev., rightly, villages. The preposition is distributive, village by village.\n\n7 - 9. Compare Matthew 14:1 - 2; 6 - 12. Mr 6:14 - 16, 21 - 29."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The tetrarch. See on Matthew 14:1.\n\nThat was done [ταγινομενα]. The present participle. Lit., all that is being done.\n\nWas perplexed [διηπορει]. Used by Luke only. From dia, through, and ajporew, to be without a way out. The radical idea of the compound verb seems to be of one who goes through the whole list of possible ways, and finds no way out. Hence, to be in perplexity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "He desired [εζητει]. Rev., he sought. He did more than desire.\n\n10 - 17. Compare Mr 6:30 - 44."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Declared [διηγησαντο]. Related everything throughout [δια]. See on ver. 39; ch. 1 1.\n\nBethsaida. Peculiar to Luke. It means Fishing - place.\n\nHealed [ιατο] them that had need of healing [θεραπειας]. See on ch. Luke 5:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "And when the day began to wear away. Omit when. Render, and the day began, etc. To wear away [κλινειν]. Lit., to decline. Wyc., very literally, to bow down.\n\nLodge [καταλυσωσιν]. Peculiar to Luke. Primarily the verb means to break up or dissolve. Hence often in New Testament to destroy (Matthew 5:17; Mr 13:2). Intransitively, to take up one's quarters; lodge; either because the harness of the traveler's horses is loosed, or because the fastenings of their garments are untied. The kindred word kataluma, a guest - chamber, occurs, Mr 14:14; or inn, Luke 2:7.\n\nVictuals [επισιτισμον]. Only here in New Testament. Properly a stock of provisions. Thus Xenophon. \"Cyrus hastened the whole journey, except when he halted in order to furnish himself with supplies\" [επισιτισμουενεκα].\n\nDesert [ερημω]. See on Matthew 14:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Give ye. The ye emphatic, closing the sentence in the Greek order. See on Matthew 14:15.\n\nBuy food. Compare Mr 6:37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "In a company [κλισιας]. The plural, in companies. Lit., table - companies. The word is also used in classical Greek of a couch for reclining at table. Only here in New Testament. See on Mr 6:39."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Brake and gave [κατεκλασενεδιδου]. Note the two tenses, as in Mr 6:41, and see note there.\n\nTo set before [παραθειναι]. Lit., to set beside, since the table was at the side of the guest. A common word for serving up a meal. Compare Luke 10:8; Acts 16:34. From the sense of placing beside, comes that of putting in charge, committing (Luke 12:48; Luke 23:46; 1 Timothy 1:18). Hence the kindred noun paraqhkh (2 Timothy 1:12), a deposit: that which I have committed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Were filled. See on Matthew 5:6.\n\nThere were taken up of fragments that remained to them twelve baskets [καιηρθητοπερισσευσαναυτπιςκλασματωνκοφινοιδωδεκα]. The Rev. is more accurate, putting the comma after aujtoiv, to them, instead of after klasmatwn, fragments; and making the latter word depend on kofinoi, baskets. Render, therefore, And there was taken up that which remained over to them, of broken pieces, twelve baskets.\n\nBaskets. See on Matthew 14:20.\n\n18 - 21. Compare Matthew 16:13 - 20. Mr 8:27 - 30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "As he was praying. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Ye. Emphatic: \"but ye, whom do ye say that I am?\" The Christ of God. Each evangelist gives Peter's confession differently. Matthew, The Christ, the Son of the living God. Mark, The Christ. See on Matthew 16:15. On Christ, see on Matthew 1:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "He straitly charged [επιτιμησας]. The word implies an emphatic, solemn charge; its meaning being, strictly, to lay a penalty upon one, and thence, to charge under penalty.\n\nNo man [μηδενι]. The conditional negative: no man, whoever he might be.\n\n22 - 27. Compare Matthew 16:21 - 28; Mr 8:31 - 38; Mr 9:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Be rejected [αποδοκιμασθηναι]. The verb means to reject on scrutiny or trial, and therefore implies deliberate rejection.\n\nOf the elders [απο]. Lit., from the side of; on the part of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Will come after [θελει]. Not the future tense of the verb come, but the present of the verb to will: wills to come. See on Matthew 1:19; and Mr 8:34. Rev., properly, would come.\n\nDaily. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Will save [θελησωσαι]. The same construction as will come after (ver. 23). Rev., would save.\n\nLife [ψυχην]. See on soul, Mr 12:30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Gain [κερδησας]. A merchant's word. Jesus is putting the case as a common - sense question of profit and loss.\n\nLose [απολεσας]. \"When he might have been saved\" (Bengel). This word, in classical Greek, is used:\n\n1. Of death in battle or elsewhere.\n\n2. Of laying waste, as a city or heritage.\n\n3. Of losing of life, property, or other objects. As an active verb, to kill or demolish.\n\n4. Of being demoralized, morally abandoned or ruined, as children under bad influences. In New Testament of killing (Matthew 2:13; Matthew 12:14). Of destroying and perishing, not only of human life, but of material and intellectual things (1 Corinthians 1:19; John 6:27; Mr 2:22; 1 Peter 1:7; James 1:11; Hebrews 1:11). Of losing (Matthew 10:6, 42; Luke 14:4, 6, 8). Of moral abandonment (Luke 14:24, 32). Of the doom of the inpenitent (Matthew 10:28; Luke 13:3; John 3:15; John 10:28; 2 Peter 3:9; Romans 2:12).\n\nCast away [ζημιωθεις]. Another business term. The word means to fine, amerce, mulct; to punish by exacting forfeit. Hence Rev., correctly, forfeit his own self. See on win your souls, Luke 21:19. Also on Matthew 16:26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Shall be ashamed [επαισχυνθη]. The feeling expressed by this word has reference to incurring dishonor or shame in the eyes of men. It is \"the grief a man conceives from his own imperfections considered with relation to the world taking notice of them; grief upon the sense of disesteem\" (\" South, \"cit. by Trench). Hence it does not spring out of a reverence for right in itself, but from fear of the knowledge and opinion of men. Thus in the use of the kindred noun aijscunh, shame, in the New Testament. In Luke 14:9, the man who impudently puts himself in the highest place at the feast, and is bidden by his host to go lower down, begins with shame to take the lowest place; not from a right sense of his folly and conceit, but from being humiliated in the eyes of the guests.\n\nThus, Hebrews 12:2, Christ is said to have\" endured the shame, \"i e., the public disgrace attaching to crucifixion. So, too, in the use of the verb, Romans 1:16:\" I am not ashamed of the gospel, \" though espousing its cause subjects me to the contempt of the Jew and of the Greek, to whom it is a stumbling - block and foolishness. Onesiphorus was not ashamed to be known as the friend of the prisoner (2 Timothy 1:16). Compare Hebrews 2:11; Hebrews 11:16. It is used of the Son of Man here by a strong metaphor. Literally, of course, the glorified Christ cannot experience the sense of shame, but the idea at the root is the same.\n\nIt will be as if he should feel himself disgraced before the Father and the holy angels in owning any fellowship with those who have been ashamed of him.\n\nHis glory, etc. Threefold glory. His own, as the exalted Messiah; the glory of God, who owns him as his dearly beloved son, and commits to him the judgment; and the glory of the angels who attend him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Taste of death. The word taste, in the sense of experience, is often used in classical Greek; as, to taste of toils, of sorrow, of freedom, but never of death. The phrase, taste of death, is common in Rabbinical writings. In the New Testament only here and Hebrews 2:9, used of Christ. Chrysostom (cited by Alford) compares Christ to a physician who first tastes his medicines to encourage the sick to take them.\n\nThe kingdom of God. See on ch. Luke 6:20.\n\n28 - 36. Compare Matthew 17:1 - 13; Mr 9:2 - 13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "A mountain. Rev., the mountain. The tradition that this mountain was Tabor is generally abandoned, and Mount Hermon is commonly supposed to have been the scene of the transfiguration. \"Hermon, which is indeed the center of all the Promised Land, from the entering in of Hamath unto the river of Egypt; the mount of fruitfulness, from which the springs of Jordan descended to the valleys of Israel. Along its mighty forest - avenues, until the grass grew fair with the mountain lilies, his feet dashed in the dew of Hermon, he must have gone to pray his first recorded prayer about death, and from the steep of it, before he knelt, could see to the south all the dwelling - place of the people that had sat in darkness, and seen the great light - the land of Zabulon and of Naphtali, Galilee of the nations; could see, even with his human sight, the gleam of that lake by Capernaum and Chorazin, and many a place loved by him and vainly ministered to, whose house was now left unto them desolate; and, chief of all, far in the utmost blue, the hills above Nazareth, sloping down to his old home: hills on which the stones yet lay loose that had been taken up to cast at him, when he left them forever\" (Ruskin, \"Modern Painters,\" 4 374).\n\nTo pray. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Was altered [εγενετο]. Lit., became different. Luke avoids Matthew's word, metamorfwqh, was metamorphosed. He was writing for Greek readers, to whom that word represented the transformations of heathen deities into other forms. See, for instance, the story of the capture of Proteus by Menelaus, in the fourth book of Homer's \"Odyssey.\" See on Matthew 17:2.\n\nWhite [λευκος]. In classical Greek very indefinite as an expression of color; being used, not only of the whiteness of the snow, but of gray dust. Its original sense is clear. All three evangelists use the word, but combined with different terms. Thus, Matthew, as the light. Mark, stilbonta, glistering (see on Mr 9:3). Luke, ejxastraptwn (only here in New Testament), flashing as with the brilliance of lightning. Rev., dazzling."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "There talked [συνελαλουν]. The imperfect is graphic; as the vision revealed itself, the two were in the act of talking."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "This verse is peculiar to Luke. Spake [ελεγον]. Imperfect, were speaking.\n\nDecease [εξοδον]. The Rev. retains the word of the A. V., though it has, to modern ears, a somewhat formal sound. No word, however, could more accurately represent the original, which is compounded of ejx, out of, and oJdov, a journeying; and thus corresponds to the Latin decessus, a going away, whence the word decease. The Greek word is familiar to us as exodus, applied principally to the migration of the Hebrews from Egypt, and thus used at Hebrews 11:22, departing. In the mouth of Christ it covers the ideas both of death and ascension. Peter uses it of his own death (2 Peter 1:15, where see note).\n\nHe should accomplish [εμελλενπληρουν]. Better, as Rev., he was about to accomplish. \"Accomplish,\" or \"fulfil,\" is very significant with reference to Christ's death. Moses and Joshua had begun an exodus from Egypt, but had not accomplished the going out of God's people from this present world. See Hebrews 3:18; Hebrews 4:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Heavy [βεβαρημενοι]. The perfect participle. Lit., burdened or oppressed. \"It was but natural for these men of simple habits, at night, and after the long ascent, and in the strong mountain air, to be heavy with sleep; and we also know it as a psychological fact, that, in quick reaction, after the overpowering influence of the strongest emotions, drowsiness would creep over their limbs and senses\" (Edersheim)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "As they were departing [εντωδιαχωριζεσθαιαυτους]. Lit., in their departing. The verb only here in New Testament. The whole sentence is peculiar to Luke's narrative.\n\nMaster. See on ch. Luke 5:5.\n\nLet us make. See on Matthew 17:4.\n\nTabernacles. See on Matthew 17:4. \"Jesus might have smiled at the naive proposal of the eager apostle that they six should dwell forever in the little succoth of wattled boughs on the slopes of Hermon\" (Farrar).\n\nNot knowing what he said. Not implying any reproach to Peter, but merely as a mark of his bewilderment in his state of ecstasy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "A cloud. \"A strange peculiarity has been noticed about Hermon, in the extreme rapidity of the formation of cloud on the summit. In a few minutes a thick cap forms over the top of the mountain, and as quickly disperses and entirely disappears\" (Edersheim).\n\nOvershadowed them [επεσκιαζεν]. A beautiful imperfect: \"began to overshadow them;\" thus harmonizing with the words, \"as they entered into.\" Them [αυτους] must, I think, be confined to Moses, Elias, and Jesus. Grammatically, it might include all the six; but the disciples hear the voice out of the cloud, and the cloud, as a symbol of the divine presence, rests on these three as a sign to the disciples. See Exodus 14:19; Exodus 19:16; 1 Kings 8:10; Psalms 104:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "When the voice was past [εντωγενεσθαιτηνφωνην]. Lit., in the coming to pass of the voice. Rev., when the voice came, with A. V. in margin.\n\n37 - 43. Compare Matthew 17:14 - 21; Mr 9:14 - 29."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Come down [κατελθοντων]. Very frequent in Luke, and only once elsewhere: James 3:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Master [διδασκαλε]. Teacher.\n\nLook upon [επιβλεψαι]. Only here and James 2:3. To look with pitying regard; and by medical writers of examining the condition of a patient."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Taketh [λαμβανει]. See on Mr 9:18.\n\nSuddenly [εξαιφνης]. Used only once outside of the writings of Luke: Mr 13:36. Naturally, frequent in medical writers, of sudden attacks of disease. Luke has more medical details in his account than the other evangelists. He mentions the sudden coming on of the fits, and their lasting a long time. Mr. Hobart remarks that Aretaeus, a physician of Luke's time, in treating of epilepsy, admits the possibility of its being produced by demoniacal agency. Epilepsy was called by physicians \"the sacred disease.\"\n\nBruising [συντριβον]. See on bruised, ch. 4 18. The word literally means crushing together. Rev. expresses the sun, together, by sorely. Compare the details in Mark, gnashing the teeth and pining away (ix. 18). The details in Mr 9:21, 22, we might rather expect to find in Luke; especially Christ's question, how long he had been subject to these attacks. See note on Mr 9:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Faithless. See on Mr 9:19.\n\nPerverse. See on Matthew 17:17.\n\nHow long [εωςποτε]. Lit., until when.\n\nSuffer [ανεξομαι]. Better as Rev., bear with. See Acts 18:14; 2 Corinthians 11:1. The literal meaning is to \"bear up [ανα] under.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Threw him down [ερρηξεν]. See on teareth, Mr 9:18.\n\nTare [συνεσπαραξεν]. Only here in New Testament. Convulse, which is the exact Latin equivalent, would, perhaps, be the nearest rendering. Sparagmov, a kindred noun, is the word for a cramp.\n\n43 - 45. Compare Matthew 17:22, 23; Mr 9:30 - 32."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "Astonished [εξεπησσοντο]. See on Matthew 7:28.\n\nMighty power [μεγαλειοτητι]. Used only by Luke and at 2 Peter 1:16, on which see note.\n\nHe did [εποιει]. Imperfect. Better, was doing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Let these sayings sink down into your ears. Lit., put these sayings into your ears.\n\nShall be delivered [μελλειπαρεδιδοσθαι]. Rather, is about to be delivered.\n\n46 - 50. Compare Matthew 18:1 - 35; Mr 9:33 - 50."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "A reasoning [διαλογισμος]. A debate or discussion. See on ch. Luke 24:38, and James 1:22; James 2:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "He took a little child [επιλαβομενοςπαιδιου]. Strictly, having laid hold of.\n\nBy him [παρεαυτω]. Lit., by himself. Mark alone records the taking him in his arms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 48,
+    "content": [
+     {
+      "text": "In my name. See on Matthew 18:5.\n\n51 - 56. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "When the time was come [εντωσυμπληρουσθαιταςημερας].\n\nLit., in the fulfilling of the days. This means when the days were being fulfilled; not when they were fulfilled: when the time was drawing near. Rev., were well - nigh come. Luke is speaking of a period beginning with the first announcement of his sufferings, and extending to the time of his being received up.\n\nThat he should be received up [τηςαναλημψεωςαυτου]. Lit., the days of his being taken up: his ascension into heaven. jAnalhmyiv occurs nowhere else in the New Testament; but the kindred verb, ajnalambanw, is the usual word for being received into heaven. See Acts 1:2, 11, 22; 1 Timothy 3:16.\n\n57 - 62. Compare Matthew 8:19 - 27; Mr 4:35 - 41."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 57,
+    "content": [
+     {
+      "text": "A certain man. Matthew, a scribe.\n\nThou goest [απερχη]. Lit., \"goest away\" [απο]. I will follow these whithersoever - away thou goest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 58,
+    "content": [
+     {
+      "text": "Holes. See on Matthew 8:20.\n\nBirds [πετεινα]. Strictly, flying fowl. The common word for bird in the New Testament. Opniv occurs Matthew 23:37; Luke 13:34; but both times in the sense of hen. See on Matthew 23:37. Orneon is found in Revelation 18:2; Revelation 19:17, 21; and pthnon, another form for the word in this passage, occurs 1 Corinthians 14:30.\n\nNests. See on Matthew 8:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 60,
+    "content": [
+     {
+      "text": "Their dead [τουςεαυτωννεκρους]. As Rev., their own dead.\n\nPreach [διαγγελλε]. Publish abroad, as Rev. dia, throughout all regions.\n\n61, 62. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 61,
+    "content": [
+     {
+      "text": "To bid farewell [αποταξασθαι]. In this sense the word is used only in later Greek. In classical Greek it signifies to set apart or assign, as a soldier to his post or an official to his office, and later to detach soldiers. Hence to dismiss one with orders. This latter sense may, as Kypke suggests, be included in the meaning of the word in this passage; the man desiring to return home, not merely to take formal leave, but also to give his final instructions to his friends and servants. Similarly, Acts 18:18, of Paul taking leave of the brethren at Corinth, and, presumably, giving them instructions at parting.\n\nIn the New Testament the word is used invariably in the sense of bidding farewell. Mr 6:46 is rendered by Rev. after he had taken leave of them. See note there, and compare Luke 14:33; 2 Corinthians 2:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 62,
+    "content": [
+     {
+      "text": "Put his hand to [επιβαλωνεπι]. Lit., having laid his hand upon.\n\nBack [ειςταοπισω]. Lit., to things behind. \"The figure is that of a man who, while engaged in labor, instead of keeping his eye on the furrow which he is drawing, looks behind at some object which attracts his interest. He is only half at work, and half - work only will be the result\" (Godet).\n\nFit [ευθετος]. Lit., well - placed: adjusted. ===Luk10\n\nCHAPTER X\n\n1 - 16. Peculiar to Luke."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 10
+ }
+}

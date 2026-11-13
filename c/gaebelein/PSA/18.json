@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Story of God’s Power in Behalf of Christ\n\n1. In the jaws of death (Psalms 18:1-6)\n\n2. God appearing and delivering (Psalms 18:7-18)\n\n3. God gave Him glory (Psalms 18:19-27)\n\n4. His enemies subdued (Psalms 18:28-42)\n\n5. The head of the nations (Psalms 18:43-45)\n\nPsalms 18:1-6. This is another remarkable Psalm. Though David wrote it not everything could be his experience. He was a prophet (Acts 2:30) and prophesied; much in this Psalm is prophecy describing the deliverance of Christ from the jaws of death and the glory God has given Him, and this deliverance and glory also concerns the remnant of His earthly people in “that day.” The Psalm begins with an outburst of praise and it ends with His praise among the nations. Hebrew authorities tell us that the proper translation of “The LORD is my Rock” is “Jehovah, my cleft of the rock.” It is Christ the rock, cleft for us, in whom the believer has found His refuge. And He Himself was saved from His enemies and in Him His people are saved and will be saved from their enemies (Psalms 18:3). It is His own death experience which is described in Psalms 18:4-6. “The sorrows of death compassed me, and the floods of Belial (marginal reading) made me afraid.” Then in His distress He called and cried unto God and was heard.\n\nPsalms 18:7-18. In these verses we have the answer in behalf of Christ. It is a wonderful description of God’s power and His appearing. It is the manifestation and glory of Jehovah in deliverance. “He sent from above, He took me, He drew me from great waters. He delivered me from my strong enemy, and from them which hate me for they were too strong for me.” This describes His resurrection.\n\nAt the same time while all this shows His experience as the author and finisher of the faith, it is also the experience of His trusting people, and the deliverance of that remnant living during the tribulation period.\n\nPsalms 18:19-27. The Lord has recompensed Him for His righteousness. He not only raised Him from the dead “but gave Him glory.” He was brought forth into a large place. He was delivered because God delighted in Him and He has rewarded Him. Verse 23 as it stands in the authorized version can not apply to Christ. It is in fact a poor translation. The translation in the Numerical Bible is very satisfactory. “I was also perfect with Him and kept myself from perverseness being mine.”\n\nPsalms 18:28-42. He will save an humble people and all His enemies will be conquered by Him. While much in this section was David’s experience, who overcame all his enemies, in its prophetic meaning it must apply to the Lord Jesus. Psalms 18:37-42 speak prophetically of this coming great victory when all His enemies will be made the footstool of His feet.\n\nPsalms 18:43-45. He becomes the head of the nations. “Thou hast made me the head of the nations” cannot apply to David and his experience, but it is David’s Son and David’s Lord who will head the nations of the earth. It is the coming kingdom which is described in verse 44. “As soon as they hear of me they shall obey me, the strangers (Gentiles) shall submit themselves unto me.” The marginal reading is suggestive, “they shall yield feigned obedience unto Me,” which tells us that the obedience of many during the kingdom reign of our Lord will not be whole-hearted and therefore the revolt at the end of the thousand years (Revelation 20:1-15). His praise will then be heard among the nations (Psalms 18:49-50)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 19
+ }
+}

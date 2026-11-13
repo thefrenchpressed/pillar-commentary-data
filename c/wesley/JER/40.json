@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": "Jeremiah being set free by Nebuchadnezzar, goes to Gedaliah, ver. 1-6. to whom the remaining Jews repair, ver. 7-12. Johanan revealing Ishmael's conspiracy, is not believed, ver. 13-16.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ramah - Ramah was a city in the tribe of Benjamin near Gibeon. Babylon - Jeremiah was by mistake and expressly contrary to the king's orders carried amongst the other prisoners; probably the captain of the guard at that place called over his prisoners, and among them found the prophet contrary to his expectation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Now - Jeremiah before he was gone out of the presence of Nebuzar - adan, declaring that he was more inclined to stay in his own country, Nebuzar - adan bid him, Go back."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Ishmael - It is likely these were commanders of parties, which either were within the city 'till it was taken, and then escaped, or where somewhere in the country, and not so much regarded by the Chaldeans, who were more intent upon the conquest of the city, than pursuing these little parties."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "I will dwell - I have choice made of Mizpah, a city upon the frontiers, to make my residence, it being a convenient place for me to receive orders from the king of Babylon. But ye - Gather such fruits as the country affords, as you use to do in the times of peace."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Returned - Probably upon the king of Babylon's first invading Judah, many fled, and more as he went on his conquests, over - running the country; and it is likely at the taking of the city, many escaped, and fled into several countries, as they had opportunity, or judged this or that country would be safest; some fled to Moab, some to Ammon some to Edom, some one way, and some another: but when they heard that the king of Babylon had set a governor of their own religion and country over them, they came back to him; and there being few people left in the land, which was wonderfully fruitful, they gathered plenty of grapes, and other summer fruits."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Moreover - They had been with him before, but now they come to discover a conspiracy against his life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 41
+ }
+}

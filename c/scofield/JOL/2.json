@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JOL",
+  "commentaryId": "scofield",
+  "name": "Joel",
+  "commonName": "Joel",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "his army -- To verse 10 inclusive the invading army is described; at verse 11 Jehovah's army. This \"army\" is described, Revelation 19:11-18. The call to repentance is based upon the Lord's promise of deliverance, Joel 2:12-17. At verses Joel 2:18-20 we have the deliverance (Joel 2:20); see \"Armageddon,\" (See Scofield \"Revelation 16:14\"), and kingdom blessing in verses Joel 2:21-27. Verses 28-32 give the outpouring of the Spirit, and verses 29-32 the cosmical signs preceding the day of the Lord. See Scofield \"Revelation 19:11\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "repenteth -- (See Scofield \"Zechariah 8:14\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "afterward -- Cf. Acts 2:17 which gives a specific interpretation of \"afterward\" (Heb. acherith= \"latter,\" \"last\"). \"Afterward\" in Joel Joel 2:28 means \"in the last days\" ((Greek - ἔσχατος), and has a partial and continuous fulfilment during the \"last days\" which began with the first advent of Christ Hebrews 1:2 but the greater fulfilment awaits the \"last days\" as applied to Israel. (See Scofield \"Acts 2:17\"), for phrase, \"the last days.\" See Scofield \"Acts 2:17\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "remnant -- (See Scofield \"Jeremiah 15:21\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOL",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": "An exhortation to cleave to wisdom, as a preservative from strange women, ver. 1-5. The snares they lay for unwary young men, ver. 6-23. A serious caution against coming near them, ver. 24-37.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Live - Thou shalt live. Eye - With all possible care and diligence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Bind them - As a ring which is continually in a man's eye."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "And call - Acquaint and delight thyself with her."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Passing - Idle and careless, near the corner of the street in which her house stood."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Without - Without the door of her house. Corner - Of the streets, where she might either conceal or discover herself, as she saw fit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Offerings - I have paid my peace - offerings which I had vowed. Whereby she signifies, that she had plentiful provisions at her house for his entertainment. For the peace - offerings were to be of the best flesh, Lev 22:21, and a considerable part of these offerings fell to the offerer's share."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Hath taken - Which is an evidence that he designs to stay a considerable time. At the day - So that we need not fear any surprise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "As an ox - Going to it securely, as if it were going to a good pasture."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "His liver - His vital parts, 'till his life be lost."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 8
+ }
+}

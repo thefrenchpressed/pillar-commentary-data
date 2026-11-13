@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "wesley",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": "Asa hires the Syrians to invade Israel, ver. 1-6. Puts the prophet who reproved him for it in prison, ver. 7-10. His sickness, death and burial, ver, 11-14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Of the reign - Or, of the kingdom of Asa, that is, of the kingdom of Judah, which was now Asa's kingdom; or from the time of the division of the two kingdoms. Rehoboam reigned seventeen years, Abijah three years, Asa had now reigned fifteen years, all which put together, make up the thirty five years mentioned chap.15:19, and in the next year Baasha wars against him; and the ground of the war was the defection of many of his subjects to Asa, chap.15:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Escaped - And so reserved to be a scourge to thy kingdom and posterity: whereas if he had joined with Baasha against thee, thou shouldst have overthrown them both, and prevented all that mischief which that monarch will do to thy family."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Lubims - Either, the Lybians in Africa; or another people, possibly descended from them, but now seated in some part of Arabia."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Done foolishly - It is a foolish thing to lean on a broken reed, when we have the rock of ages to rely upon. Perfect - Upright and sincere, as thine is not. He was sincere in the general course of his life, but some particulars, whereof this is one, his heart did not perfectly cleave to God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Sought not - He did not humble himself before God, but put his confidence in the skill and faithfulness of his physicians. His making use of physicians was his duty, but his trusting in them, and expecting that from them, which was to be had from God only, was his sin and folly. The help of every creature must be used, with an eye to the creator, and in dependence on him, who makes every creature that to us which it is, without whom the most skilful and faithful are physicians of no value."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Burning - Of precious spices; thereby testifying their respect to him notwithstanding his miscarriages."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 17
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 48,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Angel -- (See Scofield \"Hebrews 1:4\")\n\nredeemed -- Heb. goel, Redemp. (Kinsman type). Isaiah 59:20 (See Scofield \"Isaiah 59:20\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 48
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 47
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 49
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "gaebelein",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 26 The Tabernacle and its Construction\n\n1. The curtains (Exodus 26:1-6)\n\n2. The coverings (Exodus 26:7-14)\n\n3. The boards (Exodus 26:15-30)\n\n4. The vail (Exodus 26:31-35)\n\n5. The hangings for the door (Exodus 26:36-37)\n\nWhile the tabernacle is a type of the heavenly places (Hebrews 9:23) it is also a type of Christ, who tabernacled among men. The wonderful foreshadowings we find here down to the minutest details is an evidence of inspiration. We must confine ourselves to a very few things.\n\nThe colors used were blue, purple, scarlet and white. Blue is the color of heaven, purple that of royalty, scarlet the color of blood, and the white tells of righteousness. The ten curtains of fine twined linen which surrounded the tabernacle typify the holy, spotless humanity of our Lord. How the colors tell out the blessed story of the gospel, that heaven’s King came down to shed His blood, we need not to follow in detail. The loops of blue and taches of gold which unite the curtains tell of Him likewise.\n\n“We have here displayed to us, in the ‘loops of blue,’ and ‘taches of gold,’ that heavenly grace and divine energy in Christ which enabled Him to combine and perfectly adjust the claims of God and man; so that in responding to both the one and the other, He never for a moment marred the unity of His character.”\n\nThe curtains of goats’ hair were to be a tent over the tabernacle and the tent had other coverings of rams’ skins, dyed red, and covering of badgers’ skin. These coverings hid the ten curtains of the fine twined linen, and their beauty. Thus He was not beheld in His lovely character when on earth. The goats’ hair covering reminds us of the divine statement, “He hath no form nor comeliness; and when we shall see Him, there is no beauty that we should desire Him” (Isaiah 53:2). The rams’ skins, dyed red, are the symbol of His devotion and obedience to God, even unto the death of the cross. The badgers’ skins are taken to mean His holy determination and steadfastness.\n\nChrist and his people are typified in the board of shittim wood (the same as in the ark and the table) resting in the sockets of silver. The silver was the ransom money (Exodus 30:11-13), out of it the sockets were made (Exodus 38:25-28). The whole frame work of the tabernacle rested in that which tells of atonement. Thus we stand in Christ and we are one with Him, separated from the world as the boards were separated from the earthly sockets of silver. And as we look upon this frame work, with the bars of shittim wood uniting the boards (typical of Christ) we may well think of Eph 2:21: “In whom all the building fitly framed together groweth unto an holy temple in the Lord.”\n\nThe vail as described in Exodus 26:31-35 is interpreted in Hebrews 10:2. It marked the division of the holy and the most holy, or Holy of Holies. Like the inner curtains this vail typifies the holy humanity of our Lord. That vail barred the entrance into the presence of God. But it was rent by the hand of God, when our Lord had laid down His life on the cross. Christ is the way into the presence of God, “by a new and living way, which He hath consecrated for us, through the vail, that is to say, His flesh.” Therefore we have boldness to enter into the holiest by the blood of Jesus. The hanging for the door of the tent has the same meaning, Christ the way."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 27
+ }
+}

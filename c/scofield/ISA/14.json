@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "hell -- Heb. \"Sheol,\" Also; 15 (See Scofield \"Habakkuk 2:5\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "grave -- Heb. \"Sheol,\"\n\n(See Scofield \"Habakkuk 2:5\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "son of the morning -- Verses 12-14 evidently refer to Satan, who, as prince of this world-system (see \"World,\" John 7:7 (See Scofield \"Revelation 13:8\") is the real unseen ruler of the successive world- powers. Tyre, Babylon, Medo-Persia, Greece, Rome, etc. (see Ezekiel 28:12-14 Lucifer, \"day-star,\" can be none other that Satan. This tremendous passage marks the beginning of sin in the universe. When Lucifer said, \"I will,\" sin began. See Scofield \"Revelation 20:10\".\n\nSee other instances of addressing Satan through another, Genesis 3:15; Matthew 16:22,23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "hell -- Heb. \"Sheol,\" Also; Is 14:9 (See Scofield \"Habakkuk 2:5\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Babylon -- See note 2; (See Scofield \"Isaiah 13:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "whole earth -- This universality is significant and marks the whole passage as referring, not merely to a near judgment upon Assyria, but in a yet larger sense to the final crash of the present world-system at the end of the age. (See \"Times of the Gentiles,\" Luke 21:24; Revelation 16:14; Daniel 2:44,45 \"Armageddon,\"; Revelation 16:14; 19:17. No other such universal catastrophe on the nations is known to Scripture."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "burden -- See note 1; (See Scofield \"Isaiah 13:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "come forth -- The descendants of Ahaz."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 15
+ }
+}

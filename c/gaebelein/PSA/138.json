@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 138,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Psalm of Deliverance\n\nThis is a Psalm of David giving praise to the Lord for deliverance. The harp is now no more hanging idle on the willows, but is tuned afresh to praise His Name. It is not alone David’s praise who cried and the Lord answered him, it is the praise of Israel for accomplished deliverance from the exile and therefore the kings of the earth are also mentioned. “All the kings of the earth shall praise Thee O LORD, when they hear the words of Thy mouth.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 138
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 137
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 139
+ }
+}

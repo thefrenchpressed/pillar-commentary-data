@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 48,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 48 Jacob adopts Ephraim and Manasseh\n\n1. The sons of Joseph brought to Jacob (Gen. 48-12)\n\n2. The words of Jacob (Genesis 48:3-7)\n\n3. Ephraim and Manasseh presented (Genesis 48:8-14)\n\n4. Jacob’s blessing (Genesis 48:13-16)\n\n5. Joseph’s interference (Genesis 48:17-20)\n\n6. Jacob’s last words to Joseph (Genesis 48:21-22)\n\nThe adoption of Joseph’s sons is interesting and instructive. As the offspring of the Gentile wife Asenath they were in danger of becoming gentilized and thus forget their father’s house. Jacob frustrated this by adopting the sons. It was an action of faith. “By faith, Jacob, when he was dying, blessed both the sons of Joseph; and worshipped leaning on the top of his staff” (Hebrews 11:21). Again the younger is preferred. When Jacob speaks of “the Angel, the Redeemer” (literal translation) he speaks of Jehovah who appeared unto him, whom he met face to face at Peniel. Full of hope, dying Jacob predicted the return of his offspring to the land of Canaan."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 48
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 47
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 49
+ }
+}

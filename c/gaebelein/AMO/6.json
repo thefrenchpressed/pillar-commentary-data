@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "gaebelein",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 6\n\nThe Fourth Discourse\n\n1. Woe to them that are at ease in Zion (Amos 6:1-6)\n\n2. The punishment announced (Amos 6:7-14)\n\nAmos 6:1-6. This woe concerns the great men, the chiefs of the nation, who were sunk into a godless self-security, and dreamt on in their darkness, while the clouds of judgment were gathering above them. They were to go from Calneh to Hamath and then down to Gath of the Philistines. Calneh was built by Nimrod in the land of Shinar Genesis 10:10; Hamath was the capital of a Syrian kingdom, and Gath the center of Philistia. These places were the places of vileness and corruption. But were the kingdoms of both Judah and Israel any better than these?\n\nWhile some desired the day of the Lord others put it far off, they refused to believe that judgment was impending. It was so in Ezekiel’s time when the people said “The days are prolonged and every vision faileth” Ezekiel 12:22. So it is in Christendom. The evil servant Matthew 24:1-51 says “My Lord delayeth His coming, and as a result he acts outrageously. What were the results in Israel when the evil day was put far off? They committed violence; violence increased in the land. They lived luxuriously on beds of ivory and ate the best of the flock. They danced and made merry; they drank wine but none was exercised over the hurt of Joseph, the spiritual condition of the people.\n\nAmos 6:7-14. They were now to go away as captives. There should be utter desolation. There would be a multitude of dead, so that they could not follow their ancient custom in burying them; they would have to burn them. Then the one who burns the corpses asks the last person in the house whether there is any one still with him, and the answer is No, but keep silence! For the name of the Lord is not to be invoked. It means that the speaker fears that the other one might mention the name of the Lord and in doing so bring down upon himself an additional judgment. Everything is to be smitten. What they had done could no more secure blessing and salvation than horses could run upon a rock and one plowing upon a rock with oxen. The nation which is announced in the last verse is the Assyrian."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "AMO",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "AMO",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "AMO",
+  "chapter": 7
+ }
+}

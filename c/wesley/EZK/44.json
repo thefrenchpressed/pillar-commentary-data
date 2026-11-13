@@ -1,0 +1,227 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": "The appropriating the east-gate of the temple to the prince, ver. 1-3. A reproof to Israel for their former profanations of the sanctuary, and a caution, ver. 4-9. The degrading of one part of the Levites, and establishing of the family of Zadock in the priesthood, ver. 10-16. Laws and ordinances concerning the priesthood, ver. 17-31.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Shall not be opened - Shall not ordinarily stand open. No man - None of the common people. The Lord - That glory which was the visible sign of his presence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "He - The king might sit before the Lord, others might not. Bread - That part of the sacrifice, which was allowed to the offerer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "He - Christ in the appearance of a man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The entering - The persons who may, and who may not enter. The sanctuary - Taken here for the courts, rather than the house itself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Let it suffice - Let the time you have spent on your sins suffice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Bread - Either the meal - offering or first - fruits of corn and dough, and the shew - bread. They - The whole nation of the Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Have not kept - You have not observed the laws I gave you for the keeping of my holy things, house, sacrifices, and worship. Have set - You have substituted others in your rooms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Are gone away - By their idolatry."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Ministers - Servants employed in the lowest work. Sanctuary - Not the temple itself, but about the courts of it. Having charge - They shall be porters to open and shut, and sweep, and go on errands. To minister - To wait on the priests."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Iniquity - The punishment of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Shall bear their shame - They shall be dealt with according to their abominations, and bear the punishment thereof."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "That kept the charge - Were constant, zealous, and faithful in their priestly office."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Into my sanctuary - Both to the altar, to the temple, and the high - priest into the holy of holies. Come near - To set the shew - bread on, and to take it off. To minister - To offer sacrifice at the altar, and incense in the house. God will put marks of honour upon those who are faithful to him in trying times, and will, employ those in his service, who have kept close to it, when others drew back."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "And within - In the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Shall not sanctify - By the law, common things, touching holy things, became consecrated, and no more fit for common use."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "To grow long - Priding themselves in it, as Absalom. Shall only poll - When the hair is grown, they shall cut the ends of their hair, and keep it in moderate size."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Drink wine - Or any other strong liquor, when they go either to trim the lamps or set the shew - bread in order, or to offer incense in the temple, or when they go to the altar to offer a sacrifice, which stood in the inner court."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Shall judge - Shall determine the controversy. Assemblies - Publick congregations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Cleansed - After for seven days he hath kept from the dead. They - The priests, who are about the house of God, shall appoint seven days more to this defiled person for his cleansing before he is admitted into the sanctuary."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "It - The sin - offering: but under this one, all other offerings are couched. For an inheritance - Instead of lands and cities."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "And the first - So soon as the first - fruits are ripe in the field, your vineyards, and olive yards. Every oblation - Whether free - will offering, or prescribed. The first of your dough - 'Tis conceived this was of every mass of dough they made, and of the first of the dough, which every year they first made of the new corn, as by the custom of the Jews at this day appears. That he - The priest may bless, and pray for thee."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 45
+ }
+}

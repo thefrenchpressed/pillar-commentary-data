@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "wesley",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": "Jehu cuts off all Ahab's sons, ver. 1-10. And kindred, ver. 11- 14. Takes Jehonadab with him, ver. 11-17. Slays the worshippers of Baal, ver. 18-25. Abolishes his worship, ver. 26-28. Yet retains the worship of the Calves, ver. 29-31. Which God punishes by Hazael, ver. 32-33. Jehu's death, ver. 34-37",
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The house - The chief governor of the kings palace. City - The chief magistrate or military governor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Sent them - Jehu justly required this, because the sovereign lord of all mens lives commanded it, but the Samaritans wickedly obeyed it, without any knowledge of, or regard to God's command."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Left none - In that place and kingdom; for he did leave some of the royal seed of Judah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Rechab - A Kenite, 1Chron 2:55, and a man of singular prudence and piety. Coming - To congratulate with him, for the destruction of that wicked family; and to encourage him to proceed in fulfilling the will of God. Him - Jehu saluted Jehonadab. Is, &c. - Dost thou heartily approve of me, and my present proceedings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Jehu said - The words being manifestly false, and spoken with a design to deceive, cannot be excused, this being an unmovable principle, That we must not do the least evil, that the greatest good may come."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "City - To some buildings belonging to this house of Baal, which may be here called the city; because they were very numerous and capacious. For as there were divers chambers and rooms built without the temple, belonging to it, for the use of the priests, and Levites. So it may probably be conceived, That this famous temple of Baal had many such buildings; in some of which, the priests of Baal, or of the groves, (whereof there were great numbers belonging to the king's court, 1Kings 18:19,) peradventure might dwell; and others of them might be for divers uses belonging to the house, and service of Baal."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Draught - house - A sink or common shore."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Jehu departed not - So that it is plain, his religion was but superficial: otherwise it would not have given way to his policy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Done well - In part, and so far as is here expressed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Took no heed - Sin, clearly shewed that his heart was not right with God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 11
+ }
+}

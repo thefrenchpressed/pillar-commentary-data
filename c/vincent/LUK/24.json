@@ -1,0 +1,326 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "vincent",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Very early in the morning [ορθρουβαθεως]. Lit., at deep dawn, or the dawn being deep. It is not uncommon in Greek to find baquv, deep, used of time; as deep or late evening. Plutarch says of Alexander, that he supped \"at deep evening;\" i e., late at night. Philo says that the Hebrews crossed the Red Sea \"about deep dawn (as here), while others were yet in bed.\" So Socrates, in prison, asks Crito the time of day. He replies, orqrov baquv, the dawn is deep, i e. breaking (Plato, \"Crito,\" 43).\n\n4 - 8. Compare Matthew 28:5 - 7; Mr 16:5 - 7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Shining [αστραπτουσαις]. Only here and ch. 17 24. Akin to ajstraph, lightning. See on bright shining, ch. 11 36; and compare ch. 17 24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "To them [ενωπιοναυτων]. Rev., literally, in their sight.\n\nIdle tales [ληρος]. Lit., silly talk; nonsense. Only here in New Testament. Used in medical language of the wild talk of delirium. Wyc., madness. Tynd., feigned things."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Stooping down. See on looketh, James 1:25. The best texts omit this verse.\n\nClothes. Not garments, but the linen bandages in which the body had been rolled. So Rev., cloths."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Threescore furlongs. Seven miles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Went with [συνεπορευετο]. The use of the imperfect here is very beautiful. Jesus drew near while they were absorbed in their talk, and was already walking with them when they observed him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Ye have [αντιβαλλετε]. Lit., throw back and forth; exchange.\n\n\"Discussed a doubt and tossed it to and fro\" (Tennyson).\n\nAnd are sad [σκυθρωποι]. Only here and Matthew 6:16, on which see note. The best texts put the interrogation point after walk, add kai ejstaqhsan, and render, and they stood still, looking sad. So Rev."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Art thou only a stranger in Jerusalem [συμονοςπαροικειςιερουσαλημ]. Paroikein, to dwell as a stranger, is used in later Greek of strangers who have no rights of citizenship, and no settled home. Compare Hebrews 11:9. See on strangers, 1 Peter 1:1; and compare sojourning, 1 Peter 1:17. The only of the A. V. is commonly understood adverbially: \"Are you nothing but a stranger?\" But the emphasis of the question falls there, and the word is an adjective. Render \"Dost thou alone dwell as a stranger in Jerusalem?\" Are you the only one who sojourns as a stranger in Jerusalem, and who does not know, etc. So, nearly, Wyc., Thou alone art a pilgrim in Jerusalem.\n\nLuke 24:18What things [ποια]. Lit., \"what kind of things.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Trusted [ηλπιζομαν]. More correctly, hoped. Imperfect: were hoping all the while.\n\nShould have redeemed. Rev., more correctly, should redeem [λυτρουσθαι]. See on 1 Peter 1:18.\n\nBeside all this (sun pasin toutoiv). Lit., with all these things: his betrayal and crucifixion, etc.\n\nToday is the third day (trithn tauthn hJmeran agei shmeron). The best texts omit today. The phrase forms an idiom which cannot be neatly rendered. Literally it is, \"He (Christ) is passing [αγει] this day as the third.\" Rev., It is now the third day since, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Made us astonished [εξεστησαν]. Literally the verb means to put out of place; and so, to drive one out of his senses. Hence the A. V. is feeble. Rev., better, amazed us.\n\nEarly [ορθριναι]. Lit., early ones. Only here and Revelation 22:16. Compare orqrov, dawn, ver. 1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "That they had seen - which said. Cleopas, absorbed in his story, throws himself back to the time of his interview with the women. Lit., \"They came saying that they have seen a vision of angels which say\" [λεγουσιν]."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Fools and slow of heart [ανοητοικαιβραδειςτηκαρδια]. This is an unfortunate translation, in the light of the ordinary, popular use of the word fool. Jesus would never have called those sorrowful disciples fools in that sense. The word is compounded of aj, not, and noew, which implies, besides seeing, perception of the mind as consequent upon sight. It is therefore equivalent to dull of perception. They had read what the prophets had spoken, but had failed to perceive its application to Christ. While this rebuke relates to the understanding, the following one, slow of heart, goes deeper, and contemplates the region of feeling and moral susceptibility. Your heart is dull and slow to respond to these testimonies of your own prophets. Compare hardness of heart, Mr 16:14.\n\nAll (ejpi pasin). Rev., rightly, in all; relying upon [επι] all the utterances of the prophets."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Ought not [ουχιεδει]. The A. V. does not convey the precise meaning, which is, that, in the eternal order of things, and in fulfilment of the eternal counsel of God as expressed in the prophecies, it was essentially fitting that Christ should suffer. Rev. is clumsy but correct: beloved it not the Christ to suffer?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "He expounded [διερμηνυεν]. Or interpreted: throughout [δια].\n\nImperfect, he went on interpreting from passage to passage."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "They went [επορευοντο]. Imperfect, were going. So Rev.\n\nMade as though [προσεποιησατο]. The verb means originally to add or attach to; hence to take to one's self what does not belong to him; and so, to pretend; though pretending as implying anything false, does not attach to this act of Jesus. He was going on, and would have gone on but for their invitation. Only here in New Testament."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "They constrained [παρεβιασαντο]. Contrary to [παρα] his apparent intention of going on. Only here and Acts 16:15.\n\nIs far spent [κεκλικεν]. Lit., has declined. Wyc., is now bowed down."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "And gave [επεδιδου]. A very beautiful use of the imperfect, indicating that while he was in the act of distributing they recognized him. He blessed, and having broken, was giving it to them, when, in an instant, their eyes were opened (aorist tense)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "They knew [επεγνωσαν]. Clearly recognized.\n\nAnd he vanished out of their sight [αυτοςαφαντοςεγενετοαπαυτων]. Lit., he, invisible, became away from them. It is not simply, he suddenly departed from them, but he passed away from them invisibly. The ejgeneto, became, is construed with ajp' aujtwn, from them. 10"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Did not our heart burn - while he talked - opened. [ουχιηκαρδιαημωνκαιομενηην - ωςελαλει - διηνοιγεν]. The A. V., as usual, pays no attention to the graphic imperfects here. They are speaking of something which was in progress: \"was not our heart burning (finite verb and participle) while he was speaking, and was opening the scriptures?\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Is risen [ηγερθη] - appeared [ωφθη]. Both aorists. The Lord rose and appeared. So Wyc. See on appeared, ch. 22 43."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "They told [εξηγουντο]. Rev., rehearsed is better, because the verb means to tell at length or relate in full."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Jesus himself. The best texts omit Jesus. Render as Rev., \"he himself stood.\"\n\nAnd saith unto them, Peace be unto you. The best texts omit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Thoughts [διαλογισμοι]. See on James 2:4, and deceiving, James 1:22. Rev., reasonings. As if he had said, \"Why do you reason about a matter which your spiritual perception ought to discern at once.\" Compare note on fools, ver. 25. 11"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Handle [ψηλαφησατε]. Compare 1 John 1:1. The word occurs also Acts 17:27; Hebrews 12:18. \"It never expresses the so handling an object as to exercise a moulding, modifying influence upon it, but at most a feeling of its surface; this, it may be, with the intention of learning its composition (Genesis 27:12, 21, 22); while, not seldom, it signifies no more than a feeling for or after an object, without any actual coming in contact with it at all\" (Trench, \" Synonyms \"). Compare Acts 17:27. Used of groping in the dark, Job 5:14; of the blind, Isaiah 49:10; Deuteronomy 28:29; Judges 16:26. See on Hebrews 12:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Meat (brwsimon). Only here in New Testament. Lit., anything eatable. Wyc., anything that shall be eaten. Rev., better, anything to eat, as the word meat has largely lost, in popular usage, its old sense of food in general."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Broiled. Only here in New Testament.\n\nOf an honey - comb. The best texts omit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "The words. The best texts insert my.\n\nMust [δει]. See on ought not, ver. 26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "Understanding [νουν]. Which had been closed. See on fools, ver. 25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "Thus is behoved. The best texts omit. Render, as Rev., thus it is written that the Christ should suffer.\n\nChrist [τονχριστον]. Note the article, the Christ, and see on Matthew 1:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Should be preached. See on preacher, 2 Peter 2:5.\n\nIn his name. On the foundation of [επι]. See on Matthew 24:5.\n\nRemission. See on ch. Luke 3:3, and on forgiven, James 5:15.\n\nBeginning from Jerusalem. Some editors place a period after nations, and join these words with the next sentence, omitting and: \"beginning from Jerusalem ye are witnesses.\" 12"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "I send [εγωεξαποστελλω]. Rev., better, send forth, giving the force of ejx. I emphatic.\n\nEndued with power. The Rev. has properly substituted the simpler clothed, which, to the English reader, conveys the exact figure in the word. This metaphorical sense of clothed is found in classical Greek.\n\nAristophanes has clothes with audacity; Homer, clothed with strength; Plutarch, clothes with nobility and wealth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "And was carried up into heaven. Some texts omit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "JHN",
+  "chapter": 1
+ }
+}

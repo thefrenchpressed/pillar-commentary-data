@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "maclaren",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "THE PILLAR OF CLOUD AND FIRE\n\nIsaiah 4:5.\n\nThe pillar of cloud and fire in the Exodus was one: there are to be as many pillars as there are ‘assemblies’ in the new era. Is it straining the language too much to find significance in that difference? Instead of the formal unity of the Old Covenant, there is a variety which yet is a more vital unity. Is there not a hint here of the same lesson that is taught by the change of the one golden lamp-stand into the seven, which are a better unity because Jesus Christ walks among them?\n\nThe heart of this promise, thus cast into the form of ancient experiences, but with significant variations, is that of true communion with God.\n\nThat communion makes those who have it glorious.\n\nThat communion supplies unfailing guidance.\n\nA man in close fellowship with God will have wonderful flashes of sagacity, even about small practical matters. The gleam of the pillar will illumine conscience, and shine on many difficult, dark places. The ‘simplicity’ of a saintly soul will often see deeper into puzzling contingencies than the vulpine craftiness of the ‘prudent.’ The darker the night, the brighter the guidance.\n\nThat communion gives a defence.\n\nThe pillar came between Egypt and Israel, and kept the foe off the timid crowd of slaves. Whatever forms our enemies take, fellowship with God will invest us with a defence as protean as our perils. The same cloud is represented in the context as being ‘a pavilion for a shadow in the heat, and for a refuge and for a covert from storm and from rain.’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 5
+ }
+}

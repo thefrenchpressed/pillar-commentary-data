@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "wesley",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "And again - After having been in desert places for some time, he returned privately to the city. In the house - In Peter's house."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "And immediately many were gathered together - Hitherto continued the general impression on their hearts. Hitherto, even at Capernaum, all who heard received the word with joy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Mt 9:2; Lu 5:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "They uncovered the roof - Or, took up the covering, the lattice or trap door, which was on all their houses, (being flat roofed.) And finding it not wide enough, broke the passage wider, to let down the couch."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "But certain of the scribes - See whence the first offence cometh! As yet not one of the plain unlettered people were offended. They all rejoiced in the light, till these men of learning came, to put darkness for light, and light for darkness. Wo to all such blind guides! Good had it been for these if they had never been born. O God, let me never offend one of thy simple ones! Sooner let my tongue cleave to the roof of my mouth!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "They were all amazed - Even the scribes themselves for a time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "All the multitude came to him - Namely, by the sea side. And he as readily taught them there as if they had been in a synagogue."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Mt 9:9; Lu 5:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Many publicans and notorious sinners sat with Jesus - Some of them doubtless invited by Matthew, moved with compassion for his old companions in sin. But the next words, For there were many, and they followed him, seem to imply, that the greater part, encouraged by his gracious words and the tenderness of his behaviour, and impatient to hear more, stayed for no invitation, but pressed in after him, and kept as close to him as they could."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "And the scribes and Pharisees said - So now the wise men being joined by the saints of the world, went a little farther in raising prejudices against our Lord. In his answer he uses as yet no harshness, but only calm, dispassionate reasoning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "I came not to call the righteous - Therefore if these were righteous I should not call them. But now, they are the very persons I came to save."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Mt 9:14; Lu 5:33."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Mt 12:1; Lu 6:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "In the days of Abiathar the high priest - Abimelech, the father of Abiathar, was high priest then; Abiathar himself not till some time after. This phrase therefore only means, In the time of Abiathar, who was afterward the high priest. 1Sa 21:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The Sabbath was made for man - And therefore must give way to man's necessity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Moreover the Son of man is Lord even of the Sabbath - Being the supreme Lawgiver, he hath power to dispense with his own laws; and with this in particular."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "vincent",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Colt. Only Matthew adds the ass. Mark and Luke have colt only."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "In a place where two ways met [επιτουαμφοδου]. Amfodon is literally any road which leads round [αμφι] a place or a block of buildings. Hence the winding way. The word occurs only here in the New Testament. Rev., in the open street, which in an Eastern town is usually crooked. Perhaps, by contrast with the usual crookedness, the street in Damascus where Paul lodged was called Straight (Acts 9:11). \"It is a topographical note,\" says Dr. Morison, \"that could only be given by an eye - witness.\" The detail of verse 4 is peculiar to Mark. According to Luke (xxii. 8), Peter was one of those sent, and his stamp is probably on the narrative."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "In the way. Both Matthew and Luke have ejn, in; but Mark, eijv, into. They threw their garments into the way and spread them there. Branches. Matthew, Mark, and John use each a different word for branches. Matthew, kladouv, from klaw, to break; hence a young slip or shoot, such as is broken off for grafting - a twig, as related to a branch. Mark, stibadav, from steibw, to tread or beat down; hence a mass of straw, rushes, or leaves beaten together or strewed loose, so as to form a bed or a carpeted way. A litter of branches and leaves cut from the fields (only Mark) near by. John, baia, strictly palm - branches, the feathery fronds forming the tufted crown of the tree. Hosanna. Meaning, O save!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "When he had looked round. Peculiar to Mark. As the master of the house, inspecting. \"A look serious, sorrowful, judicial\" (Meyer). Compare Mr 3:5, 34."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Afar off. Peculiar to Mark.\n\nHaving leaves. An unusual thing at that early season. If haply [ειαρα]. If, such being the case, i e., the tree having leaves - he might find fruit, which, in the fig, precedes the leaf. Mark alone adds, \"for the time of figs was not yet.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "His disciples heard it. Peculiar to Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Money - changers [κολλυβιστων]. Another unclassical word, but used also by Matthew. \"Such words as these might naturally find their place in the mongrel Greek of the slaves and freedmen who formed the first congregations of the church in Rome\" (Ezra Abbott, Art. \"Gospels,\" in Encyclopedia Britannica). See on Matthew 21:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Vessel [σκευος]. See on Matthew 12:29; Mr 3:27.\n\nTemple [ιερου]. See on Matthew 4:5. The temple enclosure, not the naov, or sanctuary. People would be tempted to carry vessels, etc., through this, in order to save a long circuit. The court of the Gentiles, moreover, was not regarded by the Jews as entitled to the respect due to the other part of the enclosure. This our Lord rebukes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Of all nations. Which rendering implies, shall be called by all nations. But render with Rev., a house of prayer for all the nations (pasin toiv eqnesin).\n\nThieves [ληστων]. Rev., correctly, robbers. See on Matthew 21:13; Matthew 26:55; John 10:1, 8. From lhiv or leia, booty. In classical usage mostly of cattle. The robber, conducting his operations on a large and systematic scale, and with the aid of bands, is thus to be distinguished from the klepthv, or thief who purloins or pilfers whatever comes to hand. A den would be appropriate to a band of robbers, not to thieves. Thus the traveler to Jericho, in Christ's parable (Luke 10:30), fell among robbers, not thieves"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "When evening was come [οταν]. Lit., whenever evening came on; not on the evening of the purging of the temple merely, but each day at evening.\n\n20 - 24. All the details are peculiar to Mark. Compare Matthew 21:20 - 22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Shall come to pass [γινεται]. Rather cometh to pass, as Rev."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Receive [ελαβετε]. More lit., received. Rev., have received."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Trespasses. See on Matthew 6:14"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Walking. An addition of Mark. ===Mr_12\n\nCHAPTER XII\n\n1 - 11. Compare Matthew 21:33 - 46."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 12
+ }
+}

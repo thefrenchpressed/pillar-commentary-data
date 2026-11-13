@@ -1,0 +1,236 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "wesley",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": "In this chapter our Lord prays,\n\n1. For himself, ver. 1-5. John xvii, 1-5\n\n2. For the apostles, ver. 6-19; John xvii, 6-19 and again, ver. 24- 26. John xvii, 24-26\n\n3. For all believers, ver. 20-23. John xvii, 20-23 And\n\n4. For the world, ver. 21-23. John xvii, 21-23 In his prayer he comprises all he had said from chap. xiii, 31, and seals, as it were, all he had hitherto done, beholding things past, present, and to come. This chapter contains the easiest words, and the deepest sense of any in all the Scripture: yet is here no incoherent rhapsody, but the whole is closely and exactly connected.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Father - This simplicity of appellation highly became the only - begotten Son of God; to which a believer then makes the nearest approach, when he is fullest of love and humble confidence. The hour is come - The appointed time for it; glorify thy Son - The Son glorified the Father, both before and after his own glorification. When he speaks to the Father he does not style himself the Son of man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "As thou hast given him power over all flesh - This answers to glorify thy Son. That he may give eternal life, &c. - This answers to that thy Son may glorify thee. To all whom thou hast given him - To all believers. This is a clear proof that Christ designed his sacrifice should avail for all: yea, that all flesh, every man, should partake of everlasting life. For as the Father had given him power over all flesh, so he gave himself a ransom for all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "To know - By loving, holy faith, thee the only true God - The only cause and end of all things; not excluding the Son and the Holy Ghost, no more than the Father is excluded from being Lord, 1Cor 8:6; but the false gods of the heathens; and Jesus Christ - As their prophet, priest, and king: this is life eternal - It is both the way to, and the essence of, everlasting happiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "I have finished the work - Thus have I glorified thee, laying the foundation of thy kingdom on earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The glory which I had - He does not say received - He always had it, till he emptied himself of it in the days of his flesh."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "I have manifested thy name - All thy attributes; and in particular thy paternal relation to believers; to the men whom thou hast given me - The apostles, and so John 17:12. They were thine - By creation, and by descent from Abraham. And thou hast given them me - By giving them faith in what I have spoken. So John 17:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Now they know that all things - Which I have done and spoken, are of thee - And consequently right and true."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "They have received them - By faith."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "I pray not for the world - Not in these petitions, which are adapted to the state of believers only. (He prays for the world at John 17:21,23, that they may believe - That they may know God hath sent him.) This no more proves that our Lord did not pray for the world, both before and afterward, than his praying for the apostles alone, John 17:6 - 19, proves that he did not pray for them also which shall believe through their word, John 17:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "All things that are mine are thine, and that are thine are mine - These are very high and strong expressions, too grand for any mere creature to use; as implying that all things whatsoever, inclusive of the Divine nature, perfections, and operations, are the common property of the Father and the Son. And this is the original ground of that peculiar property, which both the Father and the Son have in the persons who were given to Christ as Mediator; according to what is said in the close of the verse, of his being glorified by them; namely, believing in him, and so acknowledging his glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Keep them through thy name - Thy power, mercy, wisdom, that they may be one - with us and with each other; one body, separate from the world: as we are - By resemblance to us, though not equality."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Those whom thou hast given me I have guarded, and none of them is lost, but the son of perdition - So one even of them whom God had given him is lost. So far was even that decree from being unchangeable! That the Scripture might be fulfilled - That is, whereby the Scripture was fulfilled. The son of perdition signifies one that deservedly perishes; as a son of death, 2Sam 12:5; children of hell, Mt 23:15, and children of wrath, Eph 2:3, signify persons justly obnoxious to death, hell, wrath. Psalm 109:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "In the world - That is, before I leave the world. My joy - The joy I feel at going to the Father."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "That thou wouldest take them out of the world - Not yet: but that thou wouldest keep them from the evil one - Who reigns therein."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Sanctify - Consecrate them by the anointing of thy Spirit to their office, and perfect them in holiness, by means of thy word."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "I sanctify myself - I devote myself as a victim, to be sacrificed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "For them who will believe - In all ages."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "As thou art in me - This also is to be understood in a way of similitude, and not of sameness or equality. That the world may believe - Here Christ prays for the world. Observe the sum of his whole prayer, Receive me into thy own and my glory; Let my apostles share therein; And all other believers: And let all the world believe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The glory which thou hast given me, I have given them - The glory of the only begotten shines in all the sons of God. How great is the majesty of Christians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Here he returns to the apostles. I will - He asks, as having a right to be heard, and prays, not as a servant, but a Son: that they may behold my glory - Herein Is the happiness of heaven, 1John 3:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Righteous Father - The admission of believers to God through Christ, flows even from the justice of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "I have declared to them thy name - Thy new, best name of love; that the love wherewith thou hast loved me - That thou and thy love, and I and my love, may be in them - That they may love me with that love."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JHN",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JHN",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JHN",
+  "chapter": 18
+ }
+}

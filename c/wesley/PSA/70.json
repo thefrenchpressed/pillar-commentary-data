@@ -1,0 +1,37 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 70,
+  "introduction": "This psalm is copied almost word for word from the eleventh psalm, and perhaps is for that reason entitled, A psalm to bring remembrance. For it may sometimes be of use to pray over again the prayers we have formerly made to God on like occasions. David here prays, that God would send help to him, shame to his enemies, and joy to his friends. To the chief musician, a psalm of David, to bring to remembrance.\n\nEditorial note: Psalm 70 closely follows Psalm 40:13–17; the source reads eleventh psalm.",
+  "content": []
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 70
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 69
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 71
+ }
+}

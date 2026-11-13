@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "scofield",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "WRITER: The writer of the first Gospel, as all agree, was Matthew, called also Levi, a Jew of Galilee who had taken service as a tax-gatherer under the Roman oppressor. He was, therefore, one of the hated and ill-reputed publicans.\n\nDATE: The date of Matthew has been much discussed, but no convincing reason has been given for the discrediting the traditional date of A.D. 37.\n\nTHEME: The scope and purpose of the book are indicated in the first verse. Matthew is the \"book of the generation of Jesus Christ, the Son of David, the Son of Abraham\" (Matthew 1:1). This connects him at once with two of the most important of the Old Testament Covenants: the Davidic Covenant of kingship, and the Abrahamic Covenant of promise.; 2 Samuel 7:8-16; Genesis 15:18.\n\nOf Jesus Christ in that twofold character, then, Matthew writes. Following the order indicated in the first verse, he writes first of the King, the son of David; then of the Son of Abraham, obedient unto death, according to the Isaac type Genesis 22:1-18; Hebrews 11:17-19.\n\nBut the prominent character of Christ in Matthew is that of the covenanted King, David's \"righteous Branch\" Jeremiah 23:5; 33:15. Matthew records His genealogy; His birth in Bethlehem the city of David, according to Micah 5:2, the ministry of His forerunner according to Malachi Malachi 3:1. His rejection by Israel; and His predictions of His second coming in power and great glory.\n\nOnly then (Matthew 26-28) does Matthew turn to the earlier covenant, and record the sacrificial death of the son of Abraham.\n\nThis determines the purpose and structure of Matthew. It is peculiarly the Gospel for Israel; and, as flowing from the death of Christ, a Gospel for the whole world.\n\nMatthew falls into three principal divisions:\n\nThe manifestation to Israel and rejection of Jesus Christ the Son of David, born King of the Jews, 1:1-25:46. The subdivisions of this part are:\n\nThe official genealogy and birth of the King, 1:1-25;\n\nThe infancy and obscurity of the King, 2:1-23;\n\nThe kingdom \"at hand,\" 3:1-12:50 (the order of events of this subdivision is indicated in the text);\n\nThe mysteries of the kingdom, 13:1-52;\n\nThe ministry of the rejected King, 13:53-23:39;\n\nThe promise of the King to return in power and great glory, 24:1-25:46.\n\nThe sacrifice and resurrection of Jesus Christ, the Son of Abraham, 26:1-28:8.\n\nThe risen Lord in ministry to His own, 28:9-20.\n\nThe events recorded in Matthew cover a period of 38 years (Ussher).",
+  "content": [
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Josias -- Josiah, 1 Kings 13:2"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "1 Six Marys 2 of whom was born 3 Christ\n\n1 Six Marys\n\n1 Six Marys are to be distinguished in the N.T.:\n\n(1) the mother of Jesus; always clearly identified by the context.\n\n(2) Mary Magdalene, a woman of Magdala, \" out of whom went seven demons\" Luke 8:2 She is never mentioned apart from the identifying word \"Magdalene.\"\n\n(3) The mother of James (called \"the less,\" Mark 15:40) and Joses, the apostles. A comparison of; John 19:25; Matthew 27:56; Mark 15:40 establishes the inference that this Mary, the mother of James the less, and of Joses was the wife of Alphaeus (called also Cleophas), John 19:25 and a sister of Mary the mother of Jesus. Except in; Matthew 27:61; 28:1 where she is called \"the other Mary (i.e. \"other\" than her sister, Mary the Virgin); and John 19:25 where she is called \"of Cleophas,\" she is mentioned only in connection with one or both of her sons.\n\n(4) Mary of Bethany, sister of Martha and Lazarus, mentioned by name only in Luke 10:39-42; John 11:1,2,19,20,28,31,32,45; 12:3 but referred to in; Matthew 26:7; Mark 14:3-9.\n\n(5) The mother of John Mark and sister of Barnabas Acts 12:12.\n\n(6) A helper of Paul in Rome Romans 16:6.\n\n2 of whom was born\n\n2 The changed expression here is important. It is no longer, \"who begat,\" but, \"Mary, of whom was born Jesus.\" Jesus was not begotten of natural generation.\n\n3 Christ\n\n3 Christ (Christos=anointed), the Greek form of the Hebrew \"Messiah\" Daniel 9:25,26 is the official name of our Lord, as Jesus is his human name; Luke 1:31; 2:21. The name, or title, \"Christ\" connects Him with the entire O.T. foreview (See Scofield \"Zechariah 12:8\") of a coming prophet Deuteronomy 18:15-19, Priest Psalms 110:4 and king 2 Samuel 7:7-10. As these were typically anointed with oil; 1 Kings 19:16; Exodus 29:7; 1 Samuel 16:13 so Jesus was anointed with the Holy Spirit; Matthew 3:16; Mark 1:10,11; Luke 3:21,22; John 1:32,33 thus becoming officially \"the Christ.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "save -- See note, Romans 1:16 (See Scofield \"Romans 1:16\")\n\nsins -- See note, Romans 3:23 (See Scofield \"Romans 3:23\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "of the Lord -- See Isaiah 7:14 Lit. by the Lord through the prophet."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "JESUS -- The Greek form of the Hebrew Jehoshua meaning saviour."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAL",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 2
+ }
+}

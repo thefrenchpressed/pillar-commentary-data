@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "scofield",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "Joshua records the consummation of the redemption of Israel of Israel out of Egypt; for redemption has two parts: \"out,\" and \"into\" (Deuteronomy 6:23). The key-phrase is \"Moses My servant is dead\" (Joshua 1:2). Law, of which Moses is the representative, could never give a sinful people victory (Hebrews 7:19; Romans 6:14; 8:2-4).\n\nIn a spiritual sense the book of Joshua is the Ephesians of the Old Testament. \"The heavenly\" of Ephesians is to the Christian what Canaan was to the Israelite and blessing through divine power (Joshua 21:43-55; Ephesians 1:3)\n\nThe government, as before, was theocratic; Joshua succeeding Moses as the ruler under God.\n\nJoshua falls into four parts:\n\nThe conquest, 1-12.\n\nThe partition of the inheritance, 13-21.\n\nIncipient discord, 22.\n\nJoshua's last counsels and death, 23,24.\n\nThe events recorded in Joshua cover a period of 26 years (Ussher).",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Every place -- The law of appropriation. God gives, but we must take."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOS",
+  "chapter": 2
+ }
+}

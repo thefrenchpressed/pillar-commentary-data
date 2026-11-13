@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "gaebelein",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "II. THE RETURN UNDER EZRA AND HIS 7\n\n1. The journey of Ezra to Jerusalem (Ezra 7:1-10)\n\n2. The decree of Artaxerxes (Ezra 7:11-26)\n\n3. Ezra’s thanksgiving (Ezra 7:27-28)\n\nEzra 7:1-10. The record of the return under Zerubbabel and the rebuilding of the temple ends with the previous chapter. Many years passed after the temple had been built before the godly Ezra and his companions returned to Jerusalem. No record whatever is in existence covering the years which intervened between Zerubabbel’s expedition and work, and Ezra’s expedition. The critics claim that “it was in these apparently barren years that the priestly code was elaborated by the priests who had not left Babylon, and that part at least of the second half of Isaiah (chapter 40, etc.) was composed and put together in Babylon.” But what historical foundation for their theory can they offer? There is nothing in existence which in any way warrants such claims.\n\nThe evidence that Moses wrote the Pentateuch and that Isaiah is the author of the entire book which bears his name is overwhelming. The theory of a priestly code, that the priestly laws of Leviticus were collected in Babylon and brought back by Ezra, is an invention.\n\nWhat became of Zerubbabel is not known. But we know that a sad decline among the returned remnant set in. Their moral and religious condition had suffered a severe relapse. Perhaps these very conditions moved Ezra to leave Babylon and go to Jerusalem.\n\nIt was in the seventh year of Artaxerxes, King of Persia, that Ezra went up. The genealogy of Ezra is given, showing that he was a direct descendant of Aaron, the chief priest. Ezra was “a ready scribe in the law of Moses, which the LORD God of Israel had given.” A blessed testimony that the Law of Moses was given by God, and not put together piece-meal, corrected, revised and added to by different hands. Ezra, occupied with the Law and the Word of God, desired to go up to Jerusalem. God put it into his heart, and the Gentile King granted him all his request. In all this the hand of the Lord is acknowledged. “According to the hand of the Lord his God upon him.” This phrase we meet a number of times (7:6, 9, 28; 8:18, 22, 31); and it shows how this man of God trusted in the LORD for guidance.\n\nHe saw His hand in having all his request granted by Artaxerxes. It was the good hand of God who brought him to Jerusalem (7:9). His hand strengthened him (7:28). The good hand of the LORD is again acknowledged in bringing them ministers (8:18) and in deliverance (8:31). The same hand which was for good upon Ezra, which guided, kept and shielded him, is still upon all His people who trust Him and are obedient to His Word. (The character of our work forbids an attempt to enlarge upon the identity of the different rulers mentioned in Ezra and Nehemiah--which is a difficult matter, involving a careful examination of chronology. We suggest a good book on chronology The Romance of Bible Chronology, by M.\n\nAnstey.)\n\nWith Ezra a company of people went up to Jerusalem, 1,496 in all. They left on the first day of the first month, and arrived on the first day of the fifth month, corresponding to the end of July or beginning of August. The distance they travelled by way of Carchemish was over 800 miles.\n\nIn verse 10 we have the secret of Ezra’s piety: “For Ezra had prepared his heart to seek the Law of the LORD, and to do it, and to teach in Israel statutes and judgments.” Diligently and prayerfully he sought the truth and the will of God in the Word of God. The law of the LORD was his joy and delight. How he must have searched the Scriptures with deep exercise of soul. This is the foundation of godliness. The heart must enter into the things of God as revealed in His Word. And his aim was “to do it;” to live according to the truth God had given him. Finally, the third desire of Ezra was “to teach in Israel statutes and judgments.” Heart preparation in the Word, obedience to the word, must be the marks of the true servant of the LORD.\n\nEzra 7:11-26. The copy of the letter that Artaxerxes gave to Ezra is now recorded. This section is again in Aramaic. In the salutation of the letter Artaxerxes calls himself “king of kings” and addresses Ezra as the scribe of the law of the God of heaven. There can be no question that Artaxerxes was divinely moved in all he did. The decree states that all Israelites, priests and Levites in his realm who are minded of their own free will to go up to Jerusalem, may go with Ezra.\n\nThe name of God, the law of God, the house of God are constantly used in this document. Then the King and his seven counsellors freely gave silver and gold “unto the God of Israel, whose habitation is in Jerusalem.” In a future day, when all Israel is saved, when Christ comes again, the Gentiles and their kings will offer their silver and gold (Isaiah 60; Psalms 62:10-11). Besides the silver and gold Artaxerxes and his counsellors gave, there were other offerings of non-Jews and of the Jewish residents of Babylon. The king had perfect confidence in Ezra. After buying bullocks, rams, lambs, etc., the king wrote, “And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.”\n\nEzra 7:27-28. Then Ezra broke out in a beautiful doxology. He blessed the LORD God of his fathers. He had put all this in the King’s heart. And Ezra was strengthened as the hand of the LORD His God was upon him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZR",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZR",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZR",
+  "chapter": 8
+ }
+}

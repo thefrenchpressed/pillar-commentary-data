@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "But - By a wise and good prince."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "It like - Is like a violent rain or flood, which washes away the very seeds in the earth. He is the worst of all oppressors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Contend - Are so far from praising them, that they severely reprove them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Judgment - What is just and right. All things - Which are necessary to be known by them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Better - In a much happier condition."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Causeth - That by evil counsel, or example, or artifice, draws them into evil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Rejoice - Are promoted. Glory - In that common - wealth. Rise - Are advanced to authority. Hidden - Wise and good men, who only are worthy of the name of men, withdraw themselves into obscure places."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Alway - In all times, companies, and conditions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Oppressor - The tyranny of a prince, is a manifest sign of folly. Prolong - By God's favour, the peace and satisfaction of his own mind, and the hearty love of his people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Violence - That sheddeth any man's blood. Shall flee - Shall speedily be destroyed. Shall slay - None should desire or endeavour to save him from his deserved punishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "At once - Once for all; so he shall never rise more."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Faithful - Who deals truly and justly in all his transactions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "For - When a man hath once accustomed himself to take bribes, a very small advantage will make him sell justice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Evil eye - Is uncharitable to persons in want, and envious to those who get any thing besides him. Poverty - And consequently that he shall need the pity and help of others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "The same - Is a thief and robber."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Fat - Shall live happily and comfortably."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Wisely - Distrusting his own judgment, and seeking the advice of others, and especially of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Men - Righteous men are afraid to appear publickly."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 29
+ }
+}

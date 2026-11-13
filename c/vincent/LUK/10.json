@@ -1,0 +1,326 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "vincent",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Appointed [ανεδειξεν]. Used by Luke only. Lit., to lift up and shew, as Acts 1:24: \"Shew which one thou hast chosen.\" Hence to proclaim any one elected to an office. See on the kindred noun, shewing, ch. 1 80. Other seventy. Wrong; for he had not appointed seventy previously.\n\nRev., rightly, seventy others, with reference to the twelve."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The harvest [θερισμος]. From qerov, summer (compare qeromai, to become warm). Harvest, that which is gathered in summer. Wyc., much ripe corn is, but few workmen.\n\nPray. See on ch. Luke 8:38.\n\nSend forth [εκβαλη]. Lit., drive or thrust forth, implying the urgency of the mission. See on Mr 1:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "I send forth [αποστελλω]. See on Matthew 10:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Purse [βαλλαντιον]. Used by Luke only. For money.\n\nScrip (phran). For victuals. Rev., wallet.\n\nShoes. Not that they were to go unshod, but that they were not to carry a change of sandals. See Deuteronomy 29:5; Deuteronomy 33:25.\n\nSalute no man. Oriental salutations are tedious and complicated. The command is suited to a rapid and temporary mission. Compare 2 Kings 4:29. \"These instructions were also intended to reprove another propensity which an Oriental can hardly resist, no matter how urgent his business. If he meets an acquaintance, he must stop and make an endless number of inquiries, and answer as many. If they come upon men making a bargain, or discussing any other matter, they must pause and intrude their own ideas, and enter keenly into the business, though it in nowise concerns them; and, more especially, an Oriental can never resist the temptation to assist when accounts are being settled or money counted out. The clink of coin has a positive fascination to them\" (Thomson, \" Land and Book \")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Peace to this house. The usual oriental salutation. See Judges 19:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "If a son of peace be there. So Rev. A Hebraism, referring to the character of the head of the house, and the tone of the household. Compare Job 21:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The workman is worthy, etc. See on Matthew 10:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Dust [κονιορτον]. From koniv, dust, and ornumi, to stir up. Strictly, dust that is raised by walking.\n\nCleaveth. See on Matthew 19:5. Frequent in medical language of the uniting of wounds.\n\nWipe off [απομασσομεθα]. See on Luke 5:2. Only here in New Testament."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Mighty works. See on Matthew 11:20.\n\nSackcloth [σακκω]. From the Hebrew sak: what is knotted together; net - shaped; coarsely woven. It was made of goats ' or camels ' hair (Revelation 6:12), and was a material similar to that upon which Paul wrought in tent - making. The same word in Hebrew is used to describe a grain - sack, and this coarse material of which it is made (Genesis 42:25; Joshua 9:4). So the Greek sagh means a pack or baggage. The same root, according to some etymologists, appears in saghnh, a drag - net (see Matthew 13:47), and sagov, Latin sagum, a coarse, soldier's cloak. It was employed for the rough garments for mourners (Esther 4:1; 1 Kings 21:27), in which latter passage the sackcloth is put next the flesh in token of extreme sorrow. Compare 2 Kings 6:30; Job 16:15.\n\nAshes [σποδω]. As a sign of mourning. Defiling one's self with dead things, as ashes or dirt, as a sign of sorrow, was common among the Orientals and Greeks. Thus Homer describes Achilles on hearing of the death of Patroclus:\n\n\"Grasping in both hands The ashes of the hearth, he showered them o'er His head, and soiled with them his noble face.\"\n\nIliad, 18 28.\n\nAnd Priam, mourning for Hector:\n\n\"In the midst the aged man Sat with a cloak wrapped round him, and much dust Strewn on his head and neck, which, when he rolled Upon the earth, he gathered with his hands.\"\n\nIliad, 24 162 - 5.\n\nSee 1 Samuel 4:12; 2 Samuel 1:2; 2 Samuel 13:19; Job 2:12; Ezekiel 17:30; Revelation 18:19. In Judith 4 14, 15, in the mourning over the ravages of the Assyrians, the priests minister at the altar, girded with sackcloth, and with ashes on their mitres. Sir Gardner Wilkinson, describing a funeral at Thebes, says: \"Men, women, and children, with the body exposed above the waist, throw dust on their heads, or cover their faces with mud\" (\" Modern Egypt and Thebes \"). Stifling with ashes was a Persian mode of punishment. Compare Apocrypha, 2 Macc. 13 5 - 7. Herodotus relates that Nitocris, an Egyptian queen, after having drowned the murderers of her brother, threw herself into an apartment full of ashes, in order to escape the vengeance of their friends."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "But [πλην]. Rev., howbeit. See on Matthew 11:22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Which are exalted to heaven. For hJ, the article, rendered which, the best texts give mh, the interrogative particle; and for the participle having been exalted, the future shalt be exalted. Render, as Rev., Shalt thou be exalted, etc.?\n\nHell. Rev., Hades. See on Matthew 16:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Despiseth [αθετει]. See on Luke 7:30, and compare Galatians 2:21; Galatians 3:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The seventy. \"The fuller development of the new dispensation begins with the mission of the seventy, and not with the mission of the apostles. Its ground - work, from Luke's point of sight, is the symbolic evangelization of every nation upon earth, and not the restoration of the twelve tribes of Israel. According to Jewish tradition, there were seventy or seventy - two different nations and tongues in the world. In ch. 10 1, some read seventy - two instead of seventy\" (Westcott, \" Int. to the Study of the Gospels \")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "I beheld [εθεωρουν]. The verb denotes calm, intent, continuous contemplation of an object which remains before the spectator. So John 1:14, we beheld, implying that Jesus ' stay upon earth, though brief, was such that his followers could calmly and leisurely contemplate his glory. Compare John 2:23: they beheld his miracles, \"thoughtfully and attentively. Here it denotes the rapt contemplation of a vision. The imperfect, was beholding, refers either to the time when the seventy were sent forth, or to the time of the triumphs which they are here relating.\" While you were expelling the subordinates, I was beholding the Master fall \" (Godet).\n\nThe Revisers do not seem to have had any settled principle in their rendering of this word throughout the New Testament. See my article on the Revised New Testament, Presbyterian Review, October, 1881, p. 646 sq.\n\nSatan. A transcription of the Hebrew word, derived from a verb to lie in wait or oppose. Hence an adversary. In this sense, of David, 1 Samuel 29:4, and of the angel who met Balaam, Numbers 22:22. Compare Zechariah 3:1, 2; Job 1, 2. Diabolov, devil, is the more common term in the New Testament. In Revelation 12:9, both terms are applied to him. As lightning. Describing vividly a dazzling brilliance suddenly quenched. Fall [πεσοντα]. Lit., having fallen. The aorist marks the instantaneous fall, like lightning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The best texts omit Jesus.\n\nRejoiced. See on 1 Peter 1:6.\n\nIn spirit. The best texts add tw aJgiw, the holy, and render in the Holy Spirit.\n\nI thank. See on Matthew 11:25. From this point to ver. 25, compare Matthew 11:25 - 27, and Matthew 13:16, 17.\n\nPrudent. See on Matthew 11:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Are delivered [παρεδοζη]. See on Matthew 11:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Lawyer. See on ch. Luke 7:30.\n\nTempted. See on temptation, Matthew 6:13.\n\nTo inherit. See on inheritance, 1 Peter 1:4.\n\nEternal [αιωνιον]. The word will be fully discussed in the second volume."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Read. See on ch. Luke 4:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Thou shalt love, etc. See on Mr 12:30. Luke adds strength.\n\nTHE PARABLE OF THE GOOD SAMARITAN,\n\n29 - 37. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Willing [θελων]. Rev., desiring. See on Matthew 1:19. I think this is stronger than desiring; rather, determined.\n\nNeighbor [πλησιον]. See on Matthew 5:43."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Answering [υπολαβων]. Used by Luke only, and in this sense only here. See on ch. Luke 7:43. It means, strictly, to take up; and hence, of conversation, to take up another's discourse and reply.\n\nFell among. See on James 1:2.\n\nThieves [λησταις]. See on Matthew 26:55; and Luke 23:39 - 43. These were not petty stealers, but men of violence, as was shown by their treatment of the traveler. The road from Jerusalem to Jericho passed through a wilderness (Joshua 16:1), which was so notorious for robberies and murders that a portion of it was called \"the red or bloody way,\" and was protected by a fort and a Roman garrison.\n\nStripped. Not of his clothing only, but of all that he had.\n\nWounded [πληγαςεπιθεντες]. Lit., having laid on blows. Blows or stripes is the usual sense of the word in the New Testament. See ch. Luke 12:48; Acts 16:23. It has the metaphorical sense of plagues in Revelation 14:1, 6, 8, etc.\n\nHalf dead [ημιθανητυγχανοντα]. The full force of the expression cannot be rendered into English. The word tugcanonta throws an element of chance into the case. Lit., happening to be half dead; or \"leaving him half dead, as it chanced;\" his condition being a matter of unconcern to these robbers. The word hJmiqanh, half dead, occurs nowhere else in the New Testament. The best texts, however, omit tugcanonta."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "By chance [κατασυγκυριαν]. Only here in New Testament. The word means, literally, a coincidence. By coincidence of circumstances. There came down. Imperfect, was going down, as Rev.\n\nPriest. The Talmudists said that there were almost as many priests at Jericho as at Jerusalem.\n\nPassed by on the other side [αντιπαρηλθεν]. The verb occurs only here and ver. 32."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Came and looked. Rev., saw. Seeming to imply that the Levite went farther than the priest in coming near to the wounded man, and, having observed his condition, passed on."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Came where he was. There is a strong contrast with the other cases, and a downright heartiness in the words, kat aujton, down to him. The Levite had come kata topon, \"down to the place.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Bound up [κατεδησεν]. Only here in New Testament.\n\nWounds [τραυματα]. Only here in New Testament.\n\nPouring in [επιχεων]. Rather upon [επι], as Rev. Wine to cleanse, and oil to soothe. See Isaiah 1:6.\n\nOil and wine. Usual remedies for sores, wounds, etc. Hippocrates prescribes for ulcers, \"Bind with soft wool, and sprinkle with wine and oil.\"\n\nBeast [κτηνος]. Perhaps akin to kthma, a possession; since animals anciently constituted wealth, so that a piece of property and a beast were synonymous terms.\n\nInn [πανδοχειον]. Only here in New Testament. From pan, all, and decomai, to receive: a place of common reception. See on inn, ch. 2 7. Remains of two khans, or inn, on the road between Jericho and Jerusalem are mentioned by modern travelers. Porter (\" Handbook of Syria and Palestine \") speaks of one about a mile from Bethany, and another farther on, at the most dangerous part of the road, an extensive, ruined caravanserai, called Khan el Almah, situated on the top of a bleak ridge.\n\nConcerning the former, Hepworth Dixon (\" Holy Land \") says: \"About midway in the descent from Bethany to Jericho, in a position commanding a view of the road above and below,.... on the very spot where search would be made for them, if no such ruins were suspected of existing, stands a pile of stones, archways, lengths of wall, which the wandering Arabs call Khan Houdjar, and still make use of as their own resting - place for the night. These ruins are those of a noble inn; the lewan, the fountain, and the court, being plainly traceable in the ruins.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Two pence. About thirty - five cents. See on Matthew 20:2.\n\nI will repay. The I is expressed [εγω], and is emphatic. Trouble him not for the reckoning; I will repay."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Was neighbor [πλησιονγεγονεναι]. More correctly, has become neighbor. Jesus throws himself back to the time of the story. So Rev., proved neighbor. \"The neighbor Jews became strangers. The stranger Samaritan became neighbor to the wounded traveler\" (Alford)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "He that shewed mercy on him. Rather with him [μετα]: dealt with him as with a brother. The lawyer avoids the hated word Samaritan.\n\nTHE VISIT AT THE HOUSE IN BETHANY,\n\n38 - 42. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Received [υπεδεξατο]. From upo, under, and decomai, to receive. Received him under her roof. Martha is marked as the head of the household. It was her house. She received the guest, and was chiefly busy with the preparations for his entertainment (ver. 40)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Sat [παρακαθεσθεισα]. Only here in New Testament. Lit., sat beside [παρα]."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Was cumbered [περιεσπατο]. Only here in New Testament. The Rev. might better have inserted in the text the marginal rendering, was distracted. The verb means, literally, to draw from around [περι].\n\nMartha's attention, instead of centering round Jesus, was drawn hither and thither. The peri, around, in composition with the verb, is followed immediately by another peri, \"about much serving.\"\n\nCame to him [επιστασα]. Came up to him, as Rev., suddenly stopping in her hurry.\n\nHath left [κατελιπεν]. The aorist, as Rev., did leave, indicating that she had been assisting before she was drawn off by Jesus ' presence. Some read kateleipen, the imperfect, was leaving.\n\nHelp [συναντιλαβηται]. The verb consists of three elements: lambanw, to take hold; sun, together with; ajnti, reciprocally - doing her part as Martha does hers. It might be paraphrased, therefore, take hold and do her part along with me. It occurs only here and Romans 8:26, of the Spirit helping our infirmities, where all the elements of the verb are strikingly exemplified."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Thou art anxious [μεριμνας]. See on Matthew 6:25.\n\nTroubled [θορυβαζη]. From qorubov, tumult. Anxious denotes the inward uneasiness: troubled, the outward confusion and bustle. ===Luk11\n\nCHAPTER XI\n\n2 - 4. Compare Matthew 6:9 - 13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 11
+ }
+}

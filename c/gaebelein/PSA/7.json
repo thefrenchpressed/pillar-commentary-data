@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "1. Confidence and prayer (Psalms 7:1-2)\n\n2. Unjust persecution (Psalms 7:3-5)\n\n3. Arise Jehovah! (Psalms 7:6-10)\n\n4. God’s dealings in government (Psalms 7:11-16)\n\n5. Thanksgiving (Psalms 7:17)\n\nPsalms 7:1-2. It has been suggested that over this Psalm should be written the sentence, “Shall not the judge of all the earth do right?” David appealed to God to judge His cause, that a righteous God cannot but save the righteous and judge the wicked. David sang this unto the Lord concerning the words of Cush, the Benjamite. Who Cush was we do not know. He must be a type of the man of sin. David appeals to God who is his refuge, to save and rescue him. The lion stands ready to tear him to pieces.\n\nPsalms 7:3-5. He knows it is unjust persecution he is suffering. If he had done evil to others he might well be treated in this way.\n\nPsalms 7:6-10. Then follows the appeal to Jehovah to arise in His anger, and to awake for him the judgment He has commanded, when the peoples are assembled for judgment. This appeal from the lips of the remnant will be answered by the manifestation of the Lord.\n\nPsalms 7:11-16. God’s judgments in righteousness will overtake the wicked. It is a prophetic description of that day when the wickedness of the wicked comes to an end and the righteous are established. Psalms 7:14-16 are another description of the man of sin, the wicked one.\n\nPsalms 7:17. A word of praise closes this series of Psalms in which the millennial name of Jehovah is given: “The Most High.” We see that the overthrow of the wicked brings the praise of Jehovah, as it will be heard on earth when He has come back. In reviewing these Psalms, beginning with the Third, we have a morning hymn (3), followed by an evening hymn (4); then a night experience (5), followed by the deepest night (6) and the breaking of the morning, when the Judge ariseth and the wickedness of the wicked comes to an end (7)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "wesley",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": "Naaman hears of Elisha, ver. 1-4. The king of Syria sends him to the king of Israel, ver. 5-7. He goes to Elisha and is healed, ver. 8-14. His grateful acknowledgment to Elisha, ver. 15-19. Gehazi follows him, and receives gifts from him, ver. 20-24. The leprosy of Naaman entailed on Gehazi's family, ver. 25-27.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Go to, &c. - It was very natural for a king to suppose, that the king of Israel could do more than any of his subjects."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Elisha sent - Which he did, partly, to exercise Naaman's faith and obedience: partly, for the honour of his religion, that it might appear he sought not his own glory and profit, but only God's honour, and the good of men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Was wroth - Supposing himself despised by the prophet."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Are not, &c. - Is there not as great a virtue in them to this purpose? But he should have considered, that the cure was not to be wrought by the water, but by the power of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "My father - Or, our father. So they call him, to shew their reverence and affection to him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "He refused - Not that he thought it unlawful to receive presents, which he did receive from others, but because of the special circumstances of the case; this being much for the honour of God that the Syrians should see the generous piety, and kindness of his ministers and servants, and how much they despised all that worldly wealth and glory, which the prophets of the Gentiles so greedily sought after."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Two mules burden of earth - So he seems to farm the money which he brought with him, to express how little value he now set upon it. Ten talents (above three thousand five hundred pounds) in silver, with six thousand pieces of gold, (beside ten changes of raiment) were a burden for several mules. Shall I not give this to thy servant, Gehazi, if thou thyself will accept of nothing? This seems a more probable interpretation than the common one, that he wanted to build an altar therewith. For what altar could be built of the earth which two mules could carry into Syria? Unless they were as large and as strong as Elephants."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Rimmon - A Syrian idol, called here by the LXX, Remman, and Acts 7:43, Remphan. My hand - Or, arm, upon which, the king leaned, either for state, or for support."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Gehazi - One would expect Elisha's servant should have been a saint: but we find him far otherwise. The best men, the best ministers, have often had those about them, that were their grief and shame. This Syrian - A stranger, and one of that nation who are the implacable enemies of God's people. As the Lord - He swears, that he might have some pretence for the action to which he had bound himself by his oath; not considering, that to swear to do any wicked action, is so far from excusing it, that it makes it much worse."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Urged him - Who at first refused it upon a pretence of modesty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Olive yards, &c. - Which Gehazi intended to purchase with this money: and therefore the prophet names them, to inform him, that he exactly knew, not only his outward actions, but even his most secret intentions. What a folly is it, to presume upon sin in hopes of secrecy? When thou goest aside into any bye - path, doth not thy own conscience go with thee? Nay, doth not the eye of God go with thee? What then avails the absence of human witnesses?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "For ever - That is, for some generations; as that word is often used and as may be thought by comparing this with Exod 20:55. (?) White - Which is the worst kind of leprosy, and noted by physicians to be incurable. Those who get money by any way displeasing to God, make a dear purchase. What was Gehazi profited by his two talents, when he lost his health, if not his soul, forever?\n\nEditorial note: Wesley’s 1765 edition and Poole’s 1683 annotations both print Exodus 20:55. Exodus 20 ends at verse 26. For the reference to later generations, compare Exodus 20:5. Poole also cites Exodus 34:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 6
+ }
+}

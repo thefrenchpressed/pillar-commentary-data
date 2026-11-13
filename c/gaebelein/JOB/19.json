@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 19 Job’s Reply to Bildad\n\n1. How long will ye vex my soul? (Job 19:1-6)\n\n2. And I am not heard! (Job 19:7-12)\n\n3. Forsaken of men he pleads to be pitied (Job 19:13-24)\n\n4. Faith supreme (Job 19:25-27)\n\n5. The warning to his friends (Job 19:28-29)\n\nJob 19:1-6. Bildad’s scathing speech did not bring Job into the dust. He acknowledges the words vexed his soul and broke him in pieces, but he does not change his viewpoint. He repudiates the guilt with which they charged him and continues to blame God.\n\nJob 19:7-12. Afresh he breaks forth in accusing God. He charges Him with not answering his prayers. “He hath stripped me of my glory, and taken the crown from my head. He hath broken me down on every side, and I am gone.” He imagines that His wrath is kindled against him. But what a display of divine mercy and patience! God looked upon the worm in the dust and pities him, as He still pities His children.\n\nJob 19:13-24. Then the description of his forsaken condition. Read it in these verses. His brethren, his kinsfolk, his wife, all have turned against him. His servants look upon him as an outcast. Young children even despise him. Then the wail for pity: “Have pity upon me, have pity upon me, O, ye my friends.”\n\nJob 19:25-27. But what a change! Suddenly light breaks in. He does not speak by himself, but the Spirit of God enlightens his soul and utters words which stand in striking contrast with all his previous wailings. The witness he bears is not without difficulties in point of translation. Darby’s translation is as follows:\n\nAnd as for me, I know that my Redeemer liveth\n\nAnd at the Last, He shall stand upon the earth;\n\nAnd if after my skin this shall be destroyed\n\nYet from out of my flesh I shall see God.\n\nWhom I shall see for myself.\n\nAnd mine eyes shall behold and not another.\n\nThough mine eyes be consumed within me.\n\nThe Companion Bible paraphrases the text in an excellent way:\n\nI know that my Redeemer ever liveth,\n\nAnd in the latter day on earth shall stand;\n\nAnd after worms this body have consumed,\n\nYet in my flesh I shall Eloah (God) see,\n\nWhom I, e’ en I, shall see upon my side,\n\nMine eyes shall see Him--stranger now no more:\n\nFor this my inmost soul with longing waits.\n\nAnd the Redeemer of whom he speaks, enabled to utter these words of faith by the power of another, is the Lord Jesus Christ, the risen, living, coming Redeemer, the victor over death and the grave. Here is the testimony of the book of Job to the hope of the coming of the Lord, the resurrection of the body and the glorification of the saints.\n\nJob 19:28-29. How astonished his friends must have been at this wonderful outburst from his lips, which but a few moments ago almost blasphemed God. He asks them why they persecute him, inasmuch as the root of true faith is in him. He warns them that there is judgment."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 20
+ }
+}

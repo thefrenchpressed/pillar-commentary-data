@@ -1,0 +1,353 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 78,
+  "introduction": "This psalm is a narrative of the great mercies God had bestowed upon Israel, the great sins wherewith they had provoked him, and the many tokens of his displeasure at them. Here is, The preface, ver. 1-8. The general scope of this psalm, ver. 9-11. As to the particulars, we are told, what God had done for them; how ungrateful they were for his favours; how God had justly punished them; and how graciously he had spared them, notwithstanding all their provocations, ver. 12-72. Maschil of Asaph.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "My law - The doctrine which I am about to deliver."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Parable - Weighty sentences. Dark sayings - Not that the words are hard to be understood, but the things, God's transcendent goodness, their unparallel'd ingratitude; and their stupid ignorance and insensibleness, under such excellent teachings of God's word and works, are prodigious and hard to be believed. Of old - Of things done in ancient times."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Established - This is justly put in first place, as the chief of all his mercies. A testimony - His law, called a testimony, because it is a witness between God and men, declaring the duties which God expects from man, and the blessings which man may expect from God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Ephraim - That Ephraim is here put for all Israel seems evident from the following verses, wherein the sins, upon which this overthrow is charged, are manifestly the sins of all the children of Israel, and they who are here called Ephraim are called Jacob and Israel, ver.21, and this passage may refer to that dreadful overthrow related, 1Sam 4:10,11, which is particularly named, because as the ark, so the flight was in that tribe. And the psalmist having related this amazing providence, falls into a large discourse of the causes of it, namely, the manifold sins of that and the former generations, which having prosecuted from hence to ver.60, he there returns to this history, and relates the sad consequence of that disaster, the captivity of the ark, and God's forsaking of Shiloh and Ephraim, and removing thence to the tribe of Judah and mount Zion. Bows - These are put for all arms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Field - In the territory. Zoan - An ancient and eminent city of Egypt."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Wilderness - In Rephidim, and again in Kadesh."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Streams - Which miraculously followed them in all their travels, even to the borders of Canaan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Wilderness - Where they had such singular obligations to obedience. This was a great aggravation of their sins."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Tempted - Desired a proof of God's power. Lust - Not for their necessary subsistence, but out of an inordinate and luxurious appetite."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Trusted not - That he both could, and would save them from the famine which they feared."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Heaven - Which he compares to a store - house, whereof God shuts or opens the doors, as he sees fit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Angels food - Manna, so called, because it was made by the ministry of angels."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "South wind - First an eastern, and afterwards a southern wind."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Fowl - But God took away from them the use of their wings, and made them to fall into the hands of the Israelites."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Mightiest - The most healthy and strong, who probably were most desirous of this food, and fed most eagerly upon it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Vanity - In tedious and fruitless marches hither and thither. Trouble - In manifold diseases, dangers, and perplexities."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Returned - From their idols. Enquired - Speedily sought to God for ease and safety."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Redeemer - That God alone had preserved them in all their former exigencies, and that he only could help them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Lied - They made but false protestations of their sincere resolutions of future obedience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Hand - The glorious works of his hand. Enemy - That remarkable day, in which God delivered them from their greatest enemy, Pharaoh."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "Flies - These flies were doubtless extraordinary in their nature, and hurtful qualities. And the like is to be thought concerning the frogs."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "Labour - The herbs which were come up by their care and labour."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Sycamore - trees - Under these and the vines, all other trees are comprehended. This hail and frost destroyed the fruit of the trees, and sometimes the trees themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "Evil angels - Whom God employed in producing these plagues."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "Ham - Of the Egyptians, the posterity of Ham, the cursed children of a cursed parent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 54,
+    "content": [
+     {
+      "text": "Holy place - The land of Canaan, separated by God from all other lands. Mountain - The mountainous country of Canaan; the word mountain is often used in scripture for a mountainous country."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 57,
+    "content": [
+     {
+      "text": "Deceitful bow - Which either breaks when it is drawn, or shoots awry, and frustrates the archer's expectation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 59,
+    "content": [
+     {
+      "text": "Heard - Perceived or understood, it is spoken of God after the manner of men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 60,
+    "content": [
+     {
+      "text": "Shiloh - Which was placed in Shiloh. Among men - Whereby he insinuates both God's wonderful condescension, and their stupendous folly in despising so glorious a privilege."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 61,
+    "content": [
+     {
+      "text": "His strength - The ark, called God's strength, 1Chron 16:11, because it was the sign and pledge of his strength put forth on his people's behalf. Glory - So the ark is called, as being the monument and seat of God's glorious presence. Enemies - The Philistines."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 64,
+    "content": [
+     {
+      "text": "Priests - Hophni and Phinehas. No lamentation - No funeral solemnities; either because they were prevented by their own death, as the wife of Phinehas was, or disturbed by the invasion of the enemy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 66,
+    "content": [
+     {
+      "text": "Smote - Them with the piles. Reproach - He caused them to perpetuate their own reproach by sending back the ark of God with their golden emrods, the lasting monuments of their shame."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 67,
+    "content": [
+     {
+      "text": "Refused - He would not have his ark to abide any longer in the tabernacle of Shiloh, which was in the tribe of Joseph or Ephraim."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 68,
+    "content": [
+     {
+      "text": "Chose - For the seat of the ark and of God's worship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 69,
+    "content": [
+     {
+      "text": "Sanctuary - The temple of Solomon. Palaces - Magnificent and gloriously. Established - Not now to be moved from place to place, as the tabernacle was, but as a fixed place for the ark's perpetual residence."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 78
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 77
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 79
+ }
+}

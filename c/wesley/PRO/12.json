@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Lie in wait - Are designed to entrap others, and to destroy them. Deliver them - From those that lie in wait for them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Are not - Both they and their families suddenly perish."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Despised - That lives in a mean condition. Honoureth - That glories in his high birth or gay attire."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Regardeth - He will not destroy it either by labour beyond its strength, or by denying it necessary food or rest. Cruel - There is cruelty mixed even with their most merciful actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Tilleth - That employs his time in an honest calling. Vain persons - In an idle course of living."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Desireth - He approves those arts, which wicked men use like nets to ensnare other men. The root - That piety, which is the root of his actions, yields him sufficient fruit both for his own need, and to do good to others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Mouth - By his pious and profitable discourses. Hands - Of his actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Hearkeneth - That distrusts his own judgments, and seeks counsel from others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Covereth - The shame, or injury done to him, which he conceals and bears with patience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Deceit - He who uses himself to lying in his common talk, will use falsehood and deceit in judgment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Health - Tends to the comfort and benefit of others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "A moment - Liars, though they may make a fair shew for a season, yet are quickly convicted."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Deceit - They whose hearts devise mischief shall be deceived in their hopes, and bring trouble upon themselves: but they who by good counsels labour to promote peace, shall reap the comfort of it themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Concealeth - He does not unseasonably utter what he knows. Foolishness - Betrays his ignorance and folly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "A good word - A compassionate or encouraging word."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Neighbour - Than any other men. Seduceth - Heb. maketh them to err, to lose that excellency or happiness which they had promised themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Resteth not - Does not enjoy the fruit of his labours. Precious - Yields him comfort and blessing with it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 13
+ }
+}

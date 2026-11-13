@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "vincent",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Of your Father [παρα]. The A. V. implies the source of the reward; but the preposition means with, by the side of; so that the true sense is, reserved for you and awaiting you by the side of your Father. Rev., rightly, with."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Sound a trumpet [σαλπισης]. There seems to be no trace of any such custom on the part of almsgivers, so that the expression must be taken as a figurative one for making a display. It is just possible that the figure may have been suggested by the \"trumpets\" of the temple treasury - thirteen trumpet - shaped chests to receive the contributions of worshippers. (See on Luke 21:2.)\n\nHave their reward (ajpecousin). The preposition ajpo indicates receipt in full. Rev. renders they have received, so that there is nothing more to receive. So Wyc., They have received their need."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Closet [ταμιειον]. See on Luke 12:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Use vain repetitions [βατταλογησητε]. A word formed in imitation of the sound, battalogein: properly, to stammer; then to babble or prate, to repeat the same formula many times, as the worshippers of Baal and of Diana of Ephesus (1 Kings 18:26; Acts 19:34) and the Romanists with their paternosters and aves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Debts [οφειληματα]. So rightly, A. V., and Rev. (compare Luke 11:4). Sin is pictured as a debt, and the sinner as a debtor (compare Matthew 18:28, 30). Accordingly the word represents sin both as a wrong and as requiring satisfaction. In contrast with the prayer, \"Forgive us our debts,\" Tholuck (\" Sermon on the Mount \") quotes the prayer of Apollonius of Tyana, \"O ye gods, give me the things which are owing to me.\"\n\nForgive [αφηκαμεν]. Lit., to send away, or dismiss. The Rev. rightly gives the force of the past tense, we have forgiven; since Christ assumes that he who prays for the remission of his own debts has already forgiven those indebted to him. 4"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Temptation [πειρασμον]. It is a mistake to define this word as only solicitation to evil. It means trial of any kind, without reference to its moral quality. Thus, Genesis 22:1 (Sept.), \"God did tempt Abraham;\" \" This he said to prove him \"(John 6:6); Paul and Timothy assayed to go to Bithynia (Acts 16:7);\" Examine yourselves \"(2 Corinthians 13:5). Here, generally of all situations and circumstances which furnish an occasion for sin. We cannot pray God not to tempt us to sin,\" for God cannot be tempted with evil, neither tempteth he any man \" (James 1:13)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Trespasses [παραπτωματα]. The Lord here uses another word for sins, and still another [αμαρτιας] appears in Luke's version of the prayer, though he also says, \"every one that is indebted to us.\" There is no difficulty in supposing that Christ, contemplating sins in general, should represent them by different terms expressive of different aspects of wrong - doing (see on Matthew 1:21). This word is derived from parapiptw, to fall or thrown one's self beside. Thus it has a sense somewhat akin to aJmartia, of going beside a mark, missing. In classical Greek the verb is often used of intentional falling, as of throwing one's self upon an enemy; and this is the prevailing sense in biblical Greek, indicating reckless and wilful sin (see 1 Chronicles 5:25; 1 Chronicles 10:13; 2 Chronicles 26:18; 2 Chronicles 29:6, 19; Ezekiel 14:13; Ezekiel 28:26). It does not, therefore, imply palliation or excuse.\n\nIt is a conscious violation of right, involving guilt, and occurs therefore, in connection with the mention of forgiveness (Romans 4:25; Romans 5:16; Colossians 2:13; Ephesians 2:1, 5). Unlike parabasiv (transgression), which contemplates merely the objective violation of law, it carries the thought of sin as affecting the sinner, and hence is found associated with expressions which indicate the consequences and the remedy of sin (Romans 4:25; Romans 5:15, 17; Ephesians 2:1)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Ye fast [νηστευητε]. Observe the force of the present tense as indicating action in progress: Whenever ye may be fasting.\n\nOf a sad countenance [οκυθρωποι]. An uncommon word in the New Testament, occuring only here and at Luke 24:17. Trench (\" Studies in the Gospels \") explains it by the older sense of the English dreary, as expressing the downcast look of settled grief, pain, or displeasure. In classical Greek it also signifies sullenness and affected gravity. Luther renders, Look not sour.\n\nDisfigure [αφανιζουσιν]. The idea is rather conceal than disfigure. There is a play upon this word and fanwsin (they may appear) which is untranslatable into English: they conceal or mask their true visage that they may appear unto men. The allusion is to the outward signs of humiliation which often accompanied fasting, such as being unwashed and unshaven and unanointed. \"Avoid,\" says Christ, \"the squalor of the unwashed face and of the unkempt hair and beard, and the rather anoint thy head and wash thy face, so as to appear [φανης] not unto men, but unto God as fasting.\" Wycliffe's rendering is peculiar: They put their faces out of kindly terms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Lay not up treasures [μηθησαυριζετε]. Lit., treasure not treasures. So Wyc., Do not treasure to you treasures. The beautiful legend of St. Thomas and Gondoforus is told by Mrs. Jameson (\" Sacred and Legendary Art \"): \"When St.\n\nThomas was at Caesarea, our Lord appeared to him and said, 'The king of the Indies, Gondoforus, hath sent his provost, Abanes, to seek for workmen well versed in the science of architecture, who shall build for him a palace finer than that of the Emperor of Rome. Behold, now I will send thee to him. ' And Thomas went, and Gondoforus commanded him to build for him a magnificent palace, and gave him much gold and silver for the purpose. The king went into a distant country and was absent for two years; and St. Thomas, meanwhile instead of building a palace, distributed all the treasures among the poor and sick; and when the king returned he was full or wrath, and he commanded that St. Thomas should be seized and cast into prison, and he meditated for him a horrible death. Meantime the brother of the king died, and the king resolved to erect for him a most magnificent tomb; but the dead man, after that the had been dead four days, suddenly arose and sat upright, and said to the king, 'The man whom thou wouldst torture is a servant of God; behold I have been in Paradise, and the angels showed to me a wondrous palace of gold and silver and precious stones; and they said, 'This is the palace that Thomas, the architect, hath built for thy brother, King Gondoforus. ' And when the king heard these words, he ran to the prison, and delivered the apostle; and Thomas said to him, 'Knowest thou not that those who would possess heavenly things have little care for the things of this earth?\n\nThere are in heaven rich palaces without number, which were prepared from the beginning of the world for those who would purchase the possession through faith and charity. Thy riches, O king, may prepare the way for three to such a palace, but they cannot follow thee thither. '\"\n\nRust [βρωσις]. That which eats; from the verb bibrwskw, to eat. Compare corrode, from the Latin rodo, to gnaw.\n\nDoth corrupt [αφανιζει]. Rev., consume. The same word which is used above of the hypocrites concealing their faces. The rust consumes, and therefore causes to disappear. So Wyc., destroyeth.\n\nBreak through [διορυσσουσιν]. Lit., dig through, as a thief might easily penetrate the wall of a common oriental house of mud or clay. The Greek name for a burglar is toicwrucov, a wall - digger. Compare Job 24:16, \"In the dark they dig through houses.\" Also Ezekiel 12:5. Wyc., Thieves delve out."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Single [απλους]. The picture underlying this adjective is that of a piece of cloth or other material, neatly folded once, and without a variety of complicated folds. Hence the idea of simplicity or singleness (compare simplicity from the Latin simplex; semel, once; plicare, to fold). So, in a moral sense, artless, plain, pure. Here sound, as opposed to evil or diseased. Possibly with reference to the double - mindedness and indecision condemned in ver. 24.\n\nFull of light [φωτεινον]. Bengel says, \"As if it were all eye.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "In thee - darkness. Seneca, in one of his letters, tells of an idiot slave in his house, who had suddenly become blind. \"Now, incredible as the story seems, it is really true that she is unconscious of her blindness, and consequently begs her attendant to go elsewhere because the house is dark. But you may be sure that this, at which we laugh in her, happens to us all; no one understands that he is a avaricious or covetous. The blind seek for a guide; we wander about without a guide.\"\n\n\"Seeing falsely is worse than blindness. A man who is too dim - sighted to discern the road from the ditch, may feel which is which; but if the ditch appears manifestly to him to be the road, and the road to be the ditch, what shall become of him? False seeing is unseeing, on the negative side of blindness\" (Ruskin, \" Modern Painters \")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "The other [ετερον]. Implying distinction in quality rather than numerical distinction [αλλος]. For example, \" whoever smiteth thee on thy right cheek, turn to him the other [τηναλλην]; i e., the other one of the two (Matthew 5:39). At Pentecost, the disciples began to speak with other [ετεραις] tongues; i e., different from their native tongues. Here the word gives the idea of two master of distinct or opposite character and interests, like God and Mammon.\n\nHold to [ανθεξεται]. The preposition ajnti, against, indicates holding to the one master as against the other. He who is for God must be against Mammon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Take no thought [μημεριμνατε]. The cognate noun is merimna, care, which was formerly derived from meriv, a part; merixw, to divide; and was explained accordingly as a dividing care, distracting the heart from the true object of life. This has been abandoned, however, and the word is placed in a group which carries the common notion of earnest thoughtfulness. It may include the ideas of worry and anxiety, and may emphasize these, but not necessarily. See, for example, \"careth for the things of the Lord\" (1 Corinthians 7:32). \"That the members should have the same care one for another\" (1 Corinthians 12:25). \"Who will care for your state?\" (Phi 2:20). In all these the sense of worry would be entirely out of place.\n\nIn other cases that idea is prominent, as, \"the care of this world,\" which chokes the good seed (Matthew 13:22, compare Luke 8:14). Of Martha; \"Thou are careful\" (Luke 10:41). Take thought, in this passage, was a truthful rendering when the A. V. was made, since thought was then used as equivalent to anxiety or solicitude. So Shakespeare (\" Hamlet \"):\n\n\"The native hue of resolution Is sicklied o'er with the pale cast of thought.\"\n\nAnd Bacon (Henry vii): \"Hawis, an alderman of London, was put in trouble, and died with thought and anguish.\" Somers' \"Tracts\" (in Queen Elizabeth's reign): \"Queen Catherine Parr died rather of thought.\"\n\nThe word has entirely lost this meaning. Bishop Lightfoot (\" On a Fresh Revision of the New Testament \") says: \"I have heard of a political economist alleging this passage as an objection to the moral teaching of the sermon on the mount, on the ground that it encouraged, nay, commanded, a reckless neglect of the future.\" It is uneasiness and worry about the future which our Lord condemns here, and therefore Rev. rightly translates be not anxious. This phase of the word is forcibly brought out in 1 Peter 5:7, where the A. V. ignores the distinction between the two kinds of care. \"Casting all your care (merimnan, Rev., anxiety) upon Him, for He careth [αυτωμελει] for you,\" with a fatherly, tender, and provident care. \""
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 7
+ }
+}

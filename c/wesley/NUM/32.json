@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "wesley",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": "The request of Reuben and Gad for an inheritance on this side Jordan, ver. 1-5. Moses's misconstruction of it, ver. 6-15. Their explication of it, ver. 16-19. The grant of their petition, ver. 20-42.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jazer - A city and country of the Amorites; Gilead - A mountainous country, famous for pasturage"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Ye sit here - In ease and peace, while your brethren are engaged in a bloody war."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Kenezite - So called from Kenaz, his grand - father."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "All this people - Who being moved by your counsel and example, will refuse to go over Jordan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "We ourselves - Either all, or as many as shall be thought necessary, leaving only so many as may be necessary to provide for the sustenance and defence of our wives and children here."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Before the Lord - Before the ark, which was the token of God's presence. He alludes either to the order of the tribes in their march, whereby Reuben and Gad marched immediately before the ark, or to the manner of their passage over Jordan, wherein the ark went first into Jordan, and stood there while all the tribes marched over Jordan by and before it, and these amongst the rest, as is expressly noted in these very words, that they passed over before the Lord, Jos 4:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Before the Lord - By his presence and gracious and powerful assistance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Your sin - The punishment of your sin. Sin will certainly find out the sinner sooner or later. It concerns us therefore to find our sins out, that we may repent of them and forsake them, lest our sins find us out, to our confusion and destruction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "They shall have possession - They shall forfeit their possessions in Gilead, and be constrained to go over Jordan, and to seek possessions there among their brethren."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "As the Lord hath said - Either at this time by thy mouth: or formerly, where he commanded us, as well as our brethren to go into Canaan and possess it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Built - Repaired and fortified. For they neither had need nor leisure as yet to do more, the old cities not being burnt and ruined, as divers in Canaan were."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Their names changed - Either because conquerers of places used to do so: or because the names of other Gods (which Nebo and Baal - meon unquestionably were) were not to be mentioned, Exo 23:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Machir - Not to Machir himself, who doubtless was long since dead, but the family or posterity of Machir."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Nobah - Who, though not else where named, was doubtless an eminent person of the tribe of Manasseh. 'Tis observable, that these tribes, as they were placed before the other tribes, so they were displaced before them. They were carried captive by the king of Assyria, some years before the other tribes. Such a proportion does providence frequently observe, in balancing prosperity and adversity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 33
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "wesley",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": "The vision of the candlestick and two olive-trees, ver. 1-3. Encouragement to the builders of the temple, ver. 4-10. The explanation of the vision, ver. 11-14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "With a bowl - Or basin. His seven lamps - The temple candlestick had just so many. And seven pipes - So each of the lamps had a pipe reaching from it to the bowl. On the top - These lamps were so set, as to stand somewhat higher than the body of the candlestick."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Two olive - trees by it - All which is an emblem of the church, made of pure gold; to be a light in the world; to shine as lamps that continually burn, maintained with pure oil, distilled from the olive - trees, not pressed out by man, but continually, abundantly, and freely flowing from God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "This word - Is particularly designed to him, and in an emblem prefigures what a church it is, how precious, how full of light, how maintained by God himself. Power - Courage and valour."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "O great mountain - All opposers put together. Become a plain - Thou shalt sink into nothing. The head stone - Shall assist at the laying of the finishing stone, as he assisted when the foundation stone was laid. Grace, grace - Wishing all prosperity, and a long continuance of it, to the temple and those that are to worship God therein. As the free favour of God began, and finished, may the same ever dwell in it and replenish it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Thou - Zerubbabel and all the Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "For who hath despised - In the work of God, the day of small things is not to be despised. God often chuses weak instruments, to bring about mighty things: and tho' the beginnings be small, he can make the latter end greatly to increase. For - Tho' they undervalued the meanness of the second temple, yet when finished, they shall rejoice in it. The plummet - The perpendicular with which Zerubbabel shall try the finished work. With those seven - In subordination to the Divine Providence expressed by the seven eyes, which were on that stone. And those that have the plummet in their hand, must look up to these eyes of the Lord, must have a constant regard to the Divine Providence, and as in dependence upon its conduct, and submission to its disposals."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "I answered - l went on to discourse. Unto him - The angel. What be these - Two principal branches, one in each tree, fuller of berries, and hanging over the golden pipes. Through the pipes - These were fastened to the bowl, on each side one, with a hole through the sides of the bowl, to let the oil that distilled from those olive - branches run into the bowl. Out of themselves - An emblem of supernatural grace; these branches filled from the true olive - tree, ever empty themselves, and are ever full; so are the gospel - ordinances."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The two anointed ones - Christ and the Holy Spirit. The Son was to be sent by the Father, and so was the Holy Ghost. And they stand by him, ready to go."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEC",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEC",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEC",
+  "chapter": 5
+ }
+}

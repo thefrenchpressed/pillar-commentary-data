@@ -1,0 +1,344 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "vincent",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The arrangement of the verse is much disputed. Rend. \"The law, with the same sacrifices which they continually renew year by year, can never make the comers thereunto perfect.\" 217\n\nA shadow [σκιαν]. The emphasis is on this thought. The legal system was a shadow. Skia is a rude outline, an adumbration, contrasted with eijkwn, the archetypal or ideal pattern. Skia does not accurately exhibit the figure itself. Comp. ch. Hebrews 8:5.\n\nOf good things to come [τωνμελλοντωναγαθων]. From the point of view of the law.\n\nThe very image of the things [αυτηντηνεικονατωνπραγματων] For eijkwn image, see on Revelation 13:14; Phi 2:7. Pragmatwn things expresses a little more distinctly than mellontwn the idea of facts and realities.\n\nCan [δυναται]. Dunatai might be expected with oJ nomov the law as the subject. If dunatai, the plural, is retained, the clause the law - image of the things must be taken absolutely, the construction of the sentence breaking off suddenly, and the subject being changed from the law to the priests: \"The priests can never,\" etc. It is better to read dunatai in the singular, with Tischendorf, Westcott and Hort, and Weiss.\n\nContinually [ειςτοδιηνεκες]. See on ch. Hebrews 7:3, and comp. vers. 12, 14. Const. with offer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "To be offered [προσφερομεναι]. The present participle brings out more forcibly the continuous repetition: \"Ceased being offered.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "A remembrance of sins [αναμνησιςαμαρτιων]. Each successive sacrifice was a fresh reminder of sins to be atoned for; so far were the sacrifices from satisfying the conscience of the worshipper. jAnamnhsiv, lit. a calling to mind. Comp. ver. 17, and see LXX, Numbers 5:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Confirming the assertion of ver. 4 by a citation, Psalms 40:7 - 9, the theme of which is that deliverance from sin is not obtained by animal sacrifices, but by fulfilling God's will. The quotation does not agree with either the Hebrew or the LXX, and the Hebrew and LXX do not agree. The writer supposes the words to be spoken by Messiah when he enters the world as Savior. The obedience to the divine will, which the Psalmist contrasts with sacrifices, our writer makes to consist in Christ's offering once for all. According to him, the course of thought in the Psalm is as follows: \"Thou, O God, desirest not the sacrifice of beasts, but thou hast prepared my body as a single sacrifice, and so I come to do thy will, as was predicted of me, by the sacrifice of myself.\" Christ did not yield to God's will as authoritative constraint. The constraint lay in his own eternal spirit. His sacrifice was no less his own will than God's will.\n\nSacrifice and offering [θυσιανκαιπροσφοραν]. The animal - offering and the meal - offering."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Burnt offerings and sacrifices for sin [ολοκαυτωματακαιπεριαμαρτιας]. The burnt - offering and the sin - offering."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "In the volume of the book [ενκεφαλιδιβιβλιου]. Kefaliv, N. T. o, is a diminutive, meaning little head. Lat. capitellum or capitulum. The extremity or end, as the capital of a column. See Exodus 26:32, 37. Sometimes the column itself, as Exodus 40:18; Numbers 3:36. Said to be used of the tips or knobs of the rollers around which parchments were rolled, but no instances are cited. A roll of parchment, a book - roll, Ezekiel 2:9. Meaning here the Scriptures of the O. T. for Hebrew megilla. Kefaliv is found in LXX with bibliou book, only Ezekiel 2:9; Psalms 39:7. For, biblion book, see on 2 Timothy 4:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Above when he said [ανωτερονλεγων]. Lit. saying above.\n\nIntroducing a partial repetition of the quotation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "He taketh away the first that he may establish the second.\n\nRemoves that which God does not will, the animal sacrifice, that he may establish that which God does will, the offering of an obedient will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "By the which will [ενωθεληματι]. The will of God as fulfilled in Christ.\n\nWe are sanctified [ηγιασμενοι]. Lit. we are having been sanctified; that is, in a sanctified state, as having become partakers of the spirit of Christ. This is the work of the eternal spirit, whose will is the very will of God. It draws men into its own sphere, and makes them partakers of its holiness (Hebrews 12:10).\n\nOnce for all [εφαπαξ]. Const. with are sanctified. The sanctification of the Levitical offerings was only temporary, and had to be repeated. Christ's one offering \"perfected forever them that are sanctified\" (ver. 14). This thought is elaborated in vers. 11 - 14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Every priest [πας]. Suggesting many priests. Comp. ch. Hebrews 7:23. Standeth [εστηκεν]. Servile attitude, contrasted with that of the exalted Savior, ch. 1 3.\n\nDaily - often - the same. The wearisome round of daily offerings, always the same, contrasted with the one offering, once for all. Take away [περιελειν]. Only here in connection with sin. See on 2 Corinthians 3:16. The verb literally means to strip off all round. See Genesis 41:42 (of a ring): Genesis 38:14; Deuteronomy 21:13 (of clothes). Comp. eujperistatov, Hebrews 12:1, see note, and perikeitai ajsqeneian is compassed about with weakness, Hebrews 5:2. See also clothed with shame, and with cursing, Psalms 35:26; Psalms 109:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Forever [ειςτοδιηνεκες]. Const. with offered. The reason appears in ver. 14. It is according to the usage of the epistle to place this phrase after that which it qualifies. Thus one sacrifice forever is contrasted with the same sacrifices often. This agrees also with what follows. He offered one sacrifice forever, and then sat down, awaiting its eternal result. 219"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "He hath perfected forever [τετελειωκενειςτοδιηνεκες]. Note the continued emphasis upon the teleiwsivperfection. Comp. ch. Hebrews 7:11, 19; Hebrews 9:9; Hebrews 10:1; Hebrews 12:2. No more sacrifices are needed. The reign of the Great High Priest is not to be interrupted by the duty of sacrifice.\n\n15 - 17. Repetition of the passage already cited from Jer. in ch. 8 10 - 12. The nerve of the citation is ver. 17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "There is no more offering for sin. Forgiveness of sin is the characteristic of the new covenant. In Jer. complete pardon of sins is promised. If the pardon is complete, there is left no place for the Levitical sacrifices under the new covenant. At this point the doctrinal portion of the epistle ends."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "To enter into the holiest [ειςτηνεισοδοντωναγιων]. Lit. for the entering of the holiest. The phrase parrhsia eijv boldness unto, N. T. o. Parrhsia with peri concerning, John 16:25; with provwith reference to, 2 Corinthians 7:4; 1 John 3:21; 1 John 5:14. Eisodov in N. T. habitually of the act of entering.\n\nBy the blood [εντωαιματι]. Lit. \"in the blood\": in the power or virtue of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "By a new and living way which he hath consecrated for us [ηνενεκαινισενημινοδονπροσφατονκαιζωσαν]. The A. V. is wrong. Hn which is to be construed with eisodon entrance. Thus: \"having boldness for the entrance which he has inaugurated (or opened) for us - a way new and living.\" For ejnekainisen see on ch. Hebrews 9:18.\n\nThe way must be opened, for every other way is closed. jEnkainizein in LXX of the inauguration of a house, kingdom, temple, altar. See Deuteronomy 20:5; 1 Samuel 11:14; 1 Kings 8:63; 2 Chronicles 14:8. Prosfaton new, N. T. o. In LXX, see Numbers 6:3; Deuteronomy 32:17; Psalms 80:9; Ecclesiastes 1:9. The derivation appears to be prov near to, and fatov slain (from pemfamai, the perfect of fenein to kill).\n\nAccording to this the original sense would be newly - slain; and the word was used of one so recently dead as to retain the appearance of life: also, generally, of things which have not lost their character or appearance by the lapse of time; of fishes, fruits, oil, etc., which are fresh; of anger which has not had time to cool. Later the meaning was weakened into new. 220 Note that the contrast is not between a new and an old way, but between a new way and no way. So long as the old division of the tabernacle existed, the way into the holiest was not opened, ch. 9 8. Zwsan living. A living way seems a strange expression, but comp. Peter's living stones, 1 Peter 2:5.\n\nChrist styles himself both way and life. The bold figure answers to the fact. The new way is through a life to life.\n\nThrough the veil [διατουκαταπετασματος]. The veil of the holy of holies is rent. Christ's work does not stop short of the believer's complete access to God himself.\n\nThat is to say his flesh [τουτεστιντηςσαρκοςαυτου]. Const. with veil: the veil which consisted in his flesh. His flesh was the state through which he had to pass before he entered heaven for us. See ch. Hebrews 2:9 - 18; Hebrews 5:7 - 9; Hebrews 10:5. When he put off that state, the veil of the temple was rent. He passed through humanity to glory as the forerunner of his people, ch. 6 20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "A high priest [ιερεαμεγαν]. Lit. a great priest. Comp. Leviticus 21:10, LXX Not merely = ajrciereuv high priest, but emphasizing Christ's superior greatness as high priest.\n\nHouse of God [οικοντουθεου]. In the Gospels always of the temple. Not found in Paul. Once in the Pastorals, of the church, 1 Timothy 3:15, and so 1 Peter 4:17. Here the whole Christian family. Comp. 1 Corinthians 3:16, 17; 2 Corinthians 6:16; Ephesians 2:22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Let us draw near [προσερχωμεθα]. See on ch. Hebrews 4:16.\n\nWith a true heart [μετααληθινηςκαρδιας]. A right and genuine inward attitude toward God. For the phrase comp. LXX, Isaiah 38:3. N. T. o. For ajlhqinhv see on John 1:9, and comp. Hebrews 8:2; Hebrews 9:24. A true heart is required to enter the true sanctuary. The phrase means more than in sincerity. Sincerity is included, but with it all that enters into a right attitude toward God as revealed in our Great High Priest, - gladness, freedom, enthusiasm, bold appropriation of all the privileges of sonship. In full assurance of faith [ενπληροφοριαπιστεως]. Full conviction engendered by faith. See on ch. Hebrews 6:11. Faith ii the basis of all right relation to God.\n\nSprinkled from an evil conscience [ρεραντισμενοι - αποσυνειδησεωςπονηρας]. This qualification for a right approach to God is stated typologically. As the priests were sprinkled with the sacrificial blood and washed with water before ministering, so do you who have now the privilege and standing of priests in approaching God, draw near, priestlike, as sharers in an economy which purges the conscience (ch. 9 14), having your consciences purged. Your own hearts must experience the effects of the great sacrifice of Christ, - pardon, moral renewal, deliverance from a legal spirit. On the priesthood of believers see 1 Peter 2:5, 9; Exodus 19:6; Isaiah 61:6. This idea is dominated in our epistle by that of Christ's priesthood; but it is not excluded, and is implied throughout.\n\nSee ch. Hebrews 13:15. For sprinkled, see on 1 Peter 1:2.\n\nBodies washed [λελουσμενοιτοσωμα]. Also typological. Most, expositors refer to baptism. The most significant passage in that direction Isaiah 1 Peter 3:21; comp. Ephesians 5:26; Titus 3:5. It may be, though I doubt if the idea is emphasized. I incline, with Dr. Bruce, to think that it indicates generally the thoroughness of the cleansing process undergone by one who surrenders himself, soul, body, and spirit, to God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Profession of our faith [τηνομολογιαντηςελπιδος]. Rend. \"confession of our hope.\" Faith does not appear among Ms. readings. It is an innovation of the translators. Hope is the rendering of Tyndale, Coverdale, the Great Bible, the Geneva, the Bishops ', and Rheims. On confession see on 2 Corinthians 9:13, and comp. notes on 1 Timothy 6:12,\n\nHebrews 10:13The phrase confession of hope N. T. o. They are steadfastly to confess their hope in God's promise and salvation. Comp. ch. Hebrews 3:6; Hebrews 6:11, 18; Hebrews 7:19. Hope is here = the object of hope.\n\nWithout wavering [ακλινη]. N. T. o."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Let us consider one another [κατανοωμεναλληλους]. Take careful note of each other's spiritual welfare. For the verb see on James 1:23. It denotes attentive, continuous care. Comp. Hebrews 3:1. To provoke [ειςπαροξυσμον]. Lit. with a view to incitement. Only here and Acts 14:39. From paroxunein to sharpen. Hence to stimulate. In Acts 14:39, the result of provocation; irritation or contention. Here the act of incitement. Twice in LXX, Deuteronomy 29:28; (27) Jeremiah 29 (32.) 3, 7; for the Hebrew qatsaph anger, wrath, altercation. The Hebrew derivation is from qatseph a splinter. The new economy demands mutual care on the part of the members of the Christian community. Comp. 1 Corinthians 12:25. They must stir up each other's religious affections and ministries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The assembling of ourselves together [επισυναφωγηνεαυτων]. Episunagwgh only here and 2 Thessalonians 2:1, see note. The act of assembling, although some explain assembly. The antithesis is, \"not forsaking assembling, but exhorting in assembly.\" L?n aptly says that the idea of apostasy which would be conveyed by the rendering assembly or congregation is excluded by eqov habit or custom, which implies an often recurring act on the part of the same persons.\n\nAs the manner of some is [καθωςεθοςτισιν]. For manner rend. custom. Lit. as is custom unto some. Eqov mostly in Luke and Acts. Comp. Luke 1:9; John 19:40.\n\nYe see the day approaching (blepete ejggizousan thn hJmeran). The day of Christ's second coming, bringing with it the judgment of Israel. He could say \"ye see,\" because they were familiar with Christ's prophecy concerning the destruction of the temple; and they would see this crisis approaching in the disturbances which heralded the Jewish war."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "We sin willfully [εκουσιωςαμαρτανοντωνημων]. JEkousiwv willfully, only here and 1 Peter 5:2. Comp. Phl 1:14, kat' eJkousion of free will. See LXX, Numbers 14:3. The willful sin is the abandonment of Christianity for Judaism.\n\nThe knowledge [επιγνωσιν]. Only here in Hebrews. Very common in Paul. For the word, and the phrase knowledge of the truth, see on 1 Timothy 2:4. The truth is the revelation through Christ.\n\nThere remaineth no more sacrifice for sins [ουκετιπεριαμαρτιωναπολειπεταιθυσια]. Of course not. For the Levitical sacrifices are abolished. It is Christ's sacrifice or none."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "But a certain fearful looking for [φοβεραδετιςεκδοχη]. Rend. \"a kind of fearful expectation.\" jEkdoch N. T. o, o LXX\n\nFiery indignation [πυροςζηλος]. For zhlov see on James 3:14. The radical idea of the word is ferment of spirit (zein to boil; see Acts 18:25; Romans 12:11). This idea takes on different aspects in zhlov, as indignation, Acts 5:17; zeal, John 2:17; Romans 10:2; 2 Corinthians 7:7; 2 Corinthians 11:2; Phi 3:6; envy, Romans 13:13; 1 Corinthians 3:3; Galatians 5:20. In the last sense often with epiv strife. The phrase fiery indignation, lit. indignation of fire (N. T. o) is an adaptation from Isaiah 26:11. The adversaries [τουςυπεναντιους]. Only here and Colossians 2:14. Often in LXX"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "He that despised [αφετησαςτις]. Lit. one that despised; any transgressor. The verb only here in Hebrews. The kindred noun ajqethsiv only in Hebrews. See ch. Hebrews 7:18; Hebrews 9:26.\n\nDied [αποθνησκει]. Lit. dieth. According to the ordinance as it now stands in the law.\n\nWithout mercy [χωριςοικτιρμων]. The phrase N. T. o. For the noun see on 2 Corinthians 1:3.\n\nUnder two or three witnesses [επιδυσινητρισινμαρτυσιν]. As in LXX, Deuteronomy 17:6. jEpi with dative signifying on condition of two or three witnesses testifying. Comp. 1 Timothy 5:17, where the same phrase occurs with the genitive, before, in the presence of. Comp. also Deuteronomy 19:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Of how much [ποσω]. Not qualifying ceironov sorer, but the whole clause: \"by how much think ye shall he be thought worthy of sorer punishment.\"\n\nPunishment [τιμωριας]. N. T. o. Occasionally in LXX, frequent in Class. Originally assistance; assistance to one who has been wronged; punishment. With no sense of chastisement. It is purely retributive. 221 Trodden under foot [καταπατησας] Only here in Hebrews. o P. Frequent in LXX for spoiling, defeating, treating contemptuously. The strong term is purposely selected in order to convey the sense of the fearful outrage involved in forsaking Christ and returning to Judaism.\n\nHath counted an unholy thing [κοινονηγησαμενος]. JHgeisqai to count or deem means a conscious judgment resting on a deliberate weighing of the facts. See Romans 12:10; Phi 2:3. Here it implies a deliberate, contemptuous rejection of the gifts of the new covenant. The fundamental idea of koinov is shared by all, public. Thus Acts 2:44; Acts 4:39; Titus 1:4; Jude 1:3. Out of this grows the idea of not sacred; not set apart for particular uses by purification, and so (ceremonially) unclean or defiled, as Mr 7:2, 5; Acts 10:14, 28; Acts 11:8. In these cases it is not implied that the thing is defiled or filthy in itself, but only unclean through the absence of that which would set it apart. Comp. Romans 14:14. Here the word admits of two explanations:\n\n(1) that Christ's blood was counted common, having no more sacred character or specific worth than the blood of any ordinary person; (2) that in refusing to regard Christ's blood as that of an atoner and redeemer, it was implied that his blood was unclean as being that of a transgressor. The former seems preferable.\n\nThere was no specific virtue in Christ's blood as blood; but a peculiar and unique virtue attached to it as the offering of his eternal spirit (ch. 9 14), as the blood shed in ratification of a sacred covenant established by God, and as having sanctifying virtue. This view is further justified by the combination of blood and spirit, as sources of sanctification allied in the writer's mind.\n\nHath done despite unto the spirit of grace [καιτοπνευματηςχαριτοςενυβρισας]. jEnubrizein to insult, N. T. o. The simple verb uJbrizein in Matthew, Luke, Acts, and Pastorals. It will be observed that the work of the Holy Spirit does not receive in this epistle the emphasis which marks it in some other portions of the N. T."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "We know him that hath said [οιδαμενγαρτονειποντα]. The retribution [τιμωρια] is certain, because assured by the word of God in Scripture.\n\nVengeance [εκδικησις]. An unfortunate translation, since it conveys the idea of vindictiveness which does not reside in the Greek word. It is the full meting out of justice to all parties. The quotation is an adaptation of the LXX of Deu 32:35. The second citation is literally from LXX of Deu 32:36."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "To fall, etc. Comp. LXX, 2 Samuel 24:14; Sir. 2 18.\n\nOf the living God. The living God, revealed in the living Christ, will not suffer his sacrificial gift and his covenant to be slighted and insulted with impunity. See on ch. Hebrews 3:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "After ye were illuminated [φωτισθεντες]. See on ch. Hebrews 6:4.\n\nA great fight [πολληναθλησιν]. Aqlhsiv N. T. o, o LXX See on ajlqh strive, 2 Timothy 2:5. See Introduction, on the allusions in the epistle to persecution."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Whilst ye were made a gazing - stock [θεατριζομενοι]. N. T. o. o LXX, o Class. Lit. exhibited in the theater. Comp. 1 Corinthians 4:9. Whilst ye became companions [κοινωνοιγενηθεντες]. Rend. by becoming partakers. More than companionship is implied. For koinwnoi see on Luke 5:10. The noun and its kindred verb in N. T. almost exclusively of ethical and spiritual relations, as 1 Timothy 5:22; 1 Peter 4:13; 2 John 11; 1 Corinthians 10:18; 2 Corinthians 1:7; Phl 1:17. Even when applied to pecuniary contributions they imply Christian fellowship as the basis of the liberality. See on Romans 12:13; Romans 14:27; Phi 4:15.\n\nOf them that were so used [τωνουτωςαναστρφομενων]. Rend. \"of them that fared thus.\" Others render \" who conducted themselves thus \"; endured their persecutions, so bravely. But the outwv can refer only to made a gazing - stock."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "For ye had compassion of me in my bonds [καιγαρτοιςδεσμιοιςσυνεπαθησατε]. Entirely wrong, following T. R. toiv desmoiv mou. Rend. \"ye had compassion on the prisoners.\" So Vulg. vinctis compassi estis. The corrupt reading has furnished one of the stock arguments for the Pauline authorship of the Epistle.\n\nTook joyfully [μεταχαραςπροσεδεξασθε]. The verb primarily to receive to one's self, accept, as here. Comp. Luke 14:2; Phi 2:29. Mostly, in N. T. however, to wait for, expect, as Mr 14:43; Luke 2:25, 38; Acts 23:21.\n\nSpoiling [αρπαγην]. Only here Matthew 23:25; Luke 11:39. Allied with aJrpazein to snatch away.\n\nOf your goods [τωνυπαρχοντωνυμων]. The verb uJparceinmeans originally to begin, or begin to be; hence of anything that has begun to be, to come forth, be there; then simply to be. Accordingly the phrase uJparcei moi ti means there is something to me, I have something. See Acts 3:6; Acts 4:37; Acts 28:7. Hence ta uJparconta things which are to one; possessions, goods. See Matthew 19:21; Matthew 24:27; Luke 8:3; Acts 4:32. 22 2 Knowing in yourselves that ye have, etc. [γινωσκοντεςεχεινεαυτους]. Rend. \"knowing that ye yourselves have a better,\" etc. The A. V. follows T. R. ejn eJautoiv. 223 Ye yourselves in contrast with your spoilers.\n\nSubstance [υπαρξιν]. Only here and Acts 2:45. Occasionally in LXX Rend. possession."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Confidence [τηνπαρρησιαν]. Rend. boldness. The boldness and courage which you manifested under persecution."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Ye might receive the promise [κομισησθετηνεπαγγελιαν]. Comp. ch. Hebrews 11:13, 39, and see on 1 Peter 1:8. The verb implies, not mere obtaining, but receiving and carrying away for use and enjoyment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "A little while [μικρονοσονοσον]. Strictly, a very little while. The phrase N. T. o. It is not part of the quotation, but is taken from Isaiah 26:20, the only instance. See Aristoph. Wasps, 213.\n\nHe that shall come will come [οερχομενοςηξει]. Rend. \"he that cometh will come.\" In the Hebrew (Habakkuk 2:3) the subject of the sentence is the vision of the extermination of the Chaldees. \"The vision - will surely come.\" As rendered in the LXX, either Jehovah or Messiah must be the subject. The passage was referred to Messiah by the later Jewish theologians, and is so taken by our writer, as is shown by the article before ejrcomenov. Comp. Matthew 11:3; Matthew 21:9; John 11:27. Similarly he refers hxei shall come to the final coming of Messiah to judge the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Now the just shall live by faith [οδεδικαιος (μου] ejk pistewv zhsetai). Cited by Paul, Romans 1:17; Galatians 3:11. 22 4 In the original prophecy the just man is contrasted with the haughty Chaldaean invaders, who are puffed up and not upright. Through his steadfast obedience to God he shall be kept alive in the time of confusion and destruction. But if any man draw back [καιεανυποοτειληται]. Omit if any man. Rend. \"and if he draw back,\" that is, the just man.\n\nThe possibility of the lapse of even the just is assumed. See on ch. Hebrews 6:4 - 6. The verb only here, Acts 20:20, 27; Galatians 2:12. See on Acts 20:20. Rare in LXX Shall have no pleasure [ουκευδοκει].\n\nRend. \"hath no pleasure.\" \" If he draw back - in him, \"not in the Hebrew, which reads,\" behold, puffed up within him is his soul, it is not upright. \" The clauses of the LXX are transposed here."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "But we are not of them who draw back [ημειςδεουκεσμενυποστολης]. Lit. we are not of shrinking back. JUpostolh N. T. o, o LXX, o Class.?Einai with genitive marks the quality or peculiarity of a person or thing. Comp. ch. Hebrews 12:11 carav einai to be of joy, joyful. We do not partake of drawing back, which is characteristic of recreants.\n\nUnto perdition [ειςαπωλειαν]. Or destruction. Drawing back makes for and terminates in [εις] destruction.\n\nOf them that believe [πιστεως]. Rend. of faith. The phrase einai pistewv to be of faith, N. T. o.\n\nSaving [περιποιησιν]. See on 1 Thessalonians 5:9. ===Heb11\n\nCHAPTER XI\n\nThe concluding statement of ch. 10 suggests the following discussion of the nature of faith and of its fruits as called out by God's revelation from the earliest time."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "HEB",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "HEB",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "HEB",
+  "chapter": 11
+ }
+}

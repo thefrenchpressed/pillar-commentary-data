@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 109,
+  "introduction": "David complains of his enemies and appeals to God, ver. 1-5. Foretells their destruction, ver. 6-20. Prays that God would succor him in his low condition, ver. 21-29. Concludes with a joyful hope of deliverance, ver. 30, 31 To the chief musician, A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God - The author and matter of all my praises."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Adversaries - They requite my love with enmity, as it is explained ver.5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "A wicked man - Who will rule him with rigour and cruelty. Satan - To accuse him; for this was the place and posture of accusers in the Jewish courts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Sin - Because it is not from his heart."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Desolate places - Into which they are fled for fear and shame."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Catch - Heb. ensnare, take away not only by oppression but also by cunning artificers. Stranger - Who hath no right to his goods."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Delighted not - In desiring and promoting the welfare of others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Garment - Which a man wears constantly. Like water - Water in the cavity of the belly, between the bowels, is almost certain death. And oil soaking into any of the bones, will soon utterly destroy it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "That speak evil against my soul - With design to take away my life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Is good - Above the mercy of all the creatures."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "When - Towards the evening, when the sun is setting. The locust - Which is easily driven away with every wind."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 109
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 108
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 110
+ }
+}

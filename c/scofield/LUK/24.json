@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "upon the first -- For order of events at the resurrection, (See Scofield \"Matthew 28:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\"), See Scofield \"Romans 3:23\"."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "And, behold -- For order of our Lord's appearances after His resurrection, (See Scofield \"Matthew 28:9\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "trusted -- (See Scofield \"Matthew 3:2\")\n\nredeemed -- (See Scofield \"Romans 3:24\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "angels -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "eleven -- (See Scofield \"Mark 16:14\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "psalms -- See Summary, (See Scofield \"Psalms 118:29\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "upon you -- See note, (See Scofield \"Acts 2:4\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 50,
+    "content": [
+     {
+      "text": "as far as -- until they were opposite Bethany."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "while he blessed them -- The attitude of our Lord here characterizes this age. It is one of grace; an ascended Lord is blessing a believing people with spiritual blessings. The Jewish age was marked by temporal blessings as the reward of an obedient people. Deuteronomy 28:1-15.\n\nIn the kingdom-age spiritual and temporal blessings unite.\n\nheaven -- The Scriptures distinguish three heavens: first, the lower heavens, or the region of the clouds; secondly, the second or planetary heavens; and, thirdly, the heaven of heavens, the abode of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 1
+ }
+}

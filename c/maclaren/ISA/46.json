@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "maclaren",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A NEAR AND A SWIFT\n\nIsaiah 46:12 - Isaiah 46:13.\n\nGod has promised that He will dwell with him that is humble and of a contrite heart. Jesus has shed the oil of His benediction on the poor in spirit. It is the men who form the exact antithesis to these characters who are addressed here. The ‘stout-hearted’ are those who, being untouched in conscience and ignorant of their sin, are self-reliant and almost defiant before God. That temper is branded here, though, of course, there is a sense in which a stout heart is a priceless possession, but that sort of stoutness of heart is best secured by the contrite of heart. Those who are far from righteousness are those who are not only sinful in act, but do not desire to be otherwise, having no approximation or drawing towards a nobler life, by aspiration or effort.\n\nTo such men God speaks, as in the tone of a royal proclamation; and what should we expect to hear pealing from His lips? Words of rebuke, warning, condemnation? No; His voice is gentle and wooing, and does not threaten blows, but proffers blessings: ‘I will bring near My righteousness. It shall not be far off,’ though the stout-hearted maybe ‘far from’ it. Here we have a divine proclamation of a divine Love that will not let us away from its presence; of a divine Work for us that is finished without us; of an all-sufficient Gift to us.\n\nI. A divine proclamation of a divine Love that will not let us away from its presence.\n\nThere is a great contest between God and man: man seeking to withdraw from God, and God following in patient, persistent love.\n\n1. In general terms God keeps near us, however far away we go from Him.\n\nThink of our forgetfulness of Him and His continual thought of us. Think of our alienated hearts and His unchanging love.\n\nWe cannot turn away His care, we cannot exhaust His compassion, we cannot alienate His heart. All men everywhere are objects of these, as in every corner of the world the sky is overhead, and all lands have sunshine.\n\nWhat a picture of divine patience and placability that truth points for us! It shows the Father coming after His prodigal son, and so surpasses even the pearl of the parables.\n\n2. The special reference to Christ’s work.\n\nThat work is the exhibition in manhood and to men of a perfect righteousness.\n\nIt is the implanting in the corrupt world of a new beginning. It is the clothing us with Christ’s righteousness, for which we are forgiven and in which we are sanctified.\n\nSo Christ’s work is God’s coming to bring near His righteousness, and now ‘it is nigh thee in thy mouth and in thy heart.’\n\nII. A divine proclamation of a divine Work which is finished without us.\n\nThe divine righteousness and its consequence are here represented as being brought near while men are still ‘stout-hearted.’ We must feel the emphasis laid on ‘I will bring near My righteousness,’ and the impression of merciful speed given by ‘My salvation shall not tarry.’ The whole suggests such thoughts as these:-\n\nThe divine love is not drawn out by anything in us, but pours out on us, even while we are far off and indifferent to it. His bringing near of righteousness, and setting His salvation to run very swiftly side by side with it, originates in Himself. It is the self-impelled and self-fed flow of a fountain, and we need no pump or machinery to draw it forth.\n\nThe divine work is accomplished without man’s co-operation.\n\n‘It is finished,’ was Christ’s dying cry. But what is finished?- Bringing the righteousness near. What still remains to be done?-Making it mine. And that is accomplished by faith.\n\nIt is mine if by faith I claim it as mine, and knit myself with Him who is righteousness and salvation for every man that they may be accessible to and possessed by any man.\n\nA man may be far from righteousness though it is near him and all around him. Like Gideon’s fleece, he may be dry when all is wet, or like some rock in a field, barren and sullen, while all around the corn is waving.\n\nIII. The proclamation of an all-sufficient Gift.\n\nRighteousness, salvation, glory, are here brought together in significant sequence. They are but several names for the same divine gift, looked at from different angles. A diamond flashes varying prismatic hues from its different facets.\n\nThat encyclopaedical gift, which in regard to man considered as sinful brings pardon and a new nature ‘in righteousness and holiness of truth,’ brings deliverance from peril and from every form of evil and death, to him considered as exposed to consequences of sin both physical and moral, and a true though limited participation in the divine glory, even now, with the hope of entering into the blaze of it hereafter, to him as considered as made in the divine image and having lost it.\n\nAnd all this wonderful triple hope, rapturous and impossible as it seems when we think of man as he is, and of each of ourselves as we each feel ourselves to be, is for us a sober certainty and a fact sufficiently accomplished, to give firm ground for our largest expectations if we hold fast by Jesus who brings that all-sufficient gift of God within reach of each of us. The divine patience and love follow us in all our wild wanderings, praying us ‘with much entreaty that we should receive the gift.’ Jesus, who is God’s righteousness and love incarnate, beseeches us to take Him, and in Him righteousness, salvation, and glory."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "ISA",
+  "chapter": 48
+ }
+}

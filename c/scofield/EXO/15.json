@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "scofield",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "feared -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "redeemed -- Heb. \"gaal,\" Redemp. (Kinsman type). Isaiah 59:20. (See Scofield \"Isaiah 59:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "when he had cast into the waters -- These bitter waters were in the very path of the Lord's leading, and stand for the trials of God's people, which are educatory and not punitive. The \"tree\" is the cross Galatians 3:13 which became sweet to Christ as the expression of the Father's will John 18:11. When our Marahs are so taken we cast the \"tree\" into the waters. Romans 5:3,4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 16
+ }
+}

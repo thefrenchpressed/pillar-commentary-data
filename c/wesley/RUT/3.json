@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "RUT",
+  "commentaryId": "wesley",
+  "name": "Ruth",
+  "commonName": "Ruth",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": "The directions Naomi gives to Ruth, ver. 1-5. Her punctual observance of them, ver. 6, 7. The honourable treatment which Boaz gave her, ver. 8-15. Her return to Naomi, ver. 16-18.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rest - A life of rest, and comfort, and safety, under the care of a good husband."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Threshing - floor - Which was in a place covered at the top, but open elsewhere, whither Ruth might easily come. And this work of winnowing corn was usually ended with a feast."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Raiment - Thy best raiment. Known - In so familiar a way, as thou mayest do hereafter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Uncover his feet - Remove the clothes that were upon his feet; thereby to awaken him. Will tell thee - What course thou shalt take to obtain that marriage which belongs unto thee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "At midnight - He did not discover her sooner."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Spread thy Skirt - That is, take me to be thy wife, and perform the duty of an husband to me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Shewed kindness - Both to thy deceased husband, the continuance of whose name and memory thou seekest; and to thy mother - in - law, whose commands thou hast punctually obeyed. Followedst not - To seek thy marriage here, or in thy own country, as thou wouldst have done if thou hadst not preferred obedience to God's command, before pleasing thyself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Perform, &c. - Take thee to wife, to raise up seed to his brother. Bishop Hall sums up the matter thus. \"Boaz, instead of touching her as a wanton, blesseth her as a father, encourages her as a friend, promises her as a kinsman, rewards her as a patron, and sends her away laden with hopes and gifts, no less chast, but more happy than she came. O admirable temperance, worthy the progenitor of him, in whose lips and heart there was no guile!\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Let it not, &c. - He takes care to preserve not only his conscience towards God, but his reputation, and hers also, among men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Veil - Or, the apron."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Who art thou? - This is not a question of doubting, but of wonder, as if she had said, Art thou in very deed my daughter? I can hardly believe it. How camest thou hither in this manner, and thus early?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "RUT",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "RUT",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "RUT",
+  "chapter": 4
+ }
+}

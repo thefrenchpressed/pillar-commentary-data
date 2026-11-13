@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 3\n\nJudgments upon the Rulers and the Daughters Of Zion\n\n1. The judgment against the rulers (Isaiah 3:1-7) 2. Jerusalem’s sad condition (Isaiah 3:8-9) 3. Jehovah’s message (Isaiah 3:10-15) 4. The worldliness of the daughters of Zion (Isaiah 3:16-23) 5. Their humiliation in judgment (Isaiah 3:24-26; Isaiah 4:1)This chapter describes the corrupt conditions among the professing people of God in Isaiah’s day. A similar corruption and worldliness prevailing in our age demands divine judgment."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 4
+ }
+}

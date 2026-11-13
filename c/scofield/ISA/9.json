@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "not -- Omit, not. Isaiah complains that despite the wickedness of the northern kingdom her afflictions are light, her prosperity great."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "throne of David -- The \"throne of David\" is a phrase as definite, historic, historically, as \"throne of the Caesars,\" and as little admits of \"spiritualizing.\" Luke 1:32,33. See \"Kingdom (O.T.). (See Scofield \"Zechariah 12:8\"). \"Davidic Covenant,\" See Scofield \"2 Samuel 7:16\", Acts 15:14-16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Jacob -- (See Scofield \"Genesis 32:28\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "For all this his anger -- See Isaiah 9:17,21; 5:25; 10:4\n\nThe context explains. Jehovah's hand is outstretched still because His chastisement is followed by no amendment on the part of Israel."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 10
+ }
+}

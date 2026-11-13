@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "scofield",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "ye that are -- The third compromise proposed by Pharaoh is, perhaps, as applied to believers, the sublest and most successful of them all. The most godly parents desire worldly prosperity and position for their children. Matthew 20:20,21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "said, Go ye -- i.e. \"Leave your property in the world.\" Cf. Matthew 16:25-27; Luke 18:18-25."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 12
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "wesley",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": "A promise of Canaan, ver. 1-3. A caution, not to ascribe this to their own merit, ver. 4-6. A rehearsal of their various rebellions, ver. 7-24. and of Moses's intercession for them, ver. 25-29.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Hear, O Israel - This seems to be a new discourse, delivered at some distance of time from the former, probably on the next sabbath - day. This day - That is, shortly, within a little time, the word day being often put for time. Nations - That is, the land of those nations. Mightier than thyself - This he adds, that they might not trust to their own strength, but rely upon God's help for the destroying them, and, after the work was done, might ascribe the glory of it to God alone, and not to themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Who can stand - This seems to be a proverb used in those times."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Not for thy righteousness - Neither for thy upright heart, nor holy life, which are the two things which God above all things regards. And consequently he excludes all merit. And surely they who did not deserve this earthly Canaan, could not merit the kingdom of glory. To perform the word - To shew my faithfulness in accomplishing that promise which I graciously made and confirmed with my oath."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Stiff - necked - Rebellious and perverse, and so destitute of all pretence of righteousness. And thus our gaining possession of the heavenly Canaan, must be ascribed to God's power, not our own might, and to God's Grace, not our own merit. In him we must glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "In Horeb - When your miraculous deliverance out of Egypt was fresh in memory; when God had but newly manifested himself to you in so stupendous and dreadful a manner, and had taken you into covenant with himself, when God was actually conferring farther mercies upon you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "With the finger of God - Immediately and miraculously, which was done not only to procure the greater reverence to the law, but also to signify, that it is the work of God alone to write this law upon the tables of men's hearts. In the day of the assembly - That is, when the people were gathered by God's command to the bottom of mount Sinai, to hear and receive God's ten commandments from his own mouth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Let me alone! - Stop me not by thy intercession."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "I brake them before your eyes - Not by an unbridled passion, but in zeal for God's honour, and by the direction of God's spirit, to signify to tine people, that the covenant between God and them contained in those tables was broken and they were now cast out of God's favour, and could expect nothing from him but fiery indignation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "I fell down - In a way of humiliation and supplication, on your behalf."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Into the brook - That there might be no monument or remembrance of it left."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "I fell down forty days - The same as were mentioned before, Deu 9:18, as appears by comparing this with Exodus, where this history is more fully related, and where this is said to be done twice only."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Through thy greatness - Through the greatness of thy power, which appeared most eminently in that work."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Thy servants - That is, the promise made and sworn to thy servants."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Thy people - Whom thou hast chosen to thyself out of all mankind, and publickly owned them for thine, and hast purchased and redeemed them from the Egyptians."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 10
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "buryingplace -- Cf. Genesis 33:19; 50:13; Joshua 24:32; Acts 7:15,16. A discrepancy in these statements has been fancied. It disappears entirely before the natural supposition that in the interval of about eighty years between the purchase by Abraham of the family sepulchre Genesis 23:4-20 and Jacob's purchase Genesis 33:19, the descendants of Hamor (or \"Emmor,\" Acts 7:15,16 had resumed possession of the field in which the burial cave was situated. Instead of asserting an ancient title by inheritance, Jacob repurchased the field. Heth was the common ancestor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "And Abraham -- (See Scofield \"Genesis 23:4\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 24
+ }
+}

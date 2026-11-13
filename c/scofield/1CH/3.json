@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "scofield",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Absalom -- (See Scofield \"2 Samuel 13:37\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1CH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1CH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1CH",
+  "chapter": 5
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "gaebelein",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "3. The Portion of JudahCHAPTER 15\n\n1. The south-border of Judah’s portion (Joshua 15:1-4)\n\n2. The eastern and northern border (Joshua 15:5-11)\n\n3. The western border (Joshua 15:12)\n\n4. Caleb’s conquest (Joshua 15:13-19)\n\n5. Inheritance according to families (Joshua 15:20-63)\n\nThis is a chapter which contains many names; nearly one hundred and fifty are recorded. With the help of a good concordance, or dictionary of Hebrew names, the English meaning may be ascertained. However, many of these names may be derived from different roots and have therefore a different meaning, while the meaning of others is rather obscure. For the reason already stated we cannot follow the possible meaning and application of these names. The lesson, however, is that the Lord distributed the inheritance to His people and placed them as it pleased Him. He knew their faithfulness and their ability, and accordingly they received their portion. And we, too, as members of His body, receive our portion and inheritance from Himself, “dividing to every man severally as He will” (1 Corinthians 12:11).\n\nCaleb’s conquest is of additional interest. In the previous chapter we learned of his faith and how he honored the Lord. He acknowledged that the Lord had kept him alive; by His mercy he had been spared (Joshua 14:10). He claimed His portion, and in humility of faith he expected success and victory. He gets Hebron, which means “communion.” The application in spiritual lines is interesting. Faith longs for Hebron, for communion.\n\nBut the giants, the Anakim, are there, to keep away from real communion with God. They must be dispossessed. Caleb drove out the three sons of Anak. Their names are Sheshai, which means “my fine linen,” reminding us of our own righteousness (Shesh is the Hebrew word used for the fine linen in the tabernacle. In this way we get “Sheshai,” my fine linen); Ahiman, the meaning of this word is “who is my brother?” which may be applied to pride of desent; Talmai, the third son of Anak, means “abounding in furrows,” the pride of achievement. Pride in different forms is the hindrance to real communion with God.\n\nPride has to be dethroned in the heart and in the life of His people. Only as we follow the Lord wholly, as Caleb did, shall we conquer and enjoy our Hebron in the Lord Jesus Christ. And he also had Debir (Oracle--the voice speaking); Kirjath-sepher means “city of the book.” Thus Hebron, communion, is closely linked with the written Word and the voice which speaks there. And in Achsah, Caleb’s daughter, we have another side of faith represented. When Caleb said unto her, “What wouldest thou?” she answered, “Give me a blessing, for thou hast given me a south land; give me also springs of water. And he gave her the upper springs and the nether springs.” It is faith which asks much and receives much."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 16
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rejected King\n\n1. The rejection and the coming confederacy (Psalms 2:1-3)\n\n2. Jehovah’s attitude and interference (Psalms 2:4-6)\n\n3. The coming of the King and his inheritance (Psalms 2:7-9)\n\n4. Warning and exhortation (Psalms 2:10-12)\n\nPsalms 2:1-3. The rejection of the perfect Man, the Son of God, by man, is here revealed. It is the first psalm quoted in the New Testament. See Acts 4:25-28. In this quotation it is applied to the Jews and Gentiles gathered together against the Lord, and against His Christ. This rejection continues throughout this present age; it becomes more marked as the age draws to its close.\n\nFinally the nations with their kings and also apostate Israel will form a great confederacy, they will form a tumultuous throng, taking counsel together for one great purpose, Satanically conceived and executed, to defy God and His Christ. The generalissimo will be Satan through the beast. It is the gathered confederacy as seen in Revelation. “And he gathered them together in a place called in the Hebrew tongue Armageddon” (Revelation 16:16). “And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against Him that sat on the horse (Christ) and His army” (Revelation 19:19).\n\nPsalms 2:4-6. Heaven is silent till the appointed time comes. Here we have, as in Psalms 110:1-7, the exalted position of the rejected Christ: He sitteth in the heavens; His place is at the right hand of God. He shares the Father’s throne. In infinite patience He is waiting, silent to all what wicked men do in dishonouring His Name. But when on earth the final rebellion takes place, then He will laugh at them and hold them in derision. Then He who has so long spoken in love, will speak in wrath and begin the execution of God’s judgments which are committed into His hand. Then will He be established as God’s King upon the holy hill of Zion.\n\nPsalms 2:7-9. And now we hear Him speak; He proclaims God’s counsel concerning Himself. He declares who He is, “the Son of God” --” Thou art My Son, this day have I begotten thee.” (See the New Testament comment, Acts 13:33-34.) It is not a declaration of His eternal Sonship (though that is implied), but speaks of Him as the Incarnate One and the Risen One. And His second coming will be the completest vindication of His Sonship. It will demonstrate that He whom the nations rejected is the Son of God, who walked on the earth, who died, rose from the dead, ascended upon high and is manifested in power and glory. Then every mouth will be stopped and every knee must bow.\n\nHe asks the Father and He gives Him the nations for His inheritance and the uttermost parts of the earth for His possession. In His prayer in John 17:1-26 (the model of His priestly intercession throughout this age of grace), He said, “I pray not for the world.” When His present priestly ministrations cease, that is, when His own have been received by Him in glory, then will He ask for the world and receive the kingdoms of this world, to shepherd the nations with a rod of iron and execute judgment among them.\n\nPsalms 2:10-12. The exhortation and warning closes this perfect and beautiful Psalm. It is meant especially for that time when the final revolt takes place. The appeal goes forth then to turn to the Lord, to kiss the Son--” for in a little will His anger kindle,” So even at that time mercy still is waiting. Critics object to the use of the Aramaic word “bar” --son--and give as the correct translation “receive instruction” or “do homage.” The word “bar” is used in place of the Hebrew “ben” for the sake of euphony. “Blessed are they that put their trust in Him.” That is true of all at all times. It is our blessedness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 3
+ }
+}

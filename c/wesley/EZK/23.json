@@ -1,0 +1,299 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": "The apostacy of Israel and Samaria from God, ver. 1-8. Their ruin, ver. 9, 10. The apostacy of Judah and Jerusalem from God, ver. 11-21. Their ruin, ver. 22-35. The joint wickedness of them both, ver. 36- 44. And their joint ruin, ver. 45-49.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Two women - Judah, and Israel, two kingdoms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Whoredoms - Idolatry."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Aholah - That is, his own tabernacle; for Israel falling off from the house of David, fell off from the tabernacle, or temple of God; so that all the temple they had was of their own making. The elder - Greater for number of tribes, and for power, wealth, and for multitudes of people. Aholibah - That is, my tabernacle in her: the two tribes had the temple of God with them. Mine - By solemn marriage - covenant. Bare sons - Were fruitful and brought forth children to me; they increased in numbers of people; and among these, some there were that were children of God by faith, love, and obedience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Played the harlot - United in idolatry, with the Assyrians. Mine - When under my government, and protection."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Horsemen - Skillful in riding, and well furnished with choice horses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "With all - Other nations, with whom she had commerce."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Discovered - Stript her naked, and exposed her to shame. Took her sons - Captives. Slew her - The kingdom of Israel, under Hoshea, was by Salmanesar utterly destroyed. They - The Assyrians, had executed God's just displeasure upon her."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Girded - With soldiers belts, which includes the rest of the habit of soldiers. In dyed attire - Both rich, comely, large, and of divers colours. Princes - Of princely aspect and majesty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Alienated - She grew weary of the Chaldeans."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Discovered - Made it appear to all, far and near."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "By - Remembering her idolatries in Egypt, her alliance with it in days past, which she now resolved to act over again."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Paramours - The nations, that were confederate with the Egyptians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Pekod - Pekod is the province between Tigris, and Lycus; in this was old Nineveh. Shoa - Either Sia in Armenia, or the Sohia, among which were the Adiabeni, and this contained the middle part of the kingdom of Babylon. Koa - This bordered upon Media, the inhabitants were called Kohai, and dwelt about Arbela. And all - All subjects of the Assyrian monarchy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "And wheels - Lest in their march the carriage wheels should break, a store of these were provided. An assembly - A mighty confluence of people. I will set - Give them a power in right of conquest over their rebels, as well as mine, and I will give them a spirit of judgment to discern the greatness of this people's sins. Judge - Condemn, and execute sentence upon thee. According - To their will, power, wrath, and custom, against rebels; for these are their rules of judgment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "I will set my jealousy - As a jealous provoked husband, I will be as much against thee as they are. Thy residue - Either the people, who hid themselves in vaults and cellars, or what the Chaldeans cannot carry away, all this shall be devoured by fire."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Take away - Deprive thee of the comfortable use of all thy labour, which they will exact of thee in captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "It - Is large, and contains what will last many years, even 'till the seventy years be expired."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Thou - Shalt stagger with sorrows, that shall intoxicate, and astonish. Suck it out - The dregs shalt thou drink, and multiply thine own sorrows. Break the sheards - To suck out what remains. And pluck - Revenging thyself upon thyself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Bear thou - The guilt, I will impute it, the punishment, I will not pardon it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "In the same day - When they had newly polluted themselves with idolatry and murder, they thrust into the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "My house - Nay, these things have been in my house."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Wash thyself - After the manner of harlots."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Sattest - Prepared to feast them. A stately bed - A magnificent bed, on which women sat to feast, when men leaned on their sides. Incense - Offered to their idols."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "A voice - A shout for joy, that there was a treaty of peace between the Jews, and the Chaldeans."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "Righteous men - Men that keep the law of their God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "Upon them - Against the Jews, the children of this Aholibah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "The company - The Babylonian army."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 48,
+    "content": [
+     {
+      "text": "Lewdness - Idolatry. And indeed we do not read of any after their return out of this captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "They - The Babylonians. The sins - The guilt of worshipping idols; and you shall bear the punishment of idolaters."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 24
+ }
+}

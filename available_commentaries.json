@@ -1,6 +1,12 @@
 {
   "commentaries": [
     {
+      "id": "barnes",
+      "name": "Albert Barnes' Notes on the New Testament",
+      "englishName": "Albert Barnes' Notes on the New Testament",
+      "language": "eng"
+    },
+    {
       "id": "calvin",
       "name": "John Calvin Commentaries",
       "englishName": "John Calvin Commentaries",
@@ -10,6 +16,42 @@
       "id": "fbmeyer",
       "name": "F. B. Meyer's Through the Bible Day by Day",
       "englishName": "F. B. Meyer's Through the Bible Day by Day",
+      "language": "eng"
+    },
+    {
+      "id": "gaebelein",
+      "name": "Arno Gaebelein's Annotated Bible",
+      "englishName": "Arno Gaebelein's Annotated Bible",
+      "language": "eng"
+    },
+    {
+      "id": "maclaren",
+      "name": "Alexander Maclaren's Expositions of Holy Scripture",
+      "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+      "language": "eng"
+    },
+    {
+      "id": "scofield",
+      "name": "Scofield Reference Notes (1917)",
+      "englishName": "Scofield Reference Notes (1917)",
+      "language": "eng"
+    },
+    {
+      "id": "spurgeon",
+      "name": "C. H. Spurgeon's Treasury of David",
+      "englishName": "C. H. Spurgeon's Treasury of David",
+      "language": "eng"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent's Word Studies in the New Testament",
+      "englishName": "Vincent's Word Studies in the New Testament",
+      "language": "eng"
+    },
+    {
+      "id": "wesley",
+      "name": "John Wesley's Explanatory Notes",
+      "englishName": "John Wesley's Explanatory Notes",
       "language": "eng"
     }
   ]

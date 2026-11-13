@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "12-19\n\nSigns, Messages, and Parables\n\n1. Signs given through the prophet (Ezekiel 12:1-20)\n\n2. The message of speedy judgment (Ezekiel 12:21-28)\n\n3. The message against false prophets and prophetesses. (Ezekiel 13:1-23)\n\n4. The message against the elders (Ezekiel 14:1-23)\n\n5. The parable of the vine given to the fire (Ezekiel 15:1-8)\n\n6. The parable of the abandoned child and Israel’s whoredom (Ezekiel 16:1-63)\n\n7. The parable of the riddle of the two eagles and the vine (Ezekiel 17:1-24)\n\n8. The message of the righteous judgments of God (Ezekiel 18:1-32)\n\n9. The Lamentations for the Princes of Israel (Ezekiel 19:1-14)\n\nWith the twelfth chapter a new section of this book begins, ending with chapter 19.\n\nEzekiel 12:1-20. They were a rebellious house and the prophet is told to do something, that they might consider. He was to attire himself like one who goes on a journey with sandals on his feet, a staff in his hand, a burden on his shoulder. He was told to move from place to place. The meaning of all this is explained in Ezekiel 12:8-16. The prince in Jerusalem is Zedekiah. His attempt to flee from Jerusalem, and his fate of having his eyes put out by the king of Babylon, his captivity and death are here clearly predicted. The following passages must be read and studied in connection with this chapter Jeremiah 39:4; Jeremiah 52:10-34; 2 Kings 25:1-30.\n\nEzekiel 12:21-28. The false prophets had preached a false hope, “The days are prolonged and every vision faileth.” God had announced another message. Had they believed what God had spoken, that judgment was imminent, they would have surely repented and turned unto the Lord. Unbelief was responsible for their condition; in this they were sustained by lying prophets. And the Lord answered these false prophets. He changed the lying message and told them “the days are at hand” --the effect of every vision. All false visions, divinations and hopes were to cease. His Word is now to be done."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 13
+ }
+}

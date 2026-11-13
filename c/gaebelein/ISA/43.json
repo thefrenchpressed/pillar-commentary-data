@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 43,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 43\n\nJehovah Speaks in Comfort to His People\n\n1. What Jehovah is and will be to Israel (Isaiah 43:1-7) 2. Second address to the blind and deaf people (Isaiah 43:8-13) 3. Jehovah deals with their enemies (Isaiah 43:14-17) 4. Blessed things to come: They shall show forth My praise (Isaiah 43:18-21) 5. Jehovah’s loving appeal and promise to remember their sins no more (Isaiah 43:22-28) Chapters 43-45 must be studied together. Jehovah speaks in these chapters as nowhere else in the prophetic Word. Note the many declarations Jehovah makes. “I have redeemed thee,” “I will be with thee,” “I have loved thee,” “I have made him,” “I am the LORD, I will make a way in the wilderness.” All God’s people can lay claim to these blessed words of promise and assurance. Ultimately Israel will possess and enjoy these great blessings."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 43
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 42
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 44
+ }
+}

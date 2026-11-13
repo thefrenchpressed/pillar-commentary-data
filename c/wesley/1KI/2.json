@@ -1,0 +1,209 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "wesley",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": "David's charge to Solomon ver. 1-9. His death and burial, with the beginning of Solomon's reign, ver. 10-12. He puts Adonijah to death, ver. 13-25. Deposes Abiathar from the high-priesthood, ver. 26, 27. Puts Joab to death, ver. 28-35. Confines Shimei, to Jerusalem, ver. 36-38. Puts him to death, ver. 39-46.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "2. I go the way, &c. - Even the sons and heirs of heaven, must go the way of all the earth, of all who dwell thereon. But they walk with pleasure in this way, thro' the valley of the shadow of death. Prophets, yea kings must go this way to brighter light and honour than prophecy or sovereignty. Be strong - For, to govern his people according to the law of God, requires great fortitude, or strength of mind. And a man - In manly wisdom, and courage, and constancy, though thou art but young in years."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "3. The law - Which the prince was enjoined to transcribe and read, Deut. xvii, 11, that be might govern his own and his peoples actions by it. Mayest profit - Or, behave thyself prudently. Hereby he intimates, that religion is the truest reason of state, and that all true wisdom and good success depend upon piety."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "4. Confirm his word - Fulfil his promise, the condition upon which it was suspended, being performed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "5. To me - That is, against me; in what he did against Abner and Amasa: whose death was a great injury to David, as it was a breach of his laws and peace; a contempt of his person and government; a pernicious example to his subjects, and a great scandal to him, as if Joab had been only David's instrument, to affect what he secretly designed. And shed - He slew them as if they had been in the state of war, when there was not only a cessation of arms, but also a treaty of peace. Put the blood - This is added to note his impenitency, that although by his perfidious manner of killing them when he pretended to embrace them, he stained his own garments with their blood, yet he was not ashamed of it, but gloried in it, and marched boldly along with the army, with the same girdle and shoes which were sprinkled with their blood."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "6. Do therefore - That is, what in reason and justice thou seest fit. For tho' I was forced to forbear him, yet I never forgave him; punish him according to his demerits."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "7. For so - With such kindness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "8. I will not, &c. - The words are, The king said unto Shimei, thou shalt not die: and the king swear unto him, 2 Sam. xix, 23. The oath, we see, was absolute. It was not, \"I will not put thee to death now.\" or, \"I will not put thee to death with the sword.\" But who can reconcile his charge to Solomon with this oath? Surely, considering the time of that charge, this next to the matter of Uriah, is the greatest blemish in all David's life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "25. Benaiah - For the execution of justice was not then committed to obscure persons, as now it is; but to persons of great honour and authority. It is far from clear, that Solomon did right herein, or that Adonijah had any ill design in asking Abishag."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "26. Because, &c. - Thus Solomon shews respect to his sacred function. He mixes mercy with justice, and requites Abiathar's former kindness to David; hereby teaching princes, that they should not write injuries in marble, and benefits in sand, as they have been so often observed to do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "27. Which he spake - Concerning the translation of the priesthood from the house of Eli, and of Ithamar, to that of Eleazar: which being threatened eighty years ago, is now executed. So divine vengeance, though sometimes it be slow, is always sure."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "30. He said, Nay, &c. - For he supposed, either, that Solomon would not defile that place with his blood, but would spare him for his respect to it, as he had done Adonijah: or, he had a superstitious conceit, that his dying there might give his guilty and miserable soul some advantage."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "31. Do, &c. - Kill him, though he be there; take him from that place, and then kill him: for, Exod. xxi, 14, doth not command the ruler to kill the murderer there, but to remove him thence, to take him from the altar, that he may die."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "34. Wilderness - Places which have but few houses and inhabitants, are often so called in scripture. He was buried privately, like a criminal, not pompously, like a general."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "36. Go not forth - This Solomon ordered, both for his own security; and as a penalty for his former wickedness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "37. Kidron - A brook nigh Jerusalem, which he particularly names, because that was the way to Bahurim, his former habitation: but this is not all, for the restraint was general, that he should not go forth thence any whither. Thy blood - The blame and guilt of thy blood shall lie upon thyself only."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "38. Is good - Thy sentence is more merciful than I expected, or deserved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "39. Achish - A king, but subject and tributary, to Solomon. Permitted to enjoy the title and honour of a king, but not the full power; whence it was, that Achish could not keep these servants though they had fled to him for protection; but suffered Shimei to take them away from his royal city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "40. To seek his servants - By \"seeking his servants, says Bp. Hall, he lost himself. These earthly things either are, or should be our servants. How commonly do we see men run out of the bounds set by God's laws, to hunt after them, till their souls incur a fearful judgment.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "44. Thine heart - For which thine own conscience accuseth thee, and there is no need of other witnesses. The Lord - God hath punished thee for thy former wickedness, by suffering thee to expose thyself to thy deserved death."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1KI",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1KI",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1KI",
+  "chapter": 3
+ }
+}

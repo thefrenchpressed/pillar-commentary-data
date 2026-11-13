@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "scofield",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 45,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Shoshannim -- Shoshannim, \"lilies,\" and so, the spring; the Shoshannim Psalms were probably connected with the Passover season, and hence reminders of redemption out of bondage, and of the origins of Israel.\n\nking -- This great psalm of the King, with Psalms 46.-47., obviously looks forward to the advent in glory. The reference in Hebrews 1:8,9 is not so much to the anointing as an event Matthew 3:16,17 as to the permanent state of the King. Cf. Isaiah 11:1,2.\n\nThe divisions are:\n\n(1) The supreme beauty of the King (Psalms 45:1,2);\n\n(2) the coming of the King in glory Psalms 45:3-5; Revelation 19:11-21.\n\n(3) the deity of the King and character of His reign Psalms 45:6,7; Hebrews 1:8,9; Isaiah 11:1-5.\n\n(4) as associated with Him in earthly rule, the queen is presented, Psalms 45:9-13 and in that relation the King is not called Elohim (See Scofield \"Genesis 1:1\") as in verse 6, but Adonai, the husband name of Deity See Scofield \"Genesis 15:2\".\n\n(5) the virgin companions of the queen, who would seem to be the Jewish remnant. (See Scofield \"Romans 11:5\"). Revelation 14:1-4 are next seen Psalms 45:14,15, and\n\n(6) the Psalm closes with a reference to the earthly fame of the King.\n\nSee Psalm 68., next in order of the Messianic Psalms."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 45
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 44
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 46
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "scofield",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 60,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Michtam -- Michtam, a prayer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Vs.5-12 -- Verses 5-12 are identical with Psalms 108:6-13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 60
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 57
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 61
+ }
+}

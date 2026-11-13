@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "maclaren",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "IN TIMES\n\nEzra 4:1 - Ezra 4:5.\n\nOpposition began as soon as the foundations were laid, as is usually the case with all great attempts to build God’s house. It came from the Samaritans, the mingled people who were partly descendants of the ancient remnant of the northern kingdom, left behind after the removal by deportation of the bulk of its population, and partly the descendants of successive layers of immigrants, planted in the empty territory by successive Assyrian and Babylonian kings. Esar-haddon was the first who had sent colonists, about one hundred and thirty years before the return. The writer calls the Samaritans ‘the adversaries,’ though they began by offers of friendship and alliance. The name implies that these offers were perfidious, and a move in the struggle.\n\nOne can easily understand that the Samaritans looked with suspicion on the new arrivals, the ancient possessors of the land, coming under the auspices of the new dynasty, and likely to interfere with their position if not reduced to inferiority or neutralised somehow. The proposal to unite in building the Temple was a political move; for, in old-world ideas, co-operation in Temple-building was incorporation in national unity. The calculation, no doubt, was that if the returning exiles could be united with the much more numerous Samaritans, they would soon be absorbed in them. The only chance for the smaller body was to keep itself apart, and to run the risk of its isolation.\n\nThe insincere request was based on an untruth, for the Samaritans did not worship Jehovah as the Jews, but along with their own gods \\. To divide His dominion with others was to dethrone Him altogether. It therefore became an act of faithfulness to Jehovah to reject the entangling alliance. To have accepted it would have been tantamount to frustrating the very purpose of the return, and consenting to be muzzled about the sin of idolatry. But the chief lesson which exile had burned in on the Jewish mind was a loathing of idolatry, which is in remarkable contrast to the inclination to it that had marked their previous history. So one answer only was possible, and it was given with unwelcome plainness of speech, which might have been more courteous, and not less firm. It flatly denied any common ground; it claimed exclusive relation to ‘our God,’ which meant, ‘not yours’; it underscored the claim by reiterating that Jehovah was the ‘God of Israel’; it put forward the decree of Cyrus, as leaving no option but to confine the builders to the people whom it had empowered to build.\n\nNow, it is easy to represent this as a piece of impolitic narrowness, and to say that its surly bigotry was rightly punished by the evils that it brought down on the returning exiles. The temper of much flaccid Christianity at present delights to expand in a lazy and foolish ‘liberality,’ which will welcome anybody to come and take a hand at the building, and accepts any profession of unity in worship. But there is no surer way of taking the earnestness out of Christian work and workers than drafting into it a mass of non-Christians, whatever their motives may be. Cold water poured into a boiling pot will soon stop its bubbling, and bring down its temperature. The churches are clogged and impeded, and their whole tone lowered and chilled, by a mass of worldly men and women. Nothing is gained, and much is in danger of being lost, by obliterating the lines between the church and the world.\n\nThe Jew who thought little of the difference between the Samaritan worship with its polytheism, and his own monotheism, was in peril of dropping to the Samaritan level. The Samaritan who was accepted as a true worshipper of Jehovah, though he had a bevy of other gods in addition, would have been confirmed in his belief that the differences were unimportant. So both would have been harmed by what called itself ‘liberality,’ and was in reality indifference.\n\nNo doubt, Zerubbabel had counted the cost of faithfulness, and he soon had to pay it. The would-be friends threw off the mask, and, as they could not hinder by pretending to help, took a plainer way to stop progress. All the weapons that Eastern subtlety and intrigue could use were persistently employed to ‘weaken the hands’ of the builders, and the most potent of all methods, bribery to Persian officials, was freely used. The opponents triumphed, and the little community began to taste the bitterness of high hopes disappointed and noble enterprises frustrated. How differently things had turned out from the expectations with which the company had set forth from Babylon! The rough awakening to realities disillusions us all when we come to turn dreams into facts.\n\nThe beginning of laying the Temple foundations is put in 536 B.C.; the first year of Darius was 522. How soon after the commencement of the work the Samaritan tricks succeeded we do not know, but it must have been some time before the death of Cyrus in 529. For weary years then the sanguine band had to wait idly, and no doubt enthusiasm died out: they had enough to do in keeping themselves alive, and in holding their own amidst enemies. They needed, as we all do, patience, and a willingness to wait for God’s own time to fulfil His own promise."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EZR",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EZR",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "EZR",
+  "chapter": 6
+ }
+}

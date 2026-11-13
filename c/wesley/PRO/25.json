@@ -1,0 +1,218 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "These - Which are contained in this and the following chapters. The men - Certain persons appointed by Hezekiah for that work. Many of them are political precepts, and such as in a special manner concerned Hezekiah, and other princes, for the conduct of their house and kingdom. Copied - Out of the historical records which were then extant."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The glory - It is agreeable to the nature of God; it is a testimony of his infinite wisdom, and of his absolute power and sovereignty. To conceal - To keep his counsels, and the reasons of his actions in his own breast. Search out - To communicate their counsels to others, that so they may search and find out the right way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The heart - Though wise kings will search out other men, yet their inward thoughts and purposes are hardly discoverable."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Take away - Then, and not 'till then it is fit for that use."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Stand not - Do not affect frequent and familiar society with greater persons than thyself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Debate - If thou hast any quarrel with him, first try to compose it by private discourse with him. Discover not - Let not heat of contention provoke thee to divulge any of his secrets committed to thy trust."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Lest he - Reproach thee for thy gross violation of the laws of prudence, justice and friendship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Of silver - Which it seems was usual in those times, and was grateful to the eye for the beauty and variety both of the colours and figures, the golden apples appearing through net - work of silver."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Cold of snow - As drink cooled with ice or snow, as is usual in hot countries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Boasteth - Promising what he never intends to give. Is like - Like empty clouds carried about with wind, and not affording that rain which they promise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Forbearing - By patient submission and expectation. Breaketh - Softens the hardest heart."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Honey - By honey he understands, not only all delicious meats, but all worldly delights, which we are here taught to use with moderation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Withdraw - Visit him not too frequently."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "A sword - Is as cruel and pernicious as any instrument of death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "As vinegar - Which dissolves the nitre, and makes it useless and ineffectual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Bread - By bread and water he understands all things necessary for his subsistence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "For - In so doing, which words are expressed Rom 12:20, where this text is quoted. Thou shalt melt him into repentance, and love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "So - Because it comes more rarely and difficultly, after it hath been long expected."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Falling - When righteous men are oppressed by the wicked, the state of that common - wealth is as deplorable, as if the publick fountains were corrupted."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Not good - For health. To search - Industriously to seek for applause. Is not - Is not only sinful, but shameful also."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 26
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "scofield",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 95,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "tempted -- Temptation. Psalms 106:14; Genesis 3:1; James 1:2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 95
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 91
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 96
+ }
+}

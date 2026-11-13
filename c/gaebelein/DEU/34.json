@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. The Death of MosesCHAPTER 34\n\n1. The death and burial of Moses (Deuteronomy 34:1-7)\n\n2. The mourning of the people (Deuteronomy 34:8)\n\n3. The conclusion of the book (Deuteronomy 34:9-12)\n\nThis chapter was not written by Moses, but is an addition by another chosen instrument.\n\nThe home-going of this great man of God is beyond description. What a scene it must have been when he ascended Nebo to the top of Pisgah! And the Lord met him there and showed him the land and said: “This is the land, which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed. I have caused thee to see it with thine eyes, but thou shalt not go over thither.” What vision it must have been! What peace and joy must have filled the heart of the servant of God! Then he died.\n\nJewish tradition has woven many stories around this event. One, however, is so beautiful that we must mention it. “At God’s command Moses crossed his hands over his breast and closed his eyes; and God took away his soul with a kiss. Then heaven and earth and the starry world began to weep for Moses.”\n\nAnd the Lord buried Moses. How and where is unrevealed. Jude informs us that Michael, the archangel, contended with the devil about the body of Moses. No doubt Satan tried to bring the buried body to light and to seduce Israel to worship the body of their departed leader. What honor Jehovah put after all upon His servant! He is the only one who was buried by the Lord, and he appeared on the Mount of Transfiguration with the Lord. And the beautiful testimony concerning him by the Spirit of God at the end of this book! “And there arose not a prophet since in Israel whom the LORD knew face to face.”\n\nMay it please God to bless this book and its many lessons to our hearts. May He grant unto us to live and walk dependent upon and obedient to His Word.\n\n1. It has been stated Luke 23:43 is this Old Testament idiom in the New Testament, as if our Lord meant to say: “Verily I say unto thee today, thou shalt be with Me in Paradise.” However, this is positively wrong. It is the argument advanced by the teachers of the soul-sleep. The same hint is made in the Companion Bible. The comma does not belong after “today” but after “thee” as we have it in the English Bible.\n\n2. “The taking off of the shoe was an ancient custom also, adopted, according to Rth 4:7, in cases of redemption and exchange, for the purpose of confirming commercial transactions. The usage arose from the fact, that when any one took possession of landed property, he did so by treading upon the soil, and asserting his right of possession by standing upon it in his shoes. In this way the taking off of the shoe and handing it to another became a symbol of the renunciation of a man’s position and property.”\n\n3. Reuben; Simeon (hearing); Levi (joined); Judah (praise). This is the order of the sons of Jacob according to their birth. It tells out the gospel. In the blessing of Moses the order is: Reuben (behold a son!); Judah (praise); Levi (joined). Simeon (hearing) is left out. When the Lord comes Israel will behold Him as the Son and will break out in praise and worship and become joined to Him. No “hearing” is needed then. We pass this on to our readers for consideration. We have nowhere seen this application."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOS",
+  "chapter": 1
+ }
+}

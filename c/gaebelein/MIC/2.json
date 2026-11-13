@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "gaebelein",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 2\n\n1. The guilt and punishment of Israel (Micah 2:1-11)\n\n2. The future restoration (Micah 2:12-13)\n\nMicah 2:1-11. In the first two verses the special sins of Israel are mentioned, the same as in Amos--idolatry, covetousness and oppression. Therefore punishment is to fall upon them. There would be a doleful lamentation: “We be utterly spoiled: he changeth the portion of my people; how does he take it away from me!” Their fields would be divided. Nor did they listen to the true prophets; they gave ear to the false prophets who flattered them. It is interesting to note that the sentence, “Prophesy ye not, thus they prophesy,” literally translated is, “Do not sputter, thus they sputter.” They did not give out the real message, but they sputtered out their own words. These false prophets tried to prevent the true prophets from announcing the judgment of the Lord.\n\nThen comes a passionate appeal: “O, thou that art named the house of Jacob, is the Spirit of the Lord straitened? Are these His doings? Do not my words do good to him that walketh uprightly?” He still appeals to their consciences. The Spirit of God does not change, nor was it His doings, when the nation drifted into idolatry and judgment was impending. Still, if they but walked uprightly His words would surely do them good. But they had risen as an enemy against Him; and yet the Lord, in spite of all, called them “My people.”\n\nMicah 2:12-13. In this prophecy Christ is announced as the Breaker, the One who goes before them, clears the way, and removes every obstacle out of the way. In Micah 2:10 we read, “Arise ye, and depart; for this is not your rest.” The true rest for His people Israel comes when the King comes and brings with Him the promised blessing and glory. Then the remnant of Israel will be gathered, “and their king shall pass before them, and the Lord at the head of them.” It is a great prophecy of the ultimate restoration of Israel. “We must not exclude all allusion to the deliverance of the Jewish nation out of the earthly Babylon by Cyrus; at the same time, it is only in its typical significance that this comes into consideration at all, namely, as a preliminary stage and pledge of the redemption to be effected by Christ.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MIC",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MIC",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "MIC",
+  "chapter": 3
+ }
+}

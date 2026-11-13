@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 49,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Retrospects and Meditations\n\n1. Hear this, all ye peoples! (Psalms 49:1-4)\n\n2. His message of retrospect and encouragement (Psalms 49:5-20)\n\nIf such is the outcome and the goal of the purposes of God concerning His people, why should they fear in the days of evil, which precede the coming glory? The ungodly will pass away no matter how great their riches are, nor can they redeem themselves; their way is folly; like sheep they are laid in the grave and death feeds on them. But different is the lot of the righteous. They shall have dominion over them in the morning, when the night of suffering and trouble is ended. They will be redeemed from the power of the grave and He shall receive them, “for He will swallow up death in victory.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 49
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 48
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 50
+ }
+}

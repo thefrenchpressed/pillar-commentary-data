@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": "The elders of Israel come to inquire of the prophet, ver. 1-5. They are ordered to repent, or not to pretend to inquire of God, ver. 6-11. Tho' Noah, Daniel and Job were to pray for the people, yet they would not prevail, ver. 12-21. Yet a remnant shall escape, ver. 22, 23.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Elders - Men of note, that were in office and power among the Jews, who were come from Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Set up - Are resolved idolaters. The stumbling block - Their idols which were both the object of their sin, and occasion of their ruin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "According - According to his desert, I will give answer, but in just judgment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Take - That I may lay open what is in their heart, and discover their hypocrisy, and impiety. Through their idols - It is always through some idol or other, that the hearts of men are estranged from God: some creature has gained that place in the heart, which belongs to none but God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The stranger - Every proselyte. I the Lord - He shall find by the answer, 'twas not the prophet, but God that answered: so dreadful, searching, and astonishing shall my answer be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "A sign - Of divine vengeance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The prophet - The false prophet, who speaks all serene, and quiet, in hope of reward. Have deceived - Permitted him to err, or justly left him in his blindness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "When - At what time soever."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Noah - Who 'tis probable prevailed with God to spare the world for some years, and saved his near relations when the flood came. Daniel - Who prevailed for the life of the wise men of Chaldea. Job - Who daily offered sacrifice for his children, and at last reconciled God to those that had offended."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "That land - What land soever it be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "In blood - In death and destruction, not by the sword."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "How much more - If they could not be able to keep off one of the four, how much less would they be able to keep off all four, when I commission them all to go at once."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Their way - Their sin and their punishment. Comforted - In this proof of the truth of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Comfort you - That is, you will be comforted, when you compare their case with your own: when they tell you how righteous God was, in bringing these judgments upon them. This will reconcile you to the justice of God, in thus punishing his own people, and to the goodness of God, who now appeared to have had kind intentions in all."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 15
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "maclaren",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "TWO KINDS OF HOPE\n\nJob 8:14. - Romans 5:5.\n\nThese two texts take opposite sides. Bildad was not the wisest of Job’s friends, and he gives utterance to solemn commonplaces with partial truth in them. In the rough it is true that the hope of the ungodly perishes, and the limits of the truth are concealed by the splendour of the imagery and the perfection of artistic form in which the well-worn platitude is draped. The spider’s web stretched glittering in the dewy morning on the plants, shaking its threaded tears in the wind, the flag in the dry bed of a nullah withering while yet green, the wall on which leaning a man will fall, are vivid illustrations of hopes that collapse and fail. But my other text has to do with hopes that do not fail. Paul thinks that he knows of hope that maketh not ashamed, that is, which never disappoints.\n\nBildad was right if he was thinking, as he was, of hopes fixed on earth; the Apostle was right, for he was thinking of hopes set on God. It is a commonplace that ‘hope springs immortal in the human breast’; it is equally a commonplace that hopes are disappointed. What is the conclusion from these two universal experiences? Is it the cynical one that it is all illusion, or is it that somewhere there must be an object on which hope may twine its tendrils without fear? God has given the faculty, and we may be sure that it is not given to be for ever balked. We must hope.\n\nOur hope may be our worst enemy; it may and should be our purest joy.\n\nLet us then simply consider these two sorts of hope, the earthly and the heavenly, in their working in the three great realms of life, death, and eternity.\n\nI. In life.\n\nThe faculty is inseparable from man’s consciousness of immortality and of an indefinitely expansible nature which ever makes him discontented with the present. It has great purposes to perform in strengthening him for work, in helping him over sorrows, in making him buoyant and elastic, in painting for him the walls of the dungeon, and hiding for him the weight of the fetters.\n\nBut for what did he receive this great gift? Mainly that he might pass beyond the temporal and hold converse with the skies. Its true sphere is the unseen future which is at God’s right hand.\n\nWe may run a series of antitheses, e.g.-\n\nEarthly hope is so uncertain that its larger part is often fear.\n\nHeavenly hope is fixed and sure. It is as certain as history.\n\nEarthly hope realised is always less blessed than we expected. How universal the experience that there is little to choose between a gratified and a frustrated hope! The wonders inside the caravan are never so wonderful as the canvas pictures outside.\n\nHeavenly hopes ever surpass the most rapturous anticipation. ‘The half hath not been told.’\n\nEarthly hopes are necessarily short-winged. They are settled one way or another, and sink hull down below our horizon.\n\nHeavenly hope sets its object far off, and because a lifetime only attains it in part, it blesses a lifetime and outlasts it.\n\nII. Hope in death.\n\nThat last hour ends for us all alike our earthly joys and relations. The slow years slip away, and each bears with it hopes that have been outlived, whether fulfilled or disappointed. One by one the lights that we kindle in our hall flicker out, and death quenches the last of them. But there is one light that burns on clear through the article of death, like the lamp in the magician’s tomb. ‘The righteous hath hope in his death.’ We can each settle for ourselves whether we shall carry that radiant angel with her white wings into the great darkness, or shall sadly part with her before we part with life. To the earthly soul that last earthly hour is a black wall beyond which it cannot look. To the God-trusting soul the darkness is peopled with bright-faced hopes.\n\nIII. Hope in eternity.\n\nIt is not for our tongues to speak of what must, in the natural working out of consequences, be the ultimate condition of a soul which has not set its hopes on the God who alone is the right Object of the blessed but yet awful capacity of hoping, when all the fleeting objects which it sought as solace and mask of its own true poverty are clean gone from its grasp. Dante’s tremendous words are more than enough to move wholesome horror in any thinking soul: ‘Leave hope behind, all ye who enter here.’ They are said to be unfeeling, grim, and mediaeval, incredible in this enlightened age; but is there any way out of them, if we take into account what our nature is moulded to need and cling to, and what ‘godless’ men have done with it?\n\nBut let us turn to the brighter of these texts. ‘Hope maketh not ashamed.’ There will be an internal increase of blessedness, power, purity in that future, a fuller possession of God, a reaching out after completer likeness to Him. So if we can think of days in that calm state where time will be no more, ‘to-morrow shall be as this day and much more abundant,’ and the angel Hope, who kept us company through all the weary marches of earth, will attend on us still, only having laid aside the uncertainty that sometime veiled her smiles, but retaining all the buoyant eagerness for the ever unfolding wonders which gave us courage and cheer in the days of our flesh."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JOB",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JOB",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JOB",
+  "chapter": 14
+ }
+}

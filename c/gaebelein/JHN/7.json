@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "gaebelein",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 7\n\n1. My Time is not Yet Come. (John 7:1-9.)\n\n2. Departure from Galilee; Sought by the Jews. (John 7:10-13.)\n\n3. In the Temple Teaching. (John 7:14-29.)\n\n4. Opposition to Him. (John 7:30-36.)\n\n5. The Indwelling Spirit Promised. (John 7:37-39.)\n\n6. The Division Among the People Because of Him. (John 7:40-44.)\n\n7. The Returning Officers and the Defense of Nicodemus. (John 7:45-53.)\n\nThe Lord tarried in Galilee. How He must have sought souls there as He walked in Galilee! He would not walk in Judea (not “Jewry,” as in the Authorized Version) because the Jews, that is the leaders of the people, sought to kill Him. The Feast of Tabernacles was at hand and what we find written in this chapter happened during that Feast. His brethren, no doubt sons born to Mary after His own birth, urged Him to go to Judea. Their motives were selfish. They did not believe on Him. However, later they believed, for we find them among those who waited in Jerusalem for the promise of the father. (Acts 1:14.) The Feast of Tabernacles typifies the millennial blessings for Israel and the Gentiles, the great consummation.\n\nThe world hated Him and He declared that His time had not yet come. We cannot follow at length the interesting account of His coming to Jerusalem, the words He spake, the answers He gave to those who hated Him. He taught and they marvelled. He declared that the doctrine He preached was of Him that sent Him. What a challenge He gave them! “If any man will do His will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.” Then He told them that they tried to kill Him. “Thou hast a demon,” was their reply, while others said: “Is not this He whom they seek to kill?” They sought to take Him and the Pharisees and Chief Priest sent officers to arrest Him. Thus the hatred against Him is manifested.\n\nHis hour had not yet come; no one could touch Him. When the hour came He yielded Himself.\n\nThe great center of this chapter is found in John 7:37-39. The last day of the Feast of Tabernacles was the greatest. It was the eighth day, a day of rest and holy gathering together. During the seven days of the feast water was daily drawn from the pool of Siloam and then poured out. On the last day this ceremony did not take place. The seven days typified their wilderness journey; the eighth day the entrance into the land. For seven days they drew the water and poured it out, commemorating the water the Lord had supplied to Israel during the wilderness journey. On the eighth day they enjoyed the springs of the land itself an emblem of the living waters which the Lord had promised to His people.\n\nIsrael has these promises. “And it shall be in that day that living waters shall go out from Jerusalem.” (Zechariah 14:8.) The same promise we find elsewhere. (See Ezekiel 47:1-23; Isaiah 12:1-6.) And He Who had given to His people these promises, Who had come to fulfill them, stood in their midst. They hate Him. They tell Him to His face, “Thou hast a demon.” They seek to kill Him.\n\nOn the last day of the feast, typical of Israel’s promised blessing and glory, He stood and cried: “If any man thirst let him come unto Me and drink.” He offers now upon the rejection of Himself something new to “any man who thirsts”; the national promises of living water pouring forth from Jerusalem cannot be fulfilled now. They will be fulfilled when He comes again. It is an individual invitation, an individual promise, He gives. “He that believeth on Me, as the Scripture hath said, out of his belly shall flow rivers of living water.” We are then told that this means the gift of the Holy Spirit, which they were to receive who came to Him and believed on Him. The promise was fulfilled on the day of Pentecost. Then the Holy Spirit came to dwell in believers. The overflow, the streams of living water to flow from the believer, is the type of the Spirit, the Spirit of power manifesting Himself through the believer in bearing testimony for Christ.\n\nIn the third chapter we saw the Holy Spirit communicating life; He is the Life-giving Spirit. In the fourth chapter the Lord spoke of the Spirit as the well of living water; He indwells the one who is born again to make communion and worship possible. Then followed His teaching in chapters 5 and 6, again concerning the life the believer hath in Him and how it is sustained. In the present chapter the indwelling Spirit, Who is the well of living water in the believer, is seen flowing forth to others, just as a spring will overflow."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 8
+ }
+}

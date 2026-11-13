@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "wesley",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": "This chapter and the two next make one entire vision and prophecy, given Daniel about two years after the former. This chapter is introductory: the next has the prophecy itself, and the twelfth chapter, the conclusion of it. In this we have Daniel's solemn humiliation, ver. 1-3. A glorious appearance of the Son of God, ver. 4-9. The encouragement given him to expect a full discovery of future events, ver. 10-25.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Was mourning - Because he foresaw the many calamities that would befall the Jews for their sins, especially for destroying the Messiah, and rejecting his gospel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "The first month - Nisan, which is March. Hiddekel - Or Tigris."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "A certain man - Very probably Christ, who appeared to Daniel in royal and priestly robes, and in so great brightness and majesty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "He - Not Christ, but Gabriel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Withstood me - God suffered the wicked counsels of Cambyses to take place awhile; but Daniel by his prayers, and the angel by his power, overcame him at last: and this very thing laid a foundation of the ruin of the Persian monarchies. Michael - Michael here is commonly supposed to mean Christ. I remained - To counter - work their designs against the people of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "I set my face - I prostrated myself upon the earth. And I became dumb - Thro' astonishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "One like the sons of men - This likewise seems to have been Gabriel. I have retained no strength - Tho' he appeared to him, and spake to him as a man, yet Daniel could not bear his presence, without some dread."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "To fight - To oppose his mischievous designs."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Michael - Christ alone is the protector of his church, when all the princes of the earth desert or oppose it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DAN",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DAN",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DAN",
+  "chapter": 11
+ }
+}

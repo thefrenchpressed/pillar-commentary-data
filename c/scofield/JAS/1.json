@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JAS",
+  "commentaryId": "scofield",
+  "name": "James",
+  "commonName": "James",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "WRITER: James (See Scofield \"Matthew 4:21\"), called \"the Just\" mentioned by Paul with Cephas and John as \"pillars\" in the church at Jerusalem Galatians 2:9. He seems to have been, as a religious man, austere, legal, ceremonial Acts 21:18-24.\n\nDATE: Tradition fixes the martyrdom of James in the year 62, but his Epistle shows no trace of the larger revelations concerning the church and the distinctive doctrines of grace made through the Apostle Paul, nor even of the discussion concerning the relation of Gentile converts to the law of Moses, which culminated in the first council (Ac 15.), over which James presided. This presumes the very early date of James, which may confidently be set down as \"the first Epistle to Christians.\"--Weston.\n\nTHEME: By \"the twelve tribes scattered abroad\" we are to understand, not Jews, but Christian Jews of the Dispersion. The church began with such Acts 2:5-11 and James, who seems not to have left Jerusalem, would feel a particular pastoral responsibility for these scattered sheep. They still resorted to the synagogues, or called their own assemblies by that name James 2:2, where \"assembly\" is \"synagogue\" in the Gr.). It appears from James 2:1-8 that they still held the synagogue courts for the trial of causes arising amongst themselves. The Epistle, then, is elementary in the extreme. To suppose that James 2:14-26 is a polemic against Paul's doctrine of justification is absurd. Neither Galatians nor Romans was yet written.\n\nJames' theme, then, is \"religion\" (Gr., threskeia, \"outward religious service\") as the expression and proof of faith. He does not exalt works as against faith, but faith as producing works. His style is that of the Wisdom-books of the O.T.\n\nThe divisions are five:\n\nThe testing of faith1:1-2:26\n\nThe reality of faith tested by the tongue, 3:1-18\n\nThe rebuke of worldliness, 4:1-17\n\nThe rich warned5\n\nHortatory",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "perfect -- mature and complete. (See Scofield \"Matthew 5:48\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "tempted -- \"Temptation\" is used in two senses:\n\n(1) Solicitation to evil (e.g. Genesis 3:1-6; Matthew 4:1; 1 Corinthians 10:13; 2 Corinthians 11:3,4; James 1:14).\n\n(2) Testing under trial (eg) Genesis 22:1; Luke 22:28 Cf Luke 4:2, Cf Matthew 6:13 (solicitation to evil) and 1 Peter 1:6 (testing under trial)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "sin -- Sin.\n\n(See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "gift -- Two words are used in the original for \"gift,\" the first meaning the act of giving; the second, the thing given."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "righteousness -- (See Scofield \"Romans 3:21\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "save -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "religious -- (Greek - θρη̑σκος = outwardly religious)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "world -- \"kosmos\" = world-system. James 4:4; John 7:7 (See Scofield \"Revelation 13:8\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JAS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JAS",
+  "chapter": 2
+ }
+}

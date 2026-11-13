@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "scofield",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Ramathlehi -- The hill of the jawbone."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Enhakkore -- The well of him that cried."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JDG",
+  "chapter": 16
+ }
+}

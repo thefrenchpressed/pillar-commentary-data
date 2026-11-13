@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": "A thanksgiving for blessings received, ver. 1-6. An expression of confidence in God, ver. 7-13. To the chief musician, A psalm of David. Title of the psalm. Of David - The subject of this psalm is the same with the former, both being made for the peoples use, concerning the king. Only the prayers there used, are here turned into praises, for the blessings received in answer to their prayers. And as David was an illustrious type of Christ, so in many of these expressions he looks beyond himself to Christ, in whom they are properly, and fully accomplished.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Prevent - Crowning him with manifold blessings, both more and sooner than he expected. With - With excellent blessings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "For ever - Thou gavest him a long life and reign here, and after that didst translate him to live with thee for ever. But this was more eminently fulfilled in Christ, who asked of his father, life, or to be saved from death, Heb 5:7, though with submission to his will: but his father, though he saw it necessary to take away his temporal life, yet instantly gave him another, far more noble, even the perfect possession of an everlasting life both in his soul and body, at his right hand."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Glory - His fame or renown. Salvation - By reason of those great and glorious deliverances which thou hast wrought both for him, and by him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Countenance - Smiling upon him, by thy grace and favour."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Oven - Like wood, which when it is cast in there, is quickly consumed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Fruit - Their children. God will take away both root and branch, the parents and all that wicked race."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Thee - Against God, not directly, but by consequence, because it was against David, whom God had anointed, and against the Lord's people, whose injuries God takes as done to himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Exalted - By thy own power, or by the manifestation thereof."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 22
+ }
+}

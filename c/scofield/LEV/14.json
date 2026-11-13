@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "scofield",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "go forth -- As a type of Gospel salvation the points are:\n\n(1) The leper does nothing Romans 4:5,5.\n\n(2) the priest seeks the leper, not the leper the priest Luke 19:10.\n\n(3) \"with-out shedding of blood is no remission\" Hebrews 9:22.\n\n(4) \"and if Christ be not raised, your faith is vain\" 1 Corinthians 15:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "birds -- The bird slain, and the live bird, dipped in blood and released, present the two aspects of salvation in Romans 4:25 \"delivered for our offences, and raised again for our justification.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "vessel -- The earthen vessel typifies the humanity of Christ, as the running water typifies the Holy Spirit as the \"Spirit of life\" Romans 8:2 \"put to death in the flesh, but quickened by the Spirit.\" 1 Peter 3:18"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Marg\n\n(See Scofield \"Exodus 29:33\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "atonement -- (See Scofield \"Exodus 29:33\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 53,
+    "content": [
+     {
+      "text": "atonement -- (See Scofield \"Exodus 29:33\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LEV",
+  "chapter": 15
+ }
+}

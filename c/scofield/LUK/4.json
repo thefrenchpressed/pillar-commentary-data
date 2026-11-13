@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "tempted -- (See Scofield \"Matthew 4:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "God -- Jehovah. Deuteronomy 8:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "world -- \"oikoumene\" = \"inhabited earth.\" (See Scofield \"Luke 2:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Lord -- Jehovah. Deuteronomy 6:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "angels -- (See Scofield \"Hebrews 1:4\").\n\nto keep -- After Satan's failure to tempt the Lord away from the Word, he seeks to tempt Him by it. He however misquotes by the omission of \"in all thy ways\" Psalms 91:11. The Lord's \"ways\" were those marked out for Him in perfect dependence upon His Father's will; cf. Hebrews 10:7,9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "came to Nazareth -- Our Lord visited Nazareth twice after beginning His public ministry. See Matthew 13:54-58; Mark 6:1-6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Lord -- Adonai Jehovah. Isaiah 61:1"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "acceptable -- A comparison with the passage quoted, Isaiah 61:1,2 affords an instance of the exquisite accuracy of Scripture. Jesus stopped at, \"The acceptable year of the Lord,\" which is connected with the first advent and the dispensation of grace Genesis 3:15. (See Scofield \"Acts 1:11\"), \"the day of vengeance of our God\" belongs to the second advent, Deuteronomy 30:3. See Scofield \"Acts 1:11\", and judgment.\n\nLord -- Jehovah. Isaiah 61:1,2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 5
+ }
+}

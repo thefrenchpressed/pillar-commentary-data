@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "scofield",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Come up hither -- This call seems clearly to indicate the fulfilment of 1 Thessalonians 4:14-17. The word \"church\" does not again occur in the Revelation till all is fulfilled."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "beasts -- living creatures. (See Scofield \"Ezekiel 1:5\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "beasts\n\nbeasts -- living creatures. (See Scofield \"Ezekiel 1:5\")\n\nGod Almighty -- Jehovah of hosts. Isaiah 6:3"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "beasts -- living creatures. (See Scofield \"Ezekiel 1:5\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 5
+ }
+}

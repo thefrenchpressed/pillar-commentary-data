@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": "David distrest, takes refuge in God, ver. 1-7. Shews the goodness of God to them that fear him, ver. 8-15. Prays for help against his enemies, and for the church, ver. 16-22. A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Ashamed - Disappointed of my hope."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Cause - Without any provocation of mine."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Teach - Teach me my duty, and cause me to keep close to it, notwithstanding all temptations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Upright - Holy and true, in all his declarations and offers of mercy to sinners. Therefore - He will not be wanting to such poor sinners as I am, but will guide them into the way of life and peace."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The meek - Such as meekly submit themselves to God, and are desirous to be directed and governed by him. Judgment - In the paths of judgment, in the right way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Paths - All the dealings of God with them, yea even those that are afflictive, are done in kindness and faithfulness to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "For - Or, though (as this particle is often rendered) it be great. Possibly he speaks of his sin against Uriah and Bathsheba. Great - Or, much or manifold. For the Hebrew word signifies both great and much."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Chuse - Which God appointeth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "At ease - Heb. in Good; in the possession and enjoyment of the true good. The land - Canaan; which was given as an earnest of the whole Covenant of Grace, and all its promises."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The secret - His love and favour, which is called his secret, Job 29:4 Prov 3:32, because it is known to none but him that enjoyeth it. Will shew - He will make them clearly to understand it, both its duties and its blessings; neither of which ungodly men rightly understand."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Pluck - He will deliver me out of all my troubles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Soul - My life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Israel - If thou wilt not help me, yet spare thy people who suffer for my sake, and in my sufferings."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 26
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": "David on a sick bed lays hold on God's promise and prays for mercy, ver. 1-4. Complains of the pride and malice of his enemies, ver. 5-9. Flees to God for succor, and praises him, ver. 10, 13. To the chief musician, A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Make his bed - Give him ease and comfort, which sick men receive by the help of those who turn and stir up their bed, to make it soft and easy for them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Heal - The soul is said to be healed, when it is pardoned and purged. For - For I acknowledge that I have sinned."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "His heart - Even when he is with me, and pretends hearty affection, his heart is devising mischief against me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Yea - These words were literally fulfilled in David, and yet the Holy Ghost looked farther in them, even to Christ and Judas, in whom they received a fuller accomplishment. Lift up - A phrase implying injury, joined with insolency and contempt; taken from an unruly horse, which kicks at him that owns and feeds him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Requite - Punish them for their wicked practices; which being now a magistrate, he was obliged to do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "By this - Because hitherto thou hast supported me, and prolonged my days to the disappointment of their hopes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Settest - Or, hast confirmed me in thy presence, under thine eye and special care: to minister unto thee, as a king over thy people. And in regard of his posterity, the kingdom was established for ever."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Amen - Signifies an hearty assent and approbation, and withal an earnest desire of the thing, to which it is annexed. And as the psalms are divided into five books, so each of them is closed with this word; the first here: the second, Psal 72:19, the third, Psal 89:52, the fourth, Psal 106:48, the last in the end of Psal 150:6, the doubling of the word shews the fervency of his spirit, in this work of praising God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 42
+ }
+}

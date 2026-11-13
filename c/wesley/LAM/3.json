@@ -1,0 +1,272 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LAM",
+  "commentaryId": "wesley",
+  "name": "Lamentations",
+  "commonName": "Lamentations",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": "The faithful bewail their misery, ver. 1-21. They nourish their hope by considering the justice, providence, and mercies of God, ver. 22-36. They stir up themselves to repentance, patience, prayers and confidence of deliverance for themselves, and divine vengeance on their enemies, ver. 37-66.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "I am the man - It seems, this is spoken in the name of the people, who were before set out under the notion of a woman."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Made old - All my beauty is gone, and all my strength."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Builded - He hath built forts and batteries against my walls and houses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Enclosed - He has defeated all my methods and counsels for security, by insuperable difficulties like walls of hewn stone. Crooked - Nay, God not only defeated their counsels, but made them fatal and pernicious to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Wormwood - With severe and bitter dispensations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Ashes - Mourners were wont to throw ashes on their heads."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Wormwood - Wormwood and gall, are often made use of to signify great affliction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "This - Which follows, concerning the nature of God, and his good providences."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Faithfulness - In fulfilling thy promises to thy people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Bear - Quietly and patiently to bear what afflictions God will please to lay upon us. And if God tame us when young, by his word or by his rod, it is an unspeakable advantage."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Borne it - That he keep his soul in subjection to God, because God hath humbled him by his rod."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "In the dust - Both this and the former verses let us know the duty of persons under afflictions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Willingly - Not from his own mere motion without a cause given him from the persons afflicted. Hence judgment is called God's strange work."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "To subvert - Here are three things mentioned, which God approveth not."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Who - Nothing comes to pass in the world, but by the disposal of divine providence. This seems to be spoken in the name of the people of God, arguing themselves into a quiet submission, to their afflictions, from the consideration of the hand of God in them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Evil - Doth not evil or trouble come out of God's mouth from his direction, and providence, as well as good?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Wherefore - The Jews, check themselves in their complaints from the consideration, that nothing had befallen them, but what was the just reward of their sins."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Thou - Thou hast plagued us according to the just desert of our sins."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "Mine eye - The prophet speaks this of himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 53,
+    "content": [
+     {
+      "text": "Dungeon - Dungeon seems here to be taken for the lowest condition of misery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 54,
+    "content": [
+     {
+      "text": "Cut off - I am undone, there is no hope for me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 56,
+    "content": [
+     {
+      "text": "Heard - In former afflictions. Hide not - Shew me now the same favour."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 58,
+    "content": [
+     {
+      "text": "O Lord - Thou hast been wont to take my part against my enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 60,
+    "content": [
+     {
+      "text": "Seen - Thou hast been a witness to all their fury."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 63,
+    "content": [
+     {
+      "text": "I am - At feasts, and at their merry meetings, I am all the subject of their discourse."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 66,
+    "content": [
+     {
+      "text": "Persecute - Many passages of this nature which we meet with are prophecies, some of them may be both prophecies and prayers."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 4
+ }
+}

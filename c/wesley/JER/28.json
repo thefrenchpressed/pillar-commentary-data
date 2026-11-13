@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": "Hananiah's false prophecy: Jeremiah's answer, ver. 1-9. Hananiah breaks Jeremiah's yoke: he foretells an iron yoke, and Hananiah's death, ver. 10-17.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The fourth year - Perhaps the fourth year of the sabbatical course is here intended. Of Gibeon - it is probable from the place where he lived, which was one of the cities of the priests; that he was a priest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Then - Some time after."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "But - Thou hast further incensed God against them, and provoked him to make their judgment heavier."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Died - Within two months after Jeremiah had thus prophesied; so dangerous a thing it is for ministers to teach people contrary to the revealed will of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 29
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "scofield",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "not in any -- Or, \"which do not really honour God, but only satisfy the flesh\" (i.e. by creating a reputation for superior sanctity)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "old man -- (See Scofield \"Romans 6:6\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "created -- (See Scofield \"Ephesians 4:24\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "perfectness -- (See Scofield \"Matthew 5:48\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "God\n\nGod -- Christ.\n\nrule -- See John 14:27; Romans 14:17; Philippians 4:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "grace -- Grace (imparted). vs. Colossians 4:6; Romans 6:1; 2 Peter 3:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 4
+ }
+}

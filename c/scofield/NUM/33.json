@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "scofield",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "first month -- i.e. April."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Kibroth-hattaavah -- i.e. the graves of lust."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "fifth month -- i.e. August."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Ijeabarim -- i.e. the ruins of Abarim."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NUM",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NUM",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "NUM",
+  "chapter": 35
+ }
+}

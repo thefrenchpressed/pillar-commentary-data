@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "scofield",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 61,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 61
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 60
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 62
+ }
+}

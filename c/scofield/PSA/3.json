@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "scofield",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "trust -- Trust is the characteristic O.T. word for the N.T. \"faith,\" \"believe.\" It occurs 152 times in the O.T., and is the rendering of Heb. words signifying to take refuge (e.g. Ruth 2:12 \"to lean on\" (e.g.) Psalms 56:3 \"to roll on\" (e.g.) Psalms 22:8 \"to stay upon\" (e.g.) Job 35:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PSA",
+  "chapter": 4
+ }
+}

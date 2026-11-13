@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Herod -- See margin ref., (See Scofield \"Matthew 14:1\"). Also Luke 23:8,11,12,; Luke 23:15; 3:1"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "And when -- For order of events at the crucifixion, (See Scofield \"Matthew 26:20\") See Scofield \"Matthew 27:33\"\n\nThe first note refers to the events of the night preceding; the second, the day of the event."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "people -- Jesus crucified is the true touchstone revealing what the world is: \"The people stood beholding\" in stolid indifference; the rulers, who wanted religion, but without a divine Christ crucified for their sins, \"reviled\"; the brutal amongst them mocked or railed; the conscious sinner prayed; the covetous sat down before the cross and played their sordid game. The cross is the judgment of this world. John 12:31"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "kingdom -- (See Scofield \"Matthew 3:2\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "Verily -- As to \"paradise,\" cf. Luke 16:23 (See Scofield \"Luke 16:23\"). One thief was saved, that none need despair; but only one, that none should presume."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "gave up -- (See Scofield \"Matthew 27:50\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "righteous -- (See Scofield \"Romans 10:10\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 24
+ }
+}

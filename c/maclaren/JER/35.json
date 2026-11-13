@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "maclaren",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "THE\n\nJeremiah 35:16.\n\nThe Rechabites had lived a nomad life, dwelling in tents, not practising agriculture, abstaining from intoxicants. They were therein obeying the command of their ancestor, Jonadab. They had been driven by the Babylonian invasion to take refuge in Jerusalem, and, no doubt, were a nine days’ wonder there, with their strange ways. Jeremiah seized on their loyalty to their dead ancestor’s command as an object-lesson, by which he put a still sharper edge on his rebukes. The Rechabites gave their ancestral law an obedience which shamed Judah’s disobedience to Jehovah. God asks from us only what we are willing to give to one another, and God is often refused what men have but to ask and it is given. The virtues which we exercise to each other rebuke us, because we so often refuse to exercise them towards God.\n\nI. Men’s love to men condemns their lovelessness towards God.\n\nThese Rechabites witnessed to the power of loyal love to their ancestor. Think of the wealth of love which we have all poured out on husbands, wives, parents, children, and of the few drops that we have diverted to flow towards God. What a full flood fills the one channel; what a shrunken stream the other!\n\nThink of the infinitely stronger reasons for loving God than for loving our dearest.\n\nII. Men’s faith in men condemns their distrust of God.\n\nHowever you define faith, you find it abundantly exercised by us on the low plane of earthly relations. Is it belief in testimony? You men of business regulate your course by reports of markets on the other side of the world, and in a hundred ways extend your credence to common report, with but little, and often with no examination of the evidence. ‘If we believe the witness of men, the witness of God is greater.’ And how do we treat it? We are ready to accept and to act on men’s testimony; we are slow to believe God’s, and still slower to act on it, and to let it mould our lives.\n\nIs faith the realising of the unseen? We exercise it in reference to the earthly unseen; we are slow to do so in reference to the heavenly things which are invisible.\n\nIs faith the act of trust? Life is impossible without it. Not only is commerce a great system of credit, but no relations of life could last for a day without mutual confidence. We depend on one another, like a row of slightly built houses that help to hold each other up. These earthly exercises of trust should make it easier for us to rise to trusting God as much as we do each other. They ought to reveal to us the heavenly things. For indeed our human trust in one another should be a sample and shadow of our wise trust in the adequate Object of trust.\n\nIII. Men’s obedience to human authority condemns their rebellion against God.\n\nJonadab’s commandment evoked implicit obedience from his descendants for generations. Side by side in man’s strange nature, with his self-will and love of independence, lies an equally strong tendency to obey and follow any masterful voice that speaks loudly and with an assumption of authority. The opinions of a clique, the dogmas of a sect, the habits of a set, the sayings of a favourite author, the fashions of our class-all these rule men with a sway far more absolute than is exercised on them by the known will of God. The same man is a slave to usurped authority and a rebel against rightful and divine dominion.\n\nWhether we consider the law of God in its claims or its contents, or its ultimate object, it is worthy of entire obedience. And what does it receive?\n\nGod asks from us only what we willingly give to men. Even the qualities and acts, such as love, trust, obedience, which as exercised towards men give dignity and beauty and strength, rise up in judgment to condemn us. There is a sense in which Augustine’s often-denounced saying that they are ‘splendid vices’ is true, for they are turned in the wrong direction, and very often their being directed so completely towards men and women is the reason why they are not directed towards God, who alone deserves and alone can satisfy and reward them. Then they become sins and condemn us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 36
+ }
+}

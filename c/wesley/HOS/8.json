@@ -1,0 +1,146 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "wesley",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": "Almost every verse of this chapter speaks both the sins and punishment of Israel, ver. 1-14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Set the trumpet - The Lord here commands the prophet to publish, as by sound of trumpet, that which God will bring upon apostate Israel. He - The king of Assyria. As an eagle - Swift, hungry, surmounting all difficulties. House of the Lord - The family of Israel, the Israelites church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Shall cry - But not sincerely."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "They - Israel. Kings - Shallum, Menahem, Pekah, and Hosea. Not by me - Not by my direction. Knew it not - Did not approve of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Thy calf - The chief idol set up in Samaria. Cast thee off - Hath provoked God to cast thee off. Against them - Idols, and idol worshippers. How long - How long will it be, ere they repent and reform?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "From Israel - By their invention. It - Both the idol and the worshippers of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Sown the wind - A proverbial speech to denote lost labour. Whirlwind - A tempest, which destroyeth all that is in its way; an emblem of the wrath of God. No stalk - All your dependance on idols, and foreign assistance, will be as seed that bear neither stalk nor bud. No meal - Or suppose it produced stalk and bud, yet the bud shall be blasted, and never yield meal."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Gone up - Israel is like a wild ass. A wild ass - Stubborn, wild, untamed. Alone - Solitary, where is no path or tract; so they were in their captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Gather them - I will assemble them together, that they may be taken and destroyed together. A little - For a while before their final captivity. The burden - The tribute laid on them by the king."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Altars - Those which they shall find in Assyria. To sin - Shall be the occasion of his greater guilt and punishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Written - By Moses first, by other prophets afterwards. But they were counted - Israel looks on them, as nothing to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "They shall return - Many shall fly from the Assyrian into Egypt."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Temples - Idol temples. Devour the palaces - This was fulfilled when all the cities of Judah and Israel were laid in ashes by the king of Assyria."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "HOS",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "HOS",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "HOS",
+  "chapter": 9
+ }
+}

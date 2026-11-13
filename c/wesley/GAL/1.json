@@ -1,0 +1,209 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "wesley",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "THIS epistle is not written, as most of St. Paul's are, to the Christians of a particular city, but to those of a whole country in Asia Minor, the metropolis of which was Ancyra. These readily embraced the gospel; but, after St. Paul had left them, certain men came among them, who (like those mentioned, Acts xv, 1.) taught that it was necessary to be circumcised, and to keep the Mosaic law. They affirmed, that all the other apostles taught thus; that St. Paul was inferior to them; and that even he sometimes practiced and recommended the law, though at other times he opposed it. The first part, therefore, of this epistle is spent in vindicating himself and his doctrine; proving,\n\n1. That he had it immediately from Christ himself; and that he was not inferior to the other apostles.\n\n2. That it was the very same which the other apostles preached. And,\n\n3. That his practice was consistent with his doctrine. The second contains proofs, drawn from the Old Testament, that the law and all its ceremonies were abolished by Christ. The third contains practical inferences, closed with his usual benediction. To be a little more distinct - This epistle contains,\n\nI. The inscription, C.i. 1-5\n\nII. The calling the Galatians back to the true gospel; wherein he\n\n1. Reproves them for leaving it, 6-10\n\n2. Asserts the authority of the gospel he had preached, who,\n\n1. Of a persecutor was made an apostle, by an immediate call from heaven, 11-17\n\n2. Was no way inferior to Peter himself, 18-C.ii. 21\n\n3. Defends justification by faith, and again reproves the Galatians, C.iii. 1-iv. 11\n\n4. Explains the same thing by an allegory taken out of the law itself, 12-31\n\n5. Exhorts them to maintain their liberty, C.v.1-12 warns them not to abuse it, and admonishes them to walk not after the flesh, but after the Spirit,. 13-C.vi. 10\n\nIII. The conclusion, 11-18\n\nGALATIANS",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Paul, an apostle - Here it was necessary for St. Paul to assert his authority; otherwise he is very modest in the use of this title. He seldom mentions it when he mentions others in the salutations with himself, as in the Epistles to the Philippians and Thessalonians; or when he writes about secular affairs, as in that to Philemon; nor yet in writing to the Hebrews because he was not properly their apostle. Not of men - Not commissioned from them, but from God the Father. Neither by man - Neither by any man as an instrument, but by Jesus Christ. Who raised him from the dead - Of which it was the peculiar business of an apostle to bear witness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "And all the brethren - Who agree with me in what I now write."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "That he might deliver us from the present evil world - From the guilt, wickedness, and misery wherein it is involved, and from its vain and foolish customs and pleasures. According to the will of God - Without any merit of ours. St. Paul begins most of his epistles with thanksgiving; but, writing to the Galatians, he alters his style, and first sets down his main proposition, That by the merits of Christ alone, giving himself for our sins, we are justified: neither does he term them, as he does others, either saints,\" elect,\" or churches of God.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "To whom be glory - For this his gracious will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "I marvel that ye are removed so soon - After my leaving you. From him who called you by the grace of Christ - His gracious gospel, and his gracious power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Which, indeed, is not properly another gospel. For what ye have now received is no gospel at all; it is not glad, but heavy, tidings, as setting your acceptance with God upon terms impossible to be performed. But there are some that trouble you - The same word occurs, Acts 15:24. And would - If they were able. Subvert or overthrow the gospel of Christ - The better to effect which, they suggest, that the other apostles, yea, and I myself, insist upon the observance of the law."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "But if we - I and all the apostles. Or an angel from heaven - If it were possible. Preach another gospel, let him be accursed - Cut off from Christ and God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "As - He speaks upon mature deliberation; after pausing, it seems, between the two verses. We - I and the brethren who are with me. Have said before - Many times, in effect, if not in terms. So I say - All those brethren knew the truth of the gospel. St. Paul knew the Galatians had received the true gospel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "For - He adds the reason why he speaks so confidently. Do I now satisfy men - Is this what I aim at in preaching or writing? If I still - Since I was an apostle. Pleased men - Studied to please them; if this were my motive of action; nay, if I did in fact please the men who know not God. I should not be the servant of Christ - Hear this, all ye who vainly hope to keep in favour both with God and with the world!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "But I certify you, brethren - He does not till now give them even this appellation. That the gospel which was preached by me among you is not according to man - Not from man, not by man, not suited to the taste of man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "For neither did I receive it - At once. Nor was I taught it - Slowly and gradually, by any man. But by the revelation of Jesus Christ - Our Lord revealed to him at first, his resurrection, ascension, and the calling of the gentiles, and his own apostleship; and told him then, there were other things for which he would appear to him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "I Persecuted the church of God - That is, the believers in Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Being zealous of the unwritten traditions - Over and above those written in the law."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "But when it pleased God - He ascribes nothing to his own merits, endeavours, or sincerity. Who separated me from my mother's womb - Set me apart for an apostle, as he did Jeremiah for a prophet. Jer 1:5. Such an unconditional predestination as this may consist, both with God's justice and mercy. And called me by his grace - By his free and almighty love, to be both a Christian and an apostle."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "To reveal his Son in me - By the powerful operation of his Spirit, 2Cor 4:6; as well as to me, by the heavenly vision. That I might preach him to others - Which I should have been ill qualified to do, had I not first known him myself. I did not confer with flesh and blood - Being fully satisfied of the divine will, and determined to obey, I took no counsel with any man, neither with my own reason or inclinations, which might have raised numberless objections."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Neither did I go up to Jerusalem - The residence of the apostles. But I immediately went again into Arabia, and returned again to Damascus - He presupposes the journey to Damascus, in which he was converted, as being known to them all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Then after three years - Wherein I had given full proof of my apostleship. I went to visit Peter - To converse with him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "But other of the apostles I saw none, save James the brother (that is, the kinsman) of the Lord - Therefore when Barnabas is said to have \"brought him into the apostles,\" Acts 9:27, only St. Peter and St James are meant."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "In me - That is, on my account."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GAL",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CO",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GAL",
+  "chapter": 2
+ }
+}

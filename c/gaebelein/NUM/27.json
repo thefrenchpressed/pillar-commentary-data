@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "gaebelein",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. The Daughters of Zelophehad, the Death of Moses and His Successor AnnouncedCHAPTER 27\n\n1. The daughters of Zelophehad (Numbers 27:1-11)\n\n2. Moses’ death announced and his request (Numbers 27:12-17)\n\n3. Joshua appointed (Numbers 27:18-23)\n\nThe question of the daughters of Zelophehad was concerning their inheritance. Their father had died in the wilderness and there were no sons. They expected and claimed a possession among the brethren of their father. They fully counted on the Lord and His goodness, though their case was not met by the previous instructions. “It is impossible for God to be like a poor man, who says, ‘You expect more good than I am prepared to bestow.’ God could not make such an answer. He always gives more. Whatever may be the petition of faith, the answer of grace never fails to go beyond it.” The answer given to Moses was that they were surely to receive their inheritance.\n\nMoses’ departure is announced by Jehovah. He cannot go over Jordan on account of his sin. But the Lord graciously permits him to go upon the mountain and view the land of promise in all its glory. Beautiful is Moses’ answer to Jehovah. He does not speak of himself, nor does he think of his own interest. The people of God and their need are upon his heart.\n\nIf they are taken care of he is satisfied and content with his own lot. What a blessed spirit of unselfishness he manifested! Joshua is the appointed successor, who is to lead the people into the land as Moses had led them out of Egypt. Moses and Joshua are both the types of Christ. Verse 21 is the key to understand the typical significance. “And he (Joshua) shall stand before Eleazar, the priest, who shall ask counsel for him.” Aaron’s priesthood, as we learned in Exodus and Leviticus, is the type of Christ in His sacrificial work on the cross. Eleazar, his successor, typifies the resurrection--heavenly priesthood of Christ.\n\nMoses is in different ways the type of Christ, as we have seen in his official and personal character; Joshua is the type of Christ in Spirit, who acts in His people by the Holy Spirit. Therefore Joshua has to stand before Eleazar the priest. He had, so to speak, to depend upon Eleazar, as the work of the Holy Spirit in the believer is dependent on the priesthood of Christ in glory."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 28
+ }
+}

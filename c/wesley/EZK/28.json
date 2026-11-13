@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": "A prediction of the ruin of the king of Tyre, ver. 1-10. A lamentation for him, ver. 11-19. A prediction of the destruction of Zidon, ver. 20-23. The restoration of Israel, ver. 24-26.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Hast said - In thy heart. In the seat of God - Safe and impregnable as heaven itself. A man - Subject to casualties, sorrows, and distresses. Set thine heart - Thou hast entertained thoughts, which become none but God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Wiser - In thy own thoughts. Daniel - Who was then famous for his wisdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The beauty - Those beautiful things, in which thy wisdom appeared."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The deaths - Temporal and eternal. Of the uncircumcised - Of the wicked, an accursed death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Thou sealest up - Thou fanciest that fulness of wisdom, and perfection of beauty are in thee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "In Eden - In the midst of all delights. The workmanship - Now the prophet notes their joys, musick, and songs, both to loud, and to softer musick, as the lute, and tabret in the day of their kings coronation, and all this on instruments of most exquisite make, and of their own artists work; in this they exceeded as in the other. Created - King: in the day of thy coronation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Cherub - For thy wisdom, power, and excellency, like a cherub, or angel; for the sacredness of thy person, and office, as the anointed of God; for the exercise of thy power, as a shield, as a protector of the weak. And I - I, whom thou forgetest have made thee so. Thou wast - Thou wast advanced to kingly dignity, (which David calls a mountain, Psa 30:7,) a sacred office, and of divine institution. In the midst - Surrounded with stones, that sparkle like fire."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Thou wast perfect - Is not this an irony?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "I will cast - Out thy kingly dignity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Corrupted - Depraved, or lost thy wisdom. Behold thee - That thou mayst be a spectacle, and warning to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "I will bring thee - Thou shalt be burnt to ashes, and trampled under feet."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "All - All that have formerly known thy riches, power, allies, and wisdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Zidon - A city, north - west from Canaan, a king's seat of old, and from which Tyre descended. I will be glorified - When my judgments make my justice, power and truth appear, both you, and others shall confess my glory. Sanctified - Owned as holy, reverenced as just, obeyed as sovereign."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "And blood - Bloody war by an enemy, that shall bring the war to the gates, nay into the streets of Zidon. Judged - Be punished in the midst of the city. The sword - By the sword of her enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "A pricking briar - By these two metaphors the prophet points out the troublesome neighbours of the Jews, such as Moab, Ammon, Edom, Tyre, and Zidon. This never had a full accomplishment yet. But it will, for the scripture cannot be broken."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Sanctified - I was dishonoured by the Jews in the sight of the heathen, and I will be honoured by the Jews in their sight."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 29
+ }
+}

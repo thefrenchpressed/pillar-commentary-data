@@ -1,0 +1,443 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "vincent",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The second after the first [δευτεροπρωτω]. Only here in New Testament. Many high authorities omit it, and its exact meaning cannot be determined. Rev. omits.\n\nWent through [διαπορευεσθαι]. Rev., was going. Compare paraporeuesqai, went along beside - Mr 2:23.\n\nCornfields. See on Matthew 12:1.\n\nPlucked [ετιλλον]. Imperfect; were plucking, as they walked. In classical Greek the word is used mostly of pulling out hair or feathers. See on Mr 2:23.\n\nDid eat [ησθιον]. Imperfect, were eating.\n\nRubbing [ψωχοντες]. The verb means to rub small."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Not lawful. See on Matthew 12:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Have ye not read [ουδεανεγνωτε]? The A. V. misses the force of ouJude: \"have ye not so much as read?\" Rev., \"have ye not read even this?\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Did take. Peculiar to Luke.\n\nThe shew - bread. See on Mr 2:26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Lord of the Sabbath. See on Matthew 12:6.\n\n6 - 11. Compare Matthew 12:9 - 14; Mr 3:1 - 6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "His right hand [ηχειραυτουηδεξια]. A very precise mode of statement. Lit., his hand the right one. Luke only specifies which hand was withered. This accuracy is professional. Ancient medical writers always state whether the right or the left member is affected.\n\nWithered. See on Mr 3:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "They watched [παρετηρουντο]. Imperfect. They kept watching. See on Mr 3:2.\n\nHe would heal [θεραπευσει]. So Rev. Some authorities, however, read qerapeuei, \"whether he is healing.\" This may mean either \"whether it is his habit to heal,\" which is far - fetched, or \"whether he is actually healing.\"\n\nFind. Peculiar to Luke, and emphasizing the eagerness of the Pharisees to discover a ground of accusation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "He knew [ηδει]. Imperfect. He was all along aware.\n\nThoughts [διαλογισμους]. See on James 2:4; Matthew 14:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "I will ask [επερωτησω]. Peculiar to Luke's narrative. The best texts read ejperwtw, the present tense, I ask. So Rev.\n\nLife [ψυχην]. Better as Rev., a life. Though the question is a general one, it carries a hint of an individual life thrown into it by the special case at hand. See on Mr 12:30. Wyc., to make a soul safe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Thy hand. The arm was not withered."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "They were filled with madness. Peculiar to Luke.\n\nAnoia, madness, is, properly, want of understanding. The word thus implies senseless rage, as distinguished from intelligent indignation.\n\n12 - 16. Compare Matthew 10:2 - 4; Mr 3:13 - 19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A mountain [τοορος]. The article denotes a familiar place. Rev., rightly, the mountain.\n\nContinued all night [ηνδιανυκτερευων]. Only here in New Testament. Used in medical language. The all night prayer is peculiar to Luke's narrative."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Chose [εκλεξαμενος]. Mark has ejpoihsen, he made or constituted. He named apostles. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "On the order of the names, see on Mr 3:17.\n\nAndrew. See on Mr 3:18.\n\nJames and John. See on Mr 3:17.\n\nPhilip and Bartholomew. See on Mr 3:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Matthew. See on Superscription of Matthew.\n\nThomas. See on Mr 3:18.\n\nSimon. Distinguished by Matthew and Mark as the Cananaean. See on Matthew 10:4; Mr 3:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Judas. See on Thaddaeus, Mr 3:18.\n\nJudas Iscariot. See on Matthew 10:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "In the plain [επιτοπουπεδινου]. There is no article. More literally, and better, as Rev., in a plain or level place. There is a discrepancy in the two narratives. Matthew says he went up into the mountain and sat down. Vv. 17 - 19 are peculiar to Luke.\n\nJudaea and Jerusalem. See on chapter Luke 5:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Vexed [οχλουμενοι]. The best texts read ejnocloumenoi, occurring only here and Hebrews 12:15. From oclov, a crowd or mob, with the idea of want of arrangement and discipline, and therefore of confusion and tumult. Hence it is applied to the noise and tumult of a crowd, and so passes into the sense of the trouble and annoyance caused by these, and of trouble generally, like the Latin turbae. Thus Herodotus says of Croesus, when on the funeral pile he uttered the name of Solon, and the interpreters begged him to explain what he meant, \"and as they pressed for an answer and grew toublesome [καιοχλονπαρεχοντων] \" - 1 86. Frequent in medical language. Thus Hippocrates, \"troubled [ενοχλουμενω] with a spasm or tetanus.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Sought - went out [εζητουνεξηρχετο]. Both imperfects. The A. V. and Rev. lose in vividness by not rendering them accordingly. The multitudes were all the while seeking to touch him, for virtue was going out of him.\n\nHealed [ιατο]. Compare Matthew 14:36; Mr 6:56, where dieswqhsan, were thoroughly saved, and ejswzonto, were saved, are used. Luke is more technical, using the strictly medical term, which occurs twenty eight times in the New Testament, seventeen of these in Luke. Luke also uses the two words employed by Matthew and Mark, but always with some addition showing the nature of the saving. Thus Luke 7:3, where diaswsh, (A. V., heal) is explained by verse 7, ijaqhsetai, the technical word, shall be healed, and by verse 10, \"found the servant whole (uJgiainonta, another professional word - see on chapter Luke 5:31) that had been sick.\" Compare, also, Luke 8:35, 36, 44, 47, 48.\n\nMedical writers do not use swzein or diaswzein, to save, as equivalent to ijasqai, to heal, but in the sense of escaping from a severe illness or from some calamity. Luke employs it in the sense - Acts 27:44; Acts 28:1.\n\nTHE SERMON ON THE MOUNT.\n\n20 - 49. Compare Matthew 5:1 to Matthew 8:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Lifted up his eyes. Peculiar to Luke. Compare he opened his mouth (Matthew 5:1). Both indicate a solemn and impressive opening of a discourse.\n\nBlessed. See on Matthew 5:3.\n\nYe poor. See on Matthew 5:3. Luke adopts the style of direct address; Matthew of abstract statement.\n\nKingdom of God [ηβασιλειατουθεου]. Matthew has kingdom of heaven, or of the heavens [τωνουρανων], a phrase used by him only, and most frequently employed by Christ himself to describe the kingdom; though Matthew also uses, less frequently, kingdom of God. The two are substantially equivalent terms, though the pre - eminent title was kingdom of God, since it was expected to be fully realized in the Messianic era, when God should take upon himself the kingdom by a visible representative. Compare Isaiah 40:9, \"Behold your God.\" The phrase kingdom of Heaven was common in the Rabbinical writings, and had a double signification: the historical kingdom and the spiritual and moral kingdom. They very often understood by it divine worship; adoration of God; the sum of religious duties; but also the Messianic kingdom.\n\nThe kingdom of God is, essentially, the absolute dominion of God in the universe, both in a physical and a spiritual sense. It is \"an organic commonwealth which has the principle of its existence in the will of God\" (Tholuck). It was foreshadowed in the Jewish theocracy. The idea of the kingdom advanced toward clearer defination from Jacob's prophecy of the Prince out of Judah (Genesis 49:10), though David's prophecy of the everlasting kingdom and the king of righteousness and peace (Psalms 22,\n\nLuke 6:72through Isaiah, until, in Daniel, its eternity and superiority over the kingdoms of the world are brought strongly out. For this kingdom Israel looked with longing, expecting its realization in the Messiah; and while the common idea of the people was narrow, sectarian, Jewish, and political, yet \"there was among the people a certain consciousness that the principle itself was of universal application\" (Tholuck). In Daniel this conception is distinctly expressed (vii. 14 - 27; Luke 4:25; Luke 2:44). In this sense it was apprehended by John the Baptist.\n\nThe ideal kingdom is to be realized in the absolute rule of the eternal Son, Jesus Christ, by whom all things are made and consist (John 1:3; Colossians 1:16 - 20), whose life of perfect obedience to God and whose sacrificial offering of love upon the cross reveal to men their true relation to God, and whose spirit works to bring them into this relation. The ultimate idea of the kingdom is that of \"a redeemed humanity, with its divinely revealed destiny manifesting itself in a religious communion, or the Church; a social communion, or the state; and an aesthetic communion, expressing itself in forms of knowledge and art.\"\n\nThis kingdom is both present (Matthew 11:12; Matthew 12:28; Matthew 16:19; Luke 11:20; Luke 16:16; Luke 17:21; see, also, the parables of the Sower, the Tares, the Leaven, and the Drag - net; and compare the expression \"theirs, or yours, is the kingdom,\" Matthew 5:3; Luke 6:20) and future (Daniel 7:27; Matthew 13:43; Matthew 19:28; Matthew 25:34; Matthew 26:29; Mr 9:47; 2 Peter 1:11; 1 Corinthians 6:9; Revelation 20 sq.). As a present kingdom it is incomplete and in process of development. It is expanding in society like the grain of mustard seed (Matthew 13:31, 32); working toward the pervaion of society like the leaven in the lump (Matthew 13:33). God is in Christ reconciling the world unto himself, and the Gospel of Christ is the great instrument in that process (2 Corinthians 5:19, 20). The kingdom develops from within outward under the power of its essential divine energy and law of growth, which insures its progress and final triumph against all obstacles.\n\nSimilarly, its work in reconciling and subjection the world to God begins at the fountain head of man's life, by implanting in his heart its own divine potency, and thus giving a divine impulse and direction to the whole man, rather than by moulding him from without by a moral code. The law is written in his heart. In like manner the State and the Church are shaped, not by external pressure, like the Roman empire and the Romish hierarchy, but by the evolution of holy character in men. The kingdom of God in its present development is not identical with the Church. The Church is identified with the kingdom to the dgree in which it is under the power of the spirit of Christ. \"As the Old Testament kingdom of God was perfected and competed when it ceased to be external, and became internal by being enthroned in the heart, so, on the other hand, the perfection of the New Testament kingdom will consist in its complete incarnation and externalization; that is, when it shall attain an outward manifestation, adequately expressing, exactly corresponding to its internal principle\" (Tholuck). The consummation is described in Revelation 21, 22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Now. Peculiar to Luke.\n\nShall be filled. See on Matthew 5:6.\n\nWeep [κλαιοντες]. Strictly, to weep audibly. See on qountev, mourn, Matthew 5:4.\n\nLaugh [γελασετε]. Matthew, shall be comforted."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Compare Matthew 5:11.\n\nSon of Man. The phrase is employed in the Old Testament as a circumlocution for man, with special reference to his frailty as contrasted with God (Numbers 23:19; Psalms 8:4; Job 25:6; Job 35:8; and eighty nine times in Ezekiel). It had also a Messianic meaning (Daniel 7:13 sq.), to which our Lord referred in Matthew 24:30; Matthew 26:64. It was the title which Christ most frequently applied to himself; and there are but two instances in which it is applied to him by another, viz., by Stephen (Acts 7:56) and by John (Revelation 1:13; Revelation 14:14); and when acquiescing in the title \"Son of God,\" addressed to himself, he sometimes immediately after substitutes \"Son of Man\" (John 1:50, 52; Matthew 26:63, 64).\n\nThe title asserts Christ's humanity - his absolute identification with our race: \"his having a genuine humanity which could deem nothing human strange, and could be touched with a feeling of the infirmities of the race which he was to judge\" (Liddon, \"Our Lord's Divinity \"). It also exalts him as the representative ideal man.\" All human history tends to him and radiates from him; he is the point in which humanity finds its unity; as St. Irenaeus says, 'He recapitulates it.. ' He closes the earlier history of our race; he inaugurates its future. Nothing local, transient, individualizing, national, sectarian dwarfs the proportions of his world embracing character. He rises above the parentage, the blood, the narrow horizon which bounded, as it seemed, his human life. He is the archetypal man, in whose presence distinction of race, intervals of ages, types of civilization, degrees of mental culture are as nothing \" (Liddon).\n\nBut the title means more. As Son of Man he asserts the authority of judgment over all flesh. By virtue of what he is as Son of Man, he must be more. \"The absolute relation to the world which he attributes to himself demands an absolute relation to God.... He is the Son of Man, the Lord of the world, the Judge, only because he is the Son of God\" [λυτηαρδτ].\n\nChrist's humanity can be explained only by his divinity. A humanity so unique demands a solution. Divested of all that is popularly called miraculous, viewed simply as a man, under the historical conditions of his life, he is a greater miracle than all his miracles combined. The solution is expressed in Hebrews 1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Leap for joy [σκιρτησατε]. See chapter Luke 1:41, 44. Compare Matthew, be exceeding glad (ajgalliasqe: see on 1 Peter 1:6).\n\nTheir fathers. Peculiar to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Woe. These woes are not noted by Matthew.\n\nHave received [απεχετε]. In Matthew 6:5, 16, the Rev. has properly changed \"they have their reward\" to \"they have received.\" The verb, compounded of ajpo, off or from, and ecw, to have, literally means to have nothing left to desire. Thus in Phi 4:18, when Paul says, \"I have all things [απεχωπαντα],\" he does not mean merely an acknowledgment of the receipt of the Church's gift, but that he is fully furnished. \"I have all things to the full.\"\n\nConsolation [παρακλησις]. From para, to the side of, and kalew, to call or summon. Literally, a calling to one's side to help; and therefore entreaty, passing on into the sense of exhortation, and thence into that of consolatory exhortation; and so coming round to mean that which one is summoned to give to a suppliant - consolation. Thus it embodies the call for help, and the response to the call. Its use corresponds with that of the kindred verb parakalew, to exhort or console. In its original sense of calling for aid the noun appears in the New Testament only in 2 Corinthians 8:4: with much entreaty.\n\nThe verb appears frequently in this sense, rendered beseech, pray (Matthew 8:34; Matthew 14:36; Mr 1:40; Mr 5:12, etc.). In the sense of consolation or comfort the noun occurs, in Luke 2:25; Luke 6:24; 2 Corinthians 1:3; 2 Corinthians 7:4; Phl 1:7. The verb, in Matthew 2:18; Matthew 5:4; Luke 16:25; 2 Corinthians 1:4. In some instances, however, the meaning wavers between console and exhort. In the sense of exhortation or counsel, the noun may be found in Acts 2:40; Acts 11:23; Acts 14:22; Romans 12:8; Titus 2:15. Neither the noun nor the verb appear in the writings of John, but the kindred word paraklhtov, the Paraclete, Comforter, or Advocate, is peculiar to him.\n\nOn this word, see on John 14:16. It should be noted, however, that the word comfort goes deeper than its popular conception of soothing. It is from the later Latin confortare, to make strong. Thus Wycliffe renders Luke 1:80, \"the child waxed, and was comforted in spirit\" (A. V., waxed strong); and Tyndale, Luke 22:43, \"there appeared an angel from heaven comforting him\" (A. V., strengthening).\n\nThe comfort which Christ gives is not always soothing. The Holy Spirit, the Comforter, is to convince of sin and of judgment. Underlying the word is the sense of a wise counsel or admonition which rouses and braces the moral nature and encourages and strengthens it to do and to endure. When, therefore, Christ says \"they that mourn shall be comforted,\" he speaks in recognition of the fact that all sorrow is the outcome of sin, and that true comfort is given, not only in pardon for the past, but in strength to fight and resist and overcome sin. The atmosphere of the word, in short, is not the atmosphere of the sick chamber, but the tonic breath of the open world, of moral struggle and victory; the atmosphere for him that climbs and toils and fights."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Mourn and weep [πενθησετεκαικλαυσετε]. See on Matthew 5:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Well [καλως]. Handsomely, fairly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Which hear. With the sense of hearing in order to heed: giving heed. Compare Matthew 11:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Cheek [σιαγονα]. Lit., the jaw. The cheek is pareia. The blow intended is not, therefore, a mere slap, but a heavy blow; an act of violence rather than of contempt.\n\nTaketh away [αιροντος]. Lit., taketh up, lifteth.\n\nCloke - coat. See on Matthew 5:40."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Everyone. Peculiar to Luke. Augustine remarks, \"omni petenti, non omnia petenti; give to every one that asks, but not everything he asks.\" Asketh [αιτουντι]. See on Matthew 14:23. Compare Matthew 5:42.\n\nAsk again [απαιτει], Only here and chapter Luke 12:20. Used in medical language of diseases demanding or requiring certain treatment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "What thank [ποια].? What kind of thanks? Not what is your reward, but what is its quality? On thank [χαρις], see on chapter Luke 1:30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Lend [δανειζετε]. Properly, at interest.\n\nSinners [οιαμαρτωλοι]. The article marks them as a class. So, often in New Testament, as when classed with publicans.\n\nLove. Not filousi, which implies an instinctive, affectionate attachment, but ajgapwsin, of a sentiment based on judgment and calculation, which selects its object for a reason. See, farther, on John 21:15 - 17. Tynd., the very sinners love their lovers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Hoping for nothing again [μηδεναπελπιζοντες]. A later Greek word, only here in New Testament, and meaning originally to give up in despair, a sense which is adopted by some high authorities, and by Rev., never despairing. Luke was familiar with this sense in the Septuagint. Thus Isaiah 29:19, \"The poor among men [οιαπηλπισμενοιτωνανθρωπων]. shall rejoice.\" So in Apocrypha, 2 Mac 9:18, \"despairing of his health;\" Judith 9 11, \"A savior of them that are without hope [απηλπισμενων].\" According to this, the sense here is, \"do good as those who consider nothing as lost.\" The verb and its kindred adjective are used by medical writers to describe desperate cases of disease.\n\nChildren of the Highest [υιοιυψιστου]. Rev., rightly, sons. Compare Matthew 5:45, 48.\n\nKind [χρηστος] See on Matthew 11:30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Merciful [οικτιρμονες]. See on James 5:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Forgive [απολυετε]. Lit., release. So Rev., Christ exhorts to the opposite of what he has just forbidden: \"do not condemn, but release.\" Compare chapter Luke 22:68; Luke 23:16, 17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Pressed down [πεπιεσμενον]. Only here in New Testament. A common medical term for pressing strongly on a part of the body, and opposed to yauein, to touch gently.\n\nShaken together, running over. Bengel says, \"Pressed down, as dry articles; shaken together, as soft goods; running over, as liquids.\" But this is fanciful and incorrect. The allusion in every case is to a dry measure; and the climax in the three participles would be destroyed by Bengel's interpretation.\n\nBosom [τονκολπον]. The gathered fold of the wide upper garment, bound together with the girdle, and thus forming a pouch. In the Eastern markets at this day vendors may be seen pouring the contents of a measure into the bosom of a purchaser. In Ruth 3:15, Boaz says to Ruth, \"Bring the vail (the mantle, so Rev., Old Testament), that thou hast upon thee, and hold it (hold it open): and he measured six measures of barley into it.\" Compare Isaiah 65:7, \" I will measure their former work into their bosom; also Jeremiah 32:18. In Acts 27:39, the word is used of a bay in a beach, forming a bend in the land like the hollow of a robe. Similarly, the Latin sinus means both the hanging, baggy bosom of a robe and a bay."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Can the blind [μητιδυναταιτυφλος]? The interrogative particle expects a negative reply. Surely the blind cannot, etc.\n\nLead [οδηγειν]. Better, guide, as Rev., since the word combines the ideas of leading and instructing.\n\nShall they not [ουχι]? Another interrogative paricle, this time expecting an affirmative answer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Perfect [κατηρτισμενος]. Rev., rendering the participle more literally, perfected. See on Matthew 4:21. The word signifies to readjust, restore, set to rights, whether in a physical or a moral sense. See 1 Corinthians 1:10, where Paul exhorts to be perfectly joined together [κατηρτισμενοι] in opposition to being divided. In Galatians 6:1, it is used of restoring a brother taken in a fault. Hence the meaning to perfect, as Ephesians 4:12. Used in medical language of setting a bone or joint."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Beholdest [βλεπεις] - considerset [κατανοεις] - mote [καρφος] - beam [δοκον]. See on Matthew 7:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Brother. \"Expressing the pretense of fraternal duty. To this is opposed 'Thou hypocrite!'\" (Bengel).\n\nLet me cast out [αφεςεκβαλω]. with a studied courtesy: allow me to cast out.\n\nSee clearly to cast out. See on Matthew 7:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "a good tree bringeth not forth corrupt fruit [ουεστινδενδρονκαλον, ποιουνκαρπονσαπρον]. Rev., more correctly, there is no good tree that bringeth, etc. Sapron, corrupt, is etymologically akin to shpw, in James 5:2: \"Your riches are corrupted.\" The word means rotten, stale. Neither. Rev., nor again. The A. V. omits again (palin, on the other hand)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Bramble - bush [βατου] Matthew has tribolwn, thistles. The word occurs only once outside of Luke's writings, in Mr 12:26, where it is used as the familiar title of a section of the Pentateuch. Luke also uses it in the same way (xx. 37). He was doubtless acquainted with it medicinally, as it was extensively used by ancient physicians. Galen has a chapter on its medicinal uses, and the medical writings abound in prescriptions of which it is an ingredient. Galen also has a saying similar to our Lord's: \"A farmer could never make a bramble bear grapes.\" It is the word employed by the Septuagint for the bush out of which God spoke to Moses.\n\nGrapes [σταφυλην]. Lit., a cluster of grapes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "Evil. See on Luke 3:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "I will shew you to whom he is like. Peculiar to Luke. See on Matthew 7:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 48,
+    "content": [
+     {
+      "text": "Digged deep [εσκαψενκαιεβαθυνεν]. The A. V. regards the two words as a strong expression of a single idea; but the idea is twofold: he dug (through the sand), and deepened down into the solid rock. So Rev., rightly, he digged and went deep.\n\nThe flood [πλημμυρας]. There is no article: a flood. The word occurs in Luke only, and only in this passage. As a medical term it is used of excess of fluids in the body: flooding.\n\nBeat vehemently [προσερρηξεν]. Rev., more literally, brake. Used by physicians of a rupture of the veins. It occurs only here and verse 49. Matthew has prosekoyan, beat."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "Upon the earth without a foundation. Matthew, upon the sand. The two men are conceived as alike selecting a spot where the sand overlies the rock. The one builds directly upon the sand, the other digs through and down into the rock.\n\nIt fell [επεσεν]. But the best texts read sunepesen, fell together, collapsed. Rev., fell in. Only here in New Testament. In medical language used of falling - in of parts of the body. Thus Hippocrates, \"the temple fallen in: the limb quickly collapses or shrivels.\" Matthew uses the simple verb epesen, fell.\n\nRuin [ρηγμα]. Lit., breaking. Only here in New Testament. A medical term for a laceration or rupture. Matthew has ptwsiv, the fall. ===Luk7\n\nCHAPTER VII\n\n1 - 10. Compare Matthew 8:5 - 13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 7
+ }
+}

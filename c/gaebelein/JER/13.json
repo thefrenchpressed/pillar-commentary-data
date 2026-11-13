@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 13\n\nSigns, Warnings, and Exhortations\n\n1. The linen girdle and the filled bottles (Jeremiah 13:1-14)\n\n2. Hear and give glory (Jeremiah 13:15-21)\n\n3. The justice of the judgment (Jeremiah 13:22-27)\n\nJeremiah 13:1-14. The prophet enacts a sign, that of the linen girdle. After he had put on the girdle, he was told to hide it in a hole of the rock of the Euphrates. After many days, he was commanded to dig for the girdle. It was found marred and profitable for nothing. Was this only a vision, or did the prophet actually make the long journey to the Euphrates and then repeat it after many days?\n\nThe latter is quite improbable, nor can the command be called a vision. The question is what river is meant, the river Euphrates or another river by a similar name? The Hebrew word for Euphrates is “Perath,” and the word river is generally added to this word. In the text here it is missing. Now, three miles north of Anathoth there was a small river by the name of “Parah” Joshua 18:23. It probably means this place to which the prophet was commanded to go.\n\nBoth words in the Hebrew spring from the same root.\n\nThe meaning of this symbolical action is explained. A girdle belonged to the priest. Israel was called to be the priestly nation. As a girdle cleaveth to the loins of a man, so the Lord had chosen Israel to cleave unto Him, “that they might be unto Me for a people,” and for a name and for a glory. And as the girdle had become marred and profitable for nothing, so even would their pride, that in which they gloried as the chosen people, be marred.\n\nThe bottles filled with wine, dashed one against the other, are the symbol of their sin intoxication and their destruction.\n\nJeremiah 13:15-21. How patient and merciful is Jehovah! He interrupts His judgment message by calling on the people, whom He still loves, to give ear and to give glory to Jehovah. It is the utterance of the prophet, the outpouring of His love towards His people. The prophet addresses the king and the queen: “Humble yourselves.” And then his heart seems to break in anticipation of their obstinacy. “But if ye will not hear, my soul shall weep in secret places on account of your pride, and mine eye shall weep sore, and run down with tears, because the LORD’s flock is carried away captive.”\n\nJeremiah 13:22-27. Wherefore? they asked. And He answers, “For the greatness of thine iniquity... because thou hast forgotten Me and trusted in falsehood.” Woe unto thee, Jerusalem! wilt thou not be made clean? When shall it be? But could they do it themselves? “Can the Ethiopian change his skin, or the leopard his spots? Then may ye also do good, that are accustomed to evil.” The new heart is needed Ezekiel 36:1-38; the new birth of which the Lord spoke to the teacher in Israel."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 14
+ }
+}

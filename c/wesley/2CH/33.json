@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "wesley",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": "The wicked reign of Manasseh, ver. 1-10. His captivity, prayer, and reformation, ver. 11-17. The conclusion of his reign, ver. 18-20. The wicked reign and death of Amon, ver. 21-25.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "To Babylon - The king of Babylon is here called the king of Assyria, because he had added Assyria to his empire, who having been informed by his ambassadors of the great riches which were in Hezekiah's treasures at Jerusalem, and being assured of Manasseh's degeneracy from the piety of his father, and from that God whose power alone made Hezekiah formidable, he thought this a fit season to invade Manasseh's kingdom. The Jews say, in the twenty second year of his reign."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Besought - It becomes sinners to humble themselves before that God, whom they have offended. It becomes sufferers to humble themselves before him that corrects them, and to accept of the punishment of their iniquity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Still - Manasseh could not carry the reformation so far as he had carried the corruption. It is an easy thing to debauch men's manners; but not so easy to reform them again."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Of Israel - Of Judah, often called Israel, he speaks not of the book of Kings, for these things are not mentioned there, but of their publick records, whence the most important things were taken by the prophets, and put into those canonical books."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Hosai - A writer so called."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 34
+ }
+}

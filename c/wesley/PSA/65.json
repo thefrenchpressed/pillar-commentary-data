@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 65,
+  "introduction": "David praises God for hearing prayer, pardoning sin, satisfying and protecting his people, ver. 1-5. For fixing the mountains, calming the sea, preserving the succession of day and night, and making the earth fruitful, ver. 6-13. To the chief musician, A psalm and song of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Approach - To draw near to God in his house and ordinance, by prayer and praise, and other acts of communion with him. Satisfied - With the blessings there conferred upon thy people, the favour and fellowship of God, remission of sins, renovation of heart and life, joy and peace, and well - grounded assurance of eternal life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Righteousness - By virtue of thy faithfulness, and goodness. Wilt thou - Thou wilt graciously answer our prayers. The confidence - Thou art the stay and support of all mankind, by thy powerful and gracious providence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Tumult - No less wild and impetuous."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Thy tokens - Terrible thunders and lightnings, and earthquakes, and comets or other strange meteors, or works of God in the air. Morning - The successive courses of the morning and evening; or of the sun and moon which go forth at those times. Thus the whole verse speaks of the natural works of God, the former clause, of such as are extraordinary and terrible, the latter of such as are ordinary and delightful."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "River - With rain, which he very significantly calls a river for its plenty, and the river of God, of God's immediate providing. Them - The inhabitants of the earth. Provided - Or, disposed, the earth, which without this would be hard and barren."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Bringest down - For the rain dissolves the high and hard clods of earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Wilderness - Which though neglected by men, are furnished with food for beasts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Sing - They are abundantly satisfied with thy goodness, and in their manner sing forth the praise of their benefactor."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 65
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 64
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 66
+ }
+}

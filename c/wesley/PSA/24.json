@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": "This psalm is generally thought to have been composed by David, upon bringing the ark of God from the house of Obed- edom, into the tabernacle which David had built for it, 2 Sam. vi, 12, 17. Wherein he hath a farther prospect to the temple, which he earnestly desired and intended to build. Moreover because the tabernacle, and temple, and ark, were types of Christ, and of his church and of heaven. David extended his thoughts to them also, or at least the Holy Ghost designed to comprehend them under these typical expressions. He shews God's sovereignty over the world, ver. 1, 2. Who shall receive his blessing, ver. 3-6. An exhortation to receive Christ, ver. 7-10. A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Seas - The whole collection of waters, as well as the sea and the rivers running into it, as that great abyss of waters which is contained in the bowels of the earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The hill - Zion or Moriah, the place of God's sanctuary and special presence. Having asserted God's dominion over all mankind, he now proposes an important question, by whom God will be served, and his blessing enjoyed? Stand - To minister before him. Standing is the posture of ministers or servants. Who shall serve God, with God's acceptation. Holy place - In the place which he hath sanctified for his service."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "He - Whose actions and conversation are holy and unblameable. Pure heart - Careful to approve itself to God, as well as to men; ordering a man's very thoughts and affections according to God's word. Vanity - Who doth not value or desire the vain things of this life, such as honours, riches, pleasures; but makes God his portion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The blessing - Grace and glory, and all other good things."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The generation - The true progeny which God regards. Face - His grace and favour, which is often called God's face."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Lift up - He speaks here of the gates and doors of the temple, which by faith and the spirit of prophecy, he beheld as already built, whose doors he calls Everlasting, not so much because they were made of strong and durable materials, as in opposition to those of the tabernacle, which were removed from place to place. These gates he bids lift up their heads, or tops, by allusion to those gates which have a portcullis, which may be let down or taken up. And as the temple was a type of Christ, and of his church, and of heaven itself; so this place may also contain a representation, either of Christ's entrance into his church, or into the hearts of his faithful people, who are here commanded to set open their hearts and souls for his reception: or of his ascension into heaven, where the saints or angels are poetically introduced as preparing the way, and opening the heavenly gates to receive their Lord and king, returning to his royal habitation with triumph and glory. The king - The Messiah, the king of Israel, and of his church, called the King, or Lord of glory, 1Cor 2:8 James 2:1, both for that glory which is inherent in him, and that which is purchased by him for his members."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "The Lord - He is no ordinary person, no other than Jehovah, who hath given so many proofs of his almightiness, who hath subdued all his enemies, and is now returned in triumph."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Lift up - The same verse is repeated again, to awaken the dulness of mankind, who are so hardly brought to a serious preparation for such solemnities; and to signify the great importance of the matter, contained under these expressions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Of hosts - Under whose command are all the hosts of heaven and earth, angels and men, and all other creatures."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 25
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 19\n\nThe Burden of Egypt\n\n1. The judgment announced (Isaiah 19:1-15) 2. Egypt blest with Israel in the last days (Isaiah 19:16-25) Egypt has passed through many judgments. Hundreds of years after the divine predictions had been given the Word of the Lord was accomplished. The final judgment upon Egypt comes in that day when the Lord appears in visible glory. Egypt will come, like other nations, to the front once more at the close of the times of the Gentiles. But mercy is also in store for Egypt. Egypt will be called “His people.” When the Lord smites Egypt that land will return to Him. It will then be lifted out of the dust and receive a place of blessing only second to that which Israel will enjoy."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 20
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "wesley",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": "The names of those who set their seal to the covenant, ver. 1- 27. An account of those who consented thereto, ver. 28-31. They engage to adhere to the temple service, ver. 32-39.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sealed - Both in their own names, and in the name of all the rest. It may seem strange that Ezra doth not appear among them. But that might be because he was prevented, by some sickness, or other extraordinary impediment. It is true, we meet with Ezra after this, at the dedication of the wall of Jerusalem, chap.12:36, and therefore he was then freed from this impediment, whatsoever it was."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Their nobles - The commonality agreed with the nobles in this good work, great men never look so great, as when they encourage religion and are examples of it: and they would by that, as much as any thing, make an interest in the most valuable of their inferiors, who would cleave to them closer than they can imagine. Observe their nobles are called their brethren; for in the things of God, rich and poor, high and low meet together. They cleave - They ratified what the others had done in their names, declaring their assent to it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "People of the land - The Heathens. On the sabbath - They that covenant to keep all the commandments of God, must particularly covenant to keep the sabbath holy. For the profanation of this is a sure inlet to all manner of profaneness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NEH",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NEH",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NEH",
+  "chapter": 11
+ }
+}

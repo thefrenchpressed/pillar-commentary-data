@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "maclaren",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "GOD’ S PATIENT\n\nJeremiah 44:4.\n\nThe long death-agony of the Jewish kingdom has come to an end. The frivolous levity, which fed itself on illusions and would not be sobered by facts, has been finally crushed out of the wretched people. The dreary succession of incompetent kings-now a puppet set up by Egypt, now another puppet set up by Babylon, has ended with the weak Zedekiah. The throne of David is empty, and the long line of kings, which numbered many a strong, wise, holy man, has dwindled into a couple of captives, one of them blind and both of them paupers on an idolatrous monarch’s bounty. The country is desolate, the bulk of the people exiles, and the poor handful, who had been left by the conqueror, flitting like ghosts, or clinging, like domestic animals, to their burnt homes and wasted plains, have been quarrelling and fighting among themselves, murdering the Jewish ruler whom Babylon had left them, and then in abject terror have fled en masse across the border into Egypt, where they are living wretched lives. What a history that people had gone through since they had lived on the same soil before!\n\nFrom Moses to Zedekiah, what a story! From Goshen till now it had been one long tragedy which seems to have at last reached its fifth act. Nine hundred years have passed, and this is the issue of them all!\n\nThe circumstances might well stir the heart of the prophet, whose doleful task it had been to foretell the coming of the storm, who had had to strip off Judah’s delusions and to proclaim its certain fall, and who in doing so had carried his life in his hand for forty years, and had never met with recognition or belief.\n\nJeremiah had been carried off by the fugitives to Egypt, and there he made a final effort to win them back to God. He passed before them the outline of the whole history of the nation, treating it as having accomplished one stadium-and what does he find? In all these days since Goshen there has been one monotonous story of vain divine pleadings and human indifference, God beseeching and Israel turning away-and now at last the crash, long foretold, never credited, which had been drawing nearer through all the centuries, has come, and Israel is scattered among the people.\n\nSuch are the thoughts and emotions that speak in the exquisitely tender words of our text. It suggests-\n\nI. God’s antagonism to sin.\n\nIt is the one thing in the universe to which He is opposed. Sin is essentially antagonism to God. People shrink from the thought of God’s hatred of sin, because of-\n\nAn underestimate of its gravity. Contrast the human views of its enormity, as shown by men’s playing with it, calling it by half-jocose names and the like, with God’s thought of its heinousness.\n\nA false dread of seeming to attribute human emotions to God. But there is in God what corresponds to our human feelings, something analogous to the attitude of a pure human mind recoiling from evil.\n\nThe divine love must necessarily be pure, and the mightier its energy of forth-going, the mightier its energy of recoil. God’s ‘hate’ is Love inverted and reverted on itself. A divine love which had in it no necessity of hating evil would be profoundly immoral, and would be called devilish more fitly than divine.\n\nII. The great purpose of the divine pleadings.\n\nTo wean from sin is the main end of prophecy. It is the main end of all revelation. God must chiefly desire to make His creatures like Himself. Sin makes a special revelation necessary. Sin determines the form of it.\n\nIII. God’s tender and unwearied efforts.\n\n‘Rising early’ is a strong metaphor to express persistent effort. The more obstinate is our indifference, the more urgent are His calls. He raises His voice as our deafness grows. Mark, too, the tenderness of the entreaty in this text, ‘Oh, do not this abominable thing that I hate!’ His hatred of it is adduced as a reason which should touch any heart that loves Him. He beseeches as if He, too, were saying, ‘Though I might be bold to enjoin thee’ that which is fitting, ‘yet for love’s sake I rather beseech thee.’ The manifestation of His disapproval and the appeal to our love by the disclosure of His own are the most powerful, winning and compelling dehortations from sin. Not by brandishing the whip, not by a stern law written on tables of stone, but by unveiling His heart, does God win us from our sins.\n\nIV. The obstinate resistance to God’s tender pleadings.\n\nThe tragedy of the nation is summed up in one word, ‘They hearkened not.’\n\nThat power of neglecting God’s voice and opposing God’s will is the mystery of our nature. How strange it is that a human will should be able to lift itself in opposition to the Sovereign Will! But stranger and more mysterious and tragic still is it that we should choose to exercise that power and find pleasure, and fancy that we shall ever find advantage, in refusing to listen to His entreaties and choosing to flout His uttered will.\n\nSuch opposition was Israel’s ruin. It will be ours if we persist in it. ‘If God spared not the natural branches, neither will He spare thee.’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 47
+ }
+}

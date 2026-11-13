@@ -1,0 +1,245 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "vincent",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The true vine [ηαμπελοςηαληθινη]. Literally, the vine, the true (vine). True, genuine, answering to the perfect ideal. See on 1 9. The vine was a symbol of the ancient church. See the passages cited above, and Hosea 10:1; Matthew 21:33; Luke 13:6.\n\nHusbandman [γεωργος]. From gh, the earth, and ergw, to work. The vine - dresser is ajmpelourgov, occurring only at Luke 13:7; but the office of the vine - dresser is a subordinate one, while gewrgov may indicate the proprietor. See 2 Chronicles 26:10 (Sept.), where the word is applied to King Uzziah. So of Noah, Genesis 9:20. In Matthew 21:33 41, the gewrgoi represent the chiefs and leaders of the Jews. Wyc., an earth - tiller."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Branch [κλημα]. Occurring only in this chapter. Both this and kladov, branch (see on Matthew 24:32; Mr 11:8) are derived from klaw, to break. The word emphasizes the ideas of tenderness and flexibility.\n\nPurgeth [καθαιρει]. Cleanseth, Rev."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Clean [καθαιρει]. Etymologically akin to kaqairei, purgeth. The Rev. indicates this by rendering kaqairei, cleanseth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Of itself [αφεαυτου]. Properly, from itself. See on 7 17.\n\nNo more can ye [ουτωςουδευμεις]. Literally, so neither can ye. So Rev."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Without me [χωριςεμου]. Properly, apart from me. So Rev. Compare John 1:3; Ephesians 2:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "He is cast forth [εβληθηεξω]. The aorist tense. Literally, was cast forth. The aorist, denoting a momentary act, indicates that it was cast forth at the moment it ceased to abide in the vine. Forth signifies from the vineyard; exw, outside.\n\nAs a branch [ωςτοκλημα]. Strictly, the branch: the unfruitful branch.\n\nIs withered [εξηρανθη]. The aorist, as in was cast forth. Wyc, shall wax dry.\n\nMen gather. Or, as Rev., they gather. Indefinite. Compare Isaiah 27:11; Ezekiel 14:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Ye shall ask [αιτησεσθε]. The best texts read the imperative, aijthsasqe, ask.\n\nShall be done unto you [γενησεταιυμιν]. Literally, it shall come to pass for you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Herein [εντουτω]. Commonly referred to what follows. My Father is glorified in this, namely, that ye bear much fruit. It is better to refer it back to ver. 7. In the perfect unity of will between the Son and the disciple, which results in the disciple's obtaining whatever he asks, the Father is glorified. To this effect is John 14:13, \"Whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.\" The design of this glorification is that [ινα] you may bear much fruit. This retrospective reference of ejn toutw, in this, or herein, occurs in John 4:37; John 16:30; 1 John 4:17.\n\nIs glorified [εδοξασθη]. The aorist tense; was glorified. As in ver. 6, marking the point when the Father's glory was realized in the perfect union of the believer's will with Christ's.\n\nSo shall ye be [καιγενησεσθε]. Literally, and ye shall become. Some editors, however, read genhsqe, and connect, in the same construction with the preceding clause, rendering, \"Herein is (was) my Father glorified, that ye might bear much fruit and become my disciples.\" Note that the word is become, not be. Christian discipleship implies progress and growth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "In my love [εντηαγαπητηεμη]. Literally, in the love, that which is mine. Not only the love of the disciple for Christ, nor the love of Christ for the disciple, but the Christ - principle of love which includes both. See the same form of expression in the joy that is mine, ver. 11; John 3:29; John 17:13; the judgment (v. 30; John 8:16); the commandments (xiv. 15); peace (xiv. 27)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "My joy. The joy that is mine; characteristic of me. See on ver. 9. Might remain [μεινη]. The best texts read h, may be.\n\nMight be full [πληρωθη]. Rev., more correctly, may be fulfilled. The A. V. loses the distinction between the absolute joy which is Christ's, and the progressive, but finally consummated joy which is the disciple's."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "My commandment [ηεντοληηεμη]. The commandment which is mine.\n\nThat ye love [ινα]. Indicating not merely the nature of the commandment, but its purport."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Greater love hath no man than this, that [ινα]. Some of the more subtle phases of John's thought cannot be apprehended without a careful study of this often - recurring conjunction. It is still claimed by some grammarians that it is used to mark, not only design and end, but also result. 50 But it may fairly be claimed that its predominant sense is intent, purpose, purport, or object. Hence that, as representing ina, is to be taken in the sense of to the end or intent that; in order that. Here the use of the word is very subtle and suggestive, as well as beautiful. No man hath greater love than this (love), which, in its original conception, was intended and designed to reach to the extent of sacrificing life for a friend.\n\nChrist, therefore, here gives us more than a mere abstract comparison and more than a merely human gauge of love. He measures love according to its divine, original, far - reaching intent.\n\nLay down his life. See on 10 11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "I command [εντελλομαι]. Of several words for command in the New Testament, this one is always used of giving a specific injunction or precept. The kindred noun, ejntolh, means an order, a charge, a precept and hence is used of a separate precept of the law as distinguished from the law as a whole [νομος]. See Matthew 22:36, 38. It is, however, sometimes used of the whole body of the moral precepts of Christianity. See on 13 34. The sense of specific commands here falls in with the reading of the Rec. Text, osa, whatsoever, literally, as many things as."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Henceforth - not [ουκετι]. Rev., better, no longer. No longer servants, as you were under the dispensation of the law. Compare Galatians 4:7.\n\nServants [δουλους]. Strictly, bond - servants.\n\nKnoweth not [ουκοιδε]. Has no instinctive perception. See on 2 24. You. The position of the pronoun in the Greek is emphatic: \"You I have called friends.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Ye - chosen. The pronoun is emphatic: \"It was not ye that chose me.\"\n\nOrdained [εθηκα]. Rev., appointed is better, because it divests the word of its conventional meaning. Ordain is from the Latin ordinare, and means to set in order. Thus, Robert of Gloucester's \"Chronicle:\" \" He began to ordain his folk, \"i e., set his people in order. Hakluyt,\" Voyages: \"\" He ordained a boat made of one tree.\" The Greek verb means to set, put, or place. Hence of appointing one to service. See 1 Timothy 1:12. Wyc., Matthew 24:47: \"Upon all his goods he shall ordain him.\"\n\nShould go [υπαγητε]. Withdraw from His personal society and go out into the world.\n\nThat whatsoever, etc. [ινα]. Coordinated with the preceding ina, that, as marking another result of their choice and appointment by Christ. He has appointed them that they should bring forth fruit, and that they should obtain such answers to their prayer as would make them fruitful."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "That [ινα]. All my teachings are to the end that you should love one another."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "If the world hate [ειμισει]. Literally, hates. The indicative mood with the conditional particle assumes the fact as existing: If the world hates you, as it does.\n\nYe know [γινωσκετε]. This may also be rendered as imperative: Know ye.\n\nIt hated [μεμισηκεν]. The perfect tense, hath hated. The hatred continues to the present time.\n\nBefore it hated you [πρωτονυμων]. Literally, first in regard of you. See on 1 15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Of the world [εκτουκοσμου]. Sprung out of the world. See on of the earth, John 3:31.\n\nWould love [ανεφιλει]. The verb for natural affection. See on 5 20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Persecuted [εδιωξαν]. The verb means originally to put to flight; thence to run swiftly in order to overtake or attain, as the goal or the competitor in the race. Thus Sophocles (\" Electra, \"738):\" He urged his swift steeds vehemently with shouts that pierced their ears, and makes for him [διωκει]. \"Compare I follow after (diwkw, Phi 3:12). Hence to pursue with hostile intent, and, generally, to molest, harass, persecute. Persecute is from the equivalent Latin persequor, to follow up, and is used earlier, in the sense of pursue, while pursue, in turn, is used in the sense of persecute. Thus Wyc, Matthew 5:44, for men pursuing you. Sir Thomas More (\" Utopia \"),\" Whiles their enemies rejoicing in the victory have persecuted (i. e., pursued) them. \""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "For my name's sake [διατοονομαμου]. Literally, on account of my name. The name of Christ represented the faith, the attitude, the claims, and the aim of the disciples. His name was their confession. Luther says: \"The name of Christ from your mouth will be to them nothing but poison and death.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Had sin [αμαρτιανειχον]. See on 9 41; 1 John 1:8.\n\nCloke [προφασιν]. From pro, before, in front of, and fhmi, to say or affirm. Hence something which is placed in front of the true cause of a thing, a pretext. Compare 1 Thessalonians 2:5; Acts 27:30. Pretext carries the same idea, Latin, proetextum, something woven in front, with a view to concealment or deception. Rev., excuse. Wyc, excusation. The A. V. follows Tyndale: nothing to cloke their sin withal. Latimer (\" Sermons \"): \"By such cloaked charity, when thou dost offend before Christ but once, thou hast offended twice herein.\" The word appears in the low Latin cloca, a bell (compare the French cloche, and English clock), and the name was given to a horseman's cloak because of its resemblance to a bell. The word palliate is from the Latin pallium, a cloak."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Without a cause [δωρεαν]. Gratuitously. Akin to didwmi, to give. Their hatred was a voluntary gift."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Shall bear witness [μαρτυρειτε]. Present tense, bear witness. So Rev. Or, it may be taken as imperative: bear ye witness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "JHN",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "JHN",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "JHN",
+  "chapter": 16
+ }
+}

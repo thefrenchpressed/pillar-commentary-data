@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "scofield",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "the hall -- Or, the court which is the judgment-hall."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "platted -- plaited."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Rufus -- It is possible that this may be the same Rufus mentioned in Romans 16:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "drink -- The stupefying drink usually given to those crucified."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "And when -- See note for order of events at the crucifixion, (See Scofield \"Matthew 27:33\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "third hour -- Cf. John 19:14. John used the Roman, Mark the Hebrew, computation of time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "superscription -- See note, (See Scofield \"Matthew 27:37\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "gave up -- (See Scofield \"Matthew 27:50\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "top to -- God rent it down; it was rent from the top. Christ having made atonement and glorified God, the way into the holiest was now made manifest. Cf. Hebrews 9:8,24; 10:19-22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Mary -- (See Scofield \"Matthew 1:16\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MRK",
+  "chapter": 16
+ }
+}

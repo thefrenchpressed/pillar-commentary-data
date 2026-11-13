@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "scofield",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "grace -- Grace (imparted). Ephesians 3:2-8; Ephesians 4:7,29; Romans 6:1; 2 Peter 3:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "mystery -- (See Scofield \"Matthew 13:11\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "That the Gentiles -- That the Gentiles were to be saved was no mystery Romans 9:24-33; Romans 10:19-21. The mystery \"hid in God\" was the divine purpose to make of Jew and Gentile a wholly new thing--\"the church, which is his Christ's body,\" formed by the baptism with the Holy Spirit 1 Corinthians 12:12,13 and in which the earthly distinction of Jew and Gentile disappears; Ephesians 2:14,15; Colossians 3:10,11. The revelation of this mystery, which was foretold, but not explained by Christ Matthew 16:18 was committed to Paul. In his writings alone we find the doctrine, position, walk, and destiny of the church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "mystery -- (See Scofield \"Matthew 13:11\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EPH",
+  "chapter": 4
+ }
+}

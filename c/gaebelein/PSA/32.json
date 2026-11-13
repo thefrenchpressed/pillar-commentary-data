@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fullest Blessing\n\n1. The blessedness of righteousness imputed (Psalms 32:1-5)\n\n2. The blessedness of hiding-place (Psalms 32:6-7)\n\n3. The blessedness of guidance and preservation (Psalms 32:8-11)\n\nPsalms 32:1-5. This is the first of the 13 Maschil Psalms, the Psalms of special instruction. They tell us of the understanding which the godly in Israel will have in spiritual things (Daniel 12:10). All these Maschil Psalms have reference to the last days. The foundation of this Psalm is David’s own experience. See the application of it in Romans 4:1-25. This blessedness of being justified by faith, and all that is included, will be the portion also of the godly in Israel during the end of the age, after the true Church has been caught up. They will pass through David’s experience and enjoy the “sure mercies of David.”\n\nPsalms 32:6-7. And the Justifier is the hiding-place, the refuge. As He is now the hiding-place for His trusting people, so will He be their hiding-place. The floods of great waters point clearly to the great tribulation. They will be preserved as it is written concerning this godly remnant by Isaiah: “Come, my people, enter thou into thy chambers, and shut thy doors about thee; hide thyself as if it were for a little moment, until the indignation be overpast” (Isaiah 26:20).\n\nPsalms 32:8-11. Then the blessedness of guidance and preservation. His eye will rest upon them and with His eye He will guide them, as He watches over and guides all His people. And finally the righteous kept and delivered will shout for joy."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 33
+ }
+}

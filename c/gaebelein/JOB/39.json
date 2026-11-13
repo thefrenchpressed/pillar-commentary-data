@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "38:39--39:30\n\n1. The beasts of prey (Job 38:39-41)\n\n2. The wild goats, the ass, the unicorn and the ostrich (Job 39:1-18)\n\n3. The horse, the hawk and the eagle (Job 39:19-30)\n\nJob 38:39-41. God’s own wisdom and power in nature, as witnessed to by Himself, is followed by His witness as to the sustenance of His creatures, how mercifully He provides for their need. This section begins with the query, “Knowest thou?” Could he hunt the prey of the lion, or fill the ravenous appetite of their young? God considers the young, even so unclean a bird as the raven has its food provided by God. Wonderful it is to read that the young ravens in their helplessness cry to God. The beasts acknowledge the Creator by their instincts and look to Him for food, though it be not the sweet song of a lark, but only the croak of a raven.\n\nHow it reminds us of the witness of the same Creator who speaks here, when He was clothed in creature’s form. “Consider the ravens; for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them. How much more are ye better than the fowls” (Luke 12:24). And striking it is that He begins by calling Job’s attention to the wild beasts first, though they are now man’s enemy through man’s sin. God in His infinite wisdom and benevolence cares for them.\n\nJob 39:1-18. Then what about the goats of the rock and their young? His omniscient eye beheld them out in the desert rocks and He watched over their young. Could He then not watch the footsteps of His higher creature, even His offspring, man? Then the wild ass, also a desert animal. He cannot be tamed.\n\nGod made him so. The unicorn (the aurochs) with his strength is known to God also. He has the power to make him the willing slave; man cannot do it. And the peacock with its goodly wings and the ostrich, which leaveth her eggs in the earth, and warmeth them in dust. Who takes care of these hidden eggs, which the foot might crush and wild beasts break? It would be amusing, if it were not so sad, when critics declare that the author of “the poem” made a mistake when he speaks of the eggs of the ostrich.\n\nBut it is not an “author” who speaks, but the Creator Himself and He knows more about His creatures than all the “scientists” in the world.\n\nJob 39:19-30. Next the description of the noble horse. Did Job give the war horse his strength or clothe the neck with the rustling mane, or make him leap like the locust? The picture of the war horse in battle is sublime also. God shows to Job a glimpse of His works, and the wisdom which has created them, as well as His care in keeping them. Such a God is He whom Job has maligned.\n\nThe hawk too may teach him a lesson. Is it by Job’s instructions that the hawk soars high into the air, and is it by his command that the eagle mounts and builds his nest in the dizzy heights, from where he spys his prey? No answer could Job give. His silence is assent. God is great and unsearchable and Job but the rebellious worm of the dust."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 40
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "wesley",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": "David prepares to bring up the ark, ver. 1-24. It is brought up, ver. 25-28. Michal despises him, ver. 29.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Houses - A palace consisting of many houses or apartments for his several wives and children. A tent - He did not fetch the tabernacle of Moses from Gibeon, because he intended forthwith to build the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The sons - Of Amram or Izhar, Kohath's sons, Numb 3:27, otherwise Elizaphan, ver.8, and Hebron, ver.9, and Uzziel, ver.10, were Kohath's children."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Priests - Abiathar the high - priest, and Zadok the second priest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Second degree - The first rank of sacred musicians being those three famous persons named ver.17, next to whom were these here named. Porters - who were to keep the doors of the tabernacle and courts, but with all were instructed in musick, that when these were free from attendance upon their proper office, they might not be idle nor unprofitable in God's house."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Alamoth - Or, with Alamoth which is thought to be the name of an instrument of musick; or of a certain tune, or note, or part in musick. The certain signification of it is not now known; and the like may be said of Sheminith, ver.21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "To excel - Which word may be added to note the excellency of that instrument, or part of musick; or that there was a greater extension or elevation of the voice than in the former. This way of praising God by musical instruments, had not hitherto been in use. But David instituted it by divine direction, and added it to the other ordinances of that dispensation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "For song - He was the moderator of the musick, instructing them when and how to lift up their voices, or change their notes, or make their stops."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Door - keepers - They were appointed to keep the door of the tent in which the ark was to be kept, that no unallowed person might press in and touch it; and in like manner they were to attend upon the ark in the way, and to guard it from the press and touch of prophane hands; for which end these two went before the ark, is their other two brethren mentioned in the close of ver.24, came after it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Helped - Encouraging them in their work with some comfortable sign of his presence with them. In all our religious exercises, we must derive help from heaven. God's ministers that bare the vessels of the Lord, have special need of divine help in their ministrations, that God may be glorified thereby, and the people edified."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Linen - With a linen ephod. This circumstance is repeated, because it was an unusual thing for one, who was no Levite, to wear a Levitical garment."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1CH",
+  "chapter": 16
+ }
+}

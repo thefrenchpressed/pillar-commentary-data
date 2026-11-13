@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "scofield",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "She is not my wife -- That Israel is the wife of Jehovah Hosea 2:16-23, now disowned but yet to be restored, is the clear teaching of the passages. This relationship is not to be confounded with that of the Church of Christ. (See Scofield \"John 3:29\"). In the mystery of the Divine tri-unity both are true. The N.T. speaks of the Church as a virgin espoused to one husband 2 Corinthians 11:1,2 which could never be said of an adulterous wife, restored in grace. Israel is, then, to be the restored and forgiven wife of Jehovah, the Church the virgin wife of the Lamb; John 3:29; Revelation 19:6-8. Israel Jehovah's earthly wife Hosea 2:23, the Church the Lamb's heavenly bride, Revelation 19:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HOS",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HOS",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HOS",
+  "chapter": 7
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "WE have here a new way of writing, wherein Divine wisdom is taught us in Proverbs or short sentences, which contain their whole design within themselves, and are not connected with one another. And these Proverbs of Solomon are not merely a collection of the wise sayings which had been formerly delivered, but were the dictates of the Spirit of God in Solomon: so that it is God by Solomon that here speaks to us. I say, to us: for when Solomon speaks to his son, St. Paul says, The exhortation speaketh to us, as unto children. The nine first chapters are as a preface exhorting us to the study and practice of wisdom, and warning us against the things that would hinder it. We have then the first volume of Solomon's Proverbs, chap. 10-24. After that a second volume, chap. 25-29. And then Agur's prophecy, chap. 30. And Lemuel's, chap. 31. The scope of all is, to direct us so to order our conversation, that we may see the salvation of God.\n\nThe title of the book, shewing the general design of it, ver. 1-6. The first principle of it recommended, ver. 7-9. A caution against bad company, ver. 10-19. Wisdom's reasonings with the sons of men, and the certain ruin of those who will not hearken unto them, ver. 20-33.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "To know - Written to help men to know throughly and practically. Both human wisdom to conduct our affairs in this life, and Divine wisdom. Instruction - The instructions delivered either by God, or men, in order to the attainment of wisdom. To perceive - Which teach a man true understanding."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "To receive - Willing to receive the counsels of others. Such as makes men wise and prudent, and to teach just judgments or equity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Simple - Such as want wisdom. Young man - Who wants both experience and self - government."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Will hear - Is willing to learn. Attain to - The art of governing himself or others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The fear - Reverence and obedience to God. Beginning - The foundation without which all other knowledge is vain. Fools - That is, wicked men, are so far from attaining true wisdom, that they despise it, and all the means of getting it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "My son - He speaks to his scholars with paternal authority and affection. Of thy mother - Those pious instructions, which thy mother instilled into thee in thy tender years."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "In vain - The fowler who spreads, his net in the sight of the bird looseth his labour. But these, are more foolish than the silly birds, and though they are not ignorant of the mischief which these evil courses will bring upon themselves, yet they will not take warning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Their own blood - The destruction which they design to others, fall upon themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Greedy - That seeks gain by wicked practices."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Wisdom - Having expressed the counsels of wicked men, he now declares the voice of wisdom. By wisdom he understands the wisdom of God revealed to men in his word. And this is said to cry with a loud voice, to intimate God's earnestness in inviting sinners to repentance. Abroad - Or, in the streets or open places. Not in corners, but openly before all the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Gates - Where magistrates sit in judgment, and people are assembled. The city - Not only in the gate, but in every part of the city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Scoffers - That scoff at religion and contemn the word and faithful ministers of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "My words - By my spirit I will cause you to understand my word."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Called - By my ministers, by my judgments, and by the motions of my spirit and your own conscience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Your fear - The misery you do or should fear."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Early - With diligence and fervency."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Knowledge - The practical knowledge of God and of their duty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Eat - They should receive punishment answerable to their sins. Filled - With the fruits of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Turning - From God. Destroy - Shall prove the occasion of their ruin, by making them presumptuous, and secure."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 150
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 2
+ }
+}

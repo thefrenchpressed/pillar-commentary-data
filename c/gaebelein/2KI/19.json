@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "gaebelein",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "2. Hezekiah and Isaiah and the DeliveranceCHAPTER 19\n\n1. Hezekiah’s message to Isaiah (2 Kings 19:1-5)\n\n2. Isaiah’s answer. (2 Kings 19:6-7)\n\n3. Sennacherib’s message to Hezekiah (2 Kings 19:8-13; 2 Chronicles 32:17)\n\n4. Hezekiah’s Prayer (2 Kings 19:14-19; 2 Chronicles 32:20)\n\n5. Jehovah’s answer through Isaiah (2 Kings 19:20-34)\n\n6. The deliverance (2 Kings 19:35; 2 Chronicles 32:21-22)\n\n7. Sennacherib’s death (2 Kings 19:30-37)\n\nAnd Hezekiah also rent his clothes. In deep humiliation and sorrow the pious man went to the house of the Lord and sent messengers to Isaiah. This is most blessed. He did not call a counsel of his advisers, a meeting of the captains to talk the matter over; nor did he send first to the prophet. Faith knows a better way than that. He went straight into the presence of the LORD and the sending to Isaiah was secondary. Many of our failures as His people are due to the fact that we do not go to the LORD first.\n\nAnd equally beautiful is his message to God’s prophet. He mentions not himself in the danger of Jerusalem. It is the honor of Jehovah which is at stake; the honor of the living God is at stake. The Assyrian had defied the God of Israel. Yea, Hezekiah’s comfort was that Jehovah had heard it all and knew it all. What lessons and what comforts are here for us also! Then he requests prayer.\n\nThe divine answer through Isaiah was brief. Be not afraid. The blessed assurance for faith first--Fear not! The promise of deliverance is the second thing in Isaiah’s answer.\n\nAnother message in the form of a letter is sent by Sennacherib to the king. Again Hezekiah goes with it straight to the LORD. He read it and went up into the house of the LORD and spread it before the LORD. What blessing there would be in the lives of all God’s people; what wonderful evidences of His power and His love we might have if all things which happened unto us were at once taken into the presence of God and spread before Him!\n\nAnd the beautiful answer to Hezekiah’s prayer sent through the prophet! The LORD had heard, He had seen. All what had taken place He knew and any word which had been spoken. The message ends with the assuring word, “I will defend this city, to save it, for Mine own sake, and for my servant David’s sake.”\n\nThat night the judgment stroke fell. The whole Assyrian army of 185,000 men was smitten by the angel of the LORD. Prophetically it stands for the end of the Assyrian who will enter Israel’s land during the great tribulation and who will perish like Sennacherib’s army.\n\nSennacherib dwelt after that in Nineveh. There he was murdered by his own sons. An Assyrian cylinder in the British Museum contains a record of this deed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 20
+ }
+}

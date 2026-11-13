@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 2\n\nZion’s Future Glory and the Day of Jehovah\n\n1. The glories in the latter days (Isaiah 2:1-4) 2. Exhortation to walk in the light (Isaiah 2:5) 3. The corruption of the people (Isaiah 2:6-9) 4. The day of Jehovah (Isaiah 2:10-22) The vision of verses 1-4 is altogether future. When Israel is converted and in possession of the land, when once more a house of Jehovah will stand in Israel’s land, then this great prediction will be fulfilled. Compare withMicah 4:1-55. The Day of the Lord (Jehovah) is the day of His visible manifestation to deal with the earth in judgment. Compare with Isaiah 24:1-23, etc.,Zephaniah 1:1-18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 3
+ }
+}

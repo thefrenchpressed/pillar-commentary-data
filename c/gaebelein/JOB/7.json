@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "6-7 Job’s Answer\n\n1. His Despair justified by the greatness of his suffering (Job 6:1-7)\n\n2. He requests to be cut off (Job 6:8-13)\n\n3. He reproacheth his friends (Job 6:14-30)\n\n4. The misery of life (Job 7:1-7)\n\n5. Two questions: Why does God deal with me thus? Why does He not pardon? (Job 7:8-21)\n\nJob 6:1-7. He meets first of all the reproach and accusation of Eliphaz (Job 4:1-5). Because his sufferings are so great his utterances are so desperately wild. If Eliphaz only would consider this he would find how enormous the Pressure is “heavier than the sand of the seas” which weighs him down and he would have shown the sympathy and tenderness for which Job longed. And then the description of what his agony is:\n\nFor the arrows of the Almighty are within me\n\nThe heat whereof my spirit drinketh up.\n\nGod’s terrors now against me are arrayed.\n\nThis inward suffering of his soul was even greater than the loathsome disease which covered his body. He felt that God’s hand in holy anger was upon him and he knew not what he learned afterward, that all was love and compassion from God’s side. Satan must have had a share and part in these increasing soul-agonies of Job. But has he not a perfect right to complain? The animals in God’s creation do not complain without reason. If the wild ass has grass and the ox fodder, they utter no sound. Nor would he complain if all was well with him. But his afflictions are like loathsome meat, and should he not murmur and complain. It is all the language of despairing grief.\n\nJob 6:8-13. And now he returns to his great lamentation:\n\nOh that I might have my request;\n\nAnd that God would grant me the thing I long for!\n\nEven that it would please God to crush me;\n\nThat He would let loose His hand, and cut me off!\n\nThis is still greater despair. And that he looks upon as comfort; yea, he would exult in pain that spareth not. It would end his sufferings and then after death he need fear nothing. He was conscious that he was right with God. “For I have not denied the words of the Holy One.” Here is the first note of self-righteousness, of justifying himself, which later on becomes more pronounced in his answers.\n\nJob 6:14-30. The sympathetic kindness he expected from his friends had not come. Eliphaz’s address gave the evidence of it.\n\nE’ en to th’ afflicted, love is due from friends;\n\nE’ en though the fear of God he might forsake.\n\nBut my brethren have dealt deceitfully, like a brook\n\nLike streams whose flowing waters disappear,\n\nAnd are hidden by reason of the ice\n\nAnd of the snow, which, falling, covers them. (Companion Bible.)\n\nHe had been bitterly disappointed in his friends. Their silence first, their wailing, and the outward signs of deepest grief, had led him to hope for comfort from their lips. They were like water brooks promising an abundant supply of refreshing water in winter time when not needed. But--\n\nWhat time it waxeth warm, they disappear\n\nWhen it is hot they vanish from their place.\n\nThe travelling caravans by the way turn aside\n\nThey go up into the waste, and perish.\n\nSuch were his friends. They were like dried up brooks in the summer’s heat. He had not asked them to give.\n\nDid I say, Give unto me?\n\nOr, Offer a present for me of your substance?\n\nOr, Deliver me from the Adversary’s power?\n\nOr, Redeem me from the Oppressor’s hand?\n\nNothing like this he had asked of their hands; all he craved was kind and tender sympathy. He urges them to teach him, to show him in what he has sinned, if he suffers for his sins. He urges them to look straight into his face and see if he is lying. He solemnly assures his friends of his innocence.\n\nIf only Job had not looked to his friends but to Him whose goodness and mercy he knew so well, he would not have suffered such disappointment. And what a contrast with David’s faith: “Yea, though I walk through the valley of the shadow of death, I will fear no evil, for Thou art with me; Thy rod and Thy staff they comfort me.”\n\nJob 7:1-7. This section is one of great beauty, describing human existence and the misery connected with it, as it was so markedly in his own case.\n\nAs soon as I lie down to sleep, I say:\n\nHow long till I arise, and night be gone?\n\nAnd I am full of tossings till the dawn.\n\nMy flesh is clothed with worms, and clods of earth;\n\nMy broken skin heals up, then runs afresh.\n\nSwifter than weaver’s shuttle are my days,\n\nAnd they are spent without a gleam of hope.\n\nIt is the picture of despair. The dark shadow of the enemy who had so wrongfully accused him must have told him “without a gleam of hope” as if God had now forsaken him.\n\nJob 7:8-21. Why did God deal with him in this way? He thinks God must be his enemy and asks:\n\nAm I a sea? or a monster of the deep;\n\nThat Thou settest a watch over me?\n\nHe had dreams too, not like the dreams of Eliphaz which reveal the greatness of God, but dreams of terrifying visions, so that he loatheth his life.\n\n... I would not live always: Let me alone; for my days are vanity.\n\nPoor, suffering, despairing Job! To think of Him whose love had been so fully demonstrated in the past, as his enemy and to pray to Him, “Let me alone,” was indeed horrible despondency. And if he has sinned, why does not God pardon and take away his iniquity? But this is not confession of sin. A different thing it is when finally he cries out, “Behold I am vile, I abhor myself.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 8
+ }
+}

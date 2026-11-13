@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "gaebelein",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 19\n\n1. The second visit of Paul to Ephesus. The twelve disciples of John (Acts 19:1-7).\n\n2. The Apostle’s continued labors. The separation of the disciples. The Province Asia evangelized (Acts 19:8-10).\n\n3. The Power of God and the Power of Satan (Acts 19:11-20).\n\n4. Paul plans to go to Jerusalem and to visit Rome (Acts 19:21-22).\n\n5. The opposition and riot at Ephesus (Acts 19:23-41).\n\nThe disciples whom Paul found at Ephesus were disciples of John. The question the Apostle asked them has often been made the foundation of wrong teaching concerning the Holy Spirit. It is claimed that the Holy Spirit must be received in a special manner after conversion. The little word “since” in Paul’s question must be changed into “when,” for it is mistranslated. “Did ye receive the Holy Spirit when ye believed?”\n\nPaul makes the gift of the Spirit a test of true discipleship. If they were true believers they received the Holy Spirit when they believed, that is when they accepted the Lord Jesus Christ as their Saviour. If they did not receive the Holy Spirit then it is an evidence that they did not believe. “Now if any man have not the Spirit of Christ, he is none of His” (Romans 8:9).\n\nThey heard next the full truth of the Gospel and believed, therefore they received the gift of the Spirit. Ephesus was the stronghold of Satan. When the power of God was manifested in the special miracles of Paul and the demons were driven out, then Satan also began to work. A great victory over the power of darkness followed.\n\nThen Paul purposed in the spirit (Acts 19:21) to go to Jerusalem. This verse marks an important change, which introduces us to the last stage of the recorded acts of Paul in this historical account. Rome is the goal which looms up before him. “I must also see Rome.” And he saw Rome, but not in the way as he purposed in his spirit, but as the prisoner of the Lord. His journey begins now towards that great city, and at the close of the book we find him there a prisoner. The story of his journey to Jerusalem, a journey in which he perseveres though repeatedly warned by the Spirit of God, his arrest in Jerusalem, his trials and addresses before the Jews, before Felix, Festus and King Agrippa, his voyage to Rome and shipwreck and arrival in Rome, are the contents of the remaining part of our book.\n\nThe question has often been raised how the purposing of Paul in the spirit to go again to Jerusalem is to be understood. Is the word “spirit” to be written with a capital “S” or not? In other words, did he purpose in the Spirit of God, after prolonged prayer, to go up to Jerusalem? Did the Holy Spirit guide him to take up to the city of his fathers the contributions from Achaia and Macedonia for the poor saints? (Romans 15:25-26). It could not have been the Spirit of God who prompted him to go once more to Jerusalem, for we find that during the journey the Holy Spirit warned him a number of times not to go to Jerusalem.\n\nHe was called to evangelize; to continue to preach the glorious Gospel, and it was a turning aside from the great ministry committed unto him. But behind his burning desire to go up to Jerusalem stood the mighty constraint of love for his own beloved brethren. How he did love them and how his heart, filled with the love of God, yearned over them! This love is so fully expressed in his epistle to the Romans. “I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Spirit, that I have great heaviness and continual sorrow in my heart. For I could wish that myself were accursed (or separated) from Christ for my brethren, my kinsmen according to the flesh” (Romans 9:1-2). “Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved” (Romans 10:1). This holy love and courage prompted him to say, when once more his brethren had besought him by the Spirit not to go up to Jerusalem, “What mean ye to weep and break my heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus” (Acts 21:13).\n\nIn the close of this chapter we read of the great opposition and riot in Ephesus and the Apostle’s persecution."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 20
+ }
+}

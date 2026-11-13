@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Psalms 131. How long? Answer me, Jehovah (Psalms 13:1-4)\n\n2. The victory of faith (Psalms 13:5-6)\n\nPsalms 13:1-4. Four times “How long?” The trial of faith becomes more severe. Sorrow is in the heart and an enemy is outside. Has then Jehovah forgotten? The hearts begin to despair; an answer is demanded, it must come “lest I sleep the sleep of death.”\n\nPsalms 13:5-6. But here comes the change. Faith triumphs and is victorious. “I have trusted in Thy mercy; my heart shall rejoice in Thy salvation. I will sing unto Jehovah, for He hath dealt bountifully with me.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 14
+ }
+}

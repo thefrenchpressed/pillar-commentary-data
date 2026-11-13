@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "scofield",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "keep the passover -- Cf. the order of the feasts in Lev. 23. Here the Passover and Tabernacles are given especial emphasis as marking the beginning and the consummation of God's ways with Israel; the former speaking of redemption, the foundation of all: the latter, or re-gathered Israel blessed in the kingdom. Between, in Deuteronomy 16:9-12 comes the Feast of Weeks--the joy of a redeemed people, anticipating a greater blessing yet to come. It is, morally, Romans 5:1,2.\n\nAbib -- First month i.e. April."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "grove -- The groves (Heb. Asherim) so often mentioned in the OT were devoted to the worship of Ashtereth, the Babylonian goddess Ishtar, the Aphrodite of the Greeks, the Roman Venus. CF.\n\n(See Scofield \"Judges 2:13\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 17
+ }
+}

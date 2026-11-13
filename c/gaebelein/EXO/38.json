@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "gaebelein",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 38,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 38 The Burnt Offering Altar, the Laver, the Court and the Metals Used\n\n1. The altar of burnt offering (Exodus 38:1-7)\n\n2. The laver (Exodus 38:8)\n\n3. The court (Exodus 38:9-20)\n\n4. The amount of metal used (Exodus 38:21-31)\n\nThe pattern as previously given is closely followed and everything done according to the divine command. Nothing was left in the work to the choice of the workman. They had the pattern and the spirit of God gave the power to carry it out. Thus God expects us to work and serve after His own pattern in the power of the indwelling Spirit. He will eventually carry out all His revealed plans and purposes concerning this earth. Women furnished the material for the laver. They gave their looking glasses, which were of shining metal. (See Job 37:18.) They were pious women of Israel who gave willingly what must have been a costly possession. They assembled at the door of the tabernacle. The Chaldean paraphrase is “of the mirrors of the women, which came to pray at the door of the tabernacle.”\n\nInteresting is the estimate of the amount of metal used. Gold occupies the first place: 29 talents and 730 shekels. Silver was given by every male a half of a shekel (the atonement money). The number of men from 20 years and upward was 603,550; so they gave 301,775 shekels of silver. Then there was the brass (copper). Precious metals, like gold and silver, were plentiful in Egypt, which had immense gold mines."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 38
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EXO",
+  "chapter": 39
+ }
+}

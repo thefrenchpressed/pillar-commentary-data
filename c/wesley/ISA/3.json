@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": "Great confusion on both people and rulers for their sin and impudence in it, ver. 1-9. Peace to the righteous, and misery to the wicked, ver. 10, 11. The oppression and covetousness of the rulers, ver. 12-15. The pride of women, and its judgments, ver. 16-26.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The judge - The civil magistrates. The ancient - Whose wisdom was increased by long experience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Oppressed - By thy command or permission of such childish rulers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Thou hast - We are utterly undone, and have neither food nor raiment; but thou hast something left to support the dignity which we offer to thee. Under thine hand - To heal it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "An healer - A repairer of the ruins of the state."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The shew - Their pride, and wantonness, and impiety m manifestly shews itself in their very looks. They declare - They act it publickly, casting off all fear of God and reverence to men. Rewarded - Procured a fit recompense for their wickedness, even utter ruin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Say ye - O ye priests and Levites, that God will be their safeguard and portion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Women - Weak and effeminate rulers. They - Thy rulers civil and ecclesiastical."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Standeth - He will shortly and certainly stand up as a judge, to enquire into the cause, and to give sentence. To judge - To defend and deliver them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Ancients - The princes or rulers; such were commonly chosen out of those who were in ripe years. Eaten - Destroyed instead of preserving the church and commonwealth of Israel. Spoil - The goods which you have violently taken away from the poor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The daughters - The women; (hitherto he reproved the men). A tinkling - By some ornaments which they wore upon their shoes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Secret paths - By giving her into the power of those enemies that shall strip her of all her raiment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Cauls - It is agreed by all, that this and several words that follow, were ornaments used in those times. And it is of no concern, exactly to understand the nature and differences of them. The moon - There were in ancient times, and at this day there are some ornaments worn, which carry a manifest resemblance to the moon or half moon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Tablets - He seems to mean boxes of perfumes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Nose - jewels - Which were fastened to the head, and hung down upon the forehead to the beginning of the nose."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Pins - Of silver or gold, either used to curl the hair, or fastened and worn in the hair."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Glasses - The looking - glasses, as we call them, tho' in truth they were not made of glass, but of bright and burnished brass."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Girdle - Which were fine and costly, and useful to gird their garments about them. A rent - Torn and tattered garments. Burning - By the heat of the sun, to which they are now commonly exposed, from which they used formerly to guard themselves with the utmost care."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Gates - The gates of Zion or Jerusalem, which, by a figure, are said to lament, to imply the great desolation of the place; that there would be no people to go out and come in by the gates, as they used to do. Shall sit - Like a mournful woman bewailing the loss of her husband and children."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 4
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1TH",
+  "commentaryId": "wesley",
+  "name": "1 Thessalonians",
+  "commonName": "1 Thessalonians",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "THIS is the first of all the epistles which St. Paul wrote. Thessalonica was one of the chief cities of Macedonia. Hither St. Paul went after the persecution at Philippi: but he had not preached here long before the unbelieving Jews raised a tumult against him and Silvanus and Timotheus. On this the brethren sent them away to Berea. Thence St. Paul went by sea to Athens, and sent for Silvanus and Timotheus to come speedily to him. But being in fear, lest the Thessalonian converts should be moved from their steadfastness, after a short time he sends Timotheus to them, to know the state of their church. Timotheus returning found the apostle at Corinth from whence he sent them this epistle, about a year after he had been at Thessalonica. The parts of it are these:\n\nI. The inscription, Chap. i, 1\n\nII. He celebrates the grace of God towards them,. 2-10 Mentions the sincerity of himself and his fellowlabourers, ii. 1-12 And the teachableness of the Thessalonians,. 13-16\n\nIII. He declares,\n\n1. His desire, 17-20\n\n2. His care, iii. 1-5\n\n3. His joy and prayer for them, 6-13\n\nIV. He exhorts them to grow,\n\n1. In holiness, iv.1-8\n\n2. In brotherly love with industry, 9-12\n\nV. He teaches and exhorts,\n\n1. Concerning them that sleep, 13-18\n\n2. Concerning the times, v.1-11\n\nVI. He adds miscellaneous exhortations, 12-24\n\nVII. The conclusion, 25-28\n\n1 THESSALONIANS",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Paul - In this epistle St. Paul neither uses the title of an apostle, nor any other, as writing to pious and simple - hearted men, with the utmost familiarity. There is a peculiar sweetness in this epistle, unmixed with any sharpness or reproof: those evils which the apostles afterward reproved having not yet crept into the church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Remembering in the sight of God - That is, praising him for it. Your work of faith - Your active, ever - working faith. And labour of love - Love continually labouring for the bodies or souls of men. They who do not thus labour, do not love. Faith works, love labours, hope patiently suffers all things."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Knowing your election - Which is through faith, by these plain proofs."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "With power - Piercing the very heart with a sense of sin and deeply convincing you of your want of a Saviour from guilt, misery, and eternal ruin. With the Holy Ghost - Bearing an outward testimony, by miracles, to the truth of what we preached, and you felt: also by his descent through laying on of hands. With much assurance - Literally, with full assurance, and much of it: the Spirit bearing witness by shedding the love of God abroad in your hearts, which is the highest testimony that can be given. And these signs, if not the miraculous gifts, always attend the preaching of the gospel, unless it be in vain: neither are the extraordinary operations of the Holy Ghost ever wholly withheld, where the gospel is preached with power, and men are alive to God. For your sake - Seeking your advantage, not our own."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Though in much affliction, yet with much joy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "For from you the word sounded forth - (Thessalonica being a city of great commerce.) Being echoed, as it were, from you. And your conversion was divulged far beyond Macedonia and Achaia. So that we need not speak anything - Concerning it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "For they themselves - The people wherever we come."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Whom he hath raised from the dead - In proof of his future coming to judgment. Who delivereth us - He redeemed us once; he delivers us continually; and will deliver all that believe from the wrath, the eternal vengeance, which will then come upon the ungodly."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1TH",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "COL",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1TH",
+  "chapter": 2
+ }
+}

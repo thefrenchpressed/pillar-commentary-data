@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "scofield",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "James -- (See Scofield \"Matthew 4:21\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "3\n\nwas transfigured\n\nThe transfiguration scene contains, in miniature, all the elements of the future kingdom in manifestation:\n\n(1) the Lord, not in humiliation, but in glory (v. 2).\n\n(2) Moses, glorified, representative of the redeemed who have passed through death into the kingdom. Matthew 13:43; Luke 9:30,31.\n\n(3) Elijah, glorified, representative of the redeemed who have entered the kingdom by translation. 1 Corinthians 15:50-53; 1 Thessalonians 4:14-17.\n\n(4) Peter, James, and John, not glorified, representatives (for the moment) of Israel in the flesh in the future kingdom Ezekiel 37:21-27.\n\n(5) The multitude at the foot of the mountain Matthew 17:2, representative of the nations who are to be brought into the kingdom after it is established over Israel Isaiah 11:10-12, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Son of man -- Also Matthew 17:12,22, (See Scofield \"Matthew 8:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Why then say the scribes that Elias must first come -- Cf Matthew 11:14; Mark 9:11,12,13; Luke 1:17; Malachi 3:1; 4:5,6 All the passages must be construed together.\n\n(1) Christ confirms the specific and still unfulfilled prophecy of Malachi 4:5,6: \"Elias shall truly first come and restore all things.\" Here, as in Malachi, the prediction fulfilled in John the Baptist, and that yet to be fulfilled in Elijah, are kept distinct.\n\n(2) But John the Baptist had come already, and with a ministry so completely in the spirit and power of Elijah's future ministry Luke 1:17 that in an adumbrative and typical sense it could be said: \"Elias is come already.\" Cf; Matthew 10:40; Philemon 1:12,17 where the same thought of identification, while yet preserving personal distinction, occurs. John 1:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "devil -- demon. (See Scofield \"Matthew 7:22\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Howbeit -- The two best MSS. omit verse 21."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 18
+ }
+}

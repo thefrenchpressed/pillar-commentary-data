@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "gaebelein",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 11\n\n1. Peter’s Defense in Jerusalem (Acts 11:1-18).\n\n2. The Beginning of the Church in Antioch (Acts 11:19-21).\n\n3. Barnabas sent to Antioch (Acts 11:22-26).\n\n4. The Prophecy of Agabus (Acts 11:27-30).\n\nPeter silenced the objections of his brethren in Jerusalem by a rehearsal of his experience. Acts 11:19 connects with Acts 8:4. Antioch comes now into prominence as the great Gentile center of Christianity. A great number believed and turned unto the Lord. Then Barnabas was sent to Antioch to inspect the great work. They wanted to know in Jerusalem if the reports were true, and if true the assembly had to be recognized as such.\n\nThis shows that the Oneness of the church, though not yet fully made known by revelation, was nevertheless realized through the Holy Spirit. And that a blessed relationship existed between the assembly in Jerusalem and the one in Antioch, is seen by Peter’s visit in that city, when in the liberty wherewith Christ has made us free, he ate with these believing Gentiles and enjoyed fellowship with them (Galatians 2:11-12).\n\nThe movement also attracted the attention of the outsiders. They called them “Christians.” The Jews, it is certain, did not give this name, but the Gentiles invented it. Antioch was famous for its readiness to jeer and call names; it was known by its witty epigrams. So they coined a new word, “Christianoi” --Christians. It is used exclusively by outsiders, as seen in the case of Agrippa, also see 1 Peter 4:16. Jews and Gentiles alike were called by this name, “Christians,” so that it bears testimony to the oneness of Jew and Gentile in Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ACT",
+  "chapter": 12
+ }
+}

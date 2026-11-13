@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ZEP",
+  "commentaryId": "scofield",
+  "name": "Zephaniah",
+  "commonName": "Zephaniah",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "trusted -- (See Scofield \"Psalms 2:12\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "then will I turn -- In Zephaniah the conversion of \"the peoples\" is stated out of the usual prophetic order, in which the blessing of Israel and the setting up of the kingdom precedes the conversion of the Gentiles. (See Scofield \"Zechariah 12:1\"). See Scofield \"Zechariah 12:8\". But the passage gives clear testimony as to when the conversion of the nations will occur. It is after the smiting of the nations. Cf. Isaiah 11:9 with context; Daniel 2:34,35; Psalms 2:5-8; Acts 15:15-17; Revelation 19:19-20:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "remnant -- (See Scofield \"Jeremiah 15:21\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "the midst of thee -- That this, and all like passages in the Prophets (see \"Kingdom (O.T.),\" Genesis 1:26; Zechariah 12:8 cannot refer to anything which occurred at the first coming of Christ is clear from the context. The precise reverse was true. (See Scofield \"Isaiah 11:1\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEP",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ZEP",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HAG",
+  "chapter": 1
+ }
+}

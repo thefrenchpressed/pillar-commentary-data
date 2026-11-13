@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 127,
+  "introduction": "We must trust in God for success in all enterprizes, ver. 1, 2. And for children, ver. 3-5. A song of degrees of Solomon.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Build - Assist and bless those that build it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "You - Builders, or watchmen. To sit - To use constant and unwearied diligence. So - By his blessing. Giveth - Freely, without that immoderate toiling, wherewith others pursue it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Children - The chief of these blessings. Heritage - Only from God's blessing, even as an inheritance is not the fruit of a man's own labour, but the gift of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Youth - These he prefers before other children, because they live longest with their parents, and to their comfort and support, whereas children born in old age seldom come to maturity before their parents death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Full - Who hath a numerous issue. Shall speak - They shall courageously plead their cause in courts of judicature, not fearing to be crushed by the might of their adversaries."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 127
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 126
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 128
+ }
+}

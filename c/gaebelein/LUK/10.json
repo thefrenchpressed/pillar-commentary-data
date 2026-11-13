@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "gaebelein",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 10\n\n1. The Seventy Appointed. (Luke 10:1-16)\n\n2. The Return of the Seventy and the True Rejoicing. (Luke 10:17-20)\n\n3. Jesus Rejoiced in Spirit. (Luke 10:21-24)\n\n4. The Question of the Lawyer. (Luke 10:25-29)\n\n5. The Parable of the Good Samaritan. (Luke 10:30-37)\n\n6. Martha and Mary. (Luke 10:38-42.)\n\nLuke 10:1-24\n\nSeventy others are commissioned by Him to be His heralds. They were to visit every city and place, which He would visit. How great and extended the labors of the Son of Man must have been. The Gospel of the Kingdom was then heralded as a witness. And He knew that the message would be rejected. The meek and lowly One, the friend of sinners pronounces as Judge the woes upon the cities, who had already rejected the message.\n\nWhen the messengers returned He said unto them, “I beheld Satan as lightning fall from heaven.” According to Revelation 12:1-17, he is still occupying the heavens and the casting out of Satan is still future. The Lord beheld this complete downfall of Satan; the work the seventy had done was but a little anticipation of that which is yet to come. Then He rejoiced. Three times we read of Him that He wept, but only once that He rejoiced. He uttered concerning Himself a great declaration, which reveals His glory. “All things are delivered to me of my Father: and no man knoweth who the Son is but the Father, and who the Father is but the Son, and he to whom the Son will reveal Him.” Only He who is very God could utter such a declaration.\n\nLuke 10:25-37\n\nThe lawyer’s question leads to the utterance of the parable of the good Samaritan, to answer the question, “Who is my neighbor?” The parable answers the question fully, but it also contains the most blessed Gospel truths. Jerusalem is the city of God; Jericho represents the world. The traveller is the type of humanity. Man has fallen in the awful road which leads down, fallen among thieves, naked, wounded, helpless and hopeless. The failure of the Priest and the scribe to help illustrates the inability of the law and the ordinances to save man out of his deplorable condition. The good Samaritan is the Lord Jesus Christ.\n\nHe came to the place where the lost are and He alone could have compassion on him. The wine typifies His precious blood He shed to save us. The oil is the type of the Holy Spirit, who applies the blood. He takes care of fallen man found by Him. The inn is typical of the church, where the Lord through His Spirit cares for His own. The two pence are not typical of “two sacraments” but speak of the reward, which those receive, who, under the Holy Spirit, care for souls.\n\nThe promised coming again with a greater reward offered is the Second Coming of our Lord. The Gospel of the Manhood records this parable exclusively.\n\nIn Luke 10:3, Luke 10:8-42 we find another incident reported exclusively by Luke. The story of Martha and Mary is closely linked with the preceding paragraph. Martha and Mary were both disciples. Martha was busy serving the Lord, while Mary took her place at His feet and let the Lord serve her. In this He delights.\n\n“Martha has received Christ into her house, and surely into her heart. If she is busy, she is busy serving Him; yet that does not prevent her being distracted by it. She is more: she is vexed and irritated. Mary her sister is sitting quietly at the feet of Jesus, listening to His word; and she blames even the Lord for permitting it, while she needs her help so much. But the Lord asserts that Mary has chosen the good part, and it is moreover the only needful thing: it shall not be taken from her.\n\nBut is learning of Jesus, then, the one needful thing? Is activity nothing? is service nothing? We may be sure the Lord is very far from meaning that. But if a man brings me, let us say, an apple, I do not despise it when I say, ‘The one thing is the tree that bears the apples.’“--Numerical Bible.\n\nTwice more we find in the Gospels Mary at the feet of the Lord. When her brother Lazarus, had died, she wept at His feet and He comforted her. When she anointed Him, Mary again was at His feet. She owned Him as Prophet (Luke 10:1-42) as Priest (John 11:1-57) and as King (John 12:1-50)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 11
+ }
+}

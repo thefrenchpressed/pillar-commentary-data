@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": "God shews Jeremiah the deliverance and return of the Jews, ver. 1-9. He comforts Jacob, ver. 10-17. Their return shall be gracious. Wrath on the wicked, ver. 18-24.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "In that day - In the day when God should deliver the seed of Jacob out of trouble. His yoke - The yoke of the king of Babylon, that power of his, which for seventy years he exercised over the Jews. Of him - Of the Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "But - Either this must be understood of the kingdom of Christ, under which the Jews that received him were made spiritually free: or there is a time yet to come, when this ancient people of God shall be restored to a farther civil liberty than they have enjoyed ever since the captivity of Babylon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "In measure - Not in equity only, but with moderation. Unpunished - But yet God will not let his own people go unpunished, that by it they may be reclaimed, and the world may take notice that God is of purer eyes than that he can, in any persons, behold iniquity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "For - They had sinned to that degree that God had resolved they should go into captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "No medicine - The prophet's design was to convince them, that there was no present remedy, but patience, though their false prophets might promise a cure."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Thy lovers - The Egyptians and Assyrians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "A continuing - Not a sudden blast, that shall presently go over, but a vengeance that shall abide."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Consider - And though at present they will not consider, yet afterward, when they see things come to pass, then they shall consider what I have told them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 31
+ }
+}

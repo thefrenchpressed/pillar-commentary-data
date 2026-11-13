@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2JN",
+  "commentaryId": "wesley",
+  "name": "2 John",
+  "commonName": "2 John",
+  "numberOfChapters": 1
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "THE parts of this epistle, written to some Christian matron, and her religious children, are three:\n\nI. The inscription, v. 1-3\n\nII. An exhortation to persevere in true faith and love,. 4-11\n\nIII. The conclusion, 12,13\n\n2nd JOHN",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The elder - An appellation suited to a familiar letter, but upon a weighty subject. To the elect - That is, Christian. Kuria is undoubtedly a proper name, both here and in 2Jo 1:5; for it was not then usual to apply the title of lady to any but the Roman empress; neither would such a manner of speaking have been suitable to the simplicity and dignity of the apostle. Whom - Both her and her children. I love in the truth - With unfeigned and holy love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "For the truth's sake, which abideth in us - As a living principle of faith and holiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Grace takes away guilt; mercy, misery: peace implies the abiding in grace and mercy. It includes the testimony of God's Spirit, both that we are his children, and that all our ways are acceptable to him. This is the very foretaste of heaven itself, where it is perfected. In truth and love - Or, faith and love, as St. Paul speaks. Faith and truth are here synonymous terms."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "I found of thy children - Probably in their aunt's house, 2Jo 1:13. Walking in the truth - In faith and love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "That which we had from the beginning - Of our Lord's ministry. Indeed it was, in some sense, from the beginning of the world. That we may love one another - More abundantly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "And this is the proof of true love, universal obedience built on the love of God. This - Love. Is the great commandment which ye have heard from the beginning - Of our preaching."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Carefully keep what ye have heard from the beginning, for many seducers are entered into the world, who confess not Jesus Christ that came in the flesh - Who disbelieve either his prophetic, or priestly, or kingly office. Whosoever does this is the seducer - From God. And the antichrist - Fighting against Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "That we lose not the things which we have wrought - Which every apostate does. But receive a full reward - Having fully employed all our talents to the glory of him that gave them. Here again the apostle modestly transfers it to himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Receive this as a certain rule: Whosoever transgresseth - Any law of God. Hath not God - For his Father and his God. He that abideth in the doctrine of Christ - Believing and obeying it. He hath both the Father and the Son - For his God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "If any came to you - Either as a teacher or a brother. And bring not this doctrine - That is, advance anything contrary to it. Receive him not into your house - As either a teacher or a brother - Neither bid him God speed - Give him no encouragement therein."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "For he that biddeth him God speed - That gives him any encouragement, is accessory to his evil deeds."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Having many things to write, I was not minded to write now - Only of these, which were then peculiarly needful."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The children of thy elect or Christian sister - Absent, if not dead, when the apostle wrote this."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2JN",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1JN",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "3JN",
+  "chapter": 1
+ }
+}

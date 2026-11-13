@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "gaebelein",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 8\n\n1. Prudence before kings (Ecclesiastes 8:1-10)\n\n2. Of the righteous and the wicked (Ecclesiastes 8:11-13)\n\n3. The conclusion (Ecclesiastes 8:14-17)\n\nEcclesiastes 8:1-10. What else had he seen? What were his further discoveries? He is still ardent in praising wisdom, though he had confessed “that it was far from him.” Wisdom makes the face to shine and the boldness of the face becomes changed. He cautions as to the governmental powers in the world, urges prudence and submission. He is a keen observer. But nothing can deliver from the power of the grave. The tyrannic ruler ruleth over another to his own hurt, but the power of the tyrant does not deliver him from the power of the grave and he is soon forgotten.\n\nEcclesiastes 8:11-13. But here is a true statement, which the natural man discovers by observation, for instance, in reading the pages of history. “Because sentence against an evil work is not speedily executed, therefore the heart of the sons of men is fully set in them to do evil.” Evil will be punished; man knows that by experience. And he knows “that it shall be well with them that fear God, which fear before Him. But it shall not be well with the wicked, neither shall he prolong his days which are as a shadow, because he feareth not God.” But what about his former saying, “Be not righteous overmuch--be not overmuch wicked?” He is in perplexity. But his reason, which has approved of “fearing God,” by which he knows that it shall be well on earth with the righteous, is now staggered, when he sees just men unto whom it happeneth according to the work of the wicked, and wicked men to whom it happeneth according to the work of the righteous. Nothing but contradictions! Like a shipwrecked man who strikes out amidst the raging waves to reach the land, and is constantly thrown back by the waves he tries to master, with all his wisdom, his searching, his conclusions and nice sayings, he is thrown back, and once more he cries his “vanity.”\n\nEcclesiastes 8:15-17. He is at the end of his wit. He moralized, spoke of things better; made his observations and gave exhortations; a measure of light he has to judge certain things, but the darkness is too overwhelming. His boasted wisdom has left him stranded completely. What then shall he say? In spite of the higher tone he assumed, he is back at his old conclusion, only more emphatic than before: “Then I commended mirth, because a man hath no better thing under the sun than to eat, and to drink, and to be merry; for that shall abide with him of his labor the days of his life, which God giveth him under the sun.” Enjoy life!\n\nThere is no better thing! Thank God through revelation we know “the better part,” that which satisfies and which abides. Then comes the confession of utter helplessness in Ecclesiastes 8:17. A man, the natural man, cannot find out, he is not able to find out anything."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 9
+ }
+}

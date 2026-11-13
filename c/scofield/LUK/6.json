@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "shewbread -- (See Scofield \"Exodus 25:30\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "sinners -- (See Scofield \"Romans 3:23\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Give -- See, Proverbs 28:27 (See Scofield \"2 Corinthians 8:1\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 7
+ }
+}

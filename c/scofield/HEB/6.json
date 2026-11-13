@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "scofield",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "perfection -- (See Scofield \"Matthew 5:48\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "impossible -- Hebrews 6:4-8 presents the case of Jewish professed believers who halt short of faith in Christ after advancing to the very threshold of salvation, even \"going along with\" the Holy Spirit in His work of enlightenment and conviction. John 16:8-10. It is not said that they had faith. This supposed person is like the spies at Kadesh-barnea Deuteronomy 1:19-26 who saw the land and had the very fruit of it in their hands, and yet turned back.\n\npartakers -- (Greek - ἱλάσκομαι,\" going along with)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "salvation -- (See Scofield \"Romans 1:16\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "HEB",
+  "chapter": 7
+ }
+}

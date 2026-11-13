@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "scofield",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "an image of gold -- The attempt of this great king of Babylon to unify the religions of his empire by self- deification will be repeated by the beast, the last head of the Gentile world-dominion Revelation 13:11-15 See note on \"Beast, the\" (See Scofield \"Daniel 7:8\") See Scofield \"Revelation 19:20\". It has repeatedly characterized Gentile authority in the earth, e.g.; Daniel 6:7; Acts 12:22 and the later Roman emperors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Chaldeans -- Cf. the conduct of Daniel, Daniel 2:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "and he will deliver us -- The three Jews, faithful to God while the nation of Israel far from their land bear no testimony, are a fit type of the Jewish remnant in the last days Isaiah 1:9; Romans 11:5 who will be faithful in the furnace of the great tribulation; Psalms 2:5; Revelation 7:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DAN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DAN",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DAN",
+  "chapter": 4
+ }
+}

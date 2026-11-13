@@ -1,0 +1,254 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": "God sends and strengthens the Babylonians against Judah, ver. 1-5. for her oppression and spoils, ver. 6-8. and obstinacy; which provokes God's wrath, ver. 9-12. Their covetousness, false confidence, and impudence; people and priests refuse to obey God, ver. 13-17. Their hypocritical worship shall not prevent their sure destruction, ver. 18-25. The people called to mourn, ver. 26. The prophet encouraged under their wickedness, and the fruitlessness of his ministry among them, ver. 27-30.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Benjamin - Judah, when the ten tribes fell off, the tribe of Benjamin adhered to Judah, and was incorporated into them; if it be asked why the prophet rather speaks to Benjamin than to Judah, the reason probably may be, because he being of Anathoth was of that tribe, and therefore mentions them as his own countrymen. Gather - Gather yourselves together by the sound of the trumpet at Tekoa, one of those fenced cities twelve miles from Jerusalem that Rehoboam built. A sign - Fire a beacon. Beth - haccerem - Signifies the house of the vineyard, probably some high tower built among the vineyards for the keepers of them to watch them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The shepherds - The Chaldean princes, with their armies, as so many flocks, shall come into this pleasant land. In his place - Each one in his quarter or station."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Prepare - These seem to be the words of God calling them to this work. Arise - This shews how ready they will be to obey God's call. The day goeth - We delay, and tarry too long, and the day spends apace. The shadows - They were so eagerly set upon it, that they watched the lengthening of the shadow, which shews the approach of the evening."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "This night - They would lose neither day nor night; which shews that, they were extraordinarily stirred up by God in this expedition."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Said - To the Chaldeans: God would have the Jews to know, that they have not so much to do with the Chaldeans as with him; that they are his rod to scourge them for their sins. And thus God is said to hiss for such whom he will employ in such work, Isa 5:26 7:18. And he styles himself the Lord of hosts, to shew that it is in vain to contend in battle with them, whom he sends forth. Trees - Such as you may have need of to raise up works against the strong places. Cast a mount - Throw up one continued trench, as a mount round about it. Oppression - There are found in her all kinds of oppression and injustice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Be thou instructed - I would yet willingly spare them if it might be. Depart - Heb. be disjointed, a most emphatical metaphor, whereby God would express how great grief it is to him to withdraw himself from them, even like the separating one limb from another."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Glean - Judah shalt be gleaned over and over, 'till there be a full end, none left. Turn back - As much as to say, they should not be content with one spoiling, but they should go back a second and a third time, to carry away both persons and spoil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Their ear - An uncircumcised ear, signifies the rejecting of instruction; an uncircumcised heart, an obstinate and rebellious will. They cannot - They had brought themselves under that incapacity by their obstinacy and wilfulness. A reproach - They laugh at it, and scorn it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "I am full - I am, as it were, filled with the fire of God's wrath, which I am forced to discharge myself of. Abroad - The streets being the places where children are wont to sport. The husband - One sex as well as the other, shall be a prey to the enemy. Full of days - Such as had filled up the number of their days, as were at the edge of the grave."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Falsely - Heb. doing falsehood, as if that were their whole work, the proper sin of the priests and prophets, to deceive the people, and to flatter them by false visions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "They have - This refers peculiarly to the prophets; making light of these threatenings, daubing over the misery and danger that was coming on the people, by persuading them, that it should not come, or if it did, it would be easily cured."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Committed - Both by encouraging the people, and joining with them in their idolatries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Stand - He now turns his speech to the people, and gives them counsel; by a metaphor taken from travellers, that being in doubt of their way, stand still, and consider, whether the direction they have received from some false guide, be right or not."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Trumpet - The voice of his prophet, intimating his loud crying upon the account of eminent danger."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Nations - He calls upon the nations round about to be spectators of his severity against Judah. What - The greatness of their punishment, as the effect of the greatness of their sins."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Sheba - A country in Arabia Faelix, to which country frankincense was peculiar. The sweet cane - The same that is mentioned as an ingredient in the holy oil, Exod 30:23. To what purpose art thou at this trouble and charge to fetch these ingredients for thy incense."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "I will say - I will suffer such things to be laid in their way, as shall be the occasion of their destruction. The neighbour - Men of all sorts and conditions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Behold - God shall stir up the Chaldeans like a great storm. The sides - The uttermost parts of the Babylonian territories."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "We - The prophet personates the peoples affections."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Go not forth - Expressing the great danger that there would be everywhere."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Gird thee - The prophet calls upon them to mourn in the deepest manner."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "I have set thee - Here God speaks by way of encouragement to the prophet, and tells him, he had made him a fortified tower, that he might be safe, notwithstanding all the attempts against him. And try - As refiners do metals; hereby be is encouraged to reprove them more freely, God will give him prudence to see what is amiss, and undauntedness to oppose it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The bellows - The prophet prosecutes his metaphor taken from refining of metals, intimating, that the prophets had spent their breath to no purpose, and their strength was consumed by their labour. The lead - The judgments which were heavy, as lead upon them, are all wasted, and do no good. In vain - Let the artist use his greatest skill and industry, yet is it all in vain."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Refuse - Such as will be rejected in payments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 7
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "wesley",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "There was a certain man before him - It does not appear that he was come thither with any insidious design. Probably he came, hoping for a cure, or perhaps was one of the family."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "And Jesus answering, spake - Answering the thoughts which he saw rising in their hearts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "He spake a parable - The ensuing discourse is so termed, because several parts are not to be understood literally. The general scope of it is, Not only at a marriage feast, but on every occasion, he that exalteth himself shall be abased, and he that abaseth himself shall be exalted."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Mt 23:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Call not thy friends - That is, I do not bid thee call thy friends or thy neighbours. Our Lord leaves these offices of humanity and courtesy as they were, and teaches a higher duty. But is it not implied herein, that we should be sparing in entertaining those that need it not, in order to assist those that do need, with all that is saved from those needless entertainments? Lest a recompense be made - This fear is as much unknown to the world, as even the fear of riches."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "One of them that sat at table hearing these things - And being touched therewith, said, Happy is he that shall eat bread in the kingdom of God - Alluding to what had just been spoken. It means, he that shall have a part in the resurrection of the just."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Then said he - Continuing the allusion. A certain man made a great supper - As if he had said, All men are not sensible of this happiness. Many might have a part in it, and will not."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "They all began to make excuse - One of them pleads only his own will, I go: another, a pretended necessity, I must needs go: the third, impossibility, I cannot come: all of them want the holy hatred mentioned Lu 14:26. All of them perish by things in themselves lawful. I must needs go - The most urgent worldly affairs frequently fall out just at the time when God makes the freest offers of salvation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The servant came and showed his lord these things - So ministers ought to lay before the Lord in prayer the obedience or disobedience of their hearers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Compel them to come in - With all the violence of love, and the force of God's word. Such compulsion, and such only, in matters of religion, was used by Christ and his apostles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "For refers to Go out, Lu 14:23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "If any man come to me, and hate not his father - Comparatively to Christ: yea, so as actually to renounce his field, oxen, wife, all things, and act as if he hated them, when they stand in competition with him. Mt 10:37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "And which of you intending to build a tower - That is, and whoever of you intends to follow me, let him first seriously weigh these things."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Another king - Does this mean, the prince of this world? Certainly he has greater numbers on his side. How numerous are his children and servants!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "So - Like this man, who, being afraid to face his enemy, sends to make peace with him, every one who forsaketh not all that he hath - By withdrawing his affections from all the creatures; By enjoying them only in and for God, only in such a measure and manner as leads to him; By hating them all, in the sense above mentioned, cannot be my disciple - But will surely desist from building that tower, neither can he persevere in fighting the good fight of faith."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Salt - Every Christian, but more eminently every minister. Mt 5:13; Mr 9:50."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 15
+ }
+}

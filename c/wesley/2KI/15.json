@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "wesley",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": "The reign of Azariah, ver. 1-7. Of Zachariah, ver. 8-12. Of Shallum, ver. 13-15. Of Menahem, ver. 16-22. Of Pekahiah, ver. 23-26. Of Pekah, ver. 27-31. Of Jotham, ver. 32-38.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "To reign - Solely and fully to exercise his regal power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "A leper - The cause whereof see 2Chron 26:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Six months - After the throne had been vacant several years, thro' the dissentions that were in the kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Full moon - That dominion seldom lasts long, which is founded in blood and falsehood."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Twentieth year - The meaning is, that he began his reign in the twentieth year after the beginning of Jotham's reign; or, which is the same thing, in the fourth year of Ahaz, son of Jotham."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "To reign - Alone: for he had reigned before this, as his father's deputy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Gate - Not of the temple, but of one of the courts of the temple, probably that which led to the king's palace."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 16
+ }
+}

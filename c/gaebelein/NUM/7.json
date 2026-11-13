@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "gaebelein",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "5. The Offerings of the PrincesCHAPTER 7\n\n1. The princes present their offerings (Numbers 7:1-3)\n\n2. The command concerning these offerings and the Levites (Numbers 7:4-11)\n\n3. The twelve princes and what they offered (Numbers 7:12-88)\n\n4. Moses hears the voice from the mercy-seat (Numbers 7:89)\n\nThis is the longest chapter in Numbers. The princes of Israel appear to bring their free-will offerings in six covered wagons drawn each by two oxen. No command had been given. With a willing heart they devoted of their possessions to the service of the sanctuary. The Lord accepting the offerings gave directions that the Gershonites and Merarites were to receive the wagons and the oxen for their service. The sons of Gershon received two wagons and four oxen and the sons of Merari four wagons and eight oxen.\n\nThe gift was according to the service into which Jehovah had called them. The Merarites had to take care of the heavy boards and the Lord provided the means to carry the burden and render the service. For all service into which He calls His people, He also provides the strength and the means for the service. The sons of Kohath received nothing. They needed no wagons and oxen; their service was to carry the precious things upon their shoulders.\n\nThe critics of the Word of God have found fault with the lengthy statements and repetitions concerning the twelve princes and their offerings. If these critics had penned this chapter, they would have given these offerings in a verse or two. But what unbelief belittles and rejects, is precious to faith. The details of the offerings and repetitions are written by the Holy Spirit, that we may know that Jehovah takes notice of the devotion and sacrifice of His people. He keeps a record of it all. The same eye, which followed the princes as they approached the tabernacle with their wagons, saw the two mites, which the poor widow deposited into the treasury; the same eye sees us. He will not forget the least service rendered unto Him.\n\nAll the twelve are called princes, except Nahshon of Judah. He, as the leader, the representative of Judah, must be the type of the Lord Jesus Christ, and He is more than a prince. We give a bird’s eye view of the persons named and their gifts.\n\nJehovah expressed His approval and His joy, after the offerings had been presented, by speaking to Moses in an audible voice, from between the Cherubim. The promise given in Exodus 25:21-22 was fulfilled."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 8
+ }
+}

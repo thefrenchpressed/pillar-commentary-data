@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": "The Psalmist exhorts the righteous to praise God, for his truth, justice and goodness, ver. 1-5, For creating the world, ver. 6-9. For his providence in governing it, ver. 10-17. For his peculiar favour to his people, encouraging them to trust in him, ver. 18-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Harp, &c. - These instruments were used in the publick worship of God in the tabernacle."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "A new song - Renewed or continued from day to day."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "The word - All God's counsels and commands are wise, and just, and good. His works - All his works of providence agree with his word, and are the accomplishment of his promises or threatenings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Goodness - He not only doth no man wrong, but he is kind and merciful to all men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The word - God made this admirable structure of the heavens, and all its glorious stars; not with great pains and time, but with one single word. Host - The angels: or the stars."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Store - houses - Either in the clouds, or in the bowels of the earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The Lord - Thus he passes from the work of creation, to the works of providence, and from the instances of his power, in senseless and irrational creatures, to his power in over - ruling the thoughts and wills, and actions of men, whether single or united."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Counsel - All his purposes and designs are always successful."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "All men - Although he hath a relation to Israel, yet he hath a general care over all mankind, all whose hearts and ways he observes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Fashioneth - Having said that God sees and observes all men, he now adds, that he rules and governs them; yea, even the hearts which are most unmanageable, he disposes and inclines according to the counsel of his will. Alike - Or, equally, one as well as another: whether they be Jews or Gentiles, princes or peasants; all are alike subject to his jurisdiction. Their works - Both outward and inward, all the workings of their minds and actions, and all their endeavours and actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "No king - He instances in these, as the most uncontrollable persons in the world, and most confident of themselves. By which he strongly proves his general proposition, of God's powerful providence over all men. By an host - But only by God's providence, who disposes of victory and success, as he pleases, and that frequently to the weakest side."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "An horse - Though he be strong and fit for battle, or for flight, if need requires. And so this is put for all warlike provisions. Vain things - Heb. a lie; because it promises that help and safety which it cannot give."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The eye - Whosoever therefore would have safety, must expect it only from the watchful eye, and almighty hand of God. That fear - These are the chief objects of his care and favour. Hope - That place their hope and trust, and happiness, not in any creature, but only in God, and in his mercy and blessings."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 34
+ }
+}

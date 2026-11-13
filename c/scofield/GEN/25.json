@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Keturah -- As Sarah stands for \"the mother of us all,\" i.e. of those who, by grace, are one with the true Son of promise, of whom Isaac was the type John 3:6-8; Galatians 4:26,28,29; Hebrews 2:11-13 and joint heirs of His wealth; Hebrews 1:2; Romans 8:16,17, so Keturah (wedded after the full blessing of Isaac) and her children by Abraham may well stand for the fertility of Israel the natural seed, Jehovah's wife Hosea 2:1-23 after the future national restoration under the Palestinian covenant.\n\n(See Scofield \"Deuteronomy 30:3\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Esau -- Esau stands for the mere man of the earth. Hebrews 12:16,17. In many respects a nobler man, naturally, than Jacob, he was destitute of faith, and despised the birthright because it was a spiritual thing, of value only as there was faith to apprehend it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "birthright -- The \"birthright\" had three elements:\n\n(1) Until the establishment of the Aaronic priesthood the head of the family exercised priestly rights.\n\n(2) The Abrahamic family held the Edenic promise of the Satan-Bruiser Genesis 3:15. --Abel, Seth, Shem, Abraham, Isaac, Esau.\n\n(3) Esau, as the firstborn, was in the direct line of the Abrahamic promise of the Earth-Blesser Genesis 12:3.\n\nFor all that was revealed, in Esau might have fulfilled those two great Messianic promises. This birthright Esau sold for a momentary fleshly gratification. Jacob's conception of the birthright at that time was, doubtless, carnal and inadequate, but his desire for it evidenced true faith."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 26
+ }
+}

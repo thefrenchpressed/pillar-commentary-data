@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "famine -- See note, (See Scofield \"Genesis 12:10\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "grave -- Heb. \"Sheol,\" (See Scofield \"Habakkuk 2:5\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 43
+ }
+}

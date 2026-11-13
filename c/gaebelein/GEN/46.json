@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 46 Jacob Goes Down to Egypt\n\n1. Israel’s departure and the vision (Genesis 46:1-4)\n\n2. The journey and the arrival in Egypt (Genesis 46:5-7)\n\n3. The offspring of the sons of Jacob (Genesis 46:8-27)\n\n4. Israel meets Joseph (Genesis 46:28-30)\n\n5. Joseph’s directions concerning Pharaoh (Genesis 46:31-34\n\nThe whole family of Jacob, consisting of seventy souls, exclusive of the wives and the servants, came to Egypt. Once more God appears to Israel, but addresses him as Jacob. He gives him permission to go down to Egypt and assures him of His presence. They were directed to the land of Goshen, which was east of Memphis. And what a meeting it was, when Joseph fell around his father’s neck and kissed him!\n\nThis emigration to Egypt was, without doubt, directed by the Lord for the purpose of guarding against the dispersion of the family, as well as against its admixture with strangers, during the important period which had arrived in which it was appointed to be developed as a nation; neither of these unfavorable results, which would have been inevitable in Canaan, could follow in Egypt: for Goshen afforded ample room for their increasing numbers, on the one hand, while, on the other, the aversion of the Egyptians to shepherds (Genesis 46:34) effectually prevented the formation of ties between them by intermarriage. Besides, the opportunity which was furnished for becoming acquainted with the wisdom of Egypt, and also the pressure of the future bondage, may have been both designed to serve, in the hands of God, as means for training and cultivating the chosen nation. And the transition from a nomadic to an agricultural life, which was designed to constitute the foundation of the polity of Israel on acquiring independence and a home in the promised land, may also be assigned, in its incipient stages, to this period.--J.H. Kurtz, sacred History."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 47
+ }
+}

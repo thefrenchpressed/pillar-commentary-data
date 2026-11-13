@@ -1,0 +1,209 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": "A song of praise and confidence in God, for the blessings of righteousness, judgments on their enemies, and favour to his people: their chastisement, repentance, and hope, ver. 1-21.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In that day - When God shall do such glorious works, as are described in the foregoing chapter. Sung - In the church of God. A city - Jerusalem, or the church, which is often compared to a city. For walls - God's immediate and saving protection shall be to his church instead of walls."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The gates - Of the city, mentioned ver.1. The nation - The whole body of righteous men, whether Jews or Gentiles. For he seems to speak here, as he apparently did in the foregoing chapter, of the times of the gospel. Keepeth truth - Which is sincere in the true religion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "For ever - In all times and conditions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "On high - He speaks not so much of height of place, as of dignity and power, in which sense also he mentions the lofty city in the next clause. Lofty city - Which may be understood either of proud Babylon, or of all the strong and stately cities of God's enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The needy - God will bring it under the feet of his poor, and weak, and despised people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Thou - O God, who art upright in all thy ways, and therefore a lover of uprightness, and of all upright men, dost weigh (examine) the path of the just, the course of his actions, and, which is implied, dost approve of them, and therefore direct them to an happy issue."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "In the night - When others are sleeping, my thoughts and desires are working towards God. Early - Betimes in the morning. For - And good reason it is that we should thus desire and seek thee in the way of thy judgments, because this is the very design of thy judgments, that men should thereby be awakened to learn and return to their duty; and this is a common effect, that those who have been careless in prosperity, are made wiser and better by afflictions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Will not learn - This is the carriage of thy people; but the course of wicked men is directly contrary in all conditions: for if thou dost spare them, they will not accept of that gracious invitation to repentance. In the land - Even in God's church, and among his people, where righteousness is taught and practised. Will not behold - Tho' God gives such plain discoveries of his majesty and glory, not only in his word, but also in works, and especially in this glorious work of his patience and mercy to wicked men, yet they will not acknowledge it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Will not see - And they are guilty of the same obstinate blindness when thou dost smite and punish them, which is commonly signified by lifting up the hand. They shall see - They shall know that by sad experience, which they would not learn by easier ways. These - Such fire or wrath as thou usest to pour forth upon thine implacable enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Our works - All the good works done by us, are the effects of thy grace."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Other lords - Others besides thee, and besides those governors who have been set up by thee, even foreign and heathen lords. By thee - By thy favour and help. Will we - Celebrate thy praise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Rise - Those tyrants are destroyed; they shall never live or rise again to molest us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The nation - This nation seems to be the people of Israel. Removed - Thou hast removed thy people out of their own land, and suffered them to be carried captive to the ends of the earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "They - Thy people. Visited - Come into thy presence, with their prayers and supplications."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Like - Such was our anguish and danger."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "We - We have had the torment of a woman in child - bearing, but not the comfort of a living child, for we have brought forth nothing but wind; all our labours and hopes were unsuccessful. The world - The Assyrians, or our other enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Thy - The prophet here turns his speech to God's people, and gives them a cordial in their distress. Thy dead men are not like those, ver.14, for they shall not live; but thine shall live. You shall be delivered from all your fears and dangers. My dead body - As I myself, who am one of these dead men, shall live again; you shall be delivered together with me. Awake - Out of your sleep, even the sleep of death, you that are dead and buried in the dust. Thy dew - The favour and blessing of God upon thee. The dew - Which makes them grow and flourish."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Shut thy doors - Withdraw thyself from the world, and pour out thy prayers to God in thy closet. Indignation - The dreadful effects of God's anger, mentioned in the following verse."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Cometh - Cometh down from heaven. To punish - All the enemies of God, and of his people. Her slain - The innocent blood which hath been spilled upon the earth shall be brought to light, and severely revenged upon the murderers."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 27
+ }
+}

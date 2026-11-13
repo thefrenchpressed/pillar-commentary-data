@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "scofield",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "angels -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "mystery -- (See Scofield \"Matthew 13:11\")\n\nBabylon -- See note 2, Isaiah 13:1 (See Scofield \"Isaiah 13:1\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")\n\nmystery -- (See Scofield \"Matthew 13:11\")"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "REV",
+  "chapter": 18
+ }
+}

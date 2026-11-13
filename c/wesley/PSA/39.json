@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": "David relates the struggle which had been in his breast, ver. 1-3. He meditates on man's frailty and mortality, ver. 4-6. He prays for pardon, deliverance from trouble, and respite from death, ver. 7-13. To the chief musician, even to Jeduthun, A psalm of David. Title of the psalm. Jeduthun - One of the three chief masters of the sacred musick, 1 Chron. xvi, 41, 42.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "I said - I fully resolved. Take heed - To order all my actions right, and particularly to govern my tongue."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Dumb - Two words put together, expressing the same thing, to aggravate or increase it. I held - I forbear to speak, what I justly might, lest I should break forth into some indecent expressions. Stirred - My silence did not assuage my grief, but increase it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "My end - Make me sensible of the shortness and uncertainly of life, and the near approach of death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Before thee - If compared with thee, and with thy everlasting duration."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Vain shew - Heb. in a shadow or image; in an imaginary rather than a real life: in the pursuit of vain imaginations, in which there is nothing solid or satisfactory: man in and his life, and all his happiness in this world, are rather appearances and dreams, than truths and realities. Disquieted - Heb. They make a noise, bustling, or tumult, with unwearied industry seeking for riches, and troubling and vexing both themselves and others in the pursuit of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Mow Lord - Seeing this life and all its enjoyments are so vain and short. My hope - I will seek for happiness no where but in God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Remove - Take off the judgment which thou hast inflicted upon me. I am - Help me before I am utterly lost."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Beauty - His comeliness and all his excellencies or felicities. Moth - As a moth consumeth a garment, to which God compares himself and his judgments, secretly and insensibly consuming a people, Isa 51:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A stranger - I am only in my journey or passage to my real home, which is in the other world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "No more - Among the living, or in this world."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 40
+ }
+}

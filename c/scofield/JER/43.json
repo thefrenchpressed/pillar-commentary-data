@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "scofield",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 43,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Tahpanhes -- See, Jeremiah 2:16; 44:1. Called \"Hanes,\" Isaiah 30:4. \\"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 43
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 42
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 44
+ }
+}

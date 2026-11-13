@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "1 Gomer 2 Magog 3 Madai 4 Javan 5 Tubal 6 Meshech 7 Tiras\n\n1 Progenitor of the ancient Cimerians and Cimbri, from whom are descended the Celtic family.\n\n2 From Magog are descended the ancient Scythians, or Tartars, whose descendants predominate in the modern Russia. Ezekiel 38:2; 39:6; Revelation 20:8.\n\n3 Progenitor of the ancient Medes.\n\n4 Progenitor of those who peopled Greece, Syria, etc.\n\n5 Tubal's descendants peopled the region south of the black Sea, from whence they spread north and south. It is probable that Tobolsk perpetuates the tribal name. A branch of this race peopled Spain.\n\n6 Progenitor of a race mentioned in connection with Tubal, Magog, and other northern nations. Broadly speaking, Russia, excluding the conquests of Peter the Great and his successors, is the modern land of Magog, Tubal, and Meshech.\n\n7 Progenitor of the Thracians.\n\nFrom these seven sons of Japheth are descended the goyim, or Gentile, nations, trans. \"heathen\" 148 times in the A.V. The name implies nothing concerning religion, meaning simply, non-Israelite, or \"foreigner.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "isles -- Lit. coasts. Settlement would naturally follow the coasts first."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Nineveh -- See note 1, Nahum 1:1. (See Scofield \"Nahum 1:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Nineveh -- (See Scofield \"Isaiah 13:1\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 11
+ }
+}

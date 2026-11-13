@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. Thou Shalt Remember! Provision and WarningCHAPTER 8\n\n1. Remember the forty years and Jehovah’s care (Deuteronomy 8:1-6)\n\n2. The gracious provision in the land (Deuteronomy 8:7-10)\n\n3. Warning against forgetting Jehovah (Deuteronomy 8:11-20)\n\nAdmonition to obedience begins this chapter. Disobedience and what will result from it closes it. Between the first and last verses we find extremely precious words. They are called upon to remember the experiences of the wilderness. It was Jehovah, who led them and watched over them. The wilderness experience was made a blessing to them.\n\nIt taught them the blessed lessons of humility and brought out all that was in their hearts. And this corresponds to our own experiences. Jehovah’s care over them had been manifested. They had to learn in the wilderness the lessons of dependence upon God. He supplied their need. They were fed with manna.\n\nTheir raiment waxed not old. Their feet did not even swell (Deuteronomy 29:5; Nehemiah 9:20-21). “As a man chasteneth a son, so the Lord thy God chasteneth thee.” And thus He still deals with His people, whom He loves and whom He has redeemed in His Son, the people He is leading home to Himself through the wilderness. Oh, that we may trust Him fully and yield ourselves to Him in obedience!\n\n“How wonderful to think of God’s patient grace and painstaking love with His people in the wilderness! What precious instruction for us! With what intense interest and spiritual delight we can hang over the record of the divine dealings with Israel in all their desert-wanderings! How much we can learn from the marvelous history! We, too, have to be humbled and proved, and made to know what is in our hearts. It is very profitable and morally wholesome.”\n\nVerse 3 was quoted by our Lord, when Satan asked Him to turn stones into bread. His perfect obedience to God was again revealed, when our Lord defeated Satan by quoting this verse.\n\nHe also gives them a glimpse of the good land. There would be abundance of water, no scarcity of food, wheat, barley, vines, fig trees, pomegranates, oil and honey. Then there were the hidden treasures in the mountains. These things speak typically of our blessings, the spiritual blessings, with which we are blessed in Christ Jesus, to which we are fully entitled, but which we can only enjoy if we walk in faith and obedience to His Word. Another solemn warning is given to them by their loving leader. The warning is against highmindedness and forgetting the Lord, who has done all these things.\n\nThe warning was not heeded and what Moses testified against them overtook them in their national history. May we also remember here the warning God has given to Gentile Christendom, not to be highminded, but to fear (Romans 11:17-24)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 9
+ }
+}

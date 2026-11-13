@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 61,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Psalms 61-68\n\nPsalms 61\n\nThe Identification of the King with His People\n\n1. His cry and their cry (Psalms 61:1-4)\n\n2. His answer and exaltation (Psalms 61:5-8)\n\nThe following eight Psalms are grouped together leading up again to the final deliverance of Israel and the glory of the Lord. The question in connection with this Psalm is, who is the king whose years shall be from generations to generations, that is forever, who shall abide in God’s presence forever? The ancient Jewish Targum says it is King Messiah, which is the true answer. This is the key to this Psalm. The King, Christ, is seen as identified with the remnant. He walked on earth trusting, having as the dependent Man His shelter in God. And so does the godly remnant trust and fleeing to the rock which is higher than they, find their shelter there also. And when the King comes back they will have their full deliverance."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 61
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 60
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 62
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "maclaren",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "’ S ROLL BURNED AND\n\nJeremiah 36:32.\n\nThis story brings us into the presence of the long death agony of the Jewish monarchy. The wretched Jehoiakim, the last king but two who reigned in Jerusalem, was put on the throne by the King of Egypt, as his tributary, and used by him as a buffer to bear the brunt of the Babylonian invasion. He seems to have had all the vices of Eastern sovereigns. He was covetous, cruel, tyrannous, lawless, heartless, senseless. He was lavishing money on a grand palace, built with cedar and painted in vermilion, when the nation was in its death-throes. He had neither valour nor goodness, and so little did he understand the forces at work in his times that he held by the rotten support of Egypt against the grim power of Babylon, and of course, when the former was driven like chaff before the assault of the latter, he shared the fate of his principal, and Judaea was overrun by Babylon, Jerusalem captured, and the poor creature on the throne bound in chains to be carried to Babylon, but, as would appear, discovered by Nebuchadnezzar to be pliable enough to make it safe to leave him behind, as his vassal.\n\nHis capture took place but a few months after the incident with which I am dealing now. It would appear probable that the confusion and alarm of the Babylonian assault on Egypt had led to a solemn fast in Jerusalem, at which the nation assembled.\n\nJeremiah, who had been prophesying for some thirty years, and had already been in peril of his life from the godless tyrant on the throne, was led to collect, in one book, his scattered prophecies and read them in the ears of the people gathered for the fast. That reading had no effect at all on the people. The roll was then read to the princes, and in them roused fear and interested curiosity, and kindly desire for the safety of Jeremiah and Baruch, his amanuensis. It was next read to the king, and he cut the roll leaf by leaf and threw it on the brasier, not afraid, nor penitent, but enraged and eager to capture Jeremiah and Baruch. The burnt roll was reproduced by God’s command, ‘and there were added besides... many like words.’\n\nI. The love of God necessarily prophesying evil.\n\nAs a matter of fact, the prophets of the Old Testament were all prophets of evil. They were watchmen seeing the sword and giving warning. No one ever spoke more plainly of the penalties of sin than did Christ. The authoritative revelation of the consequences of wrongdoing is an integral part of the gospel.\n\nIt is not the highest form of appeal. It would be higher to say, ‘Do right because it is right; love Christ because Christ is lovely.’ The purpose of such an appeal is to prepare us for the true gospel. But the appeal to a reasonable self-love, by warnings of the death which is the wages of sin, is perfectly legitimate. Dehortations from sin on the ground of its consequences is part of God’s message.\n\nFurther, the warning comes from love. Punishment must needs follow on sin. Even His love must compel God to punish, and to warn before He does. Surely that is kind. His punishments are made known beforehand that we may be sure that caprice and anger have no part in inflicting them, but that they are the settled order of an inviolable law, and constitutional procedure of a just kind. Whether is it better to live under a despot who smites as he will, or under a constitutional king whose code is made public.\n\nSurely it is needful to have clearly set forth the consequences of sin, in view of the sophistries buzzing round us all and nestling in our own hearts, of the deceitfulness of sin, of siren voices whispering, ‘Ye shall not surely die.’\n\nGod’s prophecies of evil are all conditional. They are sent on purpose that they may not be fulfilled.\n\nII. The loving warnings disregarded and disliked. Jehoiakim’s behaviour is very human and like what we all do. We see the same thing repeated in all similar crises. Cassandra. Jewish prophets. Christ. English Commonwealth. French Revolution. Blindness to all signs and hostility to the men that warn.\n\nWe see it in the attitude to the gospel revelation. The Scripture doctrine of punishment always rouses antagonism, and in this day revolts men. There is much in present tendencies to weaken the idea of future retribution. Modern philanthropy makes it hard sometimes to administer even human laws. The feeling is good, but this exaggeration of it bad. It is a reaction to some extent against an unchristian way of preaching Christian truth, but even admitting that, it still remains true that an integral part of the Christian revelation is the revelation of death as the wages of sin.\n\nWe see the same recoil of feeling operating in individual cases. How many of you are quite indifferent to the preaching of a judgment to come, or only conscious of a movement of dislike! But how foolish this is! If a man builds a house on a volcano, is it not kind to tell him that the lava is creeping over the side? Is it not kind to wake, even violently, a traveller who has fallen asleep on the snow, before drowsiness stiffens into death?\n\nIII. The impotent rejection and attempted destruction of the message.\n\nThe roll is destroyed, but it is renewed. You do not alter facts by neglecting them, nor abrogate a divine decree by disbelieving it. The awful law goes on its course. It is not pre-eminent seamanship to put the look-out man in irons because he sings out, ‘Breakers ahead.’ The crew do not abolish the reef so, but they end their last chance of avoiding it, and presently the shock comes, and the cruel coral tears through the hull.\n\nIV. The neglected message made harder and heavier.\n\nEvery rejection makes a man more obdurate. Every rejection increases criminality, and therefore increases punishment. Every rejection brings the punishment nearer.\n\nThe increased severity of the message comes from love.\n\nOh, think of the infinite ‘treasures of darkness’ which God has in reserve, and let the words of warning lead you to Jesus, that you may only hear and never experience the judgments of which they warn. Give Christ the roll of judgment and He will destroy it, nailing it to His cross, and instead of it will give you a book full of blessing."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 37
+ }
+}

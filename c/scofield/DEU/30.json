@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "scofield",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "turn thy captivity -- The Palestinian Covenant gives the conditions under which Israel entered the land of promise. It is important to see that the nation has never as yet taken the land under the unconditional Abrahamic Covenant, nor has it ever possessed the whole land (cf. Genesis 15:18; Numbers 34:1-12. The Palestinian Covenant is in seven parts.\n\n(1) Dispersion for disobedience, Deuteronomy 30:1; 28:63-68 (See Scofield \"Genesis 15:18\")\n\n(2) The future repentance of Israel while in the dispersion, Deuteronomy 30:2.\n\n(3) The return of the Lord, Deuteronomy 30:3; Amos 9:9-14; Acts 15:14-17.\n\n(4) Restoration to the land, Deuteronomy 30:5; Isaiah 11:11,12; Jeremiah 23:3-8; Ezekiel 37:21-25\n\n(5) National conversion, Deuteronomy 30:6; Romans 11:26,27; Hosea 2:14-16\n\n(6) The judgment of Israel's oppressors, Deuteronomy 30:7; Isaiah 14:1,2; Joel 3:1-8; Matthew 25:31-46\n\n(7) National prosperity, Deuteronomy 30:9; Amos 9:11-14\n\nFor Another Point of View: See Topic 301242\n\nSee, for the other seven covenants:\n\nEDENIC (See Scofield \"Genesis 1:28\") ADAMIC See Scofield \"Genesis 3:15\" ABRAHAMIC See Scofield \"Genesis 15:18\" NOAHIC See Scofield \"Genesis 9:1\" MOSAIC See Scofield \"Exodus 19:25\" DAVIDIC See Scofield \"2 Samuel 7:16\" NEW See Scofield \"Hebrews 8:8\""
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "DEU",
+  "chapter": 31
+ }
+}

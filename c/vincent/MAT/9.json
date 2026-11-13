@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "vincent",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Receipt of custom [τελωνιον]. Rev., place of toll. Wyc., tollbooth, toll - booth, or toll - cabin, which is an excellent word, though obsolete. Sitting at, is, literally sitting on: the elevated platform or bench which was the principal feature of the toll - office, as in modern custom - bazaars, being put for the whole establishment. This customs - office was a Capernaum, the landing - place for the many ships which traversed the lake or coasted from town to town; and this not only for those who had business in Capernaum, but for those who would there strike the great road of eastern commerce from Damascus to the harbors of the West. Cicero, in his oration on the Consular Provinces, accuses Gabinius, the pro - consul of Syria, of relieving the Syrians and Jews of some of their legitimate taxes, and of ordering the small building to be taken down, which the publicans had erected at the approaches to bridges, or at the termination of roads, or in the harbors, for the convenience of their slaves and collectors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "New [αγναφου]. From aj, not, and gnaptw, to card or comb wool; hence to dress or full cloth. Therefore Rev. renders more correctly undressed cloth, which would shrink when wet, and tear loose from the old piece. Wyc. renders rude. Jesus thus pictures the combination of the old forms of piety peculiar to John and his disciples with the new religious life emanating from himself, as the patching of an old garment with a piece of unfulled cloth, which would stretch and tear loose from the old fabric and make a worse rent than before."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Bottles [ασκους]. Rev., rightly, wine - skins, though our word bottle originally carried the true meaning, being a bottle of leather. In Spanish, bota means leather bottle, a boot, and a butt. In Spain wine is still brought to market in pig - skins. In the East, goat - skins are commonly used, with the rough side inward. When old, they break under the fermentation of the wine."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Is even now dead [αρτιετελευτησεν]. The literal force of the aorist tense is more graphic. Just now died."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Hem [κρασπεδου]. Rev., border. The fringe worn on the border of the outer garment, according to the command in Numbers 14:38. Dr. Edersheim (\" Life and Times of Jesus \") says that, according to tradition, each of the white fringes was to consist of eight threads, one of them wound round the others; first seven times, with a double knot; then eight times with a double knot; then eleven times with a double knot; and, lastly, thirteen times. The Hebrew characters representing these numbers formed the words Jehovah One."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Minstrels [αυλητας]. More correctly, as Rev., flute - players, hired or volunteering as mourners.\n\nMaking a noise [θορυβουμενον]. Rev., tumult. Representing the loud screaming and wailing by the women. It is the word used in Acts 17:5: \"Set the city in an uproar.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Dumb [κωφον]. The word is also used of deafness (Matthew 11:5; Mr 7:32; Luke 7:22). It means dull or blunted. Thus Homer applies it to the earth; the dull, senseless earth (\" Iliad, \"24 25). Also to a blunted dart (\" Iliad,\" 11 390). The classical writers use it of speech, hearing, sight, and mental perception. In the New Testament, only of hearing and speech, the meaning in each case being determined by the context."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Fainted [ησανεσκυλμενοι]. Rev., better, were distressed. Note the verb with the participle, denoting their habitual condition. The word originally means to flay, rend, or mangle. Aeschylus uses it of the tearing of dead bodies by fish (\" Persae, \" 577). As appropriate to the figure of sheep, it might be rendered here fleeced. Wyc., they were travailed.\n\nScattered [ερριμμενοι]. So A. V. and Rev. The word is the perfect participle passive of rJiptw, to throw or cast, and means thrown down, prostrated. So Wyc., lying. It is not the dispersion one from another, but their prostration in themselves that is meant. They have cast themselves down for very weariness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Send forth [εκβαλη]. So A. V. and Rev. But the word is stronger: thrust out, force them out, as from urgent necessity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 10
+ }
+}

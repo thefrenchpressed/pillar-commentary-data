@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "And it came to pass -- The spiritual experience of Abraham was marked by four great crises, each of which involved a surrender of something naturally most dear. These were:\n\n(1) Country and kindred Genesis 12:1; Matthew 10:34-39; 2 Corinthians 6:14-18\n\n(2) His nephew, Lot; especially dear to Abraham by nature, as a possible heir and as a fellow believer 2 Peter 2:7,8; Genesis 13:1-18. The completeness of Abraham's separation from one who, though a believer, was a \"vessel unto dishonour,\" is shown by; Genesis 15:1-3; 2 Timothy 2:20,21; Acts 15:36-40.\n\n(3) His own plan about Ishmael Genesis 17:17,18; 1 Chronicles 13:1-14; 15:1,2.\n\n(4) Isaac, \"thy son, thine only son Isaac, whom thou lovest\" Genesis 22:1-19; Hebrews 11:17,18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "laid -- The typical lessons here are:\n\n(1) Isaac, type of Christ \"obedient unto death\" Philippians 2:5-8.\n\n(2) Abraham, type of the Father, who \"spared not His own son, but delivered Him up for us all\" John 3:16; Romans 8:32.\n\n(3) the ram, type of substitution--Christ offered as a burnt-offering in our stead, Hebrews 10:5-10.\n\n(4) cf. resurrection Hebrews 11:17-19; James 2:21-23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "fearest -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 23
+ }
+}

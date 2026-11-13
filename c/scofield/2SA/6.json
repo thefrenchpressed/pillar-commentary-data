@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "scofield",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "new cart -- The story of David's new cart and its results is a striking illustration of the spiritual truth that blessing does not follow even the best intentions in the service of God except as that service is rendered in God's way. It is a constant point of failure. God had given explicit directions how the ark should be borne. Numbers 4:1-15 but David adopted a Philistine expedient.\n\n1 Samuel 6:7,8. The church is full of Philistine ways of doing service to Christ. Cf.; 1 Corinthians 1:17-31; 2 Corinthians 10:4,5. See, also, 1 Chronicles 15:2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 7
+ }
+}

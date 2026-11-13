@@ -1,0 +1,236 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "wesley",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": "Elihu proceeding bespeaks the attention of the company, ver. 1-4. Charges Job with other indecent expressions, ver. 5-9. Shews God's justice, sovereignty, power, omniscience, ver. 10-25. His severity against sinners, ver. 26-28. His over-ruling providence, ver. 29, 30. Teaches Job what he ought to say, ver. 31, 32. Appeals to his own conscience, and concludes with reproving him for murmuring, ver. 33-37.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Ear - The ear, is put for the mind to which things are conveyed by it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Let us - Not contend for victory, but for truth and equity. Know - Let us shew one another who hath the best cause."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Said - I am so far righteous, that I have not deserved, such hard usage from God. Had taken - So Job had said, chap.27:2, he denies me that which is just and equal, to give me a fair hearing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Should I lie - So Job had said in effect, chap.27:4,5,6, should I falsely accuse myself of sins of which I am not guilty? Without transgression - Without any such crying, sin, as might reasonably bring down such terrible judgments upon my head."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Like water - Abundantly and greedily: who doth so break forth into scornful expressions, not only against his friends, but in some sort against God himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Who goeth - Although I dare not say, that he is a wicked man, yet in this matter he speaks and acts like one of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "He said - Not in express terms, but by consequence; because he said that good men were no less, nay, sometimes more miserable here than the wicked."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Pervert - As Job hath affirmed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Who - Who or where is his superior that made the world, and, then delivered the government of it to God? God himself is the sole creator, the absolute Lord of all, and therefore cannot do unjustly: because the creator and Lord of the world must needs have all possible perfections in himself, and amongst others, perfect justice. Disposed - Or, committed, to him, to be governed by him, in the name, of his Lord, to whom he must give an account."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "All - The design of this and the foregoing verse is the same with that of ver.13, namely, to declare God's absolute and uncontrollable sovereignty over all men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Shall he - That is unrighteous. Govern - Elihu's argument is the same with that of Abraham, Gen 18:25, and that of St. Paul, Rom 3:5,6. If God be unrighteous, how shall he judge or govern the world? And the argument is undeniable: if God were unjust, there would be nothing but injustice and confusion in the world, whereas we see there is a great deal of justice administered in the world, and all this must proceed from him who is the fountain of all justice, and rule, and authority. And he that makes men just, shall he be unjust? Most just - God, who hath given so many clear and unquestionable evidences of his justice, in giving just and holy laws, in encouraging and rewarding righteous persons in this life, and inflicting dreadful judgments upon tyrants and oppressors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Wicked - Though a king may be wicked, yet his subjects neither may nor dare call him so."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "For - God doth not destroy either prince or people unjustly, no nor out of his mere pleasure, but for their sins, which he sees exactly, although they use all possible arts to hide them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "As - Because they are wicked men. In the open light - In publick view for their greater shame, and for the greater glory of his justice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Cry of the poor - Their case is bad, who have the prayers and tears of the poor against them: for these will draw down vengeance sooner or later, on the heads of their oppressors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Whether - God can carry on his work either of mercy or justice, as irresistible upon an whole nation as upon one particular person."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Reign not - May not continue his tyranny, lest the people be ensnared, lest the people should be longer kept in the the snares of oppression; God doth this to free poor oppressed people from the snares which ungodly men lay for them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "That - The secret sins which I cannot discover, manifest thou to me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Should it be - Doth God need thy advice how to govern the world, and whom, and when to reward or punish? Refuse - To submit as is expressed, ver.32. Therefore - If thou canst say any thing for thyself, I am ready to hear thy defence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Let - I am content that any wise man should judge of my words, and let such consider what I say."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "End - Throughly and exactly, 'till the cause be brought to an issue. Wicked men - On their behalf; he hath put arguments into their mouths against God and his providence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Addeth - He sinned before, by impatience under his afflictions, now he is grown obstinate, and instead of humbling himself for his sins, justifies himself, and accuses the blessed God. Clapped - Insulting and triumphing. Against God - In effect, though not directly."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 35
+ }
+}

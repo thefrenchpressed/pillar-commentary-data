@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "maclaren",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "THE FIRST STAGE IN THE LEPER’ S\n\nLeviticus 14:1 - Leviticus 14:7.\n\nThe whole treatment of leprosy is parabolic. Leprosy itself is a ‘parable of death.’ The horrible loathsomeness, the contagiousness, the non-curableness, etc. So the man was shut out from camp and from sanctuary. There was a double process in the cleansing rite, restoring to each.\n\nI. Sketch the ceremonial. Two birds, one slain over a vessel of water so that its blood drained in. Then the living bird was to be dipped into this water and blood, along with cedar, scarlet, and hyssop, and the man sprinkled seven times and the living bird set loose.\n\nII. The significance. This elaborate symbolism was partly intelligible even then. Two birds, like the two goats on the Atonement Day. Did both in some sense symbolise the man? The first one was not exactly a sacrifice. Its death points to the physical death which was the end of the disease, but also in some sense its death symbolised the death by which cleansing was secured.\n\n\\ The purifying water is made by blood added to it, i.e. cleansing by sacrifice.\n\n‘By water and by blood.’\n\n\\ The sevenfold sprinkling. The cedar, symbol of incorruptibility; the scarlet, of full vital energy; the hyssop, of purifying. So the thought was suggested of the communication of cleansing, full health and incorruption, undecaying strength; all physical contrasts to leprosy sevenfold.\n\n\\ The free, glad activity. The freed bird. The restored leper."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "LEV",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "LEV",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "LEV",
+  "chapter": 16
+ }
+}

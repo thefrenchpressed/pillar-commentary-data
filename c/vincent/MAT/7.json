@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "vincent",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Beholdest [βλεπεις]. Staring at from without, as one who does not see clearly.\n\nConsiderest [κατανοεις]. A stronger word, apprehendest from within, what is already there.\n\nMote [καρφος]. A. V. and Rev. The word mote, however, suggests dust; whereas the figure is that of a minute chip or splinter, of the same material with the beam. Wyc. renders festu, with the explanation, a little mote. In explaining the passage it is well to remember that the obstruction to sight is of the same material in both cases.\n\nThe man with a great beam in his eye, who therefore can see nothing accurately, proposes to remove the little splinter from his brother's eye, a delicate operation, requiring clear sight. The figure of a splinter to represent something painful or annoying is a common oriental one. Tholuck (\" Sermon on the Mount \") quotes from the Arabic several passages in point, and one which is literally our Lord's saying: \"How seest thou the splinter in thy brother's eye, and seest not the cross - beam in thine eye?\"\n\nBeam [δοκον]. A log, joist, rafter; indicating a great fault."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "See clearly [διαβλεψεις]. The preposition dia, through, giving the sense of thoroughness. Compare the simple verb blepeiv (beholdest), ver. 3. With the beam in thine eye thou starest at thy brother's little failing. Pull out the beam; then thou shalt see clearly, not only the fault itself, but how to help thy brother get rid of it.\n\nTo cast out [εκβαλειν]. The Lord's words assume that the object of scrutiny is not only nor mainly detection, but correction. Hence thou shalt see clearly, not the mote, but to cast out the mote."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "That which is holy [τοαγιον]. The holy thing, as of something commonly recognized as sacred. The reference is to the meat offered in sacrifice. The picture is that of a priest throwing a piece of flesh from the altar of burnt - offering to one of the numerous dogs which infest the streets of Eastern cities.\n\nPearls before swine [μαργαριταςεμπροσθεντωνχοιρων]. Another picture of a rich man wantonly throwing handfuls of small pearls to swine. Swine in Palestine were at best but half - tamed, the hog being an unclean animal. The wild boar haunts the Jordan valley to this day. Small pearls, called by jewellers seed - pearls, would resemble the pease or maize on which the swine feed. They would rush upon them when scattered, and, discovering the cheat, would trample upon them and turn their tusks upon the man who scattered them.\n\nTurn [στραφεντες]. The Rev. properly omits again. The word graphically pictures the quick, sharp turn of the boar.\n\nRend [ρηξωσιν]. Lit., break; and well chosen to express the peculiar character of the wound made by the boar's tusk, which is not a cut, but a long tear or rip."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Bread, a stone [αρτον, λιθον]. Rev. for bread reads loaf, which is better. On the resemblance of certain stones to cakes of bread, see on Matthew 4:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Strait gate [στενηςπυλης]. Rev., narrow. A remarkable parallel to this passage occurs in the \"Pinax\" or \"Tablet\" of Cebes, a writer contemporary with Socrates. In this, human life, with its dangers and temptations, is symbolically represented as on a tablet. The passage is as follows: \"Seest thou not, then, a little door, and a way before the door, which is not much crowded, but very few travel it? This is the way which leadeth into true culture.\"\n\nLeadeth [απαγουσα]. Lit., leadeth away, from death, or, perhaps, from the broad road. Note that the gate is not at the end, but at the beginning of the road."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Ye shall know [επιγνωσεσθε]. The compound verb indicates full knowledge. Character is satisfactorily tested by its fruits."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Have we not [ου]. That form of the negative is used which expects an affirmative answer. It therefore pictures both the self - conceit and the self - deception of these persons. \"Surely we have prophesied,\" etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Profess [ομολογησω]. The word which is used elsewhere of open confession of Christ before men (Matthew 10:32; Romans 10:9); of John's public declaration that he was not the Christ (John 1:20); of Herod's promise to Salome in the presence of his guests (Matthew 14:7). Hence, therefore, of Christ's open, public declaration as Judge of the world. \"There is great authority in this saying,\" remarks Bengel.\n\n24 sqq. I will liken him, etc. The picture is not of two men deliberately selecting foundations, but it contrasts one who carefully chooses and prepares his foundation with one who builds at hap - hazard. This is more strongly brought out by Luke (vi. 48): \"Who digged and went deep, and laid a foundation upon the rock\" (Rev.). Kitto (\" Pictorial Bible \") says: \"At this very day the mode of building in Christ's own town of Nazareth suggest the source of this image. Dr.\n\nRobinson was entertained in the house of a Greek Arab. The house had just been built, and was not yet finished. In order to lay the foundations he had dug down to the solid rock, as is usual throughout the country here, to the depth of thirty feet, and then built up arches.\" The abrupt style of ver. 25 pictures the sudden coming of the storm which sweeps away the house on the sand:\n\n\"Descended the rain, and came the floods, and blew the winds.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Great was the fall of it. The conclusion of the Sermon on the Mount. \"Thus,\" remarks Bengel, \"it is not necessary for every sermon to end with consolation.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Were astonished [εξεπλησσοντο]. From ejk, out of, and plhssw, to strike. Often to drive one out of his senses by a sudden shock, and therefore here of amazement. They were astounded. We have a similar expression, though not so strong: \"I was struck with this or that remarkable thing.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "He taught [ηνδιδασκων]. He was teaching. This union of the verb and participle emphasized the idea of duration or habit more than the simple tense."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MAT",
+  "chapter": 8
+ }
+}

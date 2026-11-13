@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 41\n\n1. Leviathan, the untamable beast of power (Job 41:1-11)\n\n2. Its description (Job 41:12-24)\n\n3. His remarkable strength (Job 41:25-34)\n\nJob 41:1-11. The leviathan has generally been identified with the crocodile. Like the behemoth, the leviathan is a strong and untamable beast. Jehovah asks, Canst thou draw up leviathan with a hook? Canst thou pierce his jaw with a reed? Will he make a covenant with thee? Wilt thou take him for a servant forever? Then He declares that he is fierce, and even at the sight of him one is cast down. And if a creature is so mighty and strong what must the One be who called this creature into existence? Job 41:10 and Job 41:11 should be rendered as follows: “Who then is able to stand before Me (the Creator)? who did give to me first that I should repay him? since all beneath the heavens is mine.”\n\nJob 41:12-24. A more detailed description of the leviathan follows. His frame is strong; his outer garment, so invulnerable, who can strip it off? His teeth are terrible, who can open the doors of his face (his mouth)? His scales, his armour, are his pride. Here is a good description of the crocodile’s hide. The scales are so near each other that no air can come between them; they are joined one to another, they stick together, that they cannot be sundered. His sneezings flash forth light and his eyes are like the eyelids of the morning. The eyes of the crocodile are visible quite a distance under water. The Egyptians therefore used the crocodile’s eyes in the hieroglyphics for the dawn of the morning. The entire description shows what a terrible beast it is.\n\nJob 41:25-34. Then his great strength is unfolded. If one lay at him with the sword, it cannot avail. The dart, the spear and the pointed shaft make no impression upon him. He counteth iron as straw and brass as rotten wood. The arrow cannot make him flee; clubs are counted as stubble. The final statement concerning leviathan is “He is king over all the sons of pride.”\n\nThis last word is significant--” He is King over all the sons of pride.” it has a deeper meaning. In Isaiah 27:1 we read: “In that day the LORD with His sore and strong sword shall punish leviathan the piercing serpent, even leviathan the crooked serpent; and He shall slay the dragon that is in the sea.” Here leviathan typifies the power of darkness. Both the behemoth and the leviathan typify Satan, his character and his rule. He is king over all the sons of pride. These two beasts are likewise a good description of the beasts spoken of in Revelation, which at the end of this age will manifest their power and pride as Satan’s masterpieces. And now the deduction which Job could easily make.\n\nIf he is proud then he belongs to leviathan the king who rules over the sons of pride. Jehovah has touched the secret in Job’s bosom. He has searched out the depths of his heart. Pride, the Devil’s crime, has been cherished by him. And now with the heart laid bare by Jehovah’s dealing we shall hear Job’s voice once more."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 42
+ }
+}

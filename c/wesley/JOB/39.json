@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "wesley",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": "The more fully to convince Job of his ignorance, God here discourses, Of the wild goats and hinds, ver. 1-4. Of the wild ass, ver. 5-8. Of the unicorn, ver. 9-12. Of the peacock and ostrich, ver. 13-18. Of the horse, ver. 19-25. Of the hawk and eagle, ver, 26-30.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Young ones - Notwithstanding their great weakness caused by their hard entrance into the world. Grow up - As with corn, that is, as if they were fed with corn. Go forth - Finding sufficient provisions abroad by the care of God's providence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Sent - Who hath given him this disposition that he loves freedom, and hates that subjection which other creatures quietly endure? Loosed - Who keeps him from receiving the bands, and submitting to the service of man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Scorneth - He feareth them not when they pursue him, because he is swift, and can easily escape them. Driver - He will not be brought to receive his yoke, nor to do his drudgery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Mountains - He prefers that mean provision with his freedom, before the fattest pastures with servitude."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Unicorn - It is disputed whether this be the Rhinoceros; or a kind of wild bull."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Her labour - In laying her eggs is in vain, because she hath not the fear and tender concern for them, which she should have."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Deprived - Because God hath not implanted in her that instinct, and affection, which he hath put into other birds and beasts toward their young."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Lifteth - To flee from her pursuer: to which end she lifts up her head and body, and spreads her wings. Scorneth - She despises them thro' her swiftness; for though she cannot fly, yet by the aid of her wings she runs so fast, that horse - men cannot reach her."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Thunder - A strong metaphor, to denote force and terror."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Valley - Battles used to be pitched in valleys, or low grounds, especially horse battles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Quiver - The quiver is here put for the arrows contained in it, which being shot against the horse and rider, make a rattling noise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Swalloweth - He is so full of rage and fury, that he not only champs his bridle, but is ready to tear and devour the very ground on which he goes. Believeth - He is so pleased with the approach of the battle, and the sound of the trumpet calling to it, that he can scarce believe his ears for gladness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Ha, ha - An expression of joy and alacrity declared by his proud neighings. Thunder - The loud and joyful clamour begun by the commanders, and followed by the soldiers when they are ready to join battle."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Fly - So strongly, constantly, unweariedly, and swiftly. South - At the approach of winter, when wild hawks fly into warmer countries, as being impatient of cold. The birds of the air are proofs of the wonderful providence of God, as well as the beasts of the earth. God instances in two stately ones."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Mount - Flies directly upward 'till she be out of thy sight; which no other bird can do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Her eyes - Her sight is exceeding sharp and strong, so that she is able to look upon the sun with open eyes, and to behold the smallest prey upon the earth or sea, when she is mounted out of our sight."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Blood - There are divers eagles who do not feed upon carcases, but many eagles do feed on them. She - In an instant, flying thither with admirable celerity.\n\nEditorial note: The 1765 printing labels this note '33,' although its accompanying Scripture verse is Job 39:30. The note is placed here according to that verse text."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 40
+ }
+}

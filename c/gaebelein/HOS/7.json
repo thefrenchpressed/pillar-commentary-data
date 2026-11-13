@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "gaebelein",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 7\n\nThe Moral Depravity of Israel\n\n1. Their moral depravity (Hosea 7:1-7)\n\n2. Mingling with heathen nations (Hosea 7:8-16)\n\nHosea 7:1-7. All the gracious efforts of the Lord to heal Israel resulted in a greater manifestation of the iniquity of Ephraim. Instead of turning to Him in true repentance and self-judgment their evil heart turned away from Jehovah, and they continued in their downward course. They did not consider that the Lord would remember all their evil deeds and punish them for it. The king and the princes, the political heads were as corrupt as the priests, they were pleased with the impenitence and wickedness of their subjects. Then follows a graphic description of their moral depravity.\n\nThey were adulterers, burning with lust, “like an oven heated by the baker, who rests, stirring up (the fire), after he has kneaded the dough until it be leavened.” They indulged in all the vile, obscene practices connected with the idol worship of the heathen about them. They were also drunkards and were heated with wine as they were with lust. They made their heart like an oven; their baker (meaning their own evil will and imagination) slept all night, but, awakening in the morning, their lust is stirred up again. Nor did anyone call upon the name of the Lord.\n\nSuch was the moral depravity of a people with whom the Lord had entered into covenant, the favored nation. The source of it was unbelief and the rejection of His Word. The sad history of Israel is repeated in professing Christendom today.\n\nHosea 7:8-16. The Lord called Israel to be a separated nation, but Ephraim mingled with the heathen (not, people) and is compared to a cake not turned. They adopted heathen ways, heathen manners and heathen vices. Like an unturned cake, which is black and burnt on the one side, while above it is unbaked, such was Ephraim’s condition. Such a cake was fit for nothing; it had to be thrown away. The strangers with whom they mingled devoured their strength, nor did they not notice the signs of their speedy national decay.\n\nThis is the meaning of the statement, “Gray hairs are here and there upon him, and he does not know it.” Furthermore, Ephraim is likened to a silly dove without understanding. Instead of flying back to Jehovah their help and rest, they fluttered, like a moth around the flame, around Egypt and Assyria, trying to find deliverance there. But while fluttering from Egypt to Assyria and from Assyria to Egypt, they did not see the net which was spread for their destruction--that net was Assyria itself. In this net the Lord caught them; their freedom would be ended and captivity begin. Then follows the divine Woe. “Woe unto them! for they have wandered from Me. Destruction upon them, that they have transgressed against Me!” The divine lament cried after them, “I would have redeemed them, but they spoke lies against Me.” While they may have cried with their mouth, their heart did not.\n\nThey were like a deceitful bow on which the archer cannot depend, so the Lord could not depend upon Israel. God had, to apply the symbol, bent Israel as His own bow against evil and idolatry, but they turned themselves against Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "HOS",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "HOS",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "HOS",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "gaebelein",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 4\n\nCHAPTER 4:1-13\n\n1. The Temptation in the Wilderness. (Luke 4:1-12.)\n\n2. The Devil Defeated. (Luke 4:13.)\n\nLuke 4:1-13\n\nWhat interests us most is the different order in which the three temptations of the Lord are reported by Luke. The second temptation the devil brings to bear upon Him (in the high mountain) is the last in the Gospel of Matthew. Why did Luke change the order and put the second temptation last and the last temptation into the second place? Matthew gives, no doubt, the correct order. The Lord’s word to Satan, “Get thee behind me, Satan,” proves this. (These words must be omitted in the 8th verse. They are not found in the best manuscripts.) The order in Luke corresponds to the nature of man.\n\nMan is composed of Body, Soul and Spirit. The first temptation concerns the body; the second the soul, and the third the spirit. The temptations man has to go through in life are clearly seen here. In youth it is the lust of the flesh; in manhood the lust of the eyes, to possess and to enjoy; in old age the pride of life. The change in the order is made to correspond to this. But “the holy thing,” the holy Son of God, had nothing in Him which could ever respond to this trinity of evil.\n\nHe did not sin, nor could He ever Sin. The devil departed from Him for a season."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "III. The Ministry in Galilee -- Chapter 4:14-9:50\n\nCHAPTER 4:14-44\n\n1. In the Synagogue of Nazareth (Luke 4:14-21)\n\n2. Unbelief and Rejection of Christ. (Luke 4:22-32)\n\n3. A Demon Cast Out in Capernaum (Luke 4:33-37)\n\n4. Peter’s Wife’s Mother Healed; Many Healed. (Luke 4:38-44.)\n\nLuke 4:14-21\n\nAnd now the description of the ministry of the Son of Man begins. The beginning is in His own city. How all written here is again in a very human manner. He had been brought up in that city and as His custom was “He went into the synagogue,” and as He had done, no doubt, before, He stood up to read and like a man finds the place in the scroll which the servant had handed Him. Isaiah 61:1-2 is read by Him and then applied to Himself. The Spirit of the Lord was indeed upon Him to preach the Gospel to the poor.\n\nBut He stopped in the middle of a sentence. The acceptable year of the Lord, is the last word He read. In His Person all this had appeared. He came to preach the Gospel, to heal the broken-hearted, to preach deliverance to the captives, recovering of sight to the blind and to set at liberty them that are bruised. He did not read “the day of vengeance of our God.” That too is His work, but not as long as the acceptable year of the Lord lasts.\n\nLuke 4:22-32\n\n“Is not this Joseph’s son?” It is the first hint of the coming rejection. Then when He declared that God’s grace is not to be confined to Israel, but that it will, as in days of old, in the case of the widow of Sarepta and Naaman, go out to the Gentiles, they were filled with wrath. They were ready to kill Him. What happened? “But He, passing through the midst of them, went His way.” Was it a miracle? Is it the same as when He passed through shut doors? It was the result of His own dignity as the perfect Man, which awed the crowds, so that no one dared to touch Him.\n\nLuke 4:33-37\n\nThe same incident is reported in Mark 1:21-28. The demons knew him but He had come to spoil the enemy and here He manifested His power.\n\nLuke 4:38-44\n\nMany works of power followed. As the seeker of the lost to preach the good tidings, He went from city to city."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 5
+ }
+}

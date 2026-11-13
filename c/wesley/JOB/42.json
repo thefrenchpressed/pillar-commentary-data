@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "wesley",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": "Job throughly humbles himself before God, ver. 1-6. God reproves his friends, for whom Job intercedes, and God accepts them, ver. 7-9. God blesses and restores Job to his prosperity, ver. 10-15. His age and death, ver. 16, 17",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Thou canst, &c. - Job here subscribes to God's unlimited power, knowledge and dominion, to prove which was the scope of God's discourse out of the whirlwind. And his judgment being convinced of these, his conscience also was convinced, of his own folly in speaking so irreverently concerning him. No thought can be withholden from thee - No thought of ours can be withholden from thy knowledge. And there is no thought of thine, which thou canst be hindered from bringing into execution."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Who - What am I that I should be guilty of such madness! Therefore - Because my mind was without knowledge. Knew not - I have spoken foolishly and unadvisedly of all things far above my reach."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Hear - Hear and accept my humble confession. Enquire - I will no more dispute the matter with thee, but beg information from thee. The words which God had uttered to Job by way of challenge, Job returns to him in way of submission."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Seeth thee - The knowledge which I had of thy nature, perfections and counsels, was hitherto grounded chiefly, upon the instructions of men; but now it is clear and certain, as being immediately inspired into my mind by this thy glorious apparition and revelation, and by the operation of thy holy spirit; which makes these things as evident to me, as if I saw them with my bodily eyes. When the mind is enlightened by the spirit of God, our knowledge of Divine things as far exceeds what we had before, as knowledge by ocular demonstration, exceeds, that by common fame."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Eliphaz - As the eldest of the three, and because he spoke first, and by his example led the rest into the same miscarriages. Two friends - Elihu is not here reproved, because he dealt more mercifully with Job, and did not condemn his person, but only rebuked his sinful expressions. Ye have not, &c. - This is not to be understood absolutely, but comparatively. Job was not so much to be blamed as they, because his opinion concerning the methods of God's providence, and the indifferency of its dispensations towards good and bad men was truer than theirs, which was, that God did always reward good men and punish sinners in this life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "My servant - Whom though you condemned as an hypocrite, I own for my faithful servant. Offer - By the hand of Job, whom I hereby constitute your priest to pray and sacrifice for you. Lest I deal - Lest my just judgment take hold of you for your false and foolish speeches."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Accepted Job - And as Job prayed and offered sacrifice for those who had grieved and wounded his spirit, so Christ prayed and died for his persecutors, and ever lives, making intercession for transgressors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Captivity - All his bodily distempers were thoroughly healed, and probably in a moment. His mind was calmed, his peace returned, and the consolations of God were not small with him. Prayed - Whereby he manifests his obedience to God and his true love to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Then - When Job had humbled himself, and God was reconciled to him. Sisters - His kindred. Eat - Feasted with him, to congratulate with him God's great and glorious favour. Bemoaned - They declared the sense which they had of his calamities while they were upon him, although they had hitherto wanted opportunity to express it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Blessed - Not only with spiritual, but also with temporal blessings. Just double to what they were, chap.1:3. This is a remarkable instance of the extent of the Divine providence, to things that seem minute as this, the exact number of a man's cattle; as also of the harmony of providence, and the reference of one event to another: for known unto God are all his works, from the beginning to the end."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Jemima - The day, either because of her eminent beauty, or because she was born in the day of his prosperity, after a dark night of affliction. Kezia is the name of a spice of a very fragrant smell, commonly called Cassia. Keren - happuch signifies plenty restored."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "So fair - In the Old Testament we often find women praised for their beauty, but never in the New, because the beauty of holiness is brought to a much clearer light by the gospel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "After this, &c. - Some conjecture, that he was seventy when his trouble came. If so his age was doubled, as his other possessions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Full of days - So coming to his grave, as Eliphaz had spoken, like a ripe shock of corn in its season."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 1
+ }
+}

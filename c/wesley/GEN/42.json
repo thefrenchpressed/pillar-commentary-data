@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "wesley",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": "We have in this chapter,\n\nI. The humble application of Jacob's sons to Joseph, to buy corn, ver. 1-6.\n\nII. The fright Joseph put them into, for their trial, ver. 7-20.\n\nIII. The conviction they were now under of their sin concerning Joseph long before, ver. 21-24.\n\nIV. Their return to Canaan with corn, and the great distress their good father was in upon the account they gave him of their expedition, ver. 25-38.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob saw that there was corn - That is, he saw the corn that his neighbours had bought there and brought home."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Get you down thither - Masters of families must not only pray for daily bread for their families, but must with care and industry provide it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "We may well wonder that Joseph, during the twenty years he had been in Egypt, especially during the last seven years that he had been in power there, never sent to his father to acquaint him with his circumstances; nay, 'tis strange that he who so oft went throughout all the land of Egypt, never made a step to Canaan, to visit his aged father. When he was in the borders of Egypt that lay next to Canaan, perhaps it would not have been above three or four days journey for him in his chariot. 'Tis a probable conjecture, that his whole management of himself in this affair was by special direction from heaven, that the purpose of God, concerning Jacob and his family, might be accomplished. When Joseph's brethren came, he knew them by many a good token, but they knew not him, little thinking to find him there."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "He remembered the dreams, but they had forgot them. The laying up of God's oracles in our hearts will be of excellent use to us in all our conduct. Joseph had an eye to his dreams, which he knew to be divine, in his carriage towards his brethren, and aimed at the accomplishment of them, and the bringing his brethren to repentance; and both those points were gained. He shewed himself harsh with them: the very manner of his speaking, considering the post he was in, was enough to frighten them, for he spake roughly to them - He charged them with ill designs against the government, treated them as dangerous persons, ye are spies, protesting by the life of Pharaoh that they were so. Some make that an oath, others make it no more but a vehement asseveration; however, it was more than yea, yea, and nay, nay, and therefore came of evil. They hereupon were very submissive; they spoke to him with all respect; nay, my lord. They modestly deny the charge, we are no spies; they tell him their business, they came to buy food, they give a particular account of themselves and their family, Ge 42:13, and that was it he wanted. He clapt them all up in prison three days. He concluded with them at last, that one of them should be left as a hostage, and the rest should go home and fetch Benjamin. It was a very encouraging word he said, I fear God; q.d. You may assure yourselves, I will do you no wrong, I dare not, for I know that as high as I am, there is one higher than I. With those that fear God we have reason to expect fair dealing: the fear of God will be a check upon those that are in power, to restrain them from abusing their power to oppression and tyranny:"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "We are very guilty concerning our brother - We do not read that they said this during their three days imprisonment; but now when the matter was come to some issue, and they saw themselves still embarrassed, they began to relent. Perhaps Joseph's mention of the fear of God, put them upon consideration, and extorted this reflexion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "He took Simeon - He chose him for the hostage, probably because he remembered him to have been his most bitter enemy, or because he observed him now to be least humbled and concerned. He bound him before their eyes, to affect them all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Their heart failed them, and they were afraid, saying one to another, What is this that God hath done to us? - They knew that the Egyptians abhorred a Hebrew, Ge 43:32, and therefore, since they could not expect to receive any kindness from them, they concluded that this was done with a design to pick a quarrel with them, the rather because the man, the lord of the land, had charged them as spies. Their own conscience were awake, and their sins set in order before them, and this puts them into confusion. When the events of providence concerning us are surprising, it is good to enquire what it is that God has done and is doing with us?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "My son shall not go down with you - He plainly intimates a distrust of them, remembering that he never saw Joseph since he had been with them; therefore Benjamin shall not go with you."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GEN",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GEN",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GEN",
+  "chapter": 43
+ }
+}

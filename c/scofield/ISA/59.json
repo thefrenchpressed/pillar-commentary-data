@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 59,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Redeemer -- Redemption: Kinsman type, summary. The goel, or Kinsman-Redeemer, is a beautiful type of Christ.\n\n(1) The kinsman redemption was of persons, and an inheritance Leviticus 25:48; 25:25; Galatians 4:5; Ephesians 1:7,11,14\n\n(2) The Redeemer must be a kinsman Leviticus 25:48,49; Ruth 3:12,13; Galatians 4:4; Hebrews 2:14,15.\n\n(3) The Redeemer must be able to redeem Ruth 4:4-6; Jeremiah 50:34; John 10:11,18\n\n(4) Redemption is effected by the goel paying the just demand in full Leviticus 25:27; 1 Peter 1:18,19; Galatians 3:13. (See Scofield \"Exodus 14:30\") See Scofield \"Romans 3:24\"\n\ncome to Zion -- The time when the \"Redeemer shall come to Zion\" is fixed, relatively, by Romans 11:23-29 as following the completion of the Gentile Church. That is also the order of the great dispensational passage, Acts 15:14-17.\n\nIn both, the return of the Lord to Zion follows the outcalling of the Church."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 59
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 57
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 60
+ }
+}

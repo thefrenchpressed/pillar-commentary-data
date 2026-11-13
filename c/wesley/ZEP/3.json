@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ZEP",
+  "commentaryId": "wesley",
+  "name": "Zephaniah",
+  "commonName": "Zephaniah",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": "Jerusalem threatened for her wickedness, ver. 1-7. A promise of a glorious reformation, ver. 8-13. And deliverance consequent upon it, ver. 14-20.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "To her - Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The voice - Of God by his mercy and judgments crying aloud."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Her princes - Persons of principal place and authority. Lions - Which hunt for prey, and are ever affrighting or devouring. Wolves - Insatiable and cruel, like wolves of the evening, whetted with hunger. Gnaw not the bones - They leave nothing but the bones to be eaten on the morrow."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Her prophet - So called, false prophets. Light - Unstable and inconstant. Violence to the law - Wresting it by perverse interpretation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "In the midst - Observing all. Not do iniquity - He will judge them righteously. Every morning - Daily he discovers his displeasure against the wicked. Faileth not - Lets no season slip to convince them, by public and visible punishments. The unjust - But the wicked Jews proceed without shame, and without fear."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The nations - Of old, the Canaanites, lastly the ten tribes, and later yet, the Assyrians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "I said - I thought (speaking after the manner of men). Thou - O Jerusalem. Fear me - For the many and great judgments executed upon others. I punished them - In some measure."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Therefore - Since you will not be amended. Wait ye - Attend my resolution. Until - Until I rise up to destroy first, and next to take the spoil. Upon them - The incorrigible Jews. Devoured - Consumed as if burnt up. My jealousy - That jealousy wherewith God is jealous for his own glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "A pure language - I will give them a pure way of worshipping me, the issue of a pure heart."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "My dispersed - The praying remnant of the scattered Jews shall return to their own land, and bring themselves an offering unto the Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Thy doings - Thy sins formerly committed. In thy pride - Proud formalists. No more be haughty - Ye shall no more boast, because of the city, or the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Of thee - In Judea and Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Shall feed - Shall enjoy peace and plenty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Taken away - Abolished, and put an end to the judgments thy sins brought upon thee. Thine enemy - The Babylonian. Is in the midst - He is returned to redeem and govern thee. Any more - While thy carriage is as becomes my presence with thee, thou shalt neither fear, nor feel the like evils."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Sorrowful - That mourn their distance from the solemn worship of God. Who are of thee - Thy children. Reproach - The taunts of their enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Undo - I will break their power and dissolve their kingdom. That halteth - Who is in trouble and ready to fall. Driven out - Into remote countries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "A praise - So the universal church of the first - born will be, in the great day. And then the Israel of God be made a name and a praise to all eternity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEP",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEP",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "HAG",
+  "chapter": 1
+ }
+}

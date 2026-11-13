@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "scofield",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "born again -- Regeneration:\n\n(1) The necessity of the new birth grows out of the incapacity of the natural man to \"see\" or \"enter into\" the kingdom of God. However gifted, moral, or refined, the natural man is absolutely blind to spiritual truth, and impotent to enter the kingdom; for he can neither obey, understand, nor please God John 3:3,5,6; Psalms 51:5; Jeremiah 17:9; Mark 7:21-23; 1 Corinthians 2:14; Romans 8:7,8; Ephesians 2:3 (See Scofield \"Matthew 6:33\").\n\n(2) The new birth is not a reformation of the old nature (See Scofield \"Romans 6:6\") but a creative act of the holy Spirit John 3:5; 1:12,13; 2 Corinthians 5:17; Ephesians 2:10; 4:24.\n\n(3) The condition of the new birth is faith in Christ crucified John 3:14,15; 1:12,13; Galatians 3:24\n\n(4) Through the new birth the believer becomes a partaker of the divine nature and of the life of Christ Himself Galatians 2:20; Ephesians 2:10; 4:24; Colossians 1:27; 1 Peter 1:23-25; 2 Peter 1:4; 1 John 5:10-12"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "a master -- Lit. Art thou the teacher of Israel, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "perish -- (Greek - ἀπόλλυμι,\" trans). \"marred,\" Mark 2:22, \"lost,\"; Matthew 10:6; 15:24; 18:11; Luke 15:4,6,32. In no N.T. instance does it signify cessation of existence or of consciousness. It is the condition of every non-believer.\n\nworld -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")\n\ncondemn -- Or, judge, and so in John 3:18,19, cf. John 15:22-24.\n\nsaved -- (See Scofield \"Romans 1:16\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "He that -- See, John 6:40,47; Romans 8:1"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "world -- kosmos = mankind. (See Scofield \"Matthew 4:8\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JHN",
+  "chapter": 4
+ }
+}

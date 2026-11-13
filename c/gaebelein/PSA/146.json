@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 146,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Psalms 144-150 The Hallelujah Chorus\n\nThe five Psalms with which this marvellous book closeth are all Psalms of praise. The word “praise” is found in the Hebrew thirty-seven times. Each one of these Psalms begins and ends with a hallelujah; there are ten hallelujahs.\n\nFirst is a hallelujah which celebrates Himself, He who is the God of Jacob. Precious vision of Him who delights to call Himself “the God of Jacob,” the God who loves the sinner and has redeemed His people. Who is He? The Creator of all, by whom and for whom all things were made (Psalms 146:6). The Lord of judgment and redemption; the Lord who looseth the prisoners, openeth the eyes of the blind, raiseth them that are bowed down--and He will reign for ever. Hallelujah.\n\nPsalms 147:1-20 is the hallelujah for what He has done for His people Israel. They praise Him now in the beauty of holiness. He hath built Jerusalem; He hath gathered the outcasts of Israel; He hath healed the broken hearted and bound up their wounds. He manifests His glory too by the heavens above. And nature is now in full harmony, restored and blessed. But Jerusalem is the center of praise and glory. He hath blessed Zion and her children (Psalms 147:12-14). Hallelujah.\n\nThe notes of praise swell higher and higher. In Psalms 148:1-14 it is heaven and earth which sing His praises. The heights above, the angels, the heavenly hosts, the sun, the moon, the stars, the heaven of heavens, His eternal dwelling place, praiseth Him. And so does all the earth. The creatures of the deep praise Him, so do the hills and the mountains, the trees of the field, beasts, cattle, birds and creeping things. The kings of the earth, all races of men praise Him, who is worthy of all praise. Hallelujah.\n\nPsalms 149:1-9 is the hallelujah of the new song. Israel redeemed is leading the glory-hallelujah song. The children of Zion are joyful in their King. They sing praises unto Him. They praise Him for victory and blessing. He has executed vengeance upon the ungodly. All His saints have honour and Glory now. Hallelujah.\n\nAnd the finale, the last Psalm! It is the praise to the full. We have seen the “crescendo” of praise in these Psalms and now we reach the “fortissimo,” the loudest and the strongest praise. With this the great redemption is consummated. Look at this Psalm. It begins with hallelujah and after this first hallelujah we find nothing but praise--praise Him--praise Him--praise Him! Let all that hath breath praise the Lord. Hallelujah!\n\nDo you praise Him now? Oh let us give Him as our Lord, Him who hath redeemed us by His own Blood, who will soon gather us home to be like Him and forever with Him, let us give Him praise. Let us sing our hallelujahs now, songs of praise in the night, while we wait for the break of day, the Morningstar. And the end of all for earth and heaven will be the hallelujah chorus, a praise which will never die in all eternity. Hallelujah!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 146
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 145
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 147
+ }
+}

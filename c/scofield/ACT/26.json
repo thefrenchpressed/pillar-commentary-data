@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "scofield",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "heard -- Cf. (See Scofield \"Acts 9:7\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "sins -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Christ -- the Christ must suffer. See, Acts 3:18; Acts 17:3. (See Scofield \"Acts 17:3\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Almost -- R.V. With but little persuasion thou wouldest fain make me a Christian. The answer might be paraphrased: \"It will require more than this,\" etc., or, \"A little more and you will make,\" etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "both -- Lit. both in a little and in much."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ACT",
+  "chapter": 27
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "wesley",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": "The lot of Ephraim and Manasseh, ver. 1-4. Of Ephraim in particular, ver. 5-10",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Children of Joseph - That is, of Ephraim, and the half tribe of Manasseh, which are here put together in one; because in these first verses he speaks of them in common; and then of their several portions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Manasseh - That is, half Manasseh. Their inheritance - Their several portions which here follow. It is said, they took their inheritance, which also Judah had done before them, because the tribes of Judah and Joseph did take their inheritances before the rest; and it was fit they should do so, for the security of the main camp, and the body of the people which were at Gilgal, chap.18:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "East - side - That is, the north - east side. It is no wonder, if some of these descriptions are dark to us at this distance of time; there having been so many alterations made in places, and so many circumstances, being now altogether undiscoverable. But this is certain, that all the descriptions here mentioned, were then evident to the Israelites, because these were the foundations of all the possessions which then they took, and peaceably possessed in succeeding ages."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Toward the sun - The midland sea, towards the west."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "To Jericho - Not to the city of Jericho, which belonged to Benjamin's lot, chap.18:21, but to its territory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The separate cities - That is, besides those cities which were within Ephraim's bounds, he had some other cities, to which all of all their territories were annexed out Manasseh's portion, because his tribe was all here, and was larger than Manasseh's."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 17
+ }
+}

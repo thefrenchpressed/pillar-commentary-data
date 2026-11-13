@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "gaebelein",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 11\n\n1. Proverbs concerning man’s work(Ecclesiastes 11:1-6)\n\n2. The vanity of life (Ecclesiastes 11:7-10)\n\nEcclesiastes 11:1-6. These continued proverbs concern the work of man and begin with exhortations to charity and are followed by the wise acknowledgement that no one knows the works of God, who is the maker of all. All this knowledge is within the compass of the natural man.\n\nEcclesiastes 11:7-10. After these philosophic proverbs he comes back to his former finding--vanity. So to speak he sums up life in one verse, “Truly the light is sweet and a pleasant thing it is for the eyes to behold the sun.” It is a great thing to have life. A different strain from his despondency, when life seemed not worth living. Alas! there is another “but.” “But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.” Yes, let him enjoy himself in the present, but there is “a dead fly in the ointment” Ecclesiastes 10:11). There is looming up the dark future; days of darkness are coming for him--it is the grave, and human reason, philosophy, science nor anything else can bring light into this baffling darkness. “All that cometh is vanity!” Thank God, through revelation we know that those who believe His revelation, and believe on Him, whom God has sent, who is the propitiation for our sins, who conquered death and the grave--for such, “all that cometh is glory!”\n\nIs it sarcasm that follows? He calls upon the young man to rejoice in his youth. Have a good time! Walk in the ways of thine heart, that heart out of which nothing but evil can come, and in the sight, not of the all-seeing eye of God, but of thine eyes. Do as you like! Follow my previous advice--be not righteous overmuch; be not too wicked; follow the middle road and enjoy yourself.\n\nThen comes a weighty sentence, “but know thou that for all these things God shall bring thee to judgment.” But is not this revelation? Can the reason of man discover that such will be the case? Reason does know the law in nature “that whatsoever a man sows that he shall also reap.” Reason beholds this law working not only in nature, which teaches man many things, but also in history, so that the philosopher can say, “the history of the world is the judgment of the world."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ECC",
+  "chapter": 12
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "gaebelein",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 4\n\nThe Service of the Levites and their Numbering\n\n1. The children of Kohath; their service (Numbers 4:1-20)\n\n2. The sons of Gershon; their service (Numbers 4:21-28)\n\n3. The sons of Merari; their service (Numbers 4:29-33)\n\n4. Their numbering for service (Numbers 4:34-49)\n\nThis chapter enters more fully into the service of the Levites. They are mustered for service “from thirty years old and upwards even unto fifty years old.” As we saw in the previous chapter, their service was to carry the holy things of Jehovah through the wilderness. The wilderness is for us the type of the world through which we pass, and our business as Christians is to manifest Christ. We must guard the holy things of our faith as jealously as the Levites guarded the tabernacle and its sacred contents, and this must be done by us with the testimony of our lips and the testimony of our lives. The service of the Kohathites, Gershonites and Merarites is full of blessed instructions for us, at which we can but briefly hint. In the previous chapter Gershon stands first, as he is the first-born.\n\nHere the first-born has to take a secondary place and Kohath is put first. The lesson is that the divine appointment for service is not the matter of natural relation and endowment, but of grace. The sons of Kohath had to carry the most holy things. All of them typify Christ in His humanity as our Redeemer and Lord. This stands first. It is occupation with Christ, and therefore fellowship with God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "NUM",
+  "chapter": 5
+ }
+}

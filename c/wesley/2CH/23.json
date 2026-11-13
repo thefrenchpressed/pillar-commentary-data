@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "wesley",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": "Jehoiada prepares the people and crowns the king, ver. 1- 11. Athaliah is slain, ver. 12-15. The kingdom is reformed, ver. 16-21.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Foundation - At the east gate, so called because it stood lower than the rest of the doors at the foot of the steps, by which they went up from the king's house to the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "His sons - And Zechariah among the rest, whom afterwards he ungratefully slew, chap.24:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Rejoiced - To see a rod sprung out of the stem of Jesse! To see what they despaired of ever seeing, a king of the house of David."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Him - The Lord, as is expressed, 2Kings 11:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Appointed - Or, as it is in the Hebrew, put the offices of the house of the Lord into the hand, that is, he restored the priests and Levites to the exercise of their office."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Rejoiced, &c. - The generality of the people rejoiced, the rest were quiet and made no opposition. When the Son of David is enthroned in the soul, all therein is quiet, and springs of joy are opened."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 24
+ }
+}

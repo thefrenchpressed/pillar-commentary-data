@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "wesley",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": "Prohibitions against offering children to Moloch, ver. 1-5. Against consulting wizards, ver. 6. Holiness enjoined, ver. 7, 8. Against cursing parents, ver. 9. Against adultery, ver. 10 Against incestuous mixtures, ver. 11-21. Holiness again enjoined, ver. 22- 26. Soothsayers to be stoned, ver. 27.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The people - Here follow the punishments of the crimes forbidden in the former chapters."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "I will set my face against that man - Deal with him as an enemy, and make him a monument of my justice. To defile my sanctuary - Because the sanctuary was defiled by gross abominations committed in that city or land where God's sanctuary was: or because by these actions they declared to all men that they esteemed the sanctuary and service of God abominable and vile, by preferring such odious idolatry before it. And to profane my name - Partly by despising it themselves, partly by disgracing it to others, and giving them occasion to blaspheme it, and to abhor the true religion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Hide their eyes - Wink at his fault, and forbear to accuse and punish him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "To go a whoring - To seek counsel or help from them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Who sanctify you - Who separate you from all nations, and from their impurities and idolatries, to be a peculiar people to myself; and who give you my grace to keep my statutes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Curseth - This is not here meant of every perverse expression, but of bitter reproaches or imprecations. His blood shall be upon him - He is guilty of his own death: he deserves to die for so unnatural a crime."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Confusion - By perverting the order which God hath appointed, and making the same off - spring both his own child and his grandchild."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Put to death - Except the one party was forced by the other. See Deu 22:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "They - All who consented to it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Slay the beast - Partly for the prevention of monstrous births, partly to blot out the memory of so loathsome a crime."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "See her nakedness - In this and several of the following verses, uncovering nakedness plainly appears to mean not marriage, but fornication or adultery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "They shall die childless - Either shall be speedily cut off ere they can have a child by that incestuous conjunction; if this seem a less crime than most of the former incestuous mixtures, and therefore the magistrate forbear to punish it with death; yet they shall either have no children from such an unlawful bed, or their children shall die before them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "His brother's wife - Except in the case allowed by God, Deu 25:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "A man or a woman that hath a familiar spirit, shall surely be put to death - They that are in league with the devil, have in effect made a covenant with death: and so shall their doom be."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 21
+ }
+}

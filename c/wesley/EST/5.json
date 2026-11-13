@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "wesley",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": "Esther finding favour with the king, invites him and Haman to a banquet, ver. 1-5. She invites them to a second, ver. 6-8. Haman makes a gallows for Mordecai, ver. 9-14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Held out - In testimony that he pardoned her presumption, and was ready to grant her petition. Touched - In token of her thankful acceptance of the king's favour, and of her reverence and submission."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "It shall be given - God in his providence often prevents the fears and outdoes the hopes of his servants. To the half of the kingdom - A proverbial expression: that is, nothing in reason shall be denied."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Haman - Whom she invited, that by shewing such respect to the king's great favourite, she might insinuate herself the more into the king's affection; and, that if she saw fit, she might then present her request to the king."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Of wine - So called, because it consisted not of meats, which probably the king had plentifully eaten before, but of fruits and wines; which banquets were very frequent among the Persians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Tomorrow - I will acquaint thee with my humble request. She did not present her petition at this time, but delayed it 'till the next meeting; either because she was a little daunted with the king's presence, or, because she would farther engage the king's affection to her, and would also intimate to him that her petition was of a more than ordinary nature: but principally by direction of Divine providence, which took away her courage of utterance for this time, that she might have a better opportunity for it the next time, by that great accident which happened before it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Nor moved - To shew how little he feared him, and that he had a firm confidence in his God, that he would deliver him and his people in this great exigency."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Refrained - From taking present vengeance upon Mordecai, which he might easily have effected, either by his own, or any of his servants hands, without any fear of inconveniency to himself. But herein God's wise and powerful providence appeared, in disposing Haman's heart, contrary to his own inclination, and making him, as it were, to put fetters upon his own hands."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Am I - Thus he makes that matter of glorying which was the occasion of his utter ruin. So ignorant are the wisest men, and subject to fatal mistakes, rejoicing when they have most cause of fear, and sorrowing for those things which tend to joy and comfort."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Availeth - Gives me no content. Such torment did his envy and malice bring upon him. Sitting - Enjoying that honour and privilege without disturbance, and denying me the worship due to me by the king's command. Thus tho' proud men have much to their mind, if they have not all to their mind, it is nothing. The thousandth part of what Haman had, would give a modest, humble man, as much happiness as he expects to receive from anything under the sun. And Haman as passionately complains, as if he was in the lowest depth of poverty!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Fifty cubits - That it may be more conspicuous to all, and thereby be more disgraceful to Mordecai, and strike all Haman's enemies with a greater dread of despising or opposing him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EST",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EST",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EST",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "wesley",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": "Some account of Elihu, and his sentiments concerning the dispute between Job and his friends, ver. 1-5. He excuses his own youth, ver. 6-10. and pleads, that he had heard all they had to say, ver. 11-13. That he had something new to offer, ver. 14-17. Could not refrain from speaking, ver. 18-20. And would speak impartially, ver. 21, 22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Because - So they said: but they could not answer him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The Buzite - Of the posterity of Buz, Nahor's son, Gen 22:21. Ram - Or, of Aram; for Ram and Aram are used promiscuously; compare 2Kings 8:28 2Chron 22:5. His pedigree is thus particularly described, partly for his honour, as being both a wise and good man, and principally to evidence the truth of this history. He justified - Himself not without reflection upon God, as dealing severely with him, he took more care to maintain his own innocency, than God's glory. The word Elihu signifies, my God is he. They had all tried in vain to convince Job: but my God is he who both can and will do it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "No answer - To Job's arguments as to the main cause. Condemned - As a bad man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "'Till Job - And his three friends."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Afraid - Of being thought forward and presumptuous."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Spirit - The spirit of God. Giveth - To whom he pleaseth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Judgment - What is just and right."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Convinced - By solid and satisfactory answers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Left - God thus left you to your own weakness, lest you should ascribe the conquering or silencing of Job to your own wisdom. God - This is alleged by Elihu, in the person of Job's three friends; the sense is, the judgments which are upon Job, have not been brought upon him by man originally, but by the hand of God, for his gross, though secret sins: but, saith Elihu, this argument doth not satisfy me, and therefore bear with me if I seek for better."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Bottles - Bottles of new wine."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "I know not - The more closely we eye the majesty of God as our maker, the more we dread his wrath and justice, the less danger shall we be in of a sinful fearing or flattering of men."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 33
+ }
+}

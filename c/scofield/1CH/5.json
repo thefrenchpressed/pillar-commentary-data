@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "scofield",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Tilgathpilneser -- Or, Tiglathpileser, 2 Kings 15:29; 16:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "trust -- (See Scofield \"Psalms 2:12\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1CH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1CH",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1CH",
+  "chapter": 6
+ }
+}

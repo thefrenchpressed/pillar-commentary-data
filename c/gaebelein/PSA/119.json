@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 119,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Law Written on Their Hearts and the Praise of the Word\n\nThis is the longest and most perfect Psalm in the whole collection. It is an alphabetical acrostic. It is composed of 22 sections, each having eight verses, 176 verses in all. Each section begins with a different letter of the alphabet and each verse of the different sections begins also with the corresponding letter of the section. Eight times each letter of the alphabet is mentioned in the 22 sections. The number eight in the Word has the meaning of resurrection, death is gone and life has come.\n\nIsrael has passed from death to life and now extols the Word and the Law of God. The time has come when it is fulfilled what the Lord spoke through Jeremiah concerning the new covenant, “I will put my law in their inward parts and write it in their hearts.” We behold then in this Psalm the joy of Israel in knowing the Word, in praising the Word and being obedient to the Word. In each verse except Psalms 119:90 and Psalms 119:122 the Word is mentioned and the following terms are employed: Law, commandment, word, saying, path, way, testimonies, judgments, precepts and statutes.\n\nWe give the twenty-two sections under the different Hebrew letters with a brief succession as to their contents:\n\nAleph: 1-8. The blessedness of those who obey His Word.\n\nBeth: 9-16. Cleansing by the Word.\n\nGimmel: 17-24. The quickening by the Word.\n\nDaleth: 25-32. The uplift of the Word.\n\nHe: 33-40. The power of the Word.\n\nVav: 41-48. Victory through the Word.\n\nZayin: 49-56. Comfort through the Word.\n\nCheth: 57-64. Preservation through the Word.\n\nTeth: 65-72. The pricelessness of the Word.\n\nJod: 73-80. Testimony through the Word.\n\nCaph: 81-88. Affliction and the Word.\n\nLamed: 89-96. The Word eternal.\n\nMem: 97-104. Wisdom through the Word.\n\nNun: 105-112. The Word the lamp and the light for all occasions.\n\nSamech: 113-120. The wicked and the Word.\n\nAin: 121-128. Separation and deliverance through the Word.\n\nPe: 129-136. Communion through the Word.\n\nTsaddi: 137-144. Zeal for the Word.\n\nKoph: 145-152. Experience through the Word.\n\nResh: 153-160. Salvation through the Word.\n\nSchin: 161-168. The perfection of the Word.\n\nTav: 169-176. Prayer and praise through the Word.\n\nThe whole Psalm is a marvellous evidence of verbal inspiration. But what will it be when the Word will thus be exalted and lifted to its proper place of supremacy through righteous Israel!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 119
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 118
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 120
+ }
+}

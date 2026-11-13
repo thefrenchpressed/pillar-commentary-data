@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "wesley",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In grief - Either on account of the particular offender, or of the church in general."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "For if I grieve you, who is he that cheereth me, but he that is grieved by me - That is, I cannot be comforted myself till his grief is removed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "And I wrote thus to you - I wrote to you before in this determination, not to come to you in grief."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "From much anguish I wrote to you, not so much that ye might be grieved, as that ye might know by my faithful admonition my abundant love toward you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "He hath grieved me but in part - Who still rejoice over the greater part of you. Otherwise I might burden you all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Sufficient for such an one - With what a remarkable tenderness does St. Paul treat this offender! He never once mentions his name. Nor does he here so much as mention his crime. By many - Not only by the rulers of the church: the whole congregation acquiesced in the sentence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "To whom ye forgive - He makes no question of their complying with his direction. Anything - So mildly does he speak even of that heinous sin, after it was repented of. In the person of Christ - By the authority wherewith he has invested me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Lest Satan - To whom he had been delivered, and who sought to destroy not only his flesh, but his soul also. Get an advantage over us - For the loss of one soul is a common loss."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Now when I came to Troas - It seems, in that passage from Asia to Macedonia, of which a short account is given, Acts 20:1,2. Even though a door was opened to me - That is, there was free liberty to speak, and many were willing to hear: yet,"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "I had no rest in my spirit - From an earnest desire to know how my letter had been received. Because I did not find Titus - In his return from you. So I went forth into Macedonia - Where being much nearer, I might more easily be informed concerning you. The apostle resumes the thread of his discourse, 2Cor 7:2, interposing an admirable digression concerning what he had done and suffered elsewhere, the profit of which he by this means derives to the Corinthians also; and as a prelude to his apology against the false apostles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "To triumph, implies not only victory, but an open manifestation of it. And as in triumphal processions, especially in the east, incense and perfumes were burned near the conqueror, the apostle beautifully alludes to this circumstance in the following verse: as likewise to the different effects which strong perfumes have upon different persons; some of whom they revive, while they throw others into the most violent disorders."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "For we - The preachers of the gospel. Are to God a sweet odour of Christ - God is well - pleased with this perfume diffused by us, both in them that believe and are saved, treated of, 2Cor 3:1; 2Cor 4:2; and in them that obstinately disbelieve and, consequently, perish, treated of, 2Cor 4:3 - 6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "And who is sufficient for these things - No man living, but by the power of God's Spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "For we are not as many, who adulterate the word of God - Like those vintners (so the Greek word implies) who mix their wines with baser liquors. But as of sincerity - Without any mixture. But as from God - This rises higher still; transmitting his pure word, not our own. In the sight of God - Whom we regard as always present, and noting every word of our tongue. Speak we - The tongue is ours, but the power is God's. In Christ - Words which he gives, approves, and blesses."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CO",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CO",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CO",
+  "chapter": 3
+ }
+}

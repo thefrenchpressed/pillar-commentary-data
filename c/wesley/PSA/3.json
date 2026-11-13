@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": "David complains to God of his enemies, ver. 1, 2. Comforts himself in God, and the experience of his goodness, ver. 3-6. Triumphs in the salvation of God, ver. 7, 8 A psalm of David, when he fled from Absalom his son.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "My soul - Of me: the soul being commonly put for the person. In God - God hath utterly forsaken him. Selah - This word is no where used but in this poetical book, and in the song of Habakkuk. Probably it was a musical note, directing the singer either to lift up his voice, to make a pause, or to lengthen the tune. But withal, it is generally placed at some remarkable passage; which gives occasion to think that it served also to quicken the attention of the singer and hearer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "A shield - My defence. My glory - Thou hast formerly given, and wilt farther give occasion of glorying in thy power and favour. Lifter up - Thou wilt restore me to my former power and dignity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "His hill - Out of heaven, so called, Psal 15:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Slept - Securely, casting all my cares upon God. Awaked - After a sweet and undisturbed sleep."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Cheek bone - Which implies contempt and reproach. Teeth - Their strength and the instruments of their cruelty. He compares them to wild beasts."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 4
+ }
+}

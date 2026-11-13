@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "4. Saul’s Renewed Attempt and David’s EscapeCHAPTER 19\n\n1. Saul and Jonathan (1 Samuel 19:1-7)\n\n2. Saul’s new attempt to kill David (1 Samuel 19:8-10)\n\n3. David’s escape (1 Samuel 19:11-18)\n\n4. Saul’s pursuit and his helplessness (1 Samuel 19:19-24)\n\nThe lost King goes from bad to worse. First he tried to spear David; then he attempted to take his life through having him killed by the Philistines, and now he speaks openly to his own son and to all his servants that David must be killed. Therefore loving Jonathan warned David and he hid himself Then Jonathan persuades his father to desist and Saul uttered a meaningless oath “As the Lord liveth, he shall not be slain.” And Jonathan brought David to Saul.\n\nThus Jonathan is seen as a peacemaker.\n\nBut David’s great victory (verse 8) starts the king’s hatred again and the javelin flies once more, but only strikes the wall from where he had slipped away. Then David fled and when he comes to his house his faithful wife tells him of the great danger and let him down through a window. They watched the house to kill him. The fifty-ninth Psalm throws interesting light upon this part of David’s history and has of course prophetically a wider application.\n\nAnd Michal practised a deception. Like Rachel she possessed teraphim, the idol-images in so much use among the Chaldeans and other nations. These were forbidden by Jehovah and yet they were secretly used (Judges 17:5; Judges 18:14). Michal’s image must have been of considerable size; she arranged it in the bed and then said to messengers “he is sick.” When the deception is discovered she lies again and said that David threatened her life. That the Scriptures record these misdeeds is but an evidence of their genuineness, however the Holy Scriptures never sanction these things. In all these attempts on David we see a foreshadowing also of the attempts which were made on the life of our Lord.\n\nAnd David fled to Samuel, who had a kind of a school for prophets at Naioth in Ramah. Saul’s pursuit is in vain and he is helpless to touch the Lord’s anointed. Divine power was engaged in behalf of David, and Saul himself, stripped and naked, lying down all night and all day has to bear witness to it.\n\n“The ‘schools of the prophets,’ which were placed under the direction of experienced and approved prophets, afforded to younger men an opportunity of becoming qualified to perform the duties of the prophetic calling. The selection and the admission of individuals who were suited for the prophetic office by their personal character, and who had a divine call, undoubtedly depended on the prophetic judgment of those who presided over these institutions. As prophecy was a gift and not an art, the instructions which were imparted probably referred merely to the study of the law, and were intended to awaken and cultivate theocratical sentiments, as well as promote a growth in spiritual life, for herein a suitable preparation for the prophetic office necessarily consisted. There are also indications found which authorize us to conclude that the revival of sacred poetry, as an art, and that theocratico-historical composition also, are to be ascribed to these religious communities as their source. Such schools existed in Ramah, Jericho, Beth-el, and Gilgal (1 Samuel 19:18; 2 Kings 2:3; 2 Kings 2:5; 2 Kings 4:38)” (J.H. Kurtz)"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 20
+ }
+}

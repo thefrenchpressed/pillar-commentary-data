@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "scofield",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "trespass -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "observation -- Or, outward show."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "(Greek - ἐντός in the midst).\" It could not be said of a self-righteous, Christ rejecting pharisee, that the kingdom of God, as to its spiritual content, was within him. Our Lord's whole answer, designedly enigmatic to the Pharisees (cf) Matthew 13:10-13 had a dispensational meaning. The kingdom in its outward form, as covenanted to David 2 Samuel 7:8-17 and described by the prophets (See Scofield \"Zechariah 12:8\") had been rejected by the Jews; so that, during this present age, it would not \"come with observation\" (lit. \"outward show\") but in the hearts of men (cf); Luke 19:11,12; Acts 1:6-8.\n\n(See Scofield \"Acts 1:6\"). See Scofield \"Romans 14:17.\n\nMeantime, the kingdom was actually \"in the midst\" of the Pharisees in the persons of the King and His disciples.\n\nwithin you -- in the midst of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Son of man -- (See Scofield \"Matthew 8:20\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Wheresoever -- See \"Armageddon\" Revelation 16:14; 19:17. (See Scofield \"Revelation 19:17\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "LUK",
+  "chapter": 18
+ }
+}

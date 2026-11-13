@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 32\n\nJeremiah in Prison\n\n1. Shut up in the court of the prison (Jeremiah 32:1-5)\n\n2. The revelation of the Lord concerning Hanameel (Jeremiah 32:6-15)\n\n3. The prophet’s prayer (Jeremiah 32:16-25)\n\n4. Jehovah’s answer (Jeremiah 32:26-44)\n\nJeremiah 32:1-5. The siege of Jerusalem began in the ninth year of Zedekiah’s reign. It was in the tenth year, a year later (Jeremiah 39:1) that we find Jeremiah in prison. In order to understand this imprisonment Jeremiah 37:11-21 must be consulted. He was first thrown as a prisoner into the house of Jonathan the scribe. It was a dungeon, perhaps some underground place.\n\nHe was consigned there. It was a horrible place, for Jeremiah was afraid he might die there (Jeremiah 37:20). Zedekiah seems to have been somewhat favorably inclined towards him. He asked him secretly to his palace and after Jeremiah told the king, in answer to his question about a word from the Lord, that the king should be delivered into the hands of the king of Babylon, Zedekiah on his request released him from the dungeon and put him into the court of the prison, and was kept by the king’s order from starvation (Jeremiah 37:21). Here, in our chapter, is the full text of his faithful message; had it been less faithful he might have been released.\n\nJeremiah 32:6-15. The coming of his cousin with the request to buy his field in Anathoth is divinely announced. The right of redemption was Jeremiah’s. (See Leviticus 25:25.) Hanameel came, and Jeremiah, realizing that it was of the Lord, bought the field, paying for it seventeen shekels of silver. The sale was legally transacted and executed; there being two rolls, one sealed, the other open. It was all delivered to Baruch, the faithful secretary of the prophet, mentioned here for the first time. He was instructed to put all in an earthen vessel. By his action the prophet proved his simple faith in the promised return.\n\nJeremiah 32:16-25. What a beautiful prayer it is which came from the lips of the prisoner! He acknowledges first of all, as we all do in believing prayer the power of God, that there is nothing too hard for the Lord. Then he speaks of the loving kindness and righteousness of the God of Israel, and mentions the past history of the nation. What the Lord had predicted against the city and the nation had been done; the city was given to the Chaldeans. “What Thou hast spoken is come to pass; and behold Thou seest it.” He then mentions the fact that the Lord had told him to buy that field. Then the prayer is interrupted, like Daniel’s prayer.\n\nJeremiah 32:26-44. The answer the Lord gave to praying Jeremiah is twofold. Jeremiah had said in faith, “There is nothing too hard for the LORD.” The Lord answered him, “Behold, I am the LORD, the God of all flesh; is there anything too hard for Me?” Then He announces first of all the fate of the doomed city (Jeremiah 32:28-35). After this comes once more the message of comfort and peace looking forward to that blessed future when Israel is gathered out of all countries, brought back to the land--when they shall be His people (Jeremiah 32:36-44)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 33
+ }
+}

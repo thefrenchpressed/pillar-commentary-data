@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "wesley",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": "Two of his servants murder Ishbosheth, and bring his head to David, ver. 1-8. He puts them to death, ver. 9-52.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Jonathan had a son - This history is inserted as that which encouraged these men to this wicked murder, because Saul's family was now reduced to a low ebb; and if Isbosheth was dispatched, there would be none left, but a lame child, who was altogether unfit to manage the kingdom, and therefore the crown must necessarily come to David by their act and deed; for which they promised themselves no small recompense. Jezreel - The place of that last and fatal fight."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Fetched wheat - Which was laid up in publick granaries in the king's house, and was fetched thence by the captains and commanders of the army for the pay of their soldiers, who, in those ancient times were not paid in money, but in corn. Upon this pretence they were admitted into the house, and so went from room to room, to the place where the king lay."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "David commanded. &c.But what a disappointment to Baanah and Rechab, was the sentence which David passed upon them! And such they will meet with, who think to serve the Son of David, by cruelty or injustice: who under colour of religion, outrage or murder of their brethren, think they do God service. However men may now canonize such methods of serving the church and the catholic cause, Christ will let them know another day, that Christianity was not designed to destroy humanity. And they who thus think to merit heaven, shall not escape the damnation of hell."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2SA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2SA",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2SA",
+  "chapter": 5
+ }
+}

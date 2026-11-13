@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The King’s Glory Anticipated and Contemplated\n\n1. The King’s power, glory and salvation (Psalms 21:1-6)\n\n2. His victory over the enemies (Psalms 21:7-13)\n\nPsalms 21:1-6. This is another Messianic Psalm in anticipation of the glory of the King. The prayers He offered up are all answered. (See Psalms 20:4) He shares the strength of Jehovah as the Risen and Exalted One. The desire of His heart is fulfilled, as it will be when the kingly crown of pure gold is set upon His head, the head which was once crowned with thorns. He had gone down into the jaws of death and then received life, yea, eternal life, as the head of the new creation, which shares this life He has received. And His glory is great in Jehovah’s salvation, the salvation which the Lord has planned and which He has accomplished, which is His glory.\n\nPsalms 21:7-13. Here once more the downfall and complete overthrow of the enemies, when the King reigns, is prophetically anticipated. Then we hear in the last verse a prophetic prayer, that all this might be accomplished. “Be Thou exalted, LORD, in Thine own strength.” And when He is exalted, then Israel redeemed will sing--” So will we sing and praise Thy power.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 22
+ }
+}

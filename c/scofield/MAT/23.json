@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "scofield",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "sit in -- Cf. Ezra 7:6,25,26. Jesus' disciples were to honour the law, but not the hypocritical teachers of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "phylacteries -- Passages of Scripture enclosed in a small case, bound upon arm or forehead, Deuteronomy 6:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Woe -- The best MSS. omit verse 14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "hell -- Gehenna. (See Scofield \"Matthew 5:22\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "debtor -- Or, bound; also Matthew 23:18. \"guilty:\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "iniquity -- Lit. Lawlessness. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "send unto you -- The Jews' treatment of the apostles is proved, Matthew 23:31-33."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Abel -- Jesus' confirmation of Genesis 4:8-10. Cf. Hebrews 12:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "come upon -- See, Revelation 18:21-24. It is the way also of history; judgment falls upon one generation for the sins of centuries. The pediction was fulfilled in the destruction of Jerusalem, A.D. 70."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "till -- The three \"untils\" of Israel's blessing:\n\n(1) Israel must say, \"blessed is He\" Matthew 23:39; Romans 10:3,4\n\n(2) Gentile world-power must run its course. Luke 21:24; Daniel 2:34,35.\n\n(3) The elect number of Gentiles must be brought in. Then \"the Deliverer shall come out of Zion.\" etc. Romans 11:25-27."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "MAT",
+  "chapter": 24
+ }
+}

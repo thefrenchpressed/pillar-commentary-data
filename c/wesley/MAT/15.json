@@ -1,0 +1,227 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "wesley",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Mark 7:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "The elders - The chief doctors or, teachers among the Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "They wash not their hands when they eat bread - Food in general is termed bread in Hebrew; so that to eat bread is the same as to make a meal."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Honour thy father and mother - Which implies all such relief as they stand in need of. Exod 20:12; 21:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "It is a gift by whatsoever thou mightest have been profited by me - That is, I have given, or at least, purpose to give to the treasury of the temple, what you might otherwise have had from me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Well did Isaiah prophesy of you, saying - That is, the description which Isaiah gave of your fathers, is exactly applicable to you. The words therefore which were a description of them, are a prophecy with regard to you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Their heart is far from me - And without this all outward worship is mere mockery of God. Isaiah 29:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Teaching the commandments of men - As equal with, nay, superior to, those of God. What can be a more heinous sin?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Every plant - That is, every doctrine."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Let them alone - If they are indeed blind leaders of the blind; let them alone: concern not yourselves about them: a plain direction how to behave with regard to all such. Luke 6:39."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Are ye also yet without understanding - How fair and candid are the sacred historians? Never concealing or excusing their own blemishes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "First evil thoughts - then murders - and the rest. Railings - The Greek word includes all reviling, backbiting, and evil speaking."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Mark 7:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "A woman of Canaan - Canaan was also called Syrophenicia, as lying between Syria properly so called, and Phenicia, by the sea side. Cried to him - From afar, Thou Son of David - So she had some knowledge of the promised Messiah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "He answered her not a word - He sometimes tries our faith in like manner."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "I am not sent - Not primarily; not yet."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Then came she - Into the house where he now was."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Thy faith - Thy reliance on the power and goodness of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The sea of Galilee - The Jews gave the name of seas to all large lakes. This was a hundred furlongs long, and forty broad. It was called also, the sea of Tiberias. It lay on the borders of Galilee, and the city of Tiberias stood on its western shore. It was likewise styled the lake of Gennesareth: perhaps a corruption of Cinnereth, the name by which it was anciently called, Num 34:11. Mark 7:31."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "They continue with me now three days - It was now the third day since they came. Mark 8:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "He gave thanks, or blessed the food - That is, he praised God for it, and prayed for a blessing upon it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 16
+ }
+}

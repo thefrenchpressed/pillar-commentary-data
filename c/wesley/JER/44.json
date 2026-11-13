@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": "Jeremiah represents to the people in Egypt, the former sins and punishment of Judah, ver. 1-10. He prophesies of their destruction in Egypt, ver. 11-14. Their obstinacy, ver. 15-19. Threatened, ver. 20-28. For a sign, the destruction of Egypt is foretold, ver. 29, 30.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "At Migdol - It seems the Jews that went into Egypt had planted themselves at these four places. Migdol was a city upon the borders of the Red Sea. Noph was a city, which the Greeks and Latines called Memphis; it is thought to be that, which is now called Cairo. Pathros was the province, since called Thebais."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "For none - Only such shall escape, as have been forced into Egypt against their wills; and as did not fall in with the idolatry of the Egyptians."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "All the men - It should seem those that did it were mostly women, and that they did it with some privacy, so that all their husbands did not know of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The Lord liveth - There shall not any be left alive of the Jews that are in Egypt, to swear The Lord God liveth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "This shall be a sign - Signs are usually antecedent to the thing signified, but the word is taken in a larger notion in this place for that which should attend the thing signified by it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 45
+ }
+}

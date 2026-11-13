@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "wesley",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": "Daniel's preferment, ver. 1-3. Envy against him, ver. 4-5. The decree against prayer, ver. 6-9. Daniel's continuance in prayer notwithstanding, ver. 10. He is informed against and cast into the den of lions, ver. 11-17. His preservation and deliverance, ver. 18- 23. The death of his accusers, ver. 24. The decree of Darius, and prosperity of Daniel, ver. 25-28.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Daniel was first - Belshazzar's promise to Daniel was, that he should be the third ruler in the kingdom, chap.5:7,16,29. The first was general of the army, the second president of the palace, the third of the land and provinces."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Concerning the kingdom - And so to have made him guilty of treason, or other high misdemeanors, in the king's business."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Toward Jerusalem - The temple was the place where the Lord placed his name, and promised to appear, and accept his people, all being a type of Christ, through whom only sinners are accepted. As he did aforetime - He did not abate his prayers for the king's command, nor did he break the law purposely, because he did no more than he was wont to do in serving his God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Displeased with himself - For having made that foolish decree. To deliver him - To find out some way of delivering him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Able to deliver - What he doubted of, we are sure of, that the servants of the living God, have a master who is able to deliver them and bear them out in his service."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "His angel - The same that was with the three children in the fiery furnace, whose presence made even the lion's den a strong - hold, his palace, his paradise. See the power of God over the fiercest creatures! See the care God takes of his faithful servants, especially when they are called to suffer for him! See how ready the angels are to minister to the heirs of salvation!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "In all the earth - In all that great empire. It is usual with the Turk, Tartar, Chinese, to arrogate the same universality."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DAN",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DAN",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DAN",
+  "chapter": 7
+ }
+}

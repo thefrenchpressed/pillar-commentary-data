@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 83,
+  "introduction": "A remonstrance of the designs and endeavours of Israel's enemies, ver. 1-8. A prayer, that God would defeat them, preserve his church, and get himself glory, ver. 9-18. A song or psalm of Asaph.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Hidden ones - Thy people of Israel, who are called God's hidden or secret ones, to intimate the respect which God has to them, as to his peculiar treasure."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The tabernacles - The people dwelling in them. Ishmaelites - Some of the posterity of Ishmael, called by their father's name, as others of them are supposed to be called Hagarens from their grandmother Hagar."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Gebal - An Arabian people so called by ancient writers dwelling in the southern border of Canaan, where most of the people here mentioned had their abode."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Of Lot - Moab and Ammon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "A wheel - Whereas they promise to themselves a sure possession, let them be like a wheel, which is very unstable, and soon removed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The mountains - The woods upon the mountains, which in those hot countries, when they have once taken fire, burn with irresistible violence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "May seek - May own and worship thee as the only true God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 83
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 82
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 84
+ }
+}

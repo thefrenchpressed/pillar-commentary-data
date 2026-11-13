@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "gaebelein",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 13 The Reign of Abijah\n\n1. The beginning of his reign (2 Chronicles 13:1-2)\n\n2. War with Jeroboam (2 Chronicles 13:3-19)\n\n3. Death of Jeroboam (2 Chronicles 13:20)\n\n4. Abijah’s family (2 Chronicles 13:21-22)\n\nAbijah is called in Kings, Abijam, and in 2 Chronicles 13:21, Abijahu (Hebrew text). His reign was not of a long duration; he outlived his father Rehoboam only three years. His mother was Maachah (2 Chronicles 11:20). She is called here Michaiah, probably because she was the queen-mother. There is no discrepancy between chapter 11:20 and the second verse of this chapter, in which she is called the daughter of Uriel of Gibeath. Josephus is probably correct when he states that Uriel was the husband of Tamar, the daughter of Absalom. In 2 Chronicles 11:20, she is called a daughter of Absalom or rather grand-daughter, for one word is used in Hebrew for daughter and grand-daughter. (Abishalom in 1 Kings 15:2 is the same as Absalom.)\n\nOf Abijah’s evil walk, and that his heart was not perfect with the LORD, the Chronicles has nothing to say. That is found in Kings. That things went from bad to worse under Abijah’s brief reign may be learned from the fact that his son Asa had to institute a reformation, and Maachah, the mother of Abijah and grandmother of Asa, had to be put away, because she had put up an Asherah, a vile idol-image in a grove (1 Kings 15:13; 2 Chronicles 15:16). Chronicles gives an account of Abijah’s war with Jeroboam. The two armies of Judah and Israel faced each other; Abijah had 400,000 men and Jeroboam 800,000. There is no reason to doubt the accuracy of these figures, as some critics have done.\n\nBoth sides were confident of victory. Jeroboam had twice as many men as Abijah, and they were “mighty men of valor.” He trusted in his superior number.\n\nIt was different with Abijah, King of Judah. Before the battle began the king delivered a remarkable address in which he expressed his confidence in Jehovah. The LORD had given the kingdom to David and to his sons by a covenant of salt, said Abijah. The covenant of salt refers to a very ancient custom. When a guest had been entertained in a tent and partaken of salt with his host, the obligation of the latter towards his guest was one of inviolable sanctity. The covenant of Jehovah with David was like a covenant of salt, that is, inviolable. Abijah believed in that covenant. Then he mentioned Jeroboam, whom sarcastically he calls “the servant of Solomon,” his revolt, his idolatry, his opposition to the priesthood.\n\nHe closed his address with a confident statement. “Behold, God Himself is with us for our captain, and His priests with sounding trumpets to cry alarm against you.” Then the warning: “O children of Israel, fight ye not against the LORD God of your fathers, for ye shall not prosper.” Abijah won the battle. When they were encircled by the enemy they cried to Jehovah in their hour of need, and He was faithful to His own word (Numb. 10:9). When the priests sounded with the trumpets, when they shouted, no doubt in faith and anticipation of Jehovah’s interference, then God smote Jeroboam and all Israel and delivered them into their hands. They had prevailed because they relied upon the LORD God, and so shall we prevail if we trust in the Lord. With that battle Jeroboam’s strength was broken. The wicked king, whose awful idolatry was the ruin of Israel, never recovered his strength. The LORD struck him and he died."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2CH",
+  "chapter": 14
+ }
+}

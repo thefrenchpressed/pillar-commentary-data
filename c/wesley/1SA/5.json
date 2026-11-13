@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "wesley",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": "The Philistines carry the ark into the temple of Dagon, ver. 1, 2. Dagon is overthrown, ver. 3-5. The men of Ashdod and Gath plagued, ver. 6-9. The Philistines determine to send it back, ver. 10-12.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "By Dagon - By way of reproach, as a spoil and trophy set there to the honour of Dagon, to whom doubtless they ascribed this victory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "They - The priests of Dagon. Set him - Supposing his fall was casual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Cut off - The head is the seat of wisdom; the hands the instruments of action: both are cut off to shew that he had neither wisdom nor strength to defend himself or his worshippers. Thus the priests by concealing Dagon's shame before, make it more evident and infamous. The stump - Heb. only dagon, that is, that part of it from which it was called Dagon, namely the fishy part, for Dag in Hebrew signifies a fish. It - Upon the threshold; there the trunk abode in the place where it fell, but the head and hands were slung to distant places."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "This day - When this history was written, which if written by Samuel towards the end of his life, was a sufficient ground for this expression."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Emerods - The piles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "To Gath - Supposing that this plague was confined to Ashdod for some particular reasons, or that it came upon them by chance, or for putting it into Dagon's temple, which they resolved they would not do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Hidden parts - In the inwards of their hinder parts: which is the worst kind of emerods, as all physicians acknowledge, both because its pains are far more sharp than the other; and because the malady is more out of the reach of remedies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The city - In every city, where the ark of God came."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 66,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Praise and Worship of the Millennium\n\n1. What God hath wrought! (Psalms 66:1-7)\n\n2. Israel’s praise and worship (Psalms 66:8-20)\n\n“Shout aloud unto God, all the earth! Sing the glory of His Name, ascribe to Him glory, in His praise.” This will be done in the coming kingdom age. And Israel will be the leader of that praise, calling upon the nations to join into the glory song. “All the earth shall worship Thee, and shall sing unto Thee, they shall sing Thy Name, Israel will worship in the beauty of holiness, and this people, now a holy nation and kingdom of priests, become His witnesses.” “Come and hear all ye that fear God, and I will declare what He has done for my soul.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 66
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 65
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 67
+ }
+}

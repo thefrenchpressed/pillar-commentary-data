@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "SNG",
+  "commentaryId": "scofield",
+  "name": "Song of Solomon",
+  "commonName": "Song of Solomon",
+  "numberOfChapters": 8
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "Nowhere in Scripture does the unspiritual mind tread upon ground so mysterious and incomprehensible as in this book, while the saintliest men and women of the ages have found it a source of pure and exquisite delight. That the love of the divine Bridegroom should follow all the analogies of the marriage relation seems evil only to minds so ascetic that martial desire itself seems to them unholy.\n\nThe interpretation is twofold: Primarily, the book is the expression of pure marital love as ordained of God in creation, and the vindication of that love as against both asceticism and lust--the two profanations of the holiness of marriage. The secondary and larger interpretation is of Christ, the Son and His heavenly bride, the Church (2 Corinthians 11:1-4 refs).\n\nIn this sense the book has six divisions:\n\nThe bride seen in restful communion with the Bridegroom, 1:1-2:7.\n\nA lapse and restoration, 2:3-3:5.\n\nJoy of fellowship, 3:6-5:1.\n\nSeparation of interest--the bride satisfied, the Bridegroom toiling for others, 5:2-5.\n\nThe bride seeking and witnessing, 5:6-6:3.\n\nUnbroken communion, 6:4-8:14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Verse 6 grave\n\nHebrew, \"Sheol,\""
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "SNG",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ECC",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "SNG",
+  "chapter": 2
+ }
+}

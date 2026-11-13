@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 66,
+  "introduction": "The psalmist calls on all people to praise God, for his sovereign power over the whole creation, ver. 1-7. For his special favour to his people, ver. 8-12. Praises him for his goodness to himself in particular, ver. 13-20. To the chief musician, A song or psalm.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "All lands - Ye people of all nations. He invites the Gentile world, to the contemplation and celebration of God's works."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "We - Our nation, or our ancestors, in whose loins we then were."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Proved us - As it were in a burning furnace; and with a design to purge out our dross."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Net - Which our enemies laid for us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "To ride - To use us like slaves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "I will go - One speaks in the name of all the rest. Incense - With the fat of rams, which is no less pleasing to God than incense."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Iniquity - Any sin. In heart - If my heart had been false to God, although I might have forborne outward acts. If I had been guilty of that, by heart was set upon sin, or I desired only that which I resolved in my heart to spend upon my lusts."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 66
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 65
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 67
+ }
+}

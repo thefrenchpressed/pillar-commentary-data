@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "gaebelein",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 8\n\n1. The Ministering Company (Luke 8:1-3.)\n\n2. The Parable of the Sower. (Luke 8:4-15.)\n\n3. The Parable of the Lighted Candle. (Luke 8:16-18)\n\n4. The Declaration of a New Relationship. (Luke 8:19-21.)\n\n5. The Storm on the Lake. (Luke 8:22-25)\n\n6. In the Country of the Gadarenes; the Maniac Healed. (Luke 8:26-36)\n\n7. His Rejection by the Gadarenes. (Luke 8:37-40.)\n\n8. The Woman With the Issue of Blood Healed. (Luke 8:41-48.)\n\n9. The Daughter of Jairus Raised. (Luke 8:49-56.)\n\nLuke 8:1-3\n\nThis also is reported exclusively by Luke. What wonderful preaching it must have been when He with the Apostles went about preaching! And the trophies of His power and grace were also with Him. Here we read that women ministered unto Him of their substance. What privilege was theirs to minister to Him!\n\nLuke 8:4-18\n\nThe parables which follow are known to us from the Gospels of Matthew and Mark. The parable of the Sower is here not in the dispensational setting in which it appears in Matthew (Chapter 13). The parables of the mustard seed and the leaven are reported later by Luke. The parable of the Sower is linked here with the preaching of the Word in Luke 8:1-3.\n\nLuke 8:19-56\n\nThe events which follow are also found in the Synoptics. The Storm on the Lake shows His true humanity. He is asleep. But in the threatening danger, when the helpless vessel fills with water, He knows no fear. They have to wake Him. The wind and waves obey His Word.\n\nAnd blessed be His Name! He is still the same. Then there is the man in his fallen pitiful condition, under the complete dominion of Satan, both in body and in soul. And once more the Son of Man shows His absolute power over Satan. The sufferer is completely healed. What a transformation took place! “The ‘many devils’ by whom he had been possessed were compelled to leave him.\n\nNor is this all. Cast forth from their abode in the man’s heart, we see these malignant spirits beseeching our Lord that He would ‘not torment’ them, or ‘command them to go out into the deep,’ and so confessing His supremacy over them. Mighty as they were, they plainly felt themselves in the presence of One mightier than themselves. Full of malice as they were, they could not even hurt the ‘swine’ of the Gadarenes until our Lord granted them permission."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "LUK",
+  "chapter": 9
+ }
+}

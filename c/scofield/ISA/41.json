@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "scofield",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "the righteous man from the east -- The reference here seems to be to Cyrus, whose victories and rapid growth in power are here ascribed to the providence of God. Isaiah 41:5-7 describe the effect upon the nations of the rise of the Persian power. They heartened each other, and made (Is 41:7) new idols. At verse 8 the prophet addresses Israel. Since it was their God who raised up Cyrus, they should expect good, not evil, from him (Isaiah 41:8-20). Isaiah 41:21-24 form a contemptuous challenge to the idols in whom the nations are trusting."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "servant -- Three servants of Jehovah are mentioned in Isaiah:\n\n(1) David Isaiah 37:35\n\n(2) Israel the nation Isaiah 41:8-16; 43:1-10; 44:1-8,21; 45:4; 48:20\n\n(3) Messiah Isaiah 42:1-12, Is 49., entire chapter, but note especially Isaiah 49:5-7, where the Servant Christ restores the servant nation; Isaiah 50:4-6; 52:13-15 53:1-12. Israel the nation was a faithless servant, but restored and converted will yet thresh mountains. Against the Servant Christ no charge of unfaithfulness or failure is brought. (See Scofield \"Isaiah 42:1\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "redeemed -- Heb. \"goel,\" Redemp. (Kinsman type). (See Scofield \"Isaiah 59:20\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ISA",
+  "chapter": 42
+ }
+}

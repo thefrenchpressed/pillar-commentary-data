@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "wesley",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": "Moses exhorts them to obedience by rehearsing God's works, ver. 1-7. By describing the goodness of the land, ver. 8-12. By promises and threats, ver. 13-17. An exhortation to teach their children, closed with a promise, ver. 18-25. A blessing and a curse, ver. 26-32.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Know - That is, acknowledge and consider it with diligence and thankfulness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Unto this day - The effect of which destruction continueth to this day, in their weakness and fear, and our safety from their farther attempts against us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Your eyes have seen - All of them had seen some, and some of them had seen all the great things done in Egypt and at the Red - sea, and in the Wilderness. What our eyes have seen, especially in our early days, should be improved by us long after."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "With thy foot - That is, with great pains and labour of thy feet, partly by going up and down to fetch water and disperse it, and partly by digging furrows with thy foot, and using engines for distributing the water, which engines they thrust with their feet. For tho' the river Nile did once in a year overflow the grounds, and made them fruitful, yet often it failed them, at least in part, and then they were put to great pains about their ground. And when it did overflow sufficiently, and left its mud upon the earth, yet that mud was in a little time hardened, and needed another watering, and much digging and labour both of the hand and feet, especially in places more remote from that river; which inconvenience Canaan was free from."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Of hills and valleys - And therefore much more healthful than Egypt was, which as it was enriched, so it was annoyed with the Nile, which overflowed the land in summer time, and thereby made the country both unpleasant and unhealthful. And health being the greatest of all outward blessings, Canaan must therefore needs be a more desirable habitation than Egypt. The rain of heaven - Which is more easy, being given thee without thy charge or pains; more sweet and pleasant, not hindering thy going abroad upon thy occasions, as the overflow of the Nile did, whereby the Egyptians were confined in a great measure to their houses; more safe and healthful, being free from that mud which attends upon the waters of the Nile; and more certain too, the former and the latter rain being promised to be given to them in their several seasons, upon condition of their obedience, which condition, tho' it may seem a clog and inconvenience, yet indeed was a great benefit, that by their own necessities and interest they might be obliged to that obedience, upon which their happiness depended both for this life and the next."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Careth for - In a special manner watering it immediately as it were by his own hand, without man's help, and giving peculiar blessings to it, which Egypt enjoys not. To the end of the year - To give it the rain, and other blessings proper to the several seasons. But all these mercies, and the fruitfulness of the land consequent upon them, were suspended upon their disobedience. And therefore it is not at all strange that some later writers, describe the land of Canaan as a barren soil, which is, so far from affording ground to question the authority of the scriptures, that it doth much more confirm it, this, being an effect of that threatning that God would turn a fruitful land into barrenness for the wickedness of these that dwell in it, Psa 107:34."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The ruin of your land - Which is, proper to your land, not common to Egypt, where, as all authors agree, there is little rain. The first rain fell in seed time, to make the corn spring, the other a little before harvest, to ripen it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "I will send grass in thy fields - So godliness has here the promise of the life which now is. But the favour of God puts gladness into the heart, more than the increase of corn, wine and oil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Shut up the heaven - Which is compared sometimes to a great store - house wherein God lays up his treasures of rain, Job 38:22, the doors whereof God is said to open when he gives rain, and to shut when he witholds it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Lay up - Let us all observe these three rules, Let our hearts be filled with the word of God. Lay up these words in your hearts, as in a store - house, to be used upon all occasions. Let our eyes be fixed upon the word of God: Bind them for a sign upon your hand, which is always in view, and as frontlets between your eyes, which you cannot avoid the sight of. Let our tongues be employed about the word of God, especially with our children, who must be taught this, as far more needful than the rules of decency, or the calling they are to live by."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "As the days of heaven - As long as the heaven keeps its place and continues its influences upon earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Every place - Not absolutely, as the Rabbins fondly conceit, but in the promised land, as it is restrained in the following words; either by possession, or by dominion, namely, upon condition of your obedience. The wilderness - Of Sin, on the south - side. To Lebanon - Which was on the north border. Euphrates - On the east. So far the right of dominion extended, but that their sins cut them short: and so far Solomon extended his dominion. The uttermost sea - The western or midland sea."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "I set before you - I propose them to your choice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Which ye have not known - Which you have no acquaintance with, nor experience of their power, or wisdom, or goodness, as you have had of mine."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Put - Heb. Thou shalt give, that is, speak or pronounce, or cause to be pronounced. So the word to give is used, Deu 13:1,2 Job 36:3 Pro 9:9. This is, more particularly expressed, Deu 27:12,13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Over against - Looking toward Gilgal, tho' at some considerable distance from it. Beside the plains of Moreh - This was one of the first places that Abram came to in Canaan. So that in sending them thither to hear the blessing and the curse, they were minded of the promise made to Abram in that very place, Gen 12:6,7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 12
+ }
+}

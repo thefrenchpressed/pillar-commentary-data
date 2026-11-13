@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "8. Samuel Exercising His Office and His FailureCHAPTERS 7:15-8:3\n\n1. Samuel the Prophet-Judge (1 Samuel 7:15-17)\n\n2. His failure (1 Samuel 8:1-3)\n\nSamuel’s activity as the great prophet-judge is now seen. He had a blessed circuit of ministry, which has its spiritual lessons for us. He first visited Bethel (the house of God). Judgment must begin there. When Jacob was obedient to the divine call “Arise and go up unto Bethel,” he buried the strange gods, the household gods under the oak of Shechem. So the evil things must be put away.\n\nThen came Gilgal (rolling). There the reproach of Egypt was rolled away (Joshua 5). This is what we need, to be freed from the world, dead to it and the world dead to us. Mizpeh (watch tower) was his third station. This is our constant need to be on our guard and watch against the foe, as well as look upward and forward from Mizpeh to that blessed home where He is and which we shall surely share with Him. This is represented in Ramah (heights) where Samuel had his home.\n\nBut there is failure. Samuel makes the mistake in making his sons judges. Because he was a judge and prophet and had success in it, his sons are to follow him in the same capacity. God does not work by succession, nor does He transmit gift and power from father to son. The so-called “apostolic succession” and traditional authority is an invention and one of the greatest factors in the corruption of Christianity. The Lord alone can call to service and give gifts for the ministry.\n\nJoel and Abiah were judges in Beersheba, but walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment. And this opened the way for the introduction of the monarchy in Israel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "II. KING SAUL: HIS REIGN AND 1. The King DemandedCHAPTER 8:4-22\n\n1. The king demanded (1 Samuel 8:4-9)\n\n2. The rights of the king (1 Samuel 8:10-22)\n\nThe kingly government is now to be established through the deliberate and untheocratic self-determination of the people. Jehovah was their invisible King, and Him they rejected by requesting a king like all the nations. The motives for the demand of a king are three: 1. The old age of Samuel and the unfitness of his sons; 2. The desire to be upon the same footing with other nations; 3. To have a leader and fight their battles (verse 20).\n\n“The state or political organization reaches its highest development when royalty is introduced. The King of Israel is not, however, intended to be an autocratic but a theocratic king; the prophet and the priest, in their official capacity, did not occupy a subordinate, but a co-ordinate rank. As men and as citizens, they were under an obligation, like all other subjects, to obey the king; but with respect to their prophetic and priestly offices, they were dependent on God alone, and by no means on the king” J. H. Kurtz, Sacred History.\n\nSamuel was displeased by the request, but the man of prayer turned to the Lord and received from Him the needed direction. The Lord comforts the heart of His servant “for they have not rejected thee, but they have rejected Me, that I should not reign over them.” As they did to Jehovah, so the Lord told His servant, do they also unto thee. The servant is identified with His Master. It reminds us of the words of our Lord: “if they have persecuted Me, they will persecute you also.” We are called to share His reproach. And they were to have a King according to their own choice. Later the Lord reminded Israel through Hosea of this event. “I will be thy King; where is any other that may serve thee in all thy cities? and thy judges of whom thou saidst, give me a king and princes?\n\nI gave thee a king in mine anger, and took him away in my wrath” (Hosea 13:10-11). Then Samuel describes the manner, literally the rights, of the king. Military service, harsh and compulsory, forced labour and other evils are spread before them. Yet they refused to hearken and the Lord said again: “Hearken unto their voice, and make them a king.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 9
+ }
+}

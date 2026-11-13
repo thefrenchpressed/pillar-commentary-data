@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "wesley",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": "Man's life is but short, sorrowful, and sinful; on which consideration he pleads for mercy, ver, 1-6. Other creatures revive, but man does not, ver. 7-12. Various wishes and complaints, ver. 13-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Man - A weak creature, and withal corrupt and sinful, and of that sex by which sin and all other calamity was brought into the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Flower - The flower is fading, and all its beauty soon withers and is gone. The shadow is fleeting, and its very being will soon be lost in the shadows of night. Of neither do we make any account, in neither do we put any confidence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Not one - No man. This is the prerogative of thy grace, which therefore I humbly implore."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Determined - Limited to a certain period. With thee - In thy power and disposal. Thou hast appointed a certain end of his days, beyond which he cannot prolong his life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Turn - Withdraw thine afflicting hand from him, that he may have some present ease. 'Till - He come to the period of his life, which thou hast allotted to him, as a man appoints a set time to an hired servant."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Die - To outward appearance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Scent - By means of water. Scent or smell, is figuratively ascribed to a tree."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Man - Two words are here used for man. Geber, a mighty man, tho' mighty, dies. Adam, a man of earth, returns to it. Before death, he is dying daily, continually wasting away. In death, he giveth up the ghost, the spirit returns to God that gave it. After death, where is he? Not where he was: his place knows him no more. But is he nowhere? Yes, he is gone to the world of spirits, gone into eternity, gone, never to return to this world!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "As - So it is with man. Or thus, as when the waters fail from the sea, when the sea forsakes the place into which it used to flow, the river which was fed by it, decayeth and drieth up without all hopes of recovery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Lieth - In his bed, the grave. 'Till - Until the time of the general resurrection, when these visible heavens shall pass away."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The grave - The grave is not only a resting - place, but an hiding - place to the children of God. He hides them in the grave, as we hide our treasure in a place of secrecy and safety. Hide me there, not only from the storms of this life, but for the glory of a better. Until thy wrath be past - As long as our bodies lie in the grave, there are some fruits of God's wrath against sin: until the set time comes, for their being remembered, as Noah was remembered in the ark, Gen 8:1. Our bodies shall not be forgotten in the grave, there is a time set for their being enquired after."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Shall he live? - He shall not in this world. Therefore I will patiently wait 'till that change comes, which will put a period to my calamities."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Answer thee - Thou shalt call my soul to thyself: and I will chearfully answer, Here I am: knowing thou wilt have a desire to the work of thy hands - A love for the soul which thou hast made, and new - made by thy grace."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Numbereth - Thou makest a strict enquiry into all my actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Sealed - As writings or other choice things, that they may all be brought forth upon occasion, and not one of them forgotten. Thou keepest all my sins in thy memory. But herein Job speaks rashly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "And - As when a great mountain falls, by an earthquake or inundation, it moulders away like a fading leaf, (as the Hebrew word signifies) and as the rock, when by the violence of winds or earthquakes it is removed out of its place, and thrown down, is never re - advanced: and as the waters by continual droppings, wear away the stones, so that they can never be made whole again: and as thou wastest away, by a great and violent inundation, the things which grow out of the dust of the earth, herbs, and fruits, and plants, which once washed away are irrecoverably lost; in like manner, thou destroyest the hope of man: when man dies, all hope of his living again in this world is lost."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Prevailest - When once thou takest away this life, it is gone forever. Sendest - To his long home."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Knoweth not - Either is ignorant of all such events: or, is not concerned or affected with them. A dead or dying man minds not these things."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOB",
+  "chapter": 15
+ }
+}

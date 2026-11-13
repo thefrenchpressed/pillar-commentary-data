@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "vincent",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "I have compassion [σπλαγχνιζομαι]. A peculiar verb, from splagcna, the inward parts, especially the nobler entrails - the heart, lungs, liver, and kidneys. These came gradually to denote the seat of the affections, like our word heart. This explains the frequent use of the word bowels in the A. V. in the sense of tender mercy, affection, compassion. See Luke 1:78; 2 Corinthians 7:15; Phi 1:8; Phl 1:7, 12, 20. The Rev. has properly rejected it in every such case, using it only in its literal sense in the single passage, Acts 1:18.\n\nThey have been with me [προσμενουσιν]. Lit., they continue, as Rev."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Faint. See on Matthew 14:32. Wyc., fail.\n\nSome of them came from far. Peculiar to Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "To sit down [αναπεσειν]. Lit., to recline.\n\nBrake and gave. See on Mr 6:41."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Were filled. See on Matthew 5:6. Wyc., fulfilled. Tynd., sufficed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Baskets. See on Matthew 14:20.\n\nFour thousand. Matthew (xv. 38) here adds a detail which we should rather expect in Mark: beside women and children."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "With his disciples. Peculiar to Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Began. The beginnings of things seem to have a peculiar interest for\n\nMark. See Mr 1:1, 45; Mr 4:1; Mr 5:17, 20; Mr 6:2, 7, 34, 55.\n\nSign [σημειον]. See on Matthew 11:20. Wyc., token. As applied to the miracles of our Lord, this word emphasizes their ethical purport, as declaring that the miraculous act points back of itself to the grace and power or divine character or authority of the doer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Sighed deeply in his spirit. Peculiar to Mark.\n\nThere shall no sign be given [ειδοθησεταισημειον]. Lit., if a sign shall be given. The expression, is elliptical. It is a Hebrew idiom, and is really, at bottom, a form of imprecation. If I do not thus or so, may some judgment overtake me. Compare Hebrews 3:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The one loaf is a detail given by Mark only.\n\n22 - 26. Peculiar to Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Took [επιλαβομενος]. Tynd., caught.\n\nIf he saw [ειτιβλεπεις]. Rev., more accurately, renders the direct question: Seest thou aught? The change of tenses is graphic. Asked (imperfect). Dost thou see (present)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "I see men as trees walking (following the reading, Blepw touv ajnqrwpouv wJv dendra peripatountav). The Rev. reads, following the amended text, I see men, for [οτι] I behold [ορω] them as trees, walking. He saw them dimly. They looked like trees, large and misshapen; but he knew they were men, for they were walking about."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Made him look up. The best texts omit, and substitute die bleyen, he looked stedfastly. See on Matthew 7:5. Instead of vaguely staring, he fixed his eyes on definite objects.\n\nHe saw [ενεβλεπεν]. Imperfect tense. Continuous action. He saw and continued to see. Compare the aorist tense above: He looked stedfastly, fastened his eyes, denoting the single act, the first exercise of his restored sight.\n\nEvery man. Following the reading apantav. But the best texts read apanta, all things. So Rev.\n\nClearly [τηλαυγως]. From thle, far, aujgh, shining. The farthest things were clearly seen."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "He saith [επηρωτα]. More correctly, he questioned or asked. So Rev. Mark omits the commendation of Peter. See Introduction.\n\nOn verses 31 - 33, compare notes on Matthew 16:21 - 28."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "He spake the saying openly. Mark only. Not as a secret or mystery, as in his words about being lifted up, or building the temple in three days. Not ambiguously, but explicitly. Wyc., plainly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Jesus now pauses; for what he has to say now is to be said to all who follow him. Hence he calls the multitude with his disciples. Peculiar to Mark.\n\nWill [θελει]. Rev., would. See on Matthew 1:19. It is more than is wishful.\n\nHis cross. The pronoun aujtou his, is in an emphatic position."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "And the gospel's. Peculiar to Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Gain - lose. See on Matthew 16:26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "My words. Bengel remarks that one may confess Christ in general and yet be ashamed of this or that saying.\n\nIn this adulterous and sinful generation. Peculiar to Mark. ===Mr_9\n\nCHAPTER IX\n\nCompare Matthew 17:1 - 13; Luke 9:28 - 36."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 9
+ }
+}

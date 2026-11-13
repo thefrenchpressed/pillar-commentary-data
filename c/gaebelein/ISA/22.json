@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 22\n\nThe Burden of the Valley of Vision (Jerusalem)\n\n1. Jerusalem’s deplorable state (Isaiah 22:1-4) 2. The invading armies (Isaiah 22:5-7) 3. The siege and the calamity (Isaiah 22:8-14) 4. Shebna (Isaiah 22:15-19) 5. Eliakim (Isaiah 22:20-25)This is another intensely interesting prophecy. Jerusalem has passed through many sieges and at last in part the prophecy has been fulfilled. But there is another siege of Jerusalem impending. It will come after the message of the fall of the final Babylon. See Zechariah 14:1-21. Still more interesting are Shebna and Eliakim, mentioned in this chapter. Shebna, the proud one, is the usurper, the type of the Antichrist. Eliakim is the type of Christ, He whose right it is to reign. It is Christ displacing Antichrist, which is seen in Isaiah 22:15-25. Compare Isaiah 22:22 with Revelation 3:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 23
+ }
+}

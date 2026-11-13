@@ -1,0 +1,245 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "vincent",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Peter [πετρος]. See on Matthew 16:18. As Paul in his letters does not call himself by his original name of Saul, so Peter calls himself, not Simon, but Peter, the name most significant and precious both to himself and to his readers, because bestowed by his Lord. In the opening of the second epistle he uses both names.\n\nAn apostle. Of all the catholic epistles, Peter's alone puts forward his apostleship in the introduction. He is addressing churches with which he had no immediate connection, and which were distinctively Pauline. Hence he appeals to his apostleship in explanation of his writing to them, and as his warrant for taking Paul's place.\n\nTo the strangers - elect (ver. 2, ejklektoiv parepidhmoiv). The Rev., properly, joins the two words, elect who are sojourners, instead of continuing elect with according to the foreknowledge, etc., as A. V.\n\nElect. Regarding all whom he addressed as subjects of saving grace. The term corresponds to the Old - Testament title of Jehovah's people: Isaiah 65:9, 15, 22; Psalms 105:43. Compare Matthew 20:16; Matthew 22:14; Romans 8:33.\n\nSojourners [παρεπιδημοις]. Persons sojourning for a brief season in a foreign country. Though applied primarily to Hebrews scattered throughout the world (Genesis 23:4; Psalms 39:12), it has here a wider, spiritual sense, contemplating Christians as having their citizenship in heaven. Compare Hebrews 11:13. The preposition para, in composition, implies a sense of transitoriness, as of one who passes by to something beyond.\n\nScattered [διασπορας]. Lit., of the dispersion; from diaspeirw, to scatter or spread abroad; speirw meaning, originally, to sow. The term was a familiar one for the whole body of Jews outside the Holy Land, scattered among the heathen."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "According to [κατα]. In virtue of; in accordance with.\n\nForeknowledge [προγνωσιν]. Only here and Acts 2:23, in Peter's sermon at Pentecost. He is distinguishing there between foreknowledge and determinate counsel.\n\nThe Father. Implying that the relation contemplated by the divine foreknowledge is a new relation of sonship.\n\nIn sanctification [εναγιασμω]. Compare 2 Thessalonians 2:13. The spiritual state in which the being elected to salvation is realized. The word is peculiarly Pauline, occurring eight times in Paul's epistles, and besides only here and Hebrews 12:14.\n\nUnto obedience [εις]. Note the three prepositions: according to [κατα] the foreknowledge; in [εν] sanctification; unto [εις] obedience. The ground, sphere, and end of spiritual sanctification.\n\nSprinkling [ραντισμον]. Here in a passive sense - the being sprinkled. Properly, the ritualistic act of sprinkling blood or water. See Numbers 19:19, 21. Compare Hebrews 9:13; Hebrews 12:24; Numbers 19:9, 13, where the water in which were the ashes of the red heifer is called udwr rJantismou, water of sprinkling (Septuagint), which the A. V. and Rev. Old Testament render water of separation. The word and its kindred verb occur only in Hebrews and Peter.\n\nJesus Christ. The foreknowledge of the Father, the sanctification of the Spirit, the obedience and sprinkling of the blood of Jesus Christ the Son. The Father foreknowing, the Son atoning, the Spirit applying the Son's work in sanctifying. \"The mystery of the Trinity and the economy of our salvation are intimated in this verse\" (Bengel).\n\nGrace and peace [χαρις - ειρηνη]. Pauline terms. See Romans 1:7. The salutation is peculiar by the addition of be multiplied, which occurs 2 Peter 1:2; Jude 1:2, and nowhere else in the salutations of the epistles. It is found, however, in the Septuagint, Daniel 4:1 (LXX 3 31), and Daniel 6:25. Professor Salmond observes: \"If the Babylon from which Peter writes can be taken to be the literal Babylon (see on 5 13), it might be interesting to recall the epistles introduced by salutations so similar to Peter's, which were written from the same capital by two kings, Nebuchadnezzar and Darius, of two great dynasties, and addressed to all their provinces.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Blessed [ευλογητος]. eu, well, logov, a word. Well - spoken - of; praised; honored. Used in the New Testament of God only. The kindred verb is applied to human beings, as to Mary (Luke 1:28): \"Blessed [ευλογημενη] art thou.\" Compare the different word for blessed in Matthew 5:3, etc. [μακαριοι], and see notes there. The style of this doxological phrase is Pauline. Compare 2 Corinthians 1:3; Ephesians 1:3.\n\nHath begotten us again [αναγεννησαςημας]. The verb is used by Peter only, and by him only here and ver. 23. It is in the aorist tense, and should be rendered, as Rev., begat; because regeneration is regarded as a definite historical act accomplished once for all, or possibly because Peter regards the historical act of Christ's resurrection as virtually effecting the regeneration. The latter sentiment would be Pauline, since Paul is wont to speak of Christians as dying and rising with Christ. Romans 7:4; Romans 6:8 - 11. Lively [ζωσαν].\n\nBetter, as Rev., literally rendering the participle, living: a favorite word with Peter. See 1 Peter 1:23; 1 Peter 2:4, 5, 24; 1 Peter 4:5, 6; and compare Acts 9:41, where Peter is the prominent actor; and Acts 10:42, where he is the speaker.\n\nHope [ελπιδα]. Peter is fond of this word also (see 1 Peter 1:13, 21; 1 Peter 3:5, 15), which, in classical Greek, has the general signification of expectancy, relating to evil as well as to good. Thus Plato speaks of living in evil hope (\" Republic, \" 1, 330); i e., in the apprehension of evil; and Thucydides, of the hope of evils to come; i e., the expectation or apprehension. In the New Testament the word always relates to a future good."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "An inheritance [κληρονομιαν]. A Pauline word, from klhrov, a lot, and nemomai, to distribute among themselves. Hence an inheritance is originally a portion which one receives by lot in a general distribution. In the New Testament the idea of chance attaching to the lot is eliminated. It is the portion or heritage which one receives by virtue of birth or by special gift. So of the vineyard seized by the wicked husbandmen: \"Let us seize on his inheritance\" (Matthew 21:38); of Abraham in Canaan: \"God gave him none inheritance\" (Acts 7:5); \"an eternal inheritance\" (Hebrews 9:15).\n\nIncorruptible, undefiled, and that fadeth not away. Note Peter's characteristic multiplication of epithets. Incorruptible [αφθαρτον]. From aj, not, and fqeirw, to destroy or corrupt. Undefiled [αμιαντον]. From aj, not, and miainw to defile, though the verb means especially to defile by staining, as with color; while molunw, also translated defile (1 Corinthians 8:7), is to besmirch, as with mire.\n\nWe might render unstained, though the word is not used with any conscious reference to its etymology. That fadeth not away [αμαραντον]. Used by Peter only, and but once. From aj, not, and marainomai, to wither. The loveliness of the heavenly inheritance is described as exempt from the blight which attaches to earthly bloom. As between afqarton, incorruptible, and ajmaranton, unwithering, the former emphasizes the indestructibility of substance, and the latter of grace and beauty.\n\nThe latter adjective appears in the familiar botanical name amaranth. It will be observed that all of these three epithets are compounded with the negative particle aj, not. Archbishop Trench aptly remarks that \"it is a remarkable testimony to the reign of sin, and therefore of imperfection, of decay, of death throughout this whole fallen world, that as often as we desire to set forth the glory, purity, and perfection of that other, higher world toward which we strive, we are almost inevitably compelled to do this by the aid of negatives; by the denying to that higher order of things the leading features and characteristics of this.\" Compare Revelation 21:1, 4, 22, 23, 27; Revelation 22:3, 5. Reserved [τετηρημενην]. Lit., which has been reserved, a perfect participle, indicating the inheritance as one reserved through God's care for his own from the beginning down to the present. Laid up and kept is the idea.\n\nThe verb signifies keeping as the result of guarding. Thus in John 17:11, Christ says, \"keep [τηρσον] those whom thou hast given me;\" in ver. 12, \"I kept them\" [ετηρουν]; i e., preserved by guarding them. \"Those whom thou gavest me I guarded [εφυλαξα].\" So Rev., which preserves the distinction. Similarly, John 14:15, \"keep [τηρησατε] my commandments;\" preserve them unbroken by careful watching. So Peter was delivered to the soldiers to guard him [φυλασσειν], but he was kept [ετηρειτο] in prison (Acts 12:4, 51). Compare Colossians 1:5, where a different word is used: ajpokeimenhn, lit., laid away.\n\nFor you [εις]. The use of this preposition, instead of the simpler dative, is graphic: with reference to you; with you as its direct object."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Kept [φρουρουμενους]. A military term. Lit., garrisoned. Rev., guarded. Compare 2 Corinthians 11:32, and the beautiful metaphorical use of the word at Phi 4:7, \"shall guard your hearts.\" The present participle indicates something in progress, a continuous process of protection. Hence, lit., who are being guarded. \"The inheritance is kept; the heirs are guarded\" (Bengel).\n\nBy [εν] the power; through [δια] faith; unto [εις] salvation. By, indicating the efficient cause; through, the secondary agency; unto, the result.\n\nSalvation. Note the frequent occurrence of this word, vv. 9, 10. Ready [ετοιμην]. Stronger than about to be, or destined to be, implying a state of waiting or preparedness, and thus harmonizing with reserved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Ye greatly rejoice [αγαλλιασθε]. The word is always employed in the New Testament for great or lively joy. See Matthew 5:12; Luke 1:47; Luke 10:21.\n\nFor a season [ολιγον]. More literally and correctly, as Rev., for a little while. Compare ch. 5 10. The word is used nowhere else in the New Testament in this sense.\n\nIn heaviness [λυπηθεντες]. Lit., having been grieved. Rev., ye have been put to grief.\n\nThrough [εν]. But Rev., better, in; the preposition not being instrumental, but indicating the sphere or environment in which the grief operates.\n\nManifold [ποικιλοις]. Literally the word means variegated. It is used to describe the skin of a leopard, the different - colored veinings of marble, or an embroidered robe; and thence passes into the meaning of changeful, diversified, applied to the changing months or the variations of a strain of music. Peter employs it again, ch. 4 10, of the grace of God, and James of temptations, as here (i. 2). Compare polupoikilov, manifold, in Ephesians 3:10, applied to the wisdom of God. The word gives a vivid picture of the diversity of the trials, emphasizing this idea rather than that of their number, which is left to be inferred.\n\nTemptations [πειρασμοις]. Better, trials, as in margin of Rev., since the word includes more than direct solicitation to evil. It embraces all that goes to furnish a test of character. Compare James 1:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Trial [δοκιμιον]. Only here and James 1:3. Rev., proof. The word means a test. As the means of proof, however, is not only the touchstone itself, but the trace of the metal left upon it, the sense here is the result of the contact of faith with trial, and hence the verification of faith. The expression is equivalent to your approved faith. Compare Romans 2:7, 10. Than of gold. Omit the of, and read than gold. The comparison is between the approved faith and the gold; not between the faith and the proof of the gold.\n\nThough it be tried [δοκιμαζομενου]. Kindred with dokimion, proof, and better rendered by Rev., proved. The verb is used in classical Greek of assaying or testing metals, and means, generally, to approve or sanction upon test. It is radically akin to decesqai, to receive, and hence implies a proof with a view to determine whether a thing be worthy to be received. Compare 1 Corinthians 3:13; Galatians 6:4; 1 John 4:1. It thus differs from peirazein, to try or tempt (see on peirasmoiv, ver. 6), in that that verb indicates simply a putting to proof to discover what good or evil is in a person; and from the fact that such scrutiny so often develops the existence any energy of evil, the word acquired a predominant sense of putting to the proof with the design or hope of breaking down the subject under the proof - in other words, of temptation in the ordinary sense.\n\nHence Satan is called oJ peirazwn, the tempter, Matthew 4:3; 1 Thessalonians 3:5. See on Matthew 6:13. Archbishop Trench observes that \"dokimazein could not be used of Satan, since he never proves that he may approve, nor tests that he may accept.\"\n\nMight be found [ευρεθη]. In accord with the preceding expressions, and indicating discovery as the result of scrutiny.\n\nPraise and glory and honor. Such is the order of the best texts, and so. Rev. Glory and honor often occur together in the New Testament, as Romans 2:7, 10; 1 Timothy 1:17. Only here with praise. Compare spirit of glory, ch. 4 14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Full of glory [δεδοξασμενη]. Lit., glorified, as Rev., in margin. Receiving [κομιζομενοι]. The verb originally means to take care of or provide for; thence to receive hospitably or entertain; to bring home with a view to entertaining or taking care of. Hence, to carry away so as to preserve, to save, rescue, and so to carry away as a prize or booty. Generally, to receive or acquire. Paul uses it of receiving the awards of judgment (2 Corinthians 5:10; Ephesians 6:8; Colossians 3:25). In Heb. it is used of receiving the promise (Hebrews 10:36; Hebrews 11:39), and of Abraham receiving back Isaac (xi. 19). Peter uses it thrice, and in each case of receiving the rewards of righteousness or of iniquity. See ch. 1 Peter 5:4; 2 Peter 2:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Have inquired and searched diligently [εξεζητησαν - εξηρευνησαν]. Rev., properly, renders the aorists sought and searched diligently. The ejx in composition has the force of out, searched out, and is rendered by diligently.\n\nSought. Used of Esau's seeking carefully for a place of repentance, in Hebrews 12:17.\n\nSearched. Used nowhere else in the New Testament. Compare Septuagint, 1 Samuel 23:23, of Saul's searching out David."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Did signify [εδηλου]. Imperfect tense: better, was declaring, all along through the prophetic age, in successive prophets. See the same verb in 1 Corinthians 3:13; 2 Peter 1:14.\n\nWhen it testified beforehand [προμαρτυρομενον]. Only here in New Testament.\n\nOf Christ [ειςχριστον]. Lit., unto Christ. So Rev., in margin. The sufferings destined for Christ, as in ver. 10 he speaks of the grace, eijv uJmav, unto you; i e., destined to come unto you. Peter was especially concerned to show that the sufferings of Christ were in fulfilment of prophecy, because it was a subject of dispute with the Jews whether the Christ was to suffer (Acts 3:18; Acts 26:22, 23).\n\nThe glory [ταςδοξας]. Rev., correctly, the glories. The plural is used to indicate the successive steps of his glorification; the glory of his resurrection and ascension, of the last judgment, and of the kingdom of heaven."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Did minister [διηκονουν]. Imperfect tense, were ministering. See on Mr 9:35. The term is applicable to any kind of service, official or not. Compare 2 Corinthians 3:3.\n\nDesire (ejpiqumousin). The word commonly denotes intense desire. It is used by Christ in expressing his wish to eat the passover (Luke 22:15); of the prodigal's desire to satisfy his hunger with the husks (Luke 14:16); and of the flesh lusting against the spirit (Galatians 5:17). To look into [παρακυψαι]. A very graphic word, meaning to stoop sideways [παρα]. Used by Aristophanes to picture the attitude of a bad harp - player.\n\nHere it portrays one stooping and stretching the neck to gaze on some wonderful sight. It occurs in James 1:25, describing him who looks into the perfect law of liberty as into a mirror; and in Luke 24:12; John 20:5, 11, of Peter and John and Mary stooping and looking into the empty tomb. Possibly the memory of this incident unconsciously suggested the word to Peter. The phrase illustrates Peter's habitual emphasis upon the testimony of sight (see Introduction). Bengel acutely notes the hint in para, beside, that the angels contemplate the work of salvation from without, as spectators and not as participants. Compare Hebrews 2:16; Ephesians 3:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Gird up [αναζωσαμενοι]. Lit., having girded up. Used here only. The metaphor is suggested by the girding up of the loose eastern robes preparatory to running or other exertion. Perhaps recalling the words of Christ, Luke 12:35. Christ's call is a call to active service. There is a fitness in the figure as addressed to sojourners and pilgrims (ch. 1 Peter 1:1; 1 Peter 2:11), who must be always ready to move.\n\nMind [διανοιας]. See on Mr 12:30.\n\nBe sober [νηφοντες]. Lit., being sober. Primarily, in a physical sense, as opposed to excess in drink, but passing into the general sense of self - control and equanimity.\n\nHope to the end [τελειωςελπισατε]. Better, as Rev., set your hope perfectly: wholly and unchangeably; without doubt or despondency. That is to be brought [τηνφερομενην]. Lit., which is being brought, as Rev., in margin. The object of hope is already on the way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Obedient children [τεκναυπακοης]. Literally, and more correctly, as Rev., children of obedience. See on Mr 3:17. The Christian is represented as related to the motive principle of his life as a child to a parent.\n\nFashioning yourselves [συσχηματιζομενοι]. See on Matthew 17:2; and compare Romans 12:2, the only other passage where the word occurs. As schma is the outward, changeable fashion, as contrasted with what is intrinsic, the word really carries a warning against conformity to something changeful, and therefore illusory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "As he which hath called you is holy [κατατονκαλεσανταυμαςαγιον]. As of the A. V. is according to, or after the pattern of; and holy is to be taken as a personal name; the which hath called being added for definition, and in order to strengthen the exhortation. Render, therefore, after the pattern of the Holy One who called you. So, nearly, Rev., in margin. A similar construction occurs 2 Peter 2:1: the Lord that bought them.\n\nConversation [αναστροφη]. A favorite word with Peter; used eight times in the two epistles. From ajna, up, and strefw, to turn. The process of development in the meaning of the word is interesting.\n\n1. A turning upside down.\n\n2. A turning about or wheeling.\n\n3. Turning about in a place, going back and forth there about one's business; and so,\n\n4. one's mode of life or conduct.\n\nThis is precisely the idea in the word conversation (Lat., conversare, to turn around) which was used when the A. V. was made, as the common term for general deportment or behavior, and was, therefore, a correct rendering of ajnastrofh. So Latimer (\" Sermons \"): \"We are not bound to follow the conversations or doings of the saints.\" And Shakspeare, 2 Hen 4, 5, 5\n\n\"But all are banished till their conversation Appear more wise and modest to the world.\"\n\nOur later limitation of the meaning to the interchange of talk makes it expedient to change the rendering, as Rev., to manner of living."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "If ye call on the Father - judgeth. More correctly, Rev., If ye call on him as Father; the point being that God is to be invoked, not only as Father, but as Judge.\n\nWithout respect of persons [απροσωπολημπτως]. Here only. Peter, however, uses proswpolhmpthv, a respecter of persons, Acts 10:34, which whole passage should be compared with this. Paul and James also use the kindred word swpolhmyia, respect of persons. See Romans 2:11; James 2:1. James has the verb proswpolhmptew, to have respect of persons.\n\nThe constituents of the compound word, proswpon, the countenance, and lambanw, to receive, are found in Galatians 2:6; and the word is the Old - Testament formula to accept or to raise the face of another; opposed to making the countenance fall (Job 29:24; Genesis 4:5). Hence, to receive kindly, or look favorably upon one (Genesis 19:21; Genesis 32:20, etc.). In the Old Testament it is, as Bishop Lightfoot observes, \"a neutral expression involving no subsidiary notion of partiality, and is much oftener found in a good than in a bad sense. When it becomes an independent Greek phrase, however, the bad sense attaches to it, owing to the secondary meaning of proswpon, a mask; so that proswpon lambanein signifies to regard the external circumstances of a man, his rank, wealth, etc., as opposed to his real, intrinsic character.\" Sojourning [παροικιας]. Compare sojourners, ver. 1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Ye were redeemed [ελυτρωθητε]. The verb occurs only in two other passages, Luke 24:21; Titus 2:14. It carries the idea of a ransom - price (lutron, from luw, to loose).\n\nWith silver or gold [αργυριωηχρυσιω]. Lit., with silver or gold money; the words meaning, respectively, a small coin of silver or of gold. Conversation. Rev., manner of life. See on ver. 15.\n\nReceived by tradition from your fathers [πατροπαραδοτου]. A clumsy translation; improved by Rev., handed down from your fathers. The word is peculiar to Peter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "But with the precious blood of Christ. The word Cristou, of Christ, stands at the end of the sentence, and is emphatic. Render, as Rev., with precious blood as of a lamb, etc., even the blood of Christ. Lamb. Peculiarly appropriate from Peter. See John 1:35 - 42. The reference is to a sacrificial lamb.\n\nWithout blemish [αμωμου]. Representing the Old - Testament phrase for absence of physical defect (Exodus 12:5; Leviticus 22:20. Compare Hebrews 9:14).\n\nWithout spot [ασπιλου]. Compare 1 Timothy 6:14; James 1:27; 2 Peter 3:14. In each case in a moral sense."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Foreordained [προεγνωσμενου]. Lit., and better, foreknown, as Rev. Manifested [φανερωθεντος]. Observe the difference in tense.\n\nForeknown is the perfect participle, has been known from all eternity down to the present: \"in reference to the place held and continuing to be held by Christ in the divine mind\" (Salmond). Manifested is the aorist participle, pointing to a definite act at a given time.\n\nIn these last times [επεσχατουτωνχρονων]. Lit., as Rev., at the end of the times."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Which raised. Compare Romans 4:24.\n\nThat your faith and hope might be in God. Some render, that your faith should also be toward God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Purified [ηγνικοτες]. The Septuagint translation of the Old - Testament technical term for the purification of the people and priests (Joshua 3:5, 1 Chronicles 14:12; 1 Samuel 16:5). Also, of the separation from wine and strong drink by the Nazarite (Numbers 6:2 - 6). In this ceremonial sense, John 11:55; Acts 21:24, 26; Acts 24:18. In the moral sense, as here, James 4:8; 1 John 3:3. Compare kaqarisav, purifying, Acts 14:9.\n\nObeying [υπακοη]. Rev., obedience. A peculiarly New Testament term unknown in classical Greek. In the Septuagint only 2 Samuel 22:36; rendered in A. V. gentleness. Rev., condescension, in margin.\n\nUnfeigned [ανυποκριτον]. 'A, not, uJpokrithv, actor. The latter word is from uJpokrinesqai, to answer on the stage, and hence to play a part or to act. A hypocrite is, therefore, an actor.\n\nWith a pure heart [εκκαθαραςκαρδιας]. The best texts reject kaqarav, pure. Render, therefore, as Rev., from the heart.\n\nFervently [εκτενως]. Used by Peter only, and only in this passage. He uses the kindred adjective ejktenhv, without ceasing, in Acts 12:5, where the narrative probably came from him, and also at ch. 4 8; \"fervent charity.\" The words are compounded with the verb teinw, to stretch, and signify intense strain; feeling on the rack."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Being born again [αναγεγεννημενοι]. Rev., having been begotten again. Compare James 1:18.\n\nOf [εκ] seed - by [δια] the word. Note the difference in the prepositions; the former denoting the origin or source of life, the latter the medium through which it imparts itself to the nature.\n\nWord of God [λογουθεου]. The gospel of Christ. Compare ver. 25, and Peter's words, Acts 10:36. Also, Ephesians 1:13; Colossians 1:5; James 1:18. Not the personal Word, as the term is employed by John. Nevertheless, the connection and relation of the personal with the revealed word is distinctly recognized. \"In the New Testament we trace a gradual ascent from (a) the concrete message as conveyed to man by personal agency through (b) the Word, the revelation of God to man which the message embodies, forming, as it were, its life and soul, to (c) THE WORD, who, being God, not only reveals but imparts himself to us, and is formed in us thereby\" (Scott, on James 1:18, \" Speaker's Commentary \").\n\nSeed [σπορας]. Nowhere else in the New Testament. Primarily, the sowing of seed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Of man. Following the reading ajnqrwpou, in the Septuagint, Isaiah 40:6, which Peter quotes here. But the best texts read aujthv, of it, or, as Rev., thereof.\n\nWithereth [εξηρανθη]. Literally, the writer puts it as in a narrative of some quick and startling event, by the use of the aorist tense: withered was the grass. Similarly, the flower fell [εξεπεσεν]. Lit., fell off, the force of ejk."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Word of the Lord [ρημακυριου]. Compare ver. 23, and note that rJhma is used for word, instead of logov; and Kuriov, Lord, instead of Qeov, God, which is the reading of the Hebrew, and of most copies of the Septuagint. The substitution indicates that Peter identifies Jesus with God. No very satisfactory reason can be given for the change from logov to rJhma. It may be due to the Greek translation, which Peter follows."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "1PE",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "JAS",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "1PE",
+  "chapter": 2
+ }
+}

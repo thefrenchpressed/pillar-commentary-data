@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "scofield",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "there is no work -- Verse 10 is no more a divine revelation concerning the state of the dead than any other conclusion of \"the Preacher\" Ecclesiastes 1:1 is such a revelation. Reasoning from the standpoint of man \"under the sun\" the natural man can see no difference between a dead man and a dead lion. Ecclesiastes 9:4. A living dog is better than either. No one would quote verse 2 as a divine revelation. These reasonings of man apart from divine revelation are set down by inspiration just as the words of Satan; Genesis 3:4; Job 2:4,5 are so set down. But that life and consciousness continue between death and resurrection is directly affirmed in Scripture.; Isaiah 14:9-11; Matthew 22:32; Mark 9:43-48; Luke 16:19-31; John 11:26; 2 Corinthians 5:6-8; Philippians 1:21-23; Revelation 6:9-11.\n\ngrave -- Heb. \"Sheol,\" (See Scofield \"Habakkuk 2:5\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "fear -- Also; Deuteronomy 6:2; 10:12 (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ECC",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ECC",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "SNG",
+  "chapter": 1
+ }
+}

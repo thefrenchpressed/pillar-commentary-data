@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 21 Personal Instructions as to Life and Conduct\n\nIn the proverbs of this chapter the Lord is mentioned five times. “The king’s heart is in the hand of the LORD, as the rivers of water: He turneth it whithersoever He will” Proverbs 21:1). The rivers of water are “water-courses,” the irrigation system known to the ancients, opening and shutting sluices directed the flow of the waters. Thus the Lord governs the king’s heart as He directs the affairs of men. The Lord pondereth the hearts Proverbs 21:2). The same truth is stated in Proverbs 16:2; self-justification suits the natural man but the Lord testeth all hearts. How well it is to remember in all our conduct, that truth, so comforting to the believer, expressed by Peter, “Thou knoweth all things.” More acceptable than sacrifice to the Lord, is to do righteousness and judgment Proverbs 21:3).\n\nThis may be compared with1 Samuel 15:22, Hosea 6:6; Micah 6:6-16. The words of our Lord in the Gospel of Matthew give the same truth. “But go ye and learn what that meaneth, I will have mercy, and not sacrifice”Matthew 9:13).\n\nAt the close of the chapter two additional statements are made concerning the Lord; “There is no wisdom nor understanding, nor counsel against the LORD” (Proverbs 21:30). No matter how man may plan, how cunning the enemy may be, it will all come to naught, for the Lord is above all. How well Eliphaz the Temanite expressed this truth when he said: “He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise. He taketh the wise in their craftiness; and the counsel of the froward is carried headlong” Job 5:12-27). Safety is not by “the horse prepared against the day of battle, nor by might or by power, but safety is of the LORD” Proverbs 21:31). How well then to look away from man and look to the Lord and to know in Him is our safety. The other proverbs in this chapter giving direction as to life and conduct, warning against the high look and the proud heart, getting of treasures by a lying tongue, against heartlessness in refusing to hear the cry of the poor, against loving pleasure and luxurious living, against covetousness and other matters do not need further annotations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 22
+ }
+}

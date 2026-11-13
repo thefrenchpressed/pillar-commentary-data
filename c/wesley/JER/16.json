@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": "The prophet is commanded to abstain from marriage, from mourning, or festival assemblies; hereby representing to them their approaching misery, ver. 1-9. Their sins which caused it, ver. 10-13. Their strange deliverance from Babylon, ver. 14, 15. After that their iniquity is recompensed, ver. 16-18. The prophet's comfort in the calling of the Gentiles, ver. 19-21",
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Enter not - Do not go to comfort such as mourn for any relations dead, (for their feastings upon those occasions were upon a consolatory account) those that die are most happy, for I will take away the peace of this people, and deprive them of all my mercy and loving - kindness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Nor cut - Cutting themselves and cutting off their hair, were Pagan customs, which God forbad his own people; but yet it seemed they practised them: but saith God, Men shall die so fast that they shall have no leisure to cut themselves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Deal bread - It was a custom among them, when they had any friend, that had lost his relations, to send them some meat (for among the Hebrews all things they ate were called bread) and then to go and sup with them, and speak comfortably to them. The cup - They were also wont to send wine, that they might forget their sorrows; this is called, The cup of consolation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Go - God did not only forbid his prophet to go into houses of mourning, but forbad him to go into houses, where they were wont to eat and drink upon a more chearful account."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Ye shall serve - What is now matter of choice to you, shall then be forced upon you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Notwithstanding - God sweetens the dreadful threatenings preceding, with a comfortable promise of their restoration."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Fishers - Those enemies whom God made use of to destroy the Jews, hunting them out of all holes and coverts wheresoever they should take sanctuary."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "I will recompense - Before I will restore them, I will plentifully punish them, (for so double here signifies, not the double of what their sins deserve.) Defiled - By their idolatry, blood and cruelty. Detestable - Unclean beasts offered to their idols, or innocent persons slain by them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Therefore - Because all the mercy I have shewed them, will not learn them to know my might, I will once for all make them to understand it, by the dreadful strokes of my vengeance. And - They shall know that my name is Jehovah; that I am not such a one as their idols, but one who have my being from myself, and give life and being to all other things, and have all might and power in my hand, and can do whatsoever I please."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 17
+ }
+}

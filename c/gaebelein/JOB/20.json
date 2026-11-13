@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "gaebelein",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 20 The Second Address of Zophar\n\n1. Zophar’s swift reply (Job 20:1-3)\n\n2. Another description of the life and fate of the wicked (Job 20:4-29)\n\nJob 20:1-3. Zophar, the twitterer, begins his reply to Job with impatient haste. Job’s words, probably those found in chapter 19:2-3, and the last two verses, have made him angry. He boils over with indignation. He is ready now to confirm the testimony already given and wound the suffering servant of God still more.\n\nJob 20:4-29. He follows the same path and there is again nothing new in his argument. The description of the wicked is great; no fault can be found with what he says about those who are ungodly. The triumphing of the wicked, and the joy of the ungodly is for a moment only. He is bound to perish Swiftly; like a dream, like a vision he vanisheth away. His children remain poverty stricken.\n\nHe may swallow down riches, but he vomits them up again. And so he continues in his portrayal of the ungodly. Wrath is finally coming upon him. Such is the portion of the wicked man from God. But the serious mistake Zophar made is twofold. Job had pleaded for pity.\n\nNot a word of pity comes from Zophar’s lips. The whole address is meant to tell Job “Thou art that man!” And the second mistake, he does not consider for a moment Job’s utterance which could not come from the lips of an ungodly person, but from one who knows God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JOB",
+  "chapter": 21
+ }
+}

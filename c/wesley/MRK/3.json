@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "wesley",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "He entered again into the synagogue - At Capernaum on the same day. Mt 12:9; Lu 6:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "And they - The scribes and Pharisees, watched him, that they might accuse him - Pride, anger, and shame, after being so often put to silence, began now to ripen into malice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Is it lawful to save life or to kill? - Which he knew they were seeking occasion to do. But they held their peace - Being confounded, though not convinced."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Looking round upon them with anger, being grieved - Angry at the sin, grieved at the sinner; the true standard of Christian anger. But who can separate anger at sin from anger at the sinner? None but a true believer in Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The Pharisees going out - Probably leaving the scribes to watch him still: took counsel with the Herodians - as bitter as they usually were against each other."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "From Idumea - The natives of which had now professed the Jewish religion above a hundred and fifty years. They about Tyre and Sidon - The Israelites who lived in those coasts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Plagues or scourges (so the Greek word properly means) seem to be those very painful or afflictive disorders which were frequently sent, or at least permitted of God, as a scourge or punishment of sin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "He charged them not to make him known - It was not the time: nor were they fit preachers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "He calleth whom he would - With regard to the eternal states of men, God always acts as just and merciful. But with regard to numberless other things, he seems to us to act as a mere sovereign. Lu 6:12"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Mt 10:2; Lu 6:13; Ac 1:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "He surnamed them sons of thunder - Both with respect to the warmth and impetuosity of their spirit, their fervent manner of preaching, and the power of their word."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "To eat bread - That is, to take any subsistence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "His relations - His mother and his brethren, Mr 3:31. But it was some time before they could come near him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The scribes and Pharisees, Matt 12:22; who had come down from Jerusalem - Purposely on the devil's errand. And not without success. For the common people now began to drink in the poison, from these learned, good, honourable men! He hath Beelzebub - at command, is in league with him: And by the prince of the devils casteth he out devils - How easily may a man of learning elude the strongest proof of a work of God! How readily can he account for every incident without ever taking God into the question. Mt 12:24; Lu 11:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Mt 12:31; Lu 12:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Because they said, He hath an unclean spirit - Is it not astonishing, that men who have ever read these words, should doubt, what is the blasphemy against the Holy Ghost? Can any words declare more plainly, that it is \"the ascribing those miracles to the power of the devil which Christ wrought by the power of the Holy Ghost?\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Then come his brethren and his mother - Having at length made their way through the crowd, so as to come to the door. His brethren are here named first, as being first and most earnest in the design of taking him: for neither did these of his brethren believe on him. They sent to him, calling him - They sent one into the house, who called him aloud, by name. Mt 12:46; Lu 8:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Looking round on them who sat about him - With the utmost sweetness; He said, Behold my mother and my brethren - In this preference of his true disciples even to the Virgin Mary, considered merely as his mother after the flesh, he not only shows his high and tender affection for them, but seems designedly to guard against those excessive and idolatrous honours, which he foresaw would in after ages be paid to her."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 4
+ }
+}

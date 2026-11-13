@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "scofield",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "feared -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "queen of heaven -- See Jeremiah 44:18,19. (See Scofield \"Judges 2:13\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 46
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": "The sin of Tyre, ver. 1, 2. The utter destruction of it, ver. 3- 14. The astonishment of the neighbouring nations, ver. 15-21.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In the eleventh year - Of Jechoniah's captivity, the year wherein Jerusalem was taken. The month - That month which followed the taking of Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Because - Probably God revealed this to the prophet as soon as these insulting Tyrians spoke it. The gates - The great mart of nations, people from all parts. She is turned - The trading interest will turn to me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Scrape - I will leave thee nothing; thou shalt be scraped, and swept, that not so much as dust shall remain in thee. Like - As bare as was the rock on which thy city is built."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Her daughters - The lesser cities. In the field - On the firm land."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Garrisons - Bastions, or forts, or triumphal arches."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Shall lay - It had been a quicker way, to have burnt all; but the greedy soldier might dream of treasures hid in walls, or under the timber, and therefore take the pains to pull all down, and throw it into the sea."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "No more - Tho' there was a city of that name built, yet it was built on the continent; and in propriety of speech, was another city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The isles - Isles which are places freest from danger of invasions, will shake with fear, when they learn that Tyre is fallen."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The princes - Who were lords of the islands of that sea. Come down - In token of condolence. Trembling - They shall be afraid of their own concerns, and astonished in the midst of their fears."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "In the sea - At a great distance, and farther from land. Departure - Leaving thy ancient dwelling, to go into captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The deep - Nebuchadnezzar's army. Great waters - Great afflictions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Bring thee down - When I shall slay thee, and throw thee into the grave. With the people - Who are long since dead, and gone to eternity. The low parts - Another description of the grave, from the situation and solitude of it. Set glory - Then I will restore the beauty, strength, and wealth of Israel, and bring them back to Jerusalem. In the land - In the land of Judea, called, land of the living, because a land, where God will bless, and give life by his word, ordinances, and spirit: thus different shall Tyre's captivity and Jerusalem's be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "A terror - To all that hear of thee."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 27
+ }
+}

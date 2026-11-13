@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "wesley",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": "The good character of Amaziah, ver. 1-4. He avenges his father's death, ver. 5, 6. Overthrows the Edomites, ver. 7. Is defeated by Joash, ver. 8-14. The death and burial of Joash, ver. 15, 16. Amaziah is killed by conspirators, ver. 17-20. The beginning of Azariah's reign, ver. 21, 22. The reign and death of Jeroboam, ver. 23-29.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "High places - It is hard to get clear of those corruptions, which by long usage have gained prescription."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Slew not - Wherein he shewed faith and courage, that he would obey this command of God, though it was hazardous to himself, such persons being likely to seek revenge for their father's death."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Joktheel - Which signifies, the obedience of God, that is, given him by God as a reward of his obedience to God's message by the prophet, 2Chron 25:8,9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Sent - This challenge he sent, from self - confidence, and a desire of advancing his glory. But he that is fond either of fighting or going to law, will probably be the first that repents it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Saying, &c. - By the thistle, a low and contemptible, yet troublesome shrub, he understands Amaziah; and by the cedar, himself, whom he intimates to be far stronger than he, and out of his reach. Trod down - And with no less ease shall my soldiers tread down thee and thy forces."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Glory - Content thyself with that glory, and let not thine ambition betray thee to ruin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Tents - Josephus says, when they were to engage, they were struck with such a terror, that they did not strike a stroke, but every man made the best of his way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Ahaziah - Amaziah's pedigree comes in somewhat abruptly, the son of Joash, the son of Ahaziah: Probably because he now smarted, for the iniquity of his ancestors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "On horses - Or, with horses, in a chariot."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Azariah - This Azariah is called Uzziah, chap.15:30, both names signifying the same thing for substance; that, God's help; and this, God's strength. But this was not done till twelve years after his father's death: so long the government was in the hands of protectors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The sea - Unto the dead sea, once a goodly plain, Gen 13:10, which was their southern border."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Was bitter - Whereby he was moved to pity and help them, though they were an unworthy people. Nor any left - Both towns and country were utterly laid waste."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Said not - Not yet; he had not yet declared this, as afterwards he did by the succeeding prophets."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Jeroboam - It was in the reign of this Jeroboam, that Hosea began to prophesy, and he was the first that wrote his prophecies. At the same time Amos prophesied, soon after Micah, and then Isaiah in the days of Ahaz and Hezekiah. Thus God never left himself without witness, but in the darkest ages of the church, raised up some to be burning and shining lights, to their own age, by their preaching and living; and a few by their writings to reflect light upon us, on whom the ends of the world are come."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 15
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "gaebelein",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "3. The MiraclesCHAPTER 4\n\n1. The widow’s oil multiplied (2 Kings 4:1-7)\n\n2. The Shunammite and her reward (2 Kings 4:8-17)\n\n3. The son of the Shunammite raised from the dead (2 Kings 4:18-37)\n\n4. The deadly pottage healed (2 Kings 4:38-41)\n\n5. The multitude fed (2 Kings 4:42-44)\n\nIn the previous chapter Elisha appeared as the saviour of Israel, and now he acts in behalf of the widow of one of the sons of the prophets. His name is not given. Elisha had known him as one who feared the Lord. And now the widow deeply in dept, about to lose her two sons, appealed to the prophet. In answer to Elisha’s question what she had in her house she told him that her whole possession consisted in a pot of oil (in Hebrew, anointing oil). She then was told to borrow empty vessels, not a few.\n\nBehind closed doors she was to pour out. All the borrowed vessels were soon filled and when the empty vessels were all filled and no other to be filled, the oil stayed. The oil was to be sold to satisfy the creditor and the rest to be used to sustain the widow and her sons. The Lord is the father of the widows and heareth their cry; this is beautifully illustrated in this miracle. Then there is the lesson for faith. The vessels had to be produced to be filled; if there had been more vessels the oil would have filled them all.\n\nThe limitation was not in the supply of oil, but in the empty vessels to receive the oil. There is an abundance of grace and in faith we can always come with our empty vessels to receive out of His fulness grace upon grace.\n\nThen the great woman of Shunem is introduced for the first time. She belonged to the godly in Israel and did not know the prophet, but it did not take her long to discover that he was a holy man of God. It is a blessed picture to see this man of God walking through the land, possessing nothing and acting in grace in the midst of Israel’s ruin. In the words of another, “Poor indeed, while making many rich; seeming to possess all things, yet really having nothing. Receiving bounty and care in the ordinary need of life from those in whose behalf he, at the same time, is opening resources which were altogether beyond man. And, besides, he walks alone in the world, and yet all wait on him.\n\n“All this gives us a strong expression of the ways of One who could call Himself Master and Lord, receiving the homage of faith, even while He had not where to lay His head. In all this our prophet is marking out for us, as in a reflection, the path of the Lord Jesus in one of its most striking, remarkable characters” (J. Bellett).\n\nThe pious Shunammite prepared for the lonely pilgrim a little chamber with its simple furnishings in her own house. And the man of God appreciated the kindness shown to him, and, learning that she had no son, Elisha told her “about this season, according to the time of life, thou shalt embrace a son.” Like Sarah she believed and received her son. And when the child died, what faith the Shunammite exhibited! The son of promise was dead, yet in the midst of her great sorrow she could say, “It is well.” Like Abraham, when he put the son of promise upon the altar, the Shunammite counted on resurrection and believed on Him who can raise the dead. She had lost her son for a while, but not her faith.\n\nAnd how her faith clings to Elisha! Not Gehazi with the staff can help, but Elisha is needed. And her faith is rewarded. Her child is raised from the dead. The Holy Spirit mentions her in the New Testament. “Women received their dead raised to life again” (Hebrews 11:35).\n\nWe see in her a true and faithful Israelitish woman, who, in a time of general apostasy, owned Jehovah alike in her life and her home. Receiving a prophet, because of Him who had sent him, because he was a holy man of God--and with humility and entire self-forgetfulness--she received a prophet’s reward in the gift most precious to a Jewish mother, which she had not dared to hope for, even when announced to her. Then, when severely tried, she still held fast to her trust in the promise--strong even when weakest--once more self-forgetful, and following deepest spiritual impulse. And, in the end, her faith appears victorious--crowned by Divine mercy, and shining out the more brightly from its contrast to the felt weakness of the prophet. As we think of this, it seems as if a fuller light were shed on the history of the trials of an Abraham, an Isaac, or a Jacob; on the inner life of those heroes of faith to whom the Epistle of the Hebrews points us for example and learning (Heb. 11), and on such Scripture sayings as these: “Jehovah killeth, and maketh alive: He bringeth down to the grave, and bringeth up” (1 Samuel 2:6); “Know that Jehovah hath set apart him that is godly for Himself. Jehovah will hear when I call unto Him” (Psalms 4:3); or this: “All the paths of Jehovah are mercy and truth unto such as keep His covenant and His testimonies” (Psalms 25:10). (Bible History).\n\nAnd here we must also think of Him, whom Elisha but faintly foreshadows. He raises the spiritually dead now, all who hear His voice, as He will raise the physically dead in the future.\n\nIn Gilgal the eighth miracle of Elisha took place. The humble pottage which was being prepared for the sons of the prophets had been spoiled by the addition of a wild and poisonous gourd. Then Elisha cast meal into the pot and the pottage became eatable--” there was no harm in the pot.” The meal is typical of our Lord, who was cast into the scene of death and through His death hath brought healing.\n\nThe miraculous feeding of the multitude was Elisha’s ninth miracle and prefigures the miracles of our Lord (Matthew 14:19-21, etc.)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "2KI",
+  "chapter": 5
+ }
+}

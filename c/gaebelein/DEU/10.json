@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "gaebelein",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "5. Warning Against Self-Righteousness and Their Previous FailuresCHAPTERS 9:1-10:11\n\n1. The warning (Deuteronomy 9:1-6)\n\n2. The failures of the past (Deuteronomy 9:7-24)\n\n3. The intercession of Moses (Deuteronomy 9:25-29)\n\n4. The results of the intercession (Deuteronomy 10:1-11)\n\nThis chapter and the first eleven verses of the tenth are aimed against the spirit of self righteousness. First there is the warning. This is followed by their shameful history of the past, which showed that a boast of being righteous, or having any righteousness had to be positively excluded in their case. They had been rebels and they owed their existence wholly to the mercy of God and that was secured by the intercession of Moses. They were, therefore, to understand that the good land was not given to them for their righteousness; they were a stiffnecked people. How humbling the recital of their failures, their rebellion and murmuring against Jehovah, must have been!\n\nAnd Moses added to it, which must have cut them to the very heart. “Ye have been rebellious against the Lord from the day that I knew you” (verse 24). Mercy alone had saved them and had effected their restoration. How easy it is for our poor hearts, not different from theirs, to forget all we were and that we owe all we are to the grace of God. Self righteousness is an abomination in God’s sight. True faith and obedience means a true humility.\n\nThe chronological order is not followed by Moses in the first part of the tenth chapter. That is known by the historical account. Verses 6 and 7 are a parenthesis. The beginning of verse 8, “At that time,” does therefore not stand in connection with the death of Aaron, but it refers to the time when the broken covenant was restored. Higher critics have made much of this as a glaring contradiction. There is no such contradiction here and the apparent difficulty is easily solved by understanding the parenthetical character of verses 6 and 7.\n\nBut why should such an historical statement be here introduced by Moses by way of a parenthesis? The answer is not difficult to find. Moses describes the gracious results of the intercession. Not only was the covenant restored, but also the institution and maintenance of the priesthood. Moses reminds the people of this gracious gift on the part of their God, by recalling to their memory the time when Aaron died and his son Eleazar was invested with the high priesthood in his stead."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "6. Jehovah’s Love and His Requirements of His PeopleCHAPTER 10:12-22\n\n1. Jehovah’s delight and love (Deuteronomy 10:12-15)\n\n2. Admonition to fear and serve Jehovah (Deuteronomy 10:16-22)\n\nThis section is especially precious. Jehovah speaks through Moses and reminds His people of Himself and His Love and what He requires of them. “Behold the heaven and the heaven of heavens is Jehovah’s thy God, the earth also, with all that therein is.” What a marvellous call to fear and serve such a Lord! What He required of them was a loving obedience, to fear Him, to walk in all His ways, to love Him and to serve Him. They were to be followers of Jehovah their God. He is God of gods, Lord of lords, great, mighty, terrible. His goodness again is revealed by Moses as an incentive to love and to obey Him.\n\nHe cares for the fatherless and loveth the stranger; for this reason they were to love the stranger. Yet far greater is our knowledge of our Lord Jesus Christ, who loveth us and hath washed us from our sins in His own blood and made us priests and kings unto God His Father. And this carries with it a higher obligation to serve Him, to love Him and to walk in obedience, than Israel’s obligation.\n\n“Well then, let us ever bear in mind--yea, let us have it deep, deep down in our hearts, that according to our privileges are our obligations. Let us not refuse the wholesome word ‘obligation,’ as though it had a legal ring about it. Far from it! It would be utterly impossible to conceive any thing further removed from all thought of legality than the obligations which flow out of the Christian’s position. It is a very serious mistake to be continually raising the cry of ‘Legal! legal!’ whenever the holy responsibilities of our position are pressed upon us” (C.H. Mackintosh)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "DEU",
+  "chapter": 11
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "wesley",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": "The misery of the oppressed and the oppressor, ver. 1-3. Of being envied, which occasions sloth in others, ver. 4-6. The folly of hoarding up wealth, ver. 7, 8. The benefit of society, ver. 9-12. The mutability even of the royal dignity, thro' the foolishness of the prince, and the fickleness of the people, ver. 13-16.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "I returned - I considered again. Oppressions - Whether by princes, magistrates, or other potent persons. No comforter - None afforded them pity or succour. But they, &c. - No comfort therein."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "I praised - I judged them less miserable. For this is certain, that setting aside the future life, which Solomon doth not meddle with in the present debate; and considering the uncertainty, and vanity, and manifold calamities of the present life, a wise man would not account it worth his while to live."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Better is he - Who was never born. Not seen - Not felt: for as seeing good is put for enjoying it, so seeing evil is put for suffering it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Right work - All the worthy designs of virtuous men. Envied - Instead of honour, he meets with envy and obloquy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The fool - Is careless and idle: perceiving that diligence is attended with envy, he runs into the other extreme. Eateth - Wastes his substance, and brings himself to poverty, whereby his very flesh pines away for want of bread."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Better - These are the words of the sluggard, making this apology for his idleness, That his little with ease, is better than great riches got with much trouble."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Alone - Who has none but himself to care for. Brother - To whom he may leave his vast estate. Yet - He lives in perpetual restlessness and toil. For whom - Having no kindred to enjoy it. And bereave - Deny myself those comforts and conveniences which God hath allowed me? A sore travel - A dreadful judgment, as well as a great sin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Two - Who live together in any kind of society. Because - Both have great benefit by such conjunction, whereby they support, encourage, and strengthen one another."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "They - One of them. Fall - Into any mistake, or sin, or danger."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Prevail - Against either of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Better - More happy. Now he proceeds to another vanity, That of honour and power. Than a king - Who hath neither wisdom to govern himself, nor to receive the counsels of wiser men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "For he - The poor and wise child is often advanced to the highest dignity. Whereas - That old king is deprived of his kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "I considered - The general disposition of common people, in all kingdoms, that they are fickle and inconstant. With the second child - This may be understood of the king's child, or son and heir, called second, in respect of his father, whose successor he is. Stand up - Arise to reign."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "No end - This humour of the common people hath no end, but passes from one generation to another. Before them - Before the present generation. And so here are three generations of people noted, the authors of the present change, and their parents, and their children; and all are observed to have the same inclinations. In him - They shall be as weary of the successor, though a wise and worthy prince, as their parents were of his foolish predecessor."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ECC",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ECC",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ECC",
+  "chapter": 5
+ }
+}

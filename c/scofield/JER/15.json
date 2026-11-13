@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "scofield",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "repenting -- (See Scofield \"Zechariah 8:14\")"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "the Lord said -- The Remnant, of whom Jeremiah was the representative, are carefully distinguished from the unbelieving mass of the people. The coming captivity, which they must share, for they too have sinned Jeremiah 15:13 though Jehovah's judgment upon the nation, will be but a purifying chastisement to them, and they receive a special promise Jeremiah 15:11. Verses Jeremiah 15:15-18 give the answer of the Remnant to verses Jeremiah 15:11-14. Two things characterize the believing Remnant always-loyal to the word of God, and separation from those who mock at that word Jeremiah 15:16,17 Cf. Revelation 3:8-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "thee -- Marg\n\nredeem\n\nthee -- Remnant.\n\nJeremiah 15:11-21; Jeremiah 23:3-8; 31:7,14; Isaiah 1:9; Ezekiel 6:8; 8:11-14; 9:4; Ezekiel 11:16-21; Joel 2:32; Amos 5:15; Micah 2:12; 4:1; 5:3; 7:18; Zephaniah 2:7; 3:13; Haggai 1:14; Zechariah 8:6; Malachi 3:16-18; Romans 11:5. (See Scofield \"Romans 11:5\").\n\nredeem -- (See Scofield \"Isaiah 59:20\") See Scofield \"Exodus 14:30\"."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JER",
+  "chapter": 16
+ }
+}

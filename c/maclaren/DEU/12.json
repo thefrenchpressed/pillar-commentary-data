@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "maclaren",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "THE EATING OF THE PEACE-\n\nDeuteronomy 12:18.\n\nThere were three bloody sacrifices, the sin-offering, the burnt-offering, and the peace-offering. In all three expiation was the first idea, but in the second of them the act of burning symbolised a further thought, namely, that of offering to God, while in the third, the peace-offering, there was added to both of these the still further thought of the offerer’s participation with God, as symbolised by the eating of the sacrifice. So we have great verities of the most spiritual religion adumbrated in this external rite. The rind is hard and forbidding, the kernel is juicy and sweet.\n\nI. Communion with God based on atonement.\n\nII. Feeding on Christ.\n\nWhat was sacrifice becomes food. The same Person and facts, apprehended by faith, are, in regard to their bearing on the divine government, the ground of pardon, and in regard to their operation within us, the source of spiritual sustenance. Christ for us is our pardon; Christ in us is our life.\n\nIII. The restoration to the offerer of all which he lays on God’s altar.\n\nThe sacrifice was transformed and elevated into a sacrament. By being offered the sacrifice was ennobled. The offerer did not lose what he laid on the altar, but it came back to him, far more precious than before. It was no longer mere food for the body, and to eat it became not an ordinary meal, but a sacrament and means of union with God. It was a hundredfold more the offerer’s even in this life. All its savour was more savoury, all its nutritive qualities were more nutritious. It had suffered a fiery change, and was turned into something more rich and rare.\n\nThat is blessedly true as to all which we lay on God’s altar. It is far more ours than it ever was or could be, while we kept it for ourselves, and our enjoyment of, and nourishment from, our good things, when offered as sacrifices, are greater than when we eat our morsel alone. If we make earthly joys and possessions the materials of our sacrifice, they will not only become more joyful and richer, but they will become means of closer union with Him, instead of parting us from Him, as they do when used in selfish disregard of Him.\n\nNor must we forget the wonderful thought, also mirrored in this piece of ancient ritual, that God delights in men’s sacrifices and surrenders and services. ‘If I were hungry, I would not tell thee,’ said the Psalmist in God’s name in regard to outward sacrifices; ‘Will I eat the flesh of bulls, or drink the blood of goats?’ But he does ‘eat’ the better sacrifices that loving hearts or obedient wills lay on His altar. He seeks for these, and delights when they are offered to Him. ‘He hungered, and seeing a fig tree by the wayside, He came to it.’ He still hungers for the fruit that we can yield to Him, and if we will, He will enter in and sup with us, not disdaining to sit at the poor table which we can spread for Him, nor to partake of the humble fare which we can lay upon it, but mending the banquet by what He brings for our nourishment, and hallowing the hour by His presence."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "DEU",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "DEU",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "DEU",
+  "chapter": 13
+ }
+}

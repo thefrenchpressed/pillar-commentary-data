@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 118,
+  "introduction": "The form of this psalm seems to be dramatical, and several parts of it are spoken in the name of several persons; as it is in the book of the Song of Solomon, and in one part of Ecclesiastes. David speaks in his own name from the beginning to ver. 22, from thence to ver. 25, in the name of the people; and thence to ver. 28, in the name of the priests; and then concludes in his own name. He calls upon all about him to praise God, ver. 1-4. Encourages himself and others to trust in God, from the experience he had had of his power and mercy, ver. 5-18. He gives thanks for his advancement to the throne, as it was a figure of the exaltation of Christ, ver. 19-23. The people, the priests, and the psalmist himself triumph in the prospect of the Redeemer's kingdom, ver. 24-29.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Nations - The neighbouring nations, Philistines, Syrians, Ammonites, Moabites, who were stirred up, by the overthrows which David had given some of them, by their jealousy at his growing greatness, and by their hatred against the true religion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Yea - The repetition implies their frequency and fervency in this action."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Bees - ln great numbers. Thorns - Which burns fiercely, but quickly spends itself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Thou - O mine enemy. The singular word is here put collectively for all his enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Salvation - My Saviour."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Doth valiantly - These are the words of that song of praise now mentioned."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Exalted - Hath appeared evidently, and wrought powerfully and gloriously."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Open - O ye porters, appointed by God for this work. The gates - Of the Lord's tabernacle: where the rule of righteousness was kept and taught, and the sacrifices of righteousness were offered."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The righteous - As David was a type of Christ and the temple of heaven, so this place hath a farther prospect than David, and relates to Christ's ascending into heaven, and opening the gates of that blessed temple, both for himself and for all believers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The builders - The commonwealth of Israel and the church of God are here and elsewhere compared to a building, wherein, as the people are the stones, so the princes and rulers are the builders. And as these master - builders rejected David, so their successors rejected Christ. Head stone - The chief stone in the whole building, by which the several parts of the building are upheld and firmly united together. Thus David united all the tribes and families of Israel: and thus Christ united Jews and Gentiles together. And therefore this place is justly expounded of Christ, Mark 12:10 Acts 4:11 Rom 9:32 Eph 2:20. And to him the words agree more properly than to David."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Made - Or sanctified as a season never to be forgotten."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "We - These seem to be the words of the Levites, to whom he spake ver.19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Blessed - We pray that God would bless his person and government. Cometh - To the throne; or from his Father into the world: who is known by the name of him that cometh or was to come, and of whom this very word is used, Gen 49:10 Isa 35:4. Name - By commission from him. We - We who are the Lord's ministers attending upon him in his house, and appointed to bless in his name, Numb 6:23 Deut 10:8. So these are the words of the priests."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The Lord - Or, The mighty God, as this name of God signifies, and as he shewed himself to be by this, his wonderful work. Who - Who hath scattered our dark clouds, and put us into a state of peace, and safety, and happiness. The horns - These are supposed to be made for this very use, that the beasts should be bound and killed there. These three last verses are David's words."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 118
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 117
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 119
+ }
+}

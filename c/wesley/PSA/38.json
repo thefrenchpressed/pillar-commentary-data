@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 38,
+  "introduction": "David complains of God's displeasure and his own sin, ver. 1-5. Of his bodily sickness, ver. 6-10. Of the unkindness of his friends and the injuries of his enemies, ver. 11-20. Prays to God for help, ver. 21, 22. A psalm of David to bring to remembrance. Title of the psalm. To bring, &c. - Either, to God, that by this humble and mournful prayer, he might prevail with God, to remember and pity him; or, to himself, that by reviewing this psalm afterwards, he might call to mind his former danger and misery, and God's wonderful mercy in delivering him; and that others also might remember what God had done to him.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Arrows - Thy judgments outward and inward."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Sin - Which hath provoked thee to deal thus severely with me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Iniquities - Or, the punishment of mine iniquities, as this word is frequently used. Are gone - Like deep waters wherewith I am overwhelmed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Foolishness - Sin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Disease - The disease might be some burning fever, breaking forth outwardly in carbuncles, or boils. It is true, this and the other expressions may be taken figuratively, but we should not forsake the literal sense of the words without necessity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Deceit - They design mischief, but cover it with fair pretences."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Dumb - Was silent, to testify his humiliation for his sins, and his acceptation of the punishment which he had brought upon himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "When - When I fall into any misery, they triumph in the accomplishment of their desires."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "To halt - just falling into destruction. Before me - I am constantly sensible of thy just hand, and of my sins the cause of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Declare - To thee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Strong - Are thriving and flourishing."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 38
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 39
+ }
+}

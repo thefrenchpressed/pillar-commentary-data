@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "HAG",
+  "commentaryId": "wesley",
+  "name": "Haggai",
+  "commonName": "Haggai",
+  "numberOfChapters": 2
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "NINE of the twelve minor prophets preached before the captivity; but the three last, some time after it. Haggai and Zachariah appeared about the same time, eighteen years after the return, and encouraged the people to build the temple, when the work had stopped for some time, notwithstanding all the opposition they met with. Haggai began two months before Zachariah, who was raised up to second him. But Zachariah continued longer at the work: for all Haggai's prophecies which are recorded, were delivered within four months in the second year of Darius; but we have Zachariah's prophecies dated above two years after. They both prophesied of Christ. Haggai speaks of him as the glory of the latter house, Zachariah as the man, the branch. In them the light of that morning-star shone more bright, than in the foregoing prophecies, as they lived nearer the time of the rising of the Sun of Righteousness.\n\nA reproof of the Jews for their delay in building, which had provoked God to punish them, ver. 1-11. The peoples return to the work, whom the prophet, in God's name, encourages therein, ver. 12-15.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Son - Adoptive son to Shealtiel, being of the royal line, but by nature, son of Pedaiah. Governor - Appointed to this by the Persian king, over the remnant returned out of Babylon. Joshua - A type of the great deliverer; one Joshua leads them into Canaan, another restores the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Ceiled - Arched and richly adorned."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Have not enough - But what you eat doth not nourish or satisfy you. Are not filled - Your water quenches not your thirst, your wine does not revive your spirit. None warm - You have no comfort therein. With holes - Loses all his labour."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Take pleasure - I will accept your offerings, and hear your prayers. Glorified - Shew my majesty and account myself glorified by you also."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Came to little - But it answered not the expectation. I did blow - I blasted it. Ye run - You with eagerness carry on your own particular buildings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Is stayed - God hath forbidden them, to drop down dew."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Upon men - The very blood, and constitutions of men were changed, and many diseases afflicted them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "In the Lord's message - ln the words of his master. The people - The whole assembly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Lord of hosts - By which name he delights to be known among the returned captives; and it was a name best suited to their present state, compassed on all hands with enemies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "HAG",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEP",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "HAG",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "maclaren",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "IN SILENCE\n\n1 Kings 6:7.\n\nThe Temple was built in silence. It ‘rose like an exhalation.’\n\n‘No hammer fell, no ponderous axes rung, Like some tall palm the mystic fabric sprung.’\n\nPerhaps it was merely for convenience of transport and to save time that the stones were dressed in the quarries, but more probably the silence was due to an instinct of reverence. We may fairly use it as suggesting two thoughts.\n\nI. How God’s house is mostly built in silence. ‘The Kingdom of God cometh not with observation.’\n\n\\ In reference to its advance in the world. Destructive work is noisy, constructive work is silent. God was in ‘the still small voice,’ not in the wind or the earthquake or the fire. Christ’s own career, how silent it was! Drums are loud and empty. The spread of the kingdom was unnoticed by the world’s great ones-Caesars, philosophers, patricians, and it silently grew underground. Hence may flow-\n\n\\ An encouragement to those whose work is inconspicuous.\n\n\\ A lesson not to mistake noise and notoriety for spiritual progress.\n\n\\ Guidance as to our expectations of the advance of Christ’s kingdom. It will transform society by slow, often unnoticed, degrees, by radical change of individuals’ habits. The elevation of humanity will be slow, like the imperceptible rise of the Norwegian coast. Sudden changes are short-lived changes. ‘Lightly come, lightly go.’ What matures slowly will last long.\n\n\\ In reference to its growth in our souls.\n\nSilence is needed for that. There must be much still communion and quiet reflection. The advance in the Christian life is variously likened to a battle, since there are antagonists and struggle is needed to overcome; and to vegetable or corporeal growth, which the mysterious indwelling life works without effort and almost without consciousness, but it is also likened to the erection of a building, in which there is continuity, and each successive course of masonry is the foundation for that above it. That work of building is work that must be done in silence. If we are to grow in the grace and knowledge of Jesus, we must silently drink in the sunshine and dew, and so prosperously pass from blade to ear, and thence to full corn in the ear.\n\nSurely nothing is more needed in these days of noisy advertisement, and measurement of the importance of things by the noise that they can make, than this lesson of the place of silence in Christian progress, both for individuals and for the Christian Church as a whole.\n\nII. How God’s house is built of prepared stones.\n\nThat is true, in one view of the matter, in regard to the Church on earth, for there must be the individual act of repentance and faith before a soul is fit to be built into the fabric of the Church.\n\nThere is providential training of men for their tasks before these are given to them.\n\nBut the highest application of the symbol which we venture to find in our text is to the relation between the earthly and the heavenly life.\n\nThis world is the quarry where the stones are dressed for the Temple in the heavens.\n\n\\ Life is the chipping and hewing. The unnecessary pieces are struck off with heavy mallet and sharp chisel. Pain and sorrow are thus explained, if not wholly, yet sufficiently to bring about submission and trust.\n\n\\ The Builder has His plan clearly before Him, and works accurately to realise it. He perfectly knows what He means to build, and every stroke of the dressing-tool is accurately directed. There are no mistakes made in His quarrying.\n\n\\ We may be sure that the prepared stones will be brought to the Temple site and built into it. There lie gigantic half-hewn pillars in abandoned quarries in Syria and Egypt. But no one will ever say of the divine Temple-Builder: He began to build and was not able to finish. It remains a problem how the old builders managed to transport these huge stones from the quarries to the site, but we may be sure that the Architect of the ‘house not made with hands, eternal in the heavens,’ knows how to bring every stone that has been prepared here, to the place prepared for it, and for which it has been prepared. We may repose on the Apostle’s assurance that ‘He that has begun a good work in you will perform it,’ or rather on the more sure word of Jesus Himself, ‘He that overcometh, I will make him a pillar in the temple of My God.’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "1KI",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "1KI",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "1KI",
+  "chapter": 8
+ }
+}

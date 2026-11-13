@@ -1,0 +1,236 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "vincent",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "They reasoned [συνελογισαντο]. Only here in New Testament. The preposition, sun, together, and the additional with themselves, denote a very close conference."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Will stone [καταλιθασει]. Only here in New Testament. \"Stone us down\" [κατα]; i e., stone us to death.\n\nThey be persuaded [πεπεισμενοςεστιν]. Lit., It (the people collectively) is having been persuaded. Demoting a long - standing and settled persuasion.\n\n9 - 19. Compare Matthew 21:33 - 46; Mr 12:1 - 12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Let it out. See on Matthew 21:33.\n\nWent into a far country. Not necessarily far, but as Rev., another country. See on Mr 13:34.\n\nA long time [ικανους]. See on ch. Luke 7:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Of the fruit. See on Mr 12:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "He sent yet [προσεθετοπεμψαι]. Lit., he added to send. A Hebrew form of expression."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Wounded [τραυματισαντες]. Only here and Acts 19:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "It may be [ισως]. Only here in New Testament. The adverb of isov, equal. It expresses more than perhaps, implying rather a strong probability. Compare the phrase, it is an even chance that.\n\nReverence. See on Matthew 21:37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Destroy. See on Matthew 21, 41.\n\nGod forbid [μηγενοιτο]. Lit., may it not be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The stone, etc. See on 1 Peter 2:4 - 7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Shall be broken [συνθλασθησεται]. Rev., rightly, broken to pieces. See on Matthew 21:44.\n\nGrind him to powder [λικμησει]. See on Matthew 21:44.\n\n20 - 26. Compare Matthew 22:15 - 22; Mr 12:13 - 17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Watched. See on Mr 3:2.\n\nSpies [εγκαθετους]. Only here in New Testament. From ejgkaqihmi, to send in, as a garrison into a city. Hence of persons sent in for the purpose of espionage.\n\nWhich should feign [υποκρινομενους]. Lit., feigning. Rev., which feigned. Only here in New Testament. See on hypocrites, Matthew 23:13. The power and authority [τηαρχηκαιτηεξουσια]. The former, the Roman power in general; the latter, the specific authority of the official."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Acceptest not the person. See on James 2:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Tribute [φορον]. From ferw, to bring. Something, therefore, which is brought in by way of payment. Luke uses the Greek word instead of the Latin khnson, census, in Matthew and Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Perceived. See on considerest, Matthew 7:3.\n\nCraftiness [πανουργιαν]. From pan, every, and ergon, deed. Readiness for every and any deed. Hence unscrupulousness, and so, generally, knavery."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Penny. See on Matthew 20:2.\n\nImage and superscription. See on Matthew 22:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "His words [ρηματος]. Singular number. Rev., properly, saying. See on ch. Luke 1:37.\n\n27 - 40. Compare Matthew 22:23 - 33; Mr 12:18 - 27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Asked. See on Mr 12:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Equal unto the angels [ισαγγελοι]. Only here in New Testament."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Shewed [εμηνυσεν]. Originally to disclose something secret. Hence, generally, to make known.\n\nAt the bush [επιτηςβατου]. Wrong. Render as Rev., in the place concerning the bush. See on Mr 12:26.\n\n41 - 44. Compare Matthew 22:41 - 46; Mr 12:35 - 37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "Of thy feet [τωνποδωνσου]. A. V. omits."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "Chief rooms. Rev., correctly, chief places. See on Mr 12:39."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Widows ' houses. See on Mr 12:40. ===Luk21\n\nCHAPTER XXI\n\n1 - 4. Compare Mr 12:41 - 44."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 21
+ }
+}

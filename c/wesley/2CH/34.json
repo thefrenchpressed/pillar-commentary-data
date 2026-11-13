@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "wesley",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": "The general character of Josiah, ver. 1, 2. He roots out idolatry, ver. 3-7. Repairs the temple, ver. 8-13. Rends his clothes on hearing the book of the law, and sends to inquire of God, ver. 14-22. Huldah foretells the destruction of Jerusalem, ver. 23-28. Josiah and the people renew their covenant with God, ver. 29-33.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Young - ln the sixteenth year of his age; when he was entering into the age of temptation, and had the administration of his kingdom wholly in his own power, and none to restrain him; even then he begins to be religious in good earnest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Naphtali - Which was in the utmost borders of the kingdom of Israel. For it must be remembered, that the ten tribes were now gone into captivity; and those who were come in their stead were weak and few, and not able to withstand the power of Josiah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "The house - The house of God, called the house by way of eminency."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Houses - The chambers joining to the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Musick - All these here named, were skilful in instruments of musick. Which may be here mentioned, to intimate, that as they were skilful, so they were exercised in both employments, and did successively oversee the work, and praise God with their voices and instruments."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Rent his clothes - Were the things contained in scripture new to us, as they were here to Josiah, surely they would make deeper impressions upon us than they commonly do. But they are not the less weighty, and therefore should not be the less regarded, because they are well known."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "To stand to it - He caused them to engage by an oath or covenant, that they would observe the laws of God, as his predecessors had formerly done, and which indeed they were before obliged to do."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Even to serve - The repetition shews, that this was the only thing his heart was set upon. He aimed at nothing in all he did, but to engage them to God and their duty."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2CH",
+  "chapter": 35
+ }
+}

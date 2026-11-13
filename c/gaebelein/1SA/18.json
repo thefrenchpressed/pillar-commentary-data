@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "gaebelein",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "3. Jonathan and David--Saul’s jealousyCHAPTER 18\n\n1. Jonathan’s love for David (1 Samuel 18:1-4)\n\n2. The beginning of Saul’s jealousy (1 Samuel 18:5-16)\n\n3. David’s marriage (1 Samuel 18:17-30)\n\nA beautiful scene opens this chapter. Jonathan, the man of faith, loves David. He was about 40 years old and David about 17. Jonathan made a covenant with David and loved him as his own soul. He showed also his great devotion by giving to David, his robe, his garments, his sword, his bow and his girdle. Thus he stripped himself of all for David’s sake. Such devotion and love should we manifest towards Him, who is greater than David. No doubt Jonathan’s devotion was kindled by the deed young David had done in slaying Goliath. And when we think of what our Lord has done for us the devotion to Him increases.\n\nAnd David the anointed is the obedient servant and conducts himself wisely. The days of suffering and exile are now rapidly approaching. The song of the women, “Saul hath slain his thousands, and David his ten thousands,” angers the rejected King. Again the demon possesses him because he gave way to his temper. He nourished the feeling of hatred against David. “He eyed David from that day forward.” When the evil spirit came upon him he prophesied. This has been hard to understand to some.\n\nSeveral translators have translated “raved”; but that cannot be done, for the word prophesy is the same as in chapter 5:5. Prophesying means to speak by inspiration; it does not always mean the prediction of future events. Now there is besides a divine inspiration, also a satanic inspiration. Certain cults which claim restoration of certain gifts claim inspiration, which has often been traced to the influence of demons. Saul uttered words which were the result of the indwelling evil spirit. Then he attempted twice to kill David with the javelin.\n\nThis was no doubt an attempt from the side of Satan to do away with him from whose loins the promised seed, the Redeemer, was to come. The Lord shielded David and Saul was afraid of him, because the Lord was with him.\n\nAnd now David has also gained the love of all Israel and Judah. Saul then offers to make David his son-in-law. Underneath it all was the mad King’s plotting to get rid of David and have the Philistines kill him. How blinded Saul had become! The Lord’s anointed was in the Lord’s own hands and his life was precious in His sight. It has its precious lessons for us likewise.\n\nMerab is promised to him to become his wife, but Achiel receives her instead. Then he received Michal, who loved David. We shall meet her again later when she was restored to the King by Abner and later mocked the King of Israel. And Saul, after his scheme failed, became David’s enemy continually."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1SA",
+  "chapter": 19
+ }
+}

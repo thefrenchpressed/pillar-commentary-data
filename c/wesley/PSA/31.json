@@ -1,0 +1,173 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": "David professes his confidence in God, intermixing prayer to him, ver. 1-8. Complains to God and prays for deliverance, ver. 9-18. Concludes with giving glory to God, and encouraging others to trust him, ver. 19-24. To the chief musician, A psalm of David.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ashamed - Of my confidence in thy promise. Deliver me - According to thy faithfulness and goodness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "My spirit - My soul or life; to preserve it from the malice of mine enemies. For - Thou hast delivered me formerly, and therefore I commit myself to thee for the future. O Lord, &c. - Who hast shewed thyself so, in making good thy promise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Vanities - Idols, which are often called Vanities, as Deut 32:21. Or, curious arts, and all sorts of divinations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Known - Loved me, and cared for me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Room - Made way for me to escape, when I was encompassed by them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Grief - With continual weeping."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Iniquity - For the punishment of mine iniquity. Consumed - The juice and marrow of them bring almost dried up with grief."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "A fear - They were afraid to give me any countenance or assistance. Fled - To prevent their own danger and ruin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A broken vessel - Which is irreparable, and useless, and therefore despised by all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Fear - Just cause of fear."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "My times - All the affairs and events of my life, are wholly in thy power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Laid up - His favour is not always manifested, to them, but it is laid up for them in his treasure, whence it shall be drawn forth when they need it, and he sees it fit. Before - Publickly and in the view of the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The secret - Or, as in the secret of thy presence: either, As if they were in thy presence chamber, where thine own eye and hand girdeth them, from all the assaults of their enemies; called his secret, partly, because the greatest part of the world are strangers to God and his presence: and partly, because it is a safe and secure place, such as secret and unknown places are. Or, As if they were in the secret of God's tabernacle, as it is called, Psal 27:5, the place of God's special presence, where none might enter save the high - priest. With thy secret favour and providence, which saves them by hidden and unknown methods. From - From their vain - glorious boasting and threats, and from their bad and insolent attempts. Pavilion - Or, tabernacle. Strife - From contentious and slandering tongues."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "City - In Keilah: where God wonderfully preserved me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Haste - When my passion took away my consideration, and weakened my faith. Cut off - Cast out of thy sight, and out of the care of thy gracious providence."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 32
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "scofield",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "to doubtful -- for decisions of doubts, i.e. doubts about meats, etc. The church has no authority to decide questions of personal liberty in things not expressly forbidden in Scripture. Romans 14:2-6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "kingdom -- See, Galatians 4:9-11; Colossians 2:20-23. (See Scofield \"Matthew 6:33\").\n\nrighteousness -- (See Scofield \"Romans 10:10\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "damned -- condemned, i.e. as in Romans 14:22.\n\nsin -- Sin. (See Scofield \"Romans 3:23\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ROM",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ROM",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "ROM",
+  "chapter": 15
+ }
+}

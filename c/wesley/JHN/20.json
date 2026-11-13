@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "wesley",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Mt 28:1; Mr 16:1; Lu 24:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Peter went out - Of the city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Peter seeth the linen clothes lie - and the napkin folded up - The angels who ministered to him when he rose, undoubtedly folded up the napkin and linen clothes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "He saw - That the body was not there, and believed - That they had taken it away as Mary said."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "For as yet - They had no thought of his rising again."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "They went home - Not seeing what they could do farther."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "But Mary stood - With more constancy. Mr 16:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Jesus saith to her, Mary - With his usual voice and accent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Touch me not - Or rather, Do not cling to me (for she held him by the feet,) Mt 28:9. Detain me not now. You will have other opportunities of conversing with me. For I am not ascended to my Father - I have not yet left the world. But go immediately to my brethren - Thus does he intimate in the strongest manner the forgiveness of their fault, even without ever mentioning it. These exquisite touches, which every where abound in the evangelical writings, show how perfectly Christ knew our frame. I ascend - He anticipates it in his thoughts, and so speaks of it as a thing already present. To my Father and your Father, to my God and your God - This uncommon expression shows that the only - begotten Son has all kind of fellowship with God. And a fellowship with God the Father, some way resembling his own, he bestows upon his brethren. Yet he does not say, Our God: for no creature can be raised to an equality with him: but my God and your God: intimating that the Father is his in a singular and incommunicable manner; and ours through him, in such a kind as a creature is capable of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Mr 16:14 Lu 24:36."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Peace be unto you - This is the foundation of the mission of a true Gospel minister, peace in his own soul, 2Cor 4:1. As the Father hath sent me, so send I you - Christ was the apostle of the Father, Heb 3:1. Peter and the rest, the apostles of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "He breathed on them - New life and vigour, and saith, as ye receive this breath out of my mouth, so receive ye the Spirit out of my fulness: the Holy Ghost influencing you in a peculiar manner, to fit you for your great embassy. This was an earnest of pentecost."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Whose soever sins ye remit - (According to the tenor of the Gospel, that is, supposing them to repent and believe) they are remitted, and whose soever sins ye retain (supposing them to remain impenitent) they are retained. So far is plain. But here arises a difficulty. Are not the sins of one who truly repents, and unfeignedly believes in Christ, remitted, without sacerdotal absolution? And are not the sins of one who does not repent or believe, retained even with it? What then does this commission imply? Can it imply any more than, A power of declaring with authority the Christian terms of pardon; whose sins are remitted and whose retained? As in our daily form of absolution; and A power of inflicting and remitting ecclesiastical censures? That is, of excluding from, and re - admitting into, a Christian congregation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "After eight days - On the next Sunday."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "And Thomas said, My Lord and my God - The disciples had said, We have seen the Lord. Thomas now not only acknowledges him to be the Lord, as he had done before, and to be risen, as his fellow disciples had affirmed, but also confesses his Godhead, and that more explicitly than any other had yet done. And all this he did without putting his hand upon his side."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Jesus wrought many miracles, which are not written in this book - Of St. John, nor indeed of the other evangelists."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "But these things are written that ye may believe - That ye may be confirmed in believing. Faith cometh sometimes by reading; though ordinarily by hearing."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JHN",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JHN",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JHN",
+  "chapter": 21
+ }
+}

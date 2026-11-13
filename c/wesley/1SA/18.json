@@ -1,0 +1,146 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "wesley",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": "David becomes the friend of Jonathan, the constant attendant of Saul, and the favourite of all the people, ver. 1-5. Saul's envy raised, ver. 6-9. He seeks to kill David, ver. 10-11 Is afraid of him, ver. 12-16. Promises to give him his elder daughter, and gives him the younger, hoping to destroy him thereby, but in vain, ver. a 7-27. He is more feared by Saul and esteemed by the people, ver. 28-30.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Loved him - For his excellent virtues and endowments, which shone forth both in his speeches and actions; for the service he had done to God and to his people; and for the similitude of their age and qualities."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Took him, &c. - By which it appears, that before this David had not his constant residence at court."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Went - Upon military expeditions, of which that word is often used."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The evil spirit, &c. - His fits of frenzy returned upon him. The very next day after he conceived envy at David, the evil spirit was permitted by God to seize him again. Such is the fruit of envy and uncharitableness. Prophesied - That is, he used uncouth gestures, and signs, as the prophets often did."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "And Saul cast the javelin - Being now quite under the power of that evil spirit. Twice - Once now, and another time upon a like occasion, chap.19:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Afraid - Lest as he had gained the favour of God and of all the people, he should also take away his kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Removed him from him - From his presence and court; which he did, because he feared lest David should find an opportunity to kill him, as he had designed to kill David; because his presence now made him more sad than ever his musick made him chearful: and principally, that hereby he might expose him to the greatest hazards."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "What is my life - How little is my life worth, that by the exposing of that to some hazard, I should purchase a king's daughter! In these expressions David sheweth not only his humility, but also his wisdom, in discovering so deep a sense of his own meanness, that Saul might see how far he was from aspiring at the kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Adriel - The son of Bar - zillai, as he is called, 2Sam 21:8. This was an act of great injustice; and accordingly this marriage was accursed by God, and the children begotten in it, were, by God's appointment cut off, 2Sam 21:8,9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The days - That is, the time allowed by Saul to David for the execution of this exploit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Two hundred - He doubled the number required; to oblige Saul the more to the performance of his promise; and to shew his great respect and affection to Saul's daughter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Went forth - To war against the Israelites, being provoked by their former losses, and especially by that act of David's."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 19
+ }
+}

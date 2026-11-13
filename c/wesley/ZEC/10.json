@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "wesley",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": "The Jews are directed to eye God in all events, ver. 1-4. To expect strength and success from him in all their struggles, ver. 5- 12.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The latter rain - This made plenty of all provision, and is proverbially used to signify a great blessing. Bright clouds - Bright through the lightnings which break from them. Them - The Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Vanity - Their predictions were vain. They went - They went into captivity. Troubled - Oppressed and afflicted. No shepherd - No ecclesiastical or civil governors, that would faithfully do their duty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The shepherds - Officers in the church and state. The goats - The officers among them, who were like he - goats, that push, and wound, and trample under foot the feebler cattle. Visited - In mercy. As his goodly horse - Hath given them strength and courage."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Out of him - From God. The corner - The prince or ruler, who is in a polity as a corner - stone in buildings. The nail - Which fastens the tents of war, or the timber together in a house. The battle bow - All warlike provision. Every oppressor - Or collector of tribute. It was from God that Nebuchadnezzar mightily prevailed, and opprest Israel; and it is from God also, that Judah grows up to such power, as to be able to cope with his adversaries, and to impose tribute on them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Of Joseph - The remnant of the kingdom of Israel, the residue of the ten tribes. To place them - To settle them in their own land, and in their own cities."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Their children shall see - These blessings shall continue through your generations, to children that shall be born."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "I will hiss - Though they are now scattered far off, I will call them as a shepherd, and they shall run with speed back to the flock. As they have increased - As they did of old time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "I will sow them - Their increase shall be like the increase of rich soil that hath much seed cast on it. The people - The Heathen. In far countries - Whithersoever they were driven. With their children - The children born to them shall live, and grow up with them. Turn again - To their city and country."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Place shall not be found - The land shall be too narrow for them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "And he passed through - The whole verse is an allusion to what God had done in the two famous deliverances of his people, bringing them out of Egypt, through the Red Sea, and through Jordan, and destroying the Egyptians, and delivering them out of Assyrian bondage, and in order thereto, destroying that kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Walk up and down - Shall manage all their affairs. In his name - By power and wisdom given from above, to the glory of our God, and our Redeemer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEC",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEC",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ZEC",
+  "chapter": 11
+ }
+}

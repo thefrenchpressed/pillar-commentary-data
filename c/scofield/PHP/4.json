@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "PHP",
+  "commentaryId": "scofield",
+  "name": "Philippians",
+  "commonName": "Philippians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "peace -- (See Scofield \"Matthew 10:34\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "therewith -- Omit \"therewith.\""
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PHP",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "PHP",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "COL",
+  "chapter": 1
+ }
+}

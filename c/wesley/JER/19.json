@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": "Under the type of breaking a potter's vessel is foreshewn the desolation of the Jews for their sins committed in the valley of Hinnom, and elsewhere, ver. 1-15.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "This place - Either this city, or this valley, which they had turned to an use quite contrary to the end for which God gave it them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "To burn - This and the following verse, contain another great sin of this people, with the punishment which God proportions to it. The sin in the general was idolatry, but a most barbarous species of it, mentioned also chap.7:31 32:35, where it is said, they made their sons and their daughters pass thro' the fire to Molech; the place where they did it is called Tophet, ver.19:6, of which also mention is made, Isa 30:33. Baal and Molech, signify the same thing; Baal signifies a Lord, Molech a King. Both Baal and Molech seem common names to all idols."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "In this place - In this place, among others, I will make void all the counsels that the men of Judah and the inhabitants of Jerusalem, have taken to escape my righteous judgments."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "As Tophet - That is, a place of slaughter and burials."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Then - Jeremiah had now dispatched the errand upon which God had sent him to Tophet, coming back by God's direction, he stands in the court, which was common to all people, where the most might hear."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 20
+ }
+}

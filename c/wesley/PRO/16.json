@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "From the Lord - Men can neither think nor speak wisely and well without Divine assistance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Weigheth - Exactly knows as men do the things which they weigh. Spirits - The hearts of men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Commit - Refer all thy actions and concerns to God, as the end of them, and depend upon God's providence for success. Established - Thy designs shall be brought to an happy issue."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Doth work - He orders or disposes. For - For his own glory; for the discovery of his wisdom, power, goodness, truth, justice. The wicked - Wilful and impenitent sinners. Men make themselves wicked, and God therefore makes them miserable."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "By mercy - By a merciful and just and faithful frame of heart and course of life. Is purged - As they qualify a man to offer up acceptable prayers to God for the pardon of his sins. By fear - By a filial reverence unto God. Depart - They are kept from abusing pardoning mercy, and from returning to folly or wickedness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Deviseth - Proposes what he will do. Directeth - Over - rules and disposes all his designs and actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "A divine sentence - Great sagacity and piercing judgment. Of the king - Of wise kings; who only are worthy of that name and office."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Lord's - Are made by his direction and appointment, so that no man can alter them without violating God's rights and authority."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "A cloud - As acceptable as those clouds which bring the latter rain, whereby the fruits are filled and ripened a little before the harvest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The high - way - Their common road, in which they walk, tho' through frailty or temptation they slip into the bypath of sin. From evil - From the evil of sin, and consequently from the evil of punishment. Keepeth - That takes heed to walk in that high - way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Good - He who orders his affairs with discretion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The wise - He who is truly wise, shall be so accounted by others. Sweetness - Eloquence added to wisdom. Increaseth - Both in himself, for while a man teaches others, he improves himself; and others, who by this means are induced to hear and receive his instructions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The instruction - Their most grave and serious counsels are foolish."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Teacheth - Directs him what to speak, and keeps him from speaking foolishly. Addeth - Enables him to speak learnedly and wisely."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Diggeth up - Prosecutes his evil designs with great industry. His lips - His tongue is set on fire of hell."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Shutteth - That his thoughts may be more intent. Moving - Which is the gesture of one whose thoughts are deeply engaged."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Is better - Of a more gallant and generous spirit, and more valiant and victorious."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "The lot - As the ancient practice was in deciding doubtful things. The event of which though casual to men, is directed by God's providence."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 17
+ }
+}

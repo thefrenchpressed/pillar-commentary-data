@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "wesley",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": "Directions concerning the lamps, ver. 1-4. Concerning cleansing the Levites, ver. 5-8. Concerning the presenting them to God, ver. 9-22. Concerning their age and service, ver. 23-26.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "When thou lightest the lamps - The priests lighted the middle lamp from the fire of the altar; and the rest one from another; signifying that all light and knowledge comes from Christ, who has the seven spirits of God, figured by the seven lamps of fire. Over against the candlestick - On that part which is before the candlestick, Heb. over against the face of the candlestick - That is, in that place towards which the candlestick looked, or where the candlestick stood in full view, that is, upon the north - side, where the table of shew - bread stood, as appears from hence, because the candlestick stood close to the boards of the sanctuary on the south - side, Exo 26:35. And thus the lights were on both sides of the sanctuary, which was necessary, because it was dark in itself, and had no window."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Of beaten gold - Not hollow, but solid gold, beaten out of one piece, not of several pieces joined or soldered together."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Of purifying - Heb. of sin, that is, for the expiation of sin. This water was mixed with the ashes of a red heifer, Num 19:9, which therefore may seem to have been prescribed before, though it be mentioned after; such kind of transplacings of passages being frequent in scripture. Shave all their flesh - This external rite signified the cutting off their inordinate desire of earthly things and that singular purity of heart and life which is required in the ministers of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "A young bullock - The same sacrifice which was offered for a sin - offering for the whole congregation, because the Levites came in the stead of all the first - born, who did in a manner represent the whole congregation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The children of Israel - Not all of them, which was impossible, but some in the name of all the princes or chiefs of each tribe, who used to transact things in the name of their tribes. Put their hands - Whereby they signified their transferring that right of ministering to God from the first - born in whose hands it formerly was, to the Levites, and their entire resignation and dedication of them to God's service."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "For an offering - Heb. for a wave - offering. Not that Aaron did so wave them, which he could not do, but that he caused them to imitate that motion, and to wave themselves toward the several parts of the world: whereby they might signify their readiness to serve God, according to their capacity wheresoever they should be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Lay their hands - To signify that they were offered by them and for them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Set the Levites before Aaron - Give the Levites to them, or to their service. Unto the Lord - For to him they were first properly offered, and by him given to the priests in order to his service."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Go in - Into the court, where they were to wait upon the priests at the altar of burnt - offering; and, at present, into the tabernacle, to take it down and set it up."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "To do the service of Israel - To serve God in their stead, to do what otherwise they had been obliged to do in their own persons. To make an atonement - Not by offering sacrifices, which the priests alone might do, but by assisting the priests in that expiatory work, and by a diligent performance of all the parts of their office, whereby God was pleased both with them and with the people. That there be no plague - This is added as a reason why God appointed them to serve in the tabernacle, that they might guard it, and not suffer any of the people to come near it, or meddle with holy things, which if they did, it would certainly bring a plague upon them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "In the tabernacle - By way of advice, and assistance in lesser and easier works."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 9
+ }
+}

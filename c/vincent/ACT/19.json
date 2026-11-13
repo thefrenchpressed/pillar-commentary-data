@@ -1,0 +1,281 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "vincent",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Upper coasts [ταανωτερικαμερη]. Coasts is a bad rendering. Better, as Rev., \"the upper country;\" lit., parts or districts. The reference is to districts like Galatia and Phrygia, lying up from the sea - coast and farther inland than Ephesus. Hence the expedition of Cyrus from the sea - coast toward Central Asia was called Anabasis, a going - up.\n\nCertain disciples. Disciples of John the Baptist, who, like Apollos, had been instructed and baptized by the followers of the Baptist, and had joined the fellowship of the Christians. Some have thought that they had been instructed by Apollos himself; but there is no sufficient evidence of this. \"There they were, a small and distinct community about twelve in number, still preparing, after the manner of the Baptist, for the coming of the Lord. Something there was which drew the attention of the apostle immediately on his arrival. They lacked, apparently, some of the tokens of the higher life that pervaded the nascent church; they were devout, rigorous, austere, but were wanting in the joy, the radiancy, the enthusiasm which were conspicuous in others\" (Plumptre, \" St. Paul in Asia Minor \")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Have ye received the Holy Ghost since ye believed? The two verbs are in the aorist tense, and therefore denote instantaneous acts. The A. V. therefore gives an entirely wrong idea, as there is no question about what happened after believing; but the question relates to what occurred when they believed. Hence Rev., rightly, Did ye receive the Holy Ghost when ye believed?\n\nWe have not heard. Also the aorist. We did not hear; referring back to the time of their beginning.\n\nWhether there be any Holy Ghost. But, as Bengel observes, \"They could not have followed either Moses or John the Baptist without having heard of the Holy Ghost.\" The words, therefore, are to be explained, not of their being unaware of the existence of the Holy Ghost, but of his presence and baptism on earth. The word estin, there be, is to be taken in the sense of be present, or be given, as in John 7:39, where it is said, \"The Holy Ghost was not yet [ουπωην],\" and where the translators rightly render, \"was not yet given.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Unto what [ειςτι]. Rev., more correctly, into. See on Matthew 28:19. John. The last mention of John the Baptist in the New Testament. \"Here, at last, he wholly gives place to Christ\" (Bengel)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Asia. See on ch. Acts 2:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Special [ουταςτυχουσας]. A peculiar expression. Lit., not usual or common, such as one might fall in with frequently."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Body [χρωτος]. Properly, the surface of the body, the skin; but, in medical language, of the body.\n\nHandkerchiefs [σουδαρια]. See on Luke 19:20.\n\nAprons [σιμικινθια]. Only here in New Testament. A Latin word, semicinctia. Lit., something passing half - way round the body: an apron or waistband. Perhaps garments worn by Paul when engaged at his trade."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Vagabond [περιερχομενων]. Lit., going about. Rev., strolling.\n\nExorcists [εξορκιστων]. Only here in New Testament. The kindred verb, adjure, occurs Matthew 26:63, and means, originally, to administer an oath. These Jewish exorcists pretended to the power of casting out evil spirits by magical arts derived from Solomon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Did [ποιουντες]. The participle denotes a practice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "I know - I know [γινωσκω - επισταμαι]. There is a purpose in using two different words to denote the demon's recognition of the Divine Master and of the human agent, though it is not easy to convey the difference in a translation. It is the difference between an instinctive perception or recognition of a supreme power and the more intimate knowledge of a human agent. A divine mystery would invest Jesus, which the demon would feel, though he could not penetrate it. His knowledge of a man would be greater, in his own estimation at least. The difference may be given roughly, thus: \"Jesus I recognize, and Paul I am acquainted with.\"\n\nOvercame them [κατακυριευσας]. The best texts read both of them, which would imply that only two of the seven were concerned in the exorcism. Rev, better, mastered, thus giving the force of kuriov, master, in the composition of the verb."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Prevailed against [ισχυσε]. See on Luke 14:30; Luke 16:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Was known [εγενετογνωστον]. More correctly, became known."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Confessed and shewed [εξομολογουμενοικαιαναγγελλοντες]. The two words denote the fullest and most open confession. They openly [εξ] confessed, and declared thoroughly (ajna, from top to bottom) their deeds. See on Matthew 3:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Curious arts [ταπεριεργα]. The word means, literally, overwrought, elaborate, and hence recondite or curious, as magical practices. Only here and 1 Timothy 5:13, in its original sense of those who busy themselves excessively [περι]: busybodies. The article indicates the practices referred to in the context.\n\nBooks. Containing magical formulas. Heathen writers often allude to the Ephesian letters. These were symbols, or magical sentences written on slips of parchment, and carried about as amulets. Sometimes they were engraved on seals.\n\nBurned [κατεκαιον]. Burned them up [κατα]. The imperfect is graphic, describing them as throwing book after book on the pile.\n\nCounted [συνψηφισαν]. Only here in New Testament. See on Luke 14:28. The preposition sun, together, in the compound verb, indicates the reckoning up of the sum - total.\n\nFifty thousand pieces of silver. If reckoned in Jewish money, about thirty - five thousand dollars; if in Greek drachmae, as is more probable, about nine thousand three hundred dollars."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "The way. See on ch. Acts 9:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Silversmith [αργυροκοπος]. Lit., a silver - beater.\n\nShrines. Small models of the temple of Diana, containing an image of the goddess. They were purchased by pilgrims to the temple, just as rosaries and images of the virgin are bought by pilgrims to Lourdes, or bronze models of Trajan's column or of the Colonne Vendome by tourists to Rome or Paris. 24 Craftsmen [τεχνιταις]. In the next verse he mentions the workmen [εργατας], the two words denoting, respectively, the artisans, who performed the more delicate work, and the laborers, who did the rougher work."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Wealth [ευπορια]. See on ability, ch. 11 29. Lit., welfare. Wealth is used by the A. V. in the older and more general sense of weal, or well - being generally. Compare the Litany of the English Church: \"In all time of our tribulation, in all time of our wealth.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Craft [μερος]. Lit., part or department of trade.\n\nTo be set at nought [ειςαπελεγμονελθειν]. Lit., to come into refutation or exposure; hence, disrepute, as Rev. Compare ch. 18 28, and see note there. 'Apelegmov, refutation, occurs only here in New Testament.\n\nDiana. Or Artemis. We must distinguish between the Greek Artemis, known to the Romans as Diana, and the Ephesian goddess. The former, according to the legend, was the daughter of Zeus (Jove), and the sister of Apollo. She was the patroness of the chase, the huntress among the immortals, represented with bow, quiver, and spear, clad in hunting - habit, and attended by dogs and stags. She was both a destroyer and a preserver, sending forth her arrows of death, especially against women, but also acting as a healer, and as the special protectress of women in childbirth. She was also the goddess of the moon. She was a maiden divinity, whose ministers were vowed to chastity.\n\nThe Ephesian Artemis is totally distinct from the Greek, partaking of the Asiatic character; and of the attributes of the Lydian Cybele, the great mother of the gods. Her worship near Ephesus appears to have existed among the native Asiatic population before the foundation of the city, and to have been adopted by the Greek immigrants, who gradually transferred to her features peculiar to the Grecian goddess. She was the personification of the fructifying and nourishing, powers of nature, and her image, as represented on current coins of the time, is that of a swathed figure, covered with breasts, and holding in one hand a trident, and in the other a club. This uncouth figure, clad in a robe covered with mystic devices, stood in the shrine of the great temple, hidden by a purple curtain, and was believed to have fallen down from heaven (ver. 35). In her worship the oriental influence was predominant. The priests were eunuchs, and with them was associated a body of virgin priestesses and a number of slaves, the lowest of whom were known as neocori, or temple - sweepers (ver. 35). \"Many a time must Paul have heard from the Jewish quarter the piercing shrillness of their flutes, and the harsh jangling of testable dances and Corybantic processions, as, with streaming hair, and wild cries, and shaken torches of pine, they strove to madden the multitudes into sympathy with that orgiastic worship which was but too closely connected with the vilest debaucheries\" (Farrar, \" Life and Work of Paul \").\n\nMagnificence. See on 2 Peter 1:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Cried out [εκραζον]. The imperfect is graphic; they continued crying. This reiteration was a characteristic of the oriental orgiastic rites."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The theater. The site of which can still be traced. It is said to have been capable of seating fifty - six thousand persons.\n\nHaving seized [συναρπασαντες]. Lit., \"having seized along with [συν]:\" carried them along with the rush.\n\nCompanions in travel [συνεκδημους]. Only here and 2 Corinthians 8:19. The word is compounded of sun, along with, ejk, forth, and dhmov, country or land, and means, therefore, one who has gone forth with another from his country."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Of the chief officers of Asia [τωνασιαρχων]. The Asiarchs. These were persons chosen from the province of Asia, on account of their influence and wealth, to preside at the public games and to defray their expenses."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "They drew [προεβιβασαν]. More correctly, urged forward. See on before instructed, Matthew 14:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "With one voice cried out. There reverberations of their voices from the steep rock which formed one side of the theater must have rendered their frenzied cries still more terrific."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "The town - clerk. Or recorder, who had charge of the city - archives, and whose duty it was to draw up official decrees and present them to assemblies of the people. Next to the commander, he was the most important personage in the Greek free cities.\n\nWorshipper [νεωκορον]. Lit., a temple - sweeper. See on verse 27. This title, originally applied to the lowest menials of the temple, became a title of honor, and was eagerly appropriated by the most famous cities.\n\nAlexander says, \"The city of Ephesus is the sacristan of the great goddess Artemis.\" 25"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Quiet [κατεσταλμενους]. Compare quieted (ver. 35). The verb means to let down or lower; and so is applied, metaphorically, to keeping one's self in check; repressing.\n\nRash [προπετες]. Lit., headlong."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Robbers of churches [ιεροσυλους]. The A. V. puts a droll anachronism into the mouth of the town - clerk of a Greek city. Render, rather, as Rev., robbers of temples."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "The law is open [αγοραιοιαγονται] Lit., the court - days are being kept. Rev., the courts are open. Compare ch. 17 5.\n\nDeputies [ανθυπατοι] Proconsuls, by whom Asia, as a senatorial province, was governed. See Introduction to Luke."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Concourse [συστροφης]. Lit., a twisting together: hence of anything which is rolled or twisted into a mass; and so of a mass of people, with an underlying idea of confusion: a mob. Compare ch. 28 12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "ACT",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "ACT",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "ACT",
+  "chapter": 20
+ }
+}

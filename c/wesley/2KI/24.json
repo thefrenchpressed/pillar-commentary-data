@@ -1,0 +1,128 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "wesley",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": "Judah severely punished, ver. 1-4. Jehoiakim dies, ver. 5-6. Nebuchadnezzar's conquests, ver. 7. The wicked reign of Jehoiachin, ver. 8, 9. Nebuchadnezzar takes Jerusalem and carries the people captive, ver. 10-16. The wicked reign of Zedekiah, ver. 17-20",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Bands - For Nebuchadnezzar's army was made up of several nations, who were willing to fight under the banner of such a puissant and victorious emperor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The sins - Properly and directly for their own sins, and occasionally for the sins of Manasseh, which had never been charged upon them, if they had not made them their own by their repetition of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "With his fathers - But it is not said, he was buried with them. No doubt the prophecy of Jeremiah was fulfilled, that he should not be lamented as his father was, but buried with the burial of an ass."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Came not - In this king's days. He could not now come to protect the king of Judah, being scarce able to defend his own kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "To reign - In his eighth year he began to reign with his father, who made him king with him as divers other kings of Israel and Judah had done in times of trouble; and in his eighteenth year he reigned alone."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Went out - Yielded up himself and the city into his hands; and this by the counsel of Jeremiah, and to his own good. His reign - Of Nebuchadnezzar's reign; as appears by comparing this with chap.25:8, and because Jehoiachin reigned not half a year. Had he made his peace with God, and taken the method that Hezekiah did in the like case, he needed not to have feared the king of Babylon, but might have held out with courage, honour and success. But wanting the faith and piety of an Israelite, he had not the resolution of a man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Vessels - The most and choicest of them, by comparing this with chap.25:14,15. Solomon made - Though the city and temple had been rifled more than once both by the kings of Egypt and Israel, and by the wicked kings of Judah; yet these golden vessels were preserved from them, either by the case of the priests, who hid them; or by the clemency of the conquerors, or by the special providence of God, disposing their hearts to leave them. Or, if they had been taken away by any of these kings, they might afterwards be recovered good, at the cost of the kings of Judah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "All - Not simply all, but the best and most considerable part, as the following words explain it. Captives - Which are more particularly reckoned up, ver.16, where there are seven thousand mighty men, and a thousand smiths; and those mentioned ver.15, make up the other two thousand. Craftsmen and smiths - Who might furnish them with new arms, and thereby give him fresh trouble."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Zedekiah - That he might admonish him of (what this name signifies) the justice of God, which had so severely punished Jehoiakim for his rebellion; and would no less certainly overtake him, if he should be guilty of the same perfidiousness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Came to pass - Thus the peoples sins were the true cause why God gave them wicked kings, whom he suffered to do wickedly, that they might bring the long - deserved, and threatened punishments upon themselves and their people."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2KI",
+  "chapter": 25
+ }
+}

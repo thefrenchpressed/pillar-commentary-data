@@ -1,0 +1,299 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "wesley",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Mt 10:1; Mr 6:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "There abide and thence depart - That is, stay in that house till ye leave the city."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "It was said by some - And soon after by Herod himself. Mt 14:1; Mr 6:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "That Elijah had appeared - He could not rise again, because he did not die."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Mr 6:30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Mt 14:15; Mr 6:35; Joh 6:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Apart - From the multitude. And he asked them - When he had done praying, during which they probably stayed at a distance. Mt 14:13; Mr 8:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Saying - Ye must prepare for a scene far different from this."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Let him deny himself, and take up his cross - The necessity of this duty has been shown in many places: the extent of it is specified here, daily - Therefore that day is lost wherein no cross is taken up."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Mt 16:25; Mr 8:35; Joh 12:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Mt 17:1; Mr 9:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "In glory - Like Christ with whom they talked."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "They saw his glory - The very same expression in which it is described by St. John, John 1:14; and by St. Peter, 2Pet 1:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "A cloud came and overshadowed them all. And they, the apostles, feared, while they (Moses and Elijah) entered into the cloud, which took them away."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Mt 17:14; Mr 9:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Let these sayings sink down into your ears - That is, consider them deeply. In joy remember the cross. So wisely does our Lord balance praise with sufferings. Mt 17:22; Mr 9:31."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "And there arose a reasoning among them - This kind of reasoning always arose at the most improper times that could be imagined."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Mt 18:2; Mr 9:37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 48,
+    "content": [
+     {
+      "text": "And said to them - If ye would be truly great, humble yourselves to the meanest offices. He that is least in his own eyes shall be great indeed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "Mr 9:38."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "The days are fulfilled that he should be received up - That is, the time of his passion was now at hand. St. Luke looks through this, to the glory which was to follow. He steadfastly set his face - Without fear of his enemies, or shame of the cross, Heb 12:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 52,
+    "content": [
+     {
+      "text": "He sent messengers to make ready - A lodging and needful entertainment for him and those with him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 53,
+    "content": [
+     {
+      "text": "His face was as though he would go to Jerusalem - It plainly appeared, he was going to worship at the temple, and thereby, in effect, to condemn the Samaritan worship at Mount Gerizim."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 54,
+    "content": [
+     {
+      "text": "As Elisha did - At or near this very place, which might put it into the minds of the apostles to make the motion now, rather than at any other time or place, where Christ had received the like affront."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 55,
+    "content": [
+     {
+      "text": "Ye know not what manner of spirit - The spirit of Christianity is. It is not a spirit of wrath and vengeance, but of peace, and gentleness, and love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 57,
+    "content": [
+     {
+      "text": "Mt 8:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 58,
+    "content": [
+     {
+      "text": "But Jesus said to him - First understand the terms: consider on what conditions thou art to follow me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 61,
+    "content": [
+     {
+      "text": "Suffer me first to bid them farewell that are in my house - As Elisha did after Elijah had called him from the plough, 1Kings 19:19; to which our Lord's answer seems to allude."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 62,
+    "content": [
+     {
+      "text": "Is fit for the kingdom of God - Either to propagate or to receive it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 10
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 16\n\nThe Burden of Moab Continued 1. God’s call to Moab to repent (Isaiah 16:1-5) 2. Moab’s pride and judgment (Isaiah 16:6-14)The fifteenth and sixteenth chapters form one prophecy. Moab’s land bordered on the land of Israel. The historical facts concerning Moab may be studied and followed through the following passages: 1 Samuel 14:47; 2 Samuel 8:2; 2 Kings 1:11; 2 Kings 3:4;2 Chronicles 20:1-37; 2 Kings 8:20;2 Kings 24:2. Moab’s sin and judgment are frequently mentioned by the prophet.\n\nSee Amos 2:1-3. A great past judgment of Moab’s is described in 15:1-9. The call in chapter 16:1 to send a lamb has nothing to do with Him who is “the lamb of God.” The exhortation becomes clear by reading 2 Samuel 8:2 and 2 Kings 3:4-5. Christ, however, is in view in verse 5, chapter 16(Isaiah 16:5). A remnant of Moab is to be left and in the time of the end we find Moab mentioned again. Read Isaiah 11:14 and Daniel 11:41.\n\nThe final ruin of Moab is described in Isaiah 25:10-12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 17
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "wesley",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": "God's direction to Gideon for modelling his army, ver. 1-8. The dream of the Midianite, ver. 9-15. His manner of attacking the camp of Midian, ver. 16-20. Their total overthrow, ver. 21-25.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "2. Too many - For my purpose; which is, so to deliver Israel, that it may appear to be my own act, that so I may have all the glory, and they may be the more strongly obliged to serve me. This may help us to understand those providences, which sometimes seem to weaken the church of Christ. Its friends are too many, too mighty, too wise, for God to work deliverance by. God is taking a course to lessen them, that he may be exalted in his own strength."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "3. Mount Gilead - Not mount Gilead beyond Jordan; for both the camps of the Israelites and the Midianites were on this side Jordan: but another mount Gilead in the tribe of Manasseh. There returned - These finding their whole army very small, in comparison of their enemies, who were a hundred and thirty five thousand, chap. viii, 10, and they, no doubt well armed and disciplined, and encouraged by long success; whereas the Israelites were dispirited with long servitude, and many of them unarmed, lost the courage which they had at first."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "4. The water - Either that which ran from the well of Harod, mentioned ver. 1, or some other brook."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "6. That lapped - Taking up a little water in the palm of their hands."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "7. His own place - That is, to his own home. By this farther distinction it was proved, that none should be made use of, but,\n\n1. Men that were hardy, that could endure fatigue, without complaining of thirst or weariness:\n\n2. Men that were hasty, that thought it long, 'till they were engaged with the enemy, and so just wetted their mouth and away, not staying for a full draught. Such as these God chuses to employ, that are not only well affected, but zealously affected to his work."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "8. Their trumpets - That is the trumpets belonging to the whole army, which he retained for the use following."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "9. The same night - After he had dismissed all but the three hundred. The Lord said - In a dream or vision of the night."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "11. Thine hand strengthened - Thou wilt be encourage to proceed, notwithstanding the smallness of thy number."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "13. A cake - A weak and contemptible thing; and in itself as unable to overthrow a tent, as to remove a mountain; but being thrown by a divine hand, it bore down all before it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "14. His fellow answered, &c. - As there are many examples of significant dreams, given by God to Heathens, so some of them had the gift of interpreting dreams; which they sometimes did by divine direction as in this case."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "15. He worshipped-He praised God for this special encouragement."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "16. Three companies - To make a shew of a vast army. Within the pitchers - Partly to preserve the flame from the wind and weather; and partly to conceal it, and surprise their enemy with sudden flashes of light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "17. Look on me - For though two hundred of his men were placed on other sides of the camp; yet they were so disposed, that some persons, set as watchmen, might see what was done, and give notice to the rest to follow the example."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "18. Of Gideon - He mentions his own name, together with God's, not out of arrogance, as if he would equal himself with God; but from prudent policy, because his name was grown formidable to them, and so was likely to further his design. See ver. 14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "19. Middle watch - That is, of the second watch; for though afterward the night was divided into four watches by the Romans, Matt. xiv, 25, yet in more ancient times, and in the eastern parts, it was divided into three: he chose the dark and dead of the night, to increase their terror by the trumpets, whose sound would then be loudest, and the lamps, whose light would then shine most brightly, to surprise them, and conceal the smallness of their numbers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "21. They stood - As if they had been torch-bearers to the several companies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "22. Against his fellow - They slew one another, because they suspected treachery, and so fell upon those they first met with; which they might more easily do, because they consisted of several nations, because the darkness of the night made them unable to distinguish friends from foes, because the suddenness of the thing struck them with horror and amazement; and because God had infatuated them, as he had done many others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "24. The waters - That is, the passes over those waters to which they are like to come. Jordan - The fords of Jordan, which they must pass over into their own country."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "25. The other side of Jordan - For Gideon in the pursuit had passed over Jordan. Oreb and Zeeb had probably taken shelter, the one in a rock, the other by a wine-press. But the places of their shelter were made the places of their slaughter, and the memory of it preserved in the names of the places."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JDG",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JDG",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JDG",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": "Jerusalem is taken: Zedekiah's sons are slain, his eyes put out, he is sent to Babylon, All the nobles of Judah are slain: the city is burnt, and the chief of the people carried captives, ver. 1- 10. Nebuchadrezzar's charge concerning Jeremiah, ver. 11-14. God's promise to Ebed-melech, ver. 15-18.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Tenth month - This month answers to part of our December and January."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "The middle gate - The city was encompassed with two walls, before they came to the wall of the temple; the gate in the inner wall is supposed to have been that which is called the middle gate. They would not at first venture farther, 'till they might without hazarding their persons."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Riblah - Riblah was upon the borders of Canaan. Zedekiah was a tributary to the king of Babylon, and so subject to his power, having made a covenant with him, and secured his allegiance by his oath to him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Take him - It is probable, that Nebuchadnezzar had been informed, Jeremiah had constantly told the king, that the Chaldeans should take the city, and as steadily persuaded both the king and princes to surrender it to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Now the word - These four verses mention a matter that happened before the things mentioned in the foregoing verses."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 40
+ }
+}

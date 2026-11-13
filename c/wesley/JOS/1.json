@@ -1,0 +1,173 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "wesley",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "IN this book and those that follow to the end of Esther, we have the history of the Jewish nation. These books, to the end of the second book of Kings, the Jewish writers call, the first book of the prophets: as being wrote by prophets, men divinely inspired. Indeed it is probable they were collections of the authentic records of the nation, which some of the prophets were divinely directed and assisted to put together. It seems the substance of the several histories was written under divine direction, when the events had just happened, and long after put into the form wherein they stand now, perhaps all by the same hand. In the five books of Moses we had a full account of the rise and constitution of the Old Testament church, the miracles by which it was built up, and the laws and ordinances by which it was to be governed. And any nation that had statutes and judgments so righteous, one would think, should have been very holy. But alas! a great part of the history is a representation of their sins and miseries. For the law made nothing perfect; that was to be done by the bringing in of the better hope. The book of Joshua, if not written by him, was at least collected out of his journals or memoirs. It contains the history of Israel under the command of Joshua: how he presided over them,\n\n1. In their entrance into Canaan, chap. i-v.\n\n2. In their conquest of Canaan, chap. vi-xii.\n\n3. In the distribution of the land among the tribes of Israel, chap. xiii-xxi.\n\n4. In the establishment of religion among them, chap. 21-24. In all which he was a great example of wisdom, courage, fidelity and piety. And in this history we may see,\n\n1. Much of God and his providence; his power in the kingdom of nature; his justice in punishing the Canaanites; his faithfulness to his covenant with the patriarchs; his kindness to his people:\n\n2. Much of Christ and his grace: Joshua being in many respects an eminent type of him.\n\nIn this chapter,\n\n1. God appoints Joshua to govern in the stead of Moses, and gives him instructions and encouragement, ver. 1-9.\n\n2. He enters on his office immediately, giving orders to the officers, and to the two tribes and an half, ver. 10-15.\n\n3. The people accept him as their governor, ver. 16-18",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "After the death of Moses - Either immediately after it, or when the days of mourning for Moses were expired. Joshua was appointed and declared Moses's successor in the government before this time; and here he receives confirmation from God therein. The servant of the Lord - This title is given to Moses here and Jos 1:2, as also Deut 34:5, and is repeated not without cause, to reflect honour upon him, to give authority to his laws and writings, in publishing whereof he acted as God's servant, in his name: and that the Israelites might not think of Moses above what was meet, remembering that he was not the Lord himself, but only the Lord's servant; and therefore not to be too pertinaciously followed in all his institutions when the Lord himself should come and abolish part of the Mosaical dispensation; it being but reasonable that he who was only a servant in God's house, should give place to him who was the son, and heir, and Lord of it. The Lord spake - Either in a dream or vision, or by Urim, Numb 27:21. Moses's minister - Who had waited upon Moses in his great employments, and thereby been privy to his manner of government, and so prepared for it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Now therefore arise - Let not the withering of the most useful hands be the weakening of ours. When God has work to do, he will either find or make instruments fit to carry it on. Moses the servant is dead; but God the master is not: he lives forever. This Jordan - Which is now near thee, which is the only obstacle in thy way to Canaan. Which I give - That is, am now about to give thee actual possession of it, as I formerly gave a right to it by promise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Every place - That is, within the following bounds."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "This Lebanon - Emphatically, as being the most eminent mountain in Syria, and the northern border of the land: or this which is within thy view. Hittites - Of the Canaanites, who elsewhere are all called Amorites; (Gen 15:16) and here Hittites, the Hittites being the most considerable and formidable of all. The greater - The midland sea, great in itself, and especially compared with those lesser collections of waters, which the Jews called seas. \"But the Israelites never possessed all this land.\" I answer: That was from their own sloth and cowardice, and disobedience to God, and breach of those conditions upon which this promise was suspended: Though their possessions extended not to Euphrates, yet their dominion did, and all those lands were tributary to them in David's and Solomon's time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "With Moses - To assist him against all his enemies, and in all the difficulties of governing this stiff - necked people, which Joshua might justly fear no less than the Canaanites. Forsake thee - I will not leave thee destitute either of inward support, or of outward assistance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Be strong and of a good courage - Joshua, though a person of great courage and resolution, whereof he had given sufficient proof, yet needs these exhortations, partly because his work was great, and difficult, and long, and in a great measure new; partly because he had a very mean opinion of himself, especially if compared with Moses; and remembering how perverse and ungovernable that people were, even under Moses, he might very well suspect the burden of ruling them would be too heavy for his shoulders."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Commanded thee - Remember, that though thou art the commander of my people, yet thou art my subject, and obliged to observe all my commands. To the right hand or to the left - That is, in any kind, or upon any pretence; which plainly shews, that God's assistance promised to him and the Israelites, was conditional, and might justly be withdrawn upon their breach of the conditions. Whithersoever thou goest - That is, whatsoever thou doest. Mens actions are often compared to ways, or steps by which they come to the end they aim at."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Out of thy mouth - That is, thou shalt constantly read it, and upon occasion discourse of it, and the sentence which shall come out of thy mouth, shall in all things be given according to this rule. Day and night - That is, diligently study, and upon all occasions consider what is God's will and thy duty. The greatness of thy place and employments shall not hinder thee from this work, because this is the only rule of all thy private actions, and publick administrations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "I commanded thee - I whom thou art obliged to obey: I who can carry thee through every thing I put thee upon: I of whose faithfulness and almighty power thou hast had large experience?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The officers of the people - These who commanded under Joshua, in their respective tribes and families, attended him for orders, which they were to transmit to the people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Prepare you victuals - For although Manna was given them to supply their want of ordinary provisions in the wilderness; yet they were allowed, when they had opportunity, to purchase other provisions, and did so, Deut 2:6,28. And now having been some time in the land of the Amorites, and together with Manna used themselves to other food, which that country plentifully supplied them with; they are warned to furnish themselves therewith for their approaching march. Three days - These words, though placed here, seem not to have been delivered by Joshua 'till after the return of the spies; such transpositions being frequent in scripture. And hence it comes, that these three days mentioned here below, after the history of the spies, are again repeated Josh 3:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Commanded you - His charge to you, and your promise to him. Rest - That is, a place of rest, as that word signifies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Before their brethren - In the front of all of them; which was but reasonable; because they had the advantage of their brethren, having actually received their portion, which their brethren had only in hope, because they were freed from those impediments which the rest were exposed to, their wives, and children, and estates being safely lodged; and to prevent their withdrawing themselves from the present service, which they otherwise would have had temptation to do, because of the nearness of their habitations. Armed - For by this time they were well furnished with arms, which they had either from the Egyptians, Amalekites, or Amorites, from whom they had taken them; or by purchase from those people by whose borders they passed. Men of valour - All such were obliged to go over if occasion required it, but Joshua took only some of them, because they were sufficient for his purpose, and because some were fit to be left, both to secure their own wives, children, and possessions, and to prevent their enemies on that side from giving them disturbance in their enterprise upon Canaan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "And they answered - Not the two tribes and an half only, but the officers of all the people, in their name, concurring with the divine appointment, by which Joshua was set over them. Thus must we swear allegiance to our Lord Jesus, as the captain of our salvation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Unto thee - The same obedience which we owed, to Moses, we promise unto thee. With Moses - This is not a limitation of their obedience, as if they would not obey him any longer than he was prosperous, but an additional prayer for him. As we have hereby promised thee our obedience, so our prayer shall be, that God would bless and prosper thee, as he did Moses."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "DEU",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JOS",
+  "chapter": 2
+ }
+}

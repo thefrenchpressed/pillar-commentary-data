@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "gaebelein",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 20\n\n1. The Empty Sepulchre. (John 20:1-10.)\n\n2. The Risen One and Mary of Magdala. (John 20:11-18.)\n\n3. The Gathered Company and He in the midst. (John 20:19-23.)\n\n4. The Second Time. (John 20:24-29.)\n\n5. The Purpose of John’s Record. (John 20:30-31.)\n\n“I lay down my life that I might take it up again.” The sufferings were accomplished. The Good Shepherd laid down His life for the sheep and now we learn how He arose from the dead. John 2:19 was fulfilled. “Destroy this temple and in three days I will raise it up.” The stone is rolled away; the sepulchre is empty. Mary of Magdala carried the good news to Peter and John. Peter and John ran together to the sepulchre, and John out ran Peter. In the sepulchre all is in order.\n\nIf a thief had stolen the body he would have acted in fear and haste. A thief would not have gone about in such an orderly way. The linen clothes were lying in the proper place; the napkin (soudarion--sweatcloth) was folded inwards in a place by itself. He had detached Himself in a miraculous way without disturbing them at all. It is an evidence of His resurrection in His own power as Son of God.\n\nAnd how beautiful is the incident when Mary stood weeping and looking into the sepulchre! She beheld two angels there, yet she was not frightened when she beheld these mysterious Beings. Her heart was so occupied with her Lord that she did not even inquire of the angels. But they addressed her: “Woman, why weepest thou?” Then He came Himself. Her tears of ignorance and unbelief held her eyes that she did not recognize Him till He, Who in resurrection is the great Shepherd of the sheep, called her by name. What sound that one word “Mary” must have had in her ears and heart!\n\nShe would fall at His feet and hold Him, as the other women held Him by the feet and worshipped Him. (Matthew 28:9.) But He told her: “Touch me not; for I am not yet ascended to my Father; but go to my brethren and say unto them, I ascend unto my Father and your Father; and to my God and your God.” Matthew reports how they touched Him and held Him by the feet. He is presented in that Gospel as Israel’s King.\n\nNot a word is said in the first Gospel of His ascension. He is presented in Matthew as if He were to remain on earth, in an earthly relationship with His people. This is why He permitted the holding of His feet. It is symbolical of how the remnant of Israel will enjoy His presence on earth as King in the day of His Return. But John’s Gospel reveals a new relationship. He is to ascend into heaven to His Father. She must not hold Him as to keep Him here. (The word “touch” really means: to fasten oneself to, to hang on, to lay hold of.) As true believers we are linked with the glorified Lord. This higher relationship He makes known and she becomes the bearer of the great message.\n\nThe relationship centers in the word “brethren.” Risen from the dead He calls His own “brethren” and speaks of “My Father and your Father, my God and your God.” He is not ashamed to call us brethren, because He that sanctifieth and they that are sanctified are all of one. (Psalms 22:21-22; Hebrews 2:11-12.) Thus He, the Son of God, Who laid down His life and took it again, has brought us to God, His God and His Father. The Grain of Wheat has brought forth its blessed and gracious fruit in resurrection.\n\nThe evening scene of that wonderful day, when He stood in their midst, is very suggestive. In a measure the assembled disciples correspond to the two who, in the first chapter, on the first day abode with Him. Though John does not mention the church, here is a beautiful picture of what the church is. They are shut in and Judaism is shut out. He is in the midst. “Where two or three are gathered together unto my name, there am I in the midst.” Here it is fulfilled for the first time. There is the message of Peace; the sending forth; the Holy Spirit, Who comes from Him, Who as the last Adam is the quickening Spirit.\n\nHe communicates spiritual life, which is divine life. And the authority of the church in discipline on earth, representing Himself, is made known by Him in John 20:23. This authority is not conferred upon a priestly class, a doctrine which has produced the most obnoxious corruption of Christianity, but upon believers, who constitute a church.\n\nThomas corresponds to Nathanael at the close of the first chapter. Both are unbelieving. Both see first and then believe. Both acknowledge Him as God. Thomas, like Nathanael, is the type of the unbelieving Jewish remnant. The Lord comes the second time and then the remnant of His earthly people will fall at His feet and say, “My Lord and my God.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 21
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "maclaren",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "AND\n\nJeremiah 10:16 Here we have set forth a reciprocal possession. We possess God, He possesses us. We are His inheritance, He is our portion. I am His; He is mine.\n\nThis mutual ownership is the very living centre of all religion. Without it there is no relation of any depth between God and us. How much profounder such a conception is than the shallow notions about religion which so many men have! It is not a round of observance; not a painful effort at obedience, not a dim reverence for some vague supernatural, not a far-off bowing before Omnipotence, not the mere acceptance of a creed, but a life in which God and the soul blend in the intimacies of mutual possession.\n\nI. The mutual possession.\n\nGod is our portion.\n\nThat thought presupposes the possibility of our possessing God. It presupposes the fact that He has given Himself to us, and the answering fact that we have taken Him for ours.\n\nWe are God’s inheritance.\n\nWe give ourselves to Him-we do so where we apprehend that He has given Himself to us; it is His giving love that moves men to yield themselves to God. He takes us for His. What a wonderful thought that He delights in possessing us! The all-sufficiency of our portion is guaranteed because He is ‘the former of all things.’ The safety of His inheritance is secured because ‘the Lord of Hosts is His name.’ And that name accentuates the wonder that He to whom all the ordered armies of the universe submit and belong should still take us for His inheritance.\n\nMark the contrast of this true possession with the false and merely external possessions of the world. Those outward things which a man has stand in no real relation with him. They fade and fleet away, or have to be left, and, even while they last, are not his in any real sense. Only what has indissolubly entered into, and become one with, our very selves is truly ours.\n\nOur possession of God suggests a view of our blessedness and our obligation. It secures blessedness-for we have in Him an all-sufficient object and a treasure for all our nature. It imposes the obligation to let our whole nature feed upon, and be filled by, Him, to see that the temple where He dwells is clean, and not to fling away our treasure.\n\nHis possession of us suggests a corresponding view of our blessedness and our obligation.\n\nWe are His-as slaves are their owners’ property. So we are bound to submission of will. To be owned by God is an honour. The slave’s goods and chattels belong to the master.\n\nHis possession of us binds us to consecrate ourselves, and so to glorify Him in ‘body and spirit which are His.’\n\nIt ensures our safety. How constantly this calming thought is dwelt on in Scripture-that they who belong to Him need fear nothing. ‘Fear not, I have called thee by thy name, them art Mine.’ God does not hold His possessions with so slack a grasp as to lose them or to suffer them to be wrenched away. A psalmist rose to the hope of immortality by meditating on what was involved in his being God’s possession here and now. He was sure that even Death’s bony fingers could not keep their hold on him, and so he sang, ‘Thou wilt not suffer Thine Holy One to see corruption.’ The seal on the foundation of God which guarantees its standing sure is, ‘The Lord knoweth them that are His.’ ‘They shall be Mine in the day that I do make, even a peculiar treasure,’ is His own assurance, on which resting, a trembling soul may ‘have boldness in the day of judgment.’\n\nII. The human response by which God becomes ours and we His.\n\nThat response is first the act of faith, which is an act of both reason and will, and then the act of love and self-surrender which follows faith, and then the continuous acts of communion and consecration.\n\nAll must commence with recognition of His free gift of Himself to us in Christ. We come empty-handed. That gift recognised and accepted moves us to give ourselves to Him. When we give ourselves to Him we find that we possess Him.\n\nFurther, there must be continuous communion. This mutual possession depends on our occupation of mind and heart with Him. We possess Him and are possessed by Him, when our wills are kept in harmony with, and submission to, Him, when our thoughts are occupied with Him and His truth, when our affections rest in Him, when our desires go out to Him, when our hopes are centred in Him, when our practical life is devoted to Him.\n\nIII. The blessedness of this mutual possession.\n\nTo possess God is to have an all-sufficient object for all our nature. He who has God for his very own has the fountain of life in himself, has the spring of living water, as it were, in his own courtyard, and needs not to go elsewhere to draw. He need fear no loss, for his wealth is so engrained in the very substance of his being that nothing can rob him of it but himself, and that whilst he lasts it will last with, because in, him.\n\nHow marvellous that into the narrow room of one poor soul He should come whom the heaven of heavens cannot contain! Solomon said, ‘How much less this house which I have built,’ -well may we say the same of our little hearts. But He can compress Himself into that small compass and expand His abode by dwelling in it.\n\nNor is the blessedness of being possessed by Him less than the blessedness of possessing Him. For so long as we own ourselves we are burdens to ourselves, and we only own ourselves truly when we give ourselves away utterly. Earthly love, with its blessed mysteries of mutual possession, teaches us that. But all its depth and joy are as nothing when set beside the liberty, the glad peace, the assured possession of our enriched selves, which are ours when we give ourselves wholly to God, and so for the first time are truly lords of ourselves, and find ourselves by losing ourselves in Him.\n\nNor need we fear to say that God, too, delights in that mutual possession, for the very essence of love is the desire to impart itself, and He is love supreme and perfect. Therefore is He glad when we let Him give Himself to us, and moved by ‘the mercies of God, yield ourselves to Him a sacrifice of a sweet smell, acceptable to God.’"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "JER",
+  "chapter": 12
+ }
+}

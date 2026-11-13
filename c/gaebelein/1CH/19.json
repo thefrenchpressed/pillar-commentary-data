@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CH",
+  "commentaryId": "gaebelein",
+  "name": "1 Chronicles",
+  "commonName": "1 Chronicles",
+  "numberOfChapters": 29
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "9. The Wars with Ammon, Syria and the Philistines (19-20)CHAPTER 19\n\n1. Hanun’s insult to David’s servants (1 Chronicles 19:1-5)\n\n2. Joab’s victory (1 Chronicles 19:6-16)\n\n3. David’s victorious campaign (1 Chronicles 19:17-19)\n\nSee annotations on 2 Samuel chapter 10. The occasion of the war with the Ammonites was the insult to the messengers of David whom he had sent to the son of King Nahash. Nahash had died and David sent the messengers to comfort Hanun concerning his father. It gives a little glimpse of the tenderness of David. “But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honor thy father, that he hath sent comforters unto thee? Are not his servants come unto thee for to search and to overthrow and to spy out the land?” When the Ammonites realized the insult to David’s messengers, they spent 1,000 talents of silver (about $375,000) to hire chariots and horsemen. Joab was victorious.\n\nThen the king himself took charge and gathered all Israel. A great victory was the result.\n\nIn 2 Samuel the great sin of David follows the victory over the Syrians. In our comment on the fall of David, we have pointed out the connection between the victory of David and his sin. David’s fall is omitted in Chronicles because the grace of God is the prominent feature and grace had completely covered David’s great sin."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CH",
+  "chapter": 20
+ }
+}

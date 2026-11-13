@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": "The prophet shews the sin and punishment of the false prophets, ver. 1-16. Of the false prophetesses, ver. 17-23.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "That prophesy - Out of their own deceiving hearts, not from God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Foolish prophets - Foolish prophets are not of God's sending: for whom he sends, he either finds fit, or makes fit. Where he gives warrant, he gives wisdom. Their own spirit - Not the spirit of God. Seen nothing - God hath shewed them no vision."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Thy prophets - Thy prophets, not mine. Like the foxes - Hungry, and ravening, crafty, and guileful. In the deserts - Where want makes them more eager after their prey."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Ye - Vain prophets. Gone up - As in a besieged city, whose wall is broken down, a valiant soldier would run up into the breach to repel the enemy; so true prophets partly by prayer, and partly by doctrine, labour to preserve God's people. Hedge - The house of Israel is the Lord's vineyard, through the hedge whereof many breaches are made. To stand - Not with arms, but with fasting, prayer, and repentance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Vanity - Things that have no foundation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Mine hand - My power striking them. In the assembly - Have no seat among the rulers, nor voice among the counsellors. Written - Not registered among those that return, Ezra 2:1,2. Enter - They shall never come into the land of Israel. They shall not be written in the book of eternal life, which is written for the just ones of the house of Israel, saith the Chaldea paraphrast."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Peace - They told sinners, no harm would happen to them. And those are the most dangerous seducers, who suggest to sinners that which tends to lessen their dread of sin, or their fear of God. These are compared to men who build a slight tottering wall, which others daub with untempered mortar; sorry stuff, that will not bind, nor hold the bricks together: doctrines not grounded on the word of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Ye shall know - Those that deceived others, will in the end be found to have deceived themselves. And no doom will be more fearful, than that of unfaithful ministers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Accomplish - Fulfil what my prophets foretold."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Sew pillows - A figurative speech, expressing the security, which they promised to every one that came to them. Kerchiefs - Triumphal caps, which were made by these prophetesses, and put upon the head of every who one consulted them, and by these they were to interpret, as a promise of victory over the Babylonians. Stature - That is, of every age, whether younger or elder, which usually is seen by their stature. To hunt - All this is really spreading a net, as hunters do, to catch the prey. Will ye save - Can you preserve them alive, whom you deceive by your promises?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Pollute me - Pretending my name for what I never spake. My people - My own people. Handfuls of barley - For a mean reward. To slay - You denounce evil to the best, whom God wilt keep alive. To save - Declaring safety, to the worst, whom God will destroy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "There - At Jerusalem. Grow - You promise a flourishing, growing, state to all enquirers; and this is the net with which you hunt souls. Tear them - With violence, and suddenness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "See no more vanity - They shall see all their predictions vanish, which shall so confound them, that they shall pretend no more to visions."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 14
+ }
+}

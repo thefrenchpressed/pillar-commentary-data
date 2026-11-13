@@ -1,0 +1,506 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "vincent",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Forasmuch as [επειδηπερ]. Only ere in New Testament. A compound conjuction: ejpei, since, dh, as is well known, and per, giving the sense of certainty.\n\nHave taken in hand [επεχειρησαν]. Used by Luke only. A literal translation. The word carries the sense of a difficult undertaking (see Acts 19:13), and implies that previous attempts have not been successful. It occurs frequently in medical language. Hippocrates begins one of his medical treatises very much as Luke begins his gospel. \"As many as have taken in hand [επεχειρησαν] to speak or to write concerning the healing art.\"\n\nTo set forth in order [αναταξασθαι]. Only here in New Testament. The A. V. is true to the core of the word, which is tassw, to put in order, or arrange. Rev. happily gives the force of the preposition ajna, up, by the rendering draw up.\n\nA declaration [διηγησιν]. Only here in New Testament. From dia, through, and hJgeomai, to lead the way. Hence something which leads the reader through the mass of facts: a narrative, as A. V., with the accompanying idea of thoroughness. Note the singular number. Many took in hand to draw up, not narratives, but a narrative, embracing the whole of the evangelic matter. The word was particularly applied to a medical treatise. Galen applies it at least seventy three times to the writings of Hippocrates.\n\nWhich are most surely believed [τωνπεπληροφορημενων]. From plhrhv, full, and forew, the frequentative form of ferw, to bring, meaning to bring frequently or habitually. Hence, to bring full measure; to fulfil. Compare 2 Timothy 4:5, 17. Also of full assurance. Applied to persons. Romans 4:21; Hebrews 5:22. As applied to things, therefore, the sense of the A. V. is inadmissible. Render as Rev., have been fulfilled. The word is chosen to indicate that these events happened in accordance with a preconceived design. Wyc., been filled in us.\n\nAmong us. Explained by the words in the next sentence, who were eye witnesses and ministers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Even as. Referring to the composition of the narrative. Delivered [παρεδοσαν]. Not necessarily excluding written traditions, but referring mainly to oral tradition. Note the distinction between the many who attempted to draw up a narrative and the eye witnesses and ministers who handed down the facts.\n\nFrom the beginning [απαρχης]. The official beginning, the commencement of Jesus ' ministry. Compare Acts 1:1, 21, 22; John 14:27. Eye witnesses and ministers. Personal knowledge and practical experience were necessary elements of an apostle. Eye witnesses [αυτοπται]. Only here in New Testament. Peter uses another word, ejpoptai (2 Peter 1:16). Frequent in medical writers, of a personal examination of disease or of the parts of the body. Compare the modern medical term autopsy. Ministers [υπηρεται]. See on Matthew 5:25. In medical language denoting the attendants or assistants of the principal physician."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Having had perfect understanding [παρηκολουθηκοτι]. Incorrect. The verb means to follow closely, and hence to trace accurately. See 2 Timothy 3:10, where Rev. reads thou didst follow for thou hast fully known. Rev. renders here having traced the course. The word occurs frequently in medical writings, and sometimes, as here, with ajkribwv, accurately. Tynd., having searched out diligently.\n\nFrom the very first [ανωθεν]. Lit., from above; the events being conceived in a descending series.\n\nAccurately [ακριβως]. From akron, the highest or farthest point. Hence to trace down to the last and minutest detail. In order [καθεξης]. Used by Luke only."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Mightest know [επιγνως]. See on Matthew 7:16. With the idea of full knowledge; or, as regards Theophilus, of more accurate knowledge than is possible from the many who have undertaken the narration.\n\nCertainty [ασφαλειαν]. From aj, not, and sfallomai, to fall. Hence steadfastness, stability, security against error.\n\nWast instructed [κατηχηθης]. From kathcew, to resound; to teach by word of mouth; and so, in Christian writers, to instruct orally in the elements of religion. It would imply that Theophilus had, thus far, been orally instructed. See on delivered, verse 2. The word catechumen is derived from it.\n\nThings [λογων]. Properly words (so Wyc.), which Rev. gives in margin. If the word can mean thing at all, it is only in the sense of the thing spoken of; the subject or matter of discourse, in which sense it occurs often in classical Greek. Some render it accounts, histories; others, doctrines of the faith. Godet translates instruction, and claims that not only the facts of the gospel, but the exposition of the facts with a view to show their evangelical meaning and to their appropriation by faith, are included in the word. There is force in this idea; and if we hold to the meaning histories, or even words, this sense will be implied in the context.\n\nLuke has drawn up his account in order that Theophilus may have fuller knowledge concerning the accounts which he has heard by word of mouth. That his knowledge may go on from the facts. to embrace their doctrinal and evangelical import; that he may see the facts of Jesus ' life and ministry as the true basis of the Gospel of salvation.\n\nTHE NARRATIVE"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "King. A title decreed to Herod by the Roman Senate on the recommendation of Antony and Octavius. The Greek style now gives place to the Hebraized style. See Introduction.\n\nCourse [εφημεριας]. Lit., daily service. The college of priests was divided into twenty four courses. Each of these did duty for eight days, from one Sabbath to another, once every six months. The service of the week was subdivided among the various families which constituted a course. On Sabbaths the whole couse was on duty. On feast days any priest might come up and join in the ministrations of the sanctuary; and at the Feast of Tabernacles all the twenty four courses were bound to be present and officiate. The course of Abijah was the eith of the twenty four. See 1 Chronicles 24:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Before God. A Hebrew expression. Compare Genesis 7:1; Acts 8:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Well stricken [προβεβηκοτες]. Lit., advanced. Wyc., had gone far in their days."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "His lot was [ελαχε]. Four lots were drawn to determine the order of the ministry of the day: the first, before daybreak, to designate the priests who were to cleanse the altar and prepare its fires; the second for the priest who was to offer the sacrifice and cleanse the candlestick and the altar of incense; the third for the priest who should burn incense; and the fourth appointing those who were to lay the sacrifice and meat offering on the altar, and pour out the drink offering. There are said to have been twenty thousand priests in Christ's time, so that no priest would ever offer incense more than once.\n\nTemple [ναον]. The sanctuary. See on Matthew 4:5.\n\nBurn incense [θυμιασαι]. Only here in New Testament. The incensing priest and his assistans went first to the altar of burnt offering, and filled a golden censer with incense, and placed burning coals from the altar in a golden bowl. As they passed into the court from the Holy Place they struck a large instrument called the Magrephah, which summoned all the ministers to their places. Ascending the steps to the holy place, the priests spread the coals on the golden altar, and arranged the incense, and the chief officiating priest was then left alone within the Holy Place to await the signal of the president to burn the incense. It was probably at this time that the angel appeared to Zacharias.\n\nWhen the signal was given, the whole multitude withdrew from the inner court, and fell down before the Lord. Silence pervaded the temple, while within, the clouds of incense rose up before Jehovah. (For a more detailed account see Edersheim, \"The Temple, its Ministry,\" etc.)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Is heard [εισηκουσθη]. If we render the aorist literally, was heard, we avoid the question as to what prayer is referred to. The reference is to the prayer for offspring, which, owing to his extreme years, Zacharias had probably ceased to offer, and which he certainly would not be preferring in that public and solemn service. Hence the aorist is appropriate, referring back to the past acts of prayer. \"The prayer, which thou no longer offerest, was heard.\"\n\nJohn. Meaning God is favorable, or Jehovah showeth grace."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Joy and gladness [χαρακαιαγαλλιασις]. The latter word exprsses exultant joy. See on 1 Peter 1:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Strong drink [σικερα]. A Hebrew word, meaning any kind of intoxicating liquor not made from grapes. Wyc., sydir.\n\nEven from his mother's womb. Eti, yet, still, means while yet unborn. Tynd., even in his mother's womb. Compare verse 41."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Wisdom [φρονησει]. Wyc., prudence. This is a lower word than sofia, wisdom (see on James 3:13). It is an attribute or result of wisdom, and not necessarily in a good sense, though mostly so in the New Testament.. Compare, however, the use of the kindred word fronimov in Romans 11:25; Romans 12:16: wise in your own conceits; and the adverb fronimwv, wisely, of the unjust steward, Luke 16:8. It is practical intelligence, which may or may not be applied to good ends. Appropriate here as a practical term corresponding to disobedient. Prepared [κατασκευασμενον]. Adjusted, disposed, placed in the right moral state."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Whereby [κατατι]. Lit., according to what? It demands a standard of knowledge, a sign.\n\nFor. I require a sign, for I am old."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Gabriel. Meaning man of God. In Jewish tradition the guardian of the sacred treasury. Michael (see on Jude 1:9) is the destroyer, the champion of God against evil, the minister of wrath. Gabriel is the messenger of peace and restoration. See Daniel 8:16; Daniel 9:21. \"The former is the forerunner of Jehovah the Judge; the latter of Jehovah the Savior\" (Godet)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Thou shalt be silent [εσησιωπων]. Lit., thou shalt be being silent. The finite verb and participle denote continuance.\n\nNot able to speak. Showing that the silence would not be voluntary. My words which [οιτινες]. The pronoun is qualitative, denoting a class.\n\n\" My words, which, incredible as they seem to you, are of a kind which shall be fulfilled.\n\nIn their season [ειςτονκαιρον]. The preposition implies exactness: at the completion of the appointed time. The process of fulfilment, beginning now, will go on, eijv, up to, the appointed time, and at the time will be consummated. Kairon, season, is more specific than cronov, time. It is an appointed, fitting time: the right point of time when circumstances shall concur."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Waited [ηνπροσδοκων]. The finite verb and participle, denoting protracted waiting. Hence, better as Rev., were waiting. Wyc., was abiding.\n\nMarvelled. According to the Talmud, the priests, especially the chief priests, were accustomed to spend only a short time in the sanctuary, otherwise it was feared that they had been slain by God for unworthiness or transgression."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "They perceived [επεγνωσαν]. Clearly perceived. See on Matthew 7:16, and verse 4.\n\nHe beckoned [ηνδιανευων]. Better Rev., continued making signs. Again the participle with the finite verb, denoting frequent repetition of the same signs. Wyc., was beckoning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Ministration [λειτουργιας]. From leitov, belonging to the people, public, and ergon, a work. Hence service of the state in a public office. Trench observes that \"when the Christian Church was forming its terminology, which it did partly by shaping new words, and partly by elevating old ones to higher than their previous uses, of the latter it more readily adopted those before employed in civil and political life, than such as had played their part in religious matters.\" Hence it adopted this word, already in use in the Septuagint, as the constant word for performing priestly and ministerial functions; and so in the New Testament of the ministry of the apostles, prophets, and teachers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Conceived [συνελαβεν]. Mr. Hobart (\" Medical Language of Luke \") says that the number of words referring to pregnancy, barrenness, etc., used by Luke, is almost as large as that used by Hippocrates. Compare Luke 1:31; Luke 1:24; Luke 2:5; Luke 1:7; Luke 20:28. All of these, except Luke 1:24, are peculiar to himself, and all, of course, in common use among medical writers. Hid [περιεκρυβεν]. Only here in New Testament. Peri signifies completely; entire seclusion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Neither A. V. nor Rev. render oti; taking it, as frequently, merely as recitative or equivalent to quotation marks. But it means because. Elizabeth assigns the reason for her peculiar seclusion. Her pregnancy was God's work, and she would leave it to him also to announce it and openly to take away her reproach. Hence the specification of five months, after which her condition would become apparent. Fully expressed, the sense would be: She his herself, saying (I have hid myself) because, etc. Looked upon (ejpeiden). Used by Luke only."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Gabriel. The annunciation and the angel Gabriel are favorite themes with Dante, and he pictures them with exquisite beauty. Thus both appear on the sculptured wall which flanks the inner side of the purgatorial ascent.\n\n\"The angel who came down to earth with tidings Of peace that had been wept for many a year, And opened heaven from its long interdict, In front of us appeared so truthfully There sculptured in a gracious attitude, He did not seem an image that is silent. One would have sworn that he was saying Ave! For she was there in effigy portrayed Who turned the key to ope the exalted love, And in her mien this language had impressed, Ecce ancilla Dei! as distinctly As any figure stamps itself in wax.\" Purgatory, 10, 34 - 45.\n\nIn Paradise Gabriel appears as a light circling round the Virgin and singing:\n\n\"I am angelic love, that circle round The joy sublime which breathes out from the womb That was the hostelry of our desire; And I shall circle, Lady of heaven, while Thou followest thy Son, and mak'st diviner The sphere supreme, because thou enterest there.\"\n\nParadise, 23, 103 - 108.\n\nAnd again:\n\n\"And the same love that first descended then, Ave Maria gratia plena singing, In front of her his wings expanded wide.\"\n\nParadise, 32, 94 - 96."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Thou that art highly favored [κεχαριτωμενη]. Lit., as Rev. in margin, endued with grace. Only here and Ephesians 1:6. The rendering full of grace, Vulgate, Wyc., and Tynd., is therefore wrong.\n\nAll the best texts omit blessed art thou among women.\n\nCast in her mind [διελογιζετο]. See on James 2:4. The imperfect tense, \"began to reason.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Grace [χαριν]. From the same root as cairw, to rejoice.\n\n1. Primarily that which gives joy or pleasure; and hence outward beauty, loveliness, something which delights the beholder. Thus Homer, of Ulysses going to the assembly: \"Athene shed down manly grace or beauty upon him\" (Odyssey, \"2 12); and Septuagint, Psalms 45:3,\" grace is poured into thy lips. \" See also Proverbs 1:9; Proverbs 3:22. Substantially the same idea, agreeableness, is conveyed in Luke 4:22, respecting the gracious words, lit., words of grace, uttered by Christ. So Ephesians 4:29.\n\n2. As a beautiful or agreeable sentiment felt and expressed toward another; kindness, favor, good will. 2 Corinthians 8:6, 7, 9; 2 Corinthians 9:8; Luke 1:30; Luke 2:40; Acts 2:47. So of the responsive sentiment of thankfulness. See Luke 6:32, 33, 34; Luke 17:9; but mostly in the formula thanks to God; Romans 6:17; 1 Corinthians 14:57; 2 Corinthians 2:14; 2 Timothy 1:3.\n\n3. The substantial expression of good will; a boon, a favor, a gift; but not in New Testament. See Romans 5:15, where the distinction is made between cariv, grace, and dwrea ejn cariti, a gift in grace. So a gratification or delight, in classical Greek only; as the delight in battle, in sleep, etc.\n\n4. The higher Christian signification, based on the emphasis of freeness in the gift or favor, and, as commonly in New Testament, denoting the free, spontaneous, absolute loving kindness of God toward men, and so contrasted with debt, law, works, sin. The word does not occur either in Matthew or Mark."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Thou shalt conceive. See on verse 24.\n\nJesus. See on Matthew 1:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Shall overshadow. \"Denoting the mildest and most gentle operation of divine power, that the divine fire should not consume Mary, but make her fruitful\" (Bengel). Compare Exodus 33:22; Mr 9:7. Compare the classical legend of Semele, who, being beloved of Jove, besought him to appear to her as he appeared in heaven, in all the terrors of the thunderer, and was consumed by his lightning. The metaphor in the word is taken from a cloud, in which God had appeared (Exodus 40:34; 1 Kings 8:10)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Cousin [συγγενης]. The nature of the relationship, however, is unknown. The word is a general term, meaning of the same family. The best texts substitute for it a feminine form, suggeniv, which is condemned by the grammarians as unclassical, but rightly rendered by Rev., kinswoman. Wyc., cosyness, i. e., cousiness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "With God nothing shall be impossible [ουκαδυνατησειπαρατουθεουπανρημα]. JRhma, word, as distinguished from logov, word, in classical Greek, signifies a constituent part of a speech or writing, as distinguished from the contents as a whole. Thus it may be either a word or a saying. Sometimes a phrase, as opposed to onoma, a single word. The distinction in the New Testament is not sharp throughout. It is maintained that rJhma in the New Testament, like the Hebrew gabar, stands sometimes for the subject matter of the word; the thing, as in this passage.\n\nBut there are only two other passages in the New Testament where this meaning is at all admissible, though the word occurs seventy times. These are Luke 2:15; Acts 5:32. \"Kept all these things\" (Luke 2:19), should clearly be sayings, as the A. V. itself has rendered it in the almost identical passage, verse 51. In Acts 5:32, Rev. gives sayings in margin. In Luke 2:15, though A. V. and Rev. render thing, the sense is evidently saying, as appears both from the connection with the angelic message and from the following words, which has come to pass: the saying which has become a fact.\n\nThe Rev. rendering of this passage is, therefore, right, though a little stilted: No word of God shall be void of power; for the A. V. errs in joining oujk and pan, not every, and translating nothing. The two do not belong together. The statement is, Every [παν] word of God shall not [ουκ] be powerless. The A. V. also follows the reading, para tw Qew, with God; but all the later texts read para tou Qeou, from God, which fixes the meaning beyond question."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Entered into the house. \"This detail,\" says Godet, \"serves to put the reader in sympathy with the emotion of Mary at the moment of her arrival. With her first glance at Elizabeth she recognized the truth of the sign that had been given her by the angel, and at this sight the promise she had herself received acquired a startling reality.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "The babe [τοβρεφος]. See on 1 Peter 2:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "She spake out with a loud voice [ανεφωνησεφωνημεγαλη]. For fwnh, voice, read kraugh, cry: inarticulate, though fwnh may also be used of inarticulate utterance. Rev., rightly, She lifted up her voice with a loud cry; thus rendering in the verb the force of ajna, up, besides picturing the fact more naturally. Elizabeth's sudden and violent emotion at the appearance of Mary, and the movement of the child, prompted an exclamation which was followed by words (eipen, said). The verb ajnafwnew occurs only here in the New Testament. It was a medical term for a certain exercise of the voice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "For joy [εναγαλλιασει]. Lit., in joy. See on verse 14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "For [οτι]. Many, however, prefer that, referring to the substance of her belief: \"She believed that there shall be a fulfilment,\" etc. It is urged that the conception, which was the principal point of faith, had already taken place, so that the fulfilment was no longer future. On the other hand, the angel's announcement to Mary included more than the fact of conception; and Elizabeth, in the spirit of prophecy, may have alluded to what is predicted in vv. 32, 33."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "Said [ειπεν]. Simply. Compare verse 42. \"Elizabeth's salutation was full of excitement, but Mary's hymn breathes a sentiment of deep inward repose\" (Godet). Compare the song of Hannah (1 Samual 2). Hannah's song differs from Mary's in its sense of indignation and personal triumph compared with Mary's humility and calmness.\n\nMy soul - spirit [ψυχηπνευμα]. See on Mr 12:30. The soul is the principle of individuality, the seat of personal impressions, having a side in contact with the material element of humanity, as well as with the spiritual element. It is thus the mediating organ between the spirit and the body, receiving impressions from without and from within, and transmitting them by word or sign. Spirit is the highest, deepest, noblest part of our humanity, the point of contact between God and man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "God my Savior [τωθεωτωσωτηριμου]. Note the two articles. \"The God who is the or my Savior.\" The title Savior is often applied to God in the Old Testament. See Septuagint, Deuteronomy 32:15; Psalms 24:5; Psalms 25:5; Psalms 95:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 48,
+    "content": [
+     {
+      "text": "Regarded [επεβλεψεν]. See on James 2:3. Compare 1 Samuel 1:11; Psalms 31:7; Psalms 119:132, Sept."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 50,
+    "content": [
+     {
+      "text": "Mercy [ελεος]. The word emphasizes the misery with which grace (see on verse 30) deals; hence, peculiarly the sense of human wretchedness coupled with the impulse to relieve it, which issues in gracious ministry. Bengel remarks, \"Grace takes away the fault, mercy the misery.\"\n\nFrom generation to generation [ειςγενεαςκαιγενεας]. Lit., as Rev., unto generations and generations.\n\nFear [φοβουμενος]. The word is used in both a good and a bad sense in the New Testament. For the latter, see Matthew 21:46; Mr 6:20; Mr 11:32; Luke 12:4. For the former, as here, in the sense of godly reverence, Acts 10:2, 22, 35; Colossians 3:22; Revelation 14:7; Revelation 14:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "Shewed strength [εποιησενκρατος]. Lit., made strength. So Wyc., made might. A Hebrew form of expression. Compare Psalms 118:15, Sept.: \"The right hand of the Lord doeth valiantly\" (ejpoihse dunamin, made strength).\n\nIn the imagination [διανοια]. The faculty of thought, understanding, especially moral understanding. Wyc. refers the word here to God: with mind of his heart. Some prefer to render \"by the imagination,\" thus making the proud the instrument of their own destruction. Compare 2 Corinthians 10:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 54,
+    "content": [
+     {
+      "text": "Hath holpen [αντελαβετο]. The verb means to lay hold on: thence to grasp helpfully or to help. To lay hold in the sense of partaking (1 Timothy 6:2), carries us back to the primitive meaning of the word according to its composition: to receive instead of, or in return [αντι], and suggests the old phrase to take up for, espouse the cause of. Wyc., has took up, but probably not in this sense.\n\nServant [παιδος]. Often child, son or daughter, but here servant, in allusion to Isaiah 41:8. Meyer truthfully says that the theocratic notion of sonship is never expressed by paiv. See Rev., Acts 3:13, 26; Acts 4:27, 30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 58,
+    "content": [
+     {
+      "text": "Had shewed great mercy upon her [εμεγαλυνεντοελεοςαυτουμεταυτης]. Lit., magnified his mercy with her. So Wyc. A Hebrew expression. See 1 Samuel 12:24, Sept."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 59,
+    "content": [
+     {
+      "text": "They called [εκαλουν]. The imperfect ense signifies, as Rev., they would have called: they were about to call: or, as Bishop Lightfoot has happily suggested, they were for calling."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 62,
+    "content": [
+     {
+      "text": "They made signs [ενενευον]. Imperfect tense. While the colloquy between Elizabeth and her friends was going on, they were consulting Zacharias by signs."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 63,
+    "content": [
+     {
+      "text": "Writing table [πινακιδιον]. Table was formerly used in the sense of tablet. Thus Shakspeare:\n\n\"Yea, from the table of my memory, I'll wipe away all trivial fond records.\" Hamlet, 1, 5.\n\nTynd., writing tables. The meaning is a little writing tablet, probably covered with wax. Only here in the New Testament. Used by medical writers of a physician's note book. Wyc., has a poyntel, i e., a style for writing.\n\nWrote, saying. A Hebrew form of expression. See 2 Kings 10:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 64,
+    "content": [
+     {
+      "text": "Immediately [παραχρημα]. Occurring nineteen times in the New Testament, and seventeen of these in Luke. Thirteen of the seventeen are in connection with miracles of healing, or the infliction of disease or death. Used in a similar way by medical writers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 65,
+    "content": [
+     {
+      "text": "Were noised abroad [διαλελειτο]. Were mutually [δια] talked of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 69,
+    "content": [
+     {
+      "text": "Horn. Compare Psalms 132:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 70,
+    "content": [
+     {
+      "text": "That have been since the world began [απαιωνος]. A needlessly verbose rendering, retained by Rev. The American Rev. insists on of old."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 74,
+    "content": [
+     {
+      "text": "Serve [λατρευειν]. Originally to serve for hire, from latron, hire. Plato uses it of the service of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 75,
+    "content": [
+     {
+      "text": "Holiness and righteousness [οσιοτητικαιδικαιοσυνη]. The adjective osiov, holy, is properly what is confirmed by ancient sanction and precept.\n\nOsia, is used in classical Greek to denote the everlasting principles of right, not constituted by the laws or customs of men, but antedating them; such as the paying of the proper rites of sepulture. Compare the fine passage in the \"Antigone\" of Sophocles (453 - 55):\n\n\"Nor did I deem thy edicts strong enough, That thou, a mortal man, shouldst overpass The unwritten laws of God that know not change. They are not of today nor yesterday, But live forever, nor can man assign When first they sprang to being.\"\n\nHence oJsiothv is concerned primarily with the eternal laws of God. It is \"the divine consecration and inner truth of righteousness\" (Meyer). Throughout the New Testament its look is godward. In no case is it used of moral excellence as related to men, though it is to be carefully noted that dikaiosunh, righteousness, is not restricted to rightness toward men. Compare Ephesians 4:24; true holiness; literally, holiness of the truth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 77,
+    "content": [
+     {
+      "text": "Knowledge of salvation. Wyc. has the science of health."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 78,
+    "content": [
+     {
+      "text": "mercy [σπλαγχναελεους]. Lit., bowels of mercy. See on 1 Peter 3:8; James 5:11. Rev. gives heart of mercy in margin. Wyc., frightfully, entrails of mercy.\n\nThe day - spring from on high [ανατοληεξυψους]. Lit., the rising. The word occurs in the Septuagint as a rendering of branch, as something rising or springing up, by which the Messiah is denoted (Jeremiah 23:5; Zechariah 6:12). Also of the rising of a heavenly body (Isaiah 60:19, Sept.). Compare the kindred verb arise [ανατελλω] in Isaiah 60:1; Malachi 4:2. This latter is the sense here. See on Matthew 2:2. Wyc. has he springing up from on high.\n\nHath visited [επεσκεψατο]. See on Matthew 25:36; 1 Peter 2:12. Some, however, read ejpiskeyetai, shall visit. So Rev."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 79,
+    "content": [
+     {
+      "text": "To guide [κατευθυναι]. From eujquv, straight. Wyc. has dress, which is formed through the old French dresser, to arrange, from the Latin dirigere, to set in a straight line, draw up. Hence the military term dress for arranging a line."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 80,
+    "content": [
+     {
+      "text": "The deserts [ταιςερημοις]. The article indicating a well known place.\n\nShewing [ααδειξεως]. The word was used of the public announcement of an official nomination; hence of the public inauguration of John's ministry. p"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "MRK",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "LUK",
+  "chapter": 2
+ }
+}

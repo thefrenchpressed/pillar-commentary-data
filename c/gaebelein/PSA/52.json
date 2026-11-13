@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 52,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Proud and Boasting Man1. The character of the man of sin (Psalms 52:1-7)\n\n2. The character of the righteous (Psalms 52:8-9)\n\nThe four Psalms which follow (all Maschil Psalms) give mostly a prophetic picture of the man of sin, the final Antichrist, the false messiah-king, under whom the godly in Israel will especially suffer. He is first described as the mighty man, the super-man, who boasts in evil. He is also a lying, deceitful man, “working deceitfully” and having a “deceitful tongue.” But God is going to deal with him, destroy him forever, take him away, pluck him out of his dwelling place, and out of the land of the living. He will be destroyed with the brightness of the Lord’s coming (2 Thessalonians 2:8)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 52
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 51
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 53
+ }
+}

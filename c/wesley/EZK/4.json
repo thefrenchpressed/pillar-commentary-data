@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "wesley",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": "Two things are here represented to the prophet in vision,\n\n1. The fortifications that shall be shortly raised against the city, signified by his laying siege to the portrait of Jerusalem, ver. 1-3. And lying first on one side, and then on the other side before it, ver. 4-8.\n\n2. The famine that would rage therein, signified by his eating coarse fare, and little of it, so long as this typical representation lasted, ver. 9-17.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Portray - Draw a map of Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Lay siege - Draw the figure of a siege about the city. Build - Raise a tower and bulwarks."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "A wall - That it may resemble a wall of iron, for as impregnable as such a wall, shall the resolution and patience of the Chaldeans be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Lay - Take upon thee the representation of their guilt and punishment. House of Israel - The ten tribes. The number - By this thou shalt intimate how long I have borne with their sins, and how long they shall bear their punishment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "I have laid - I have pointed out the number of years wherein apostate Israel sinned against me, and I did bear with them. Years - These years probably began at Solomon's falling to idolatry, in the twenty - seventh year of his reign, and ended in the fifth of Zedekiah's captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Accomplished - That is, almost accomplished. House of Judah - Of the two tribes. Forty days - Probably from Josiah's renewing the covenant, until the destruction of the temple, during which time God deferred to punish, expecting whether they would keep their covenant, or retain their idolatries, which latter they did for thirteen years of Josiah's reign, for eleven of Jehoiakim's, and eleven of Zedekiah's reign, and five of his captivity, which amount to just forty years. But all this was done in a vision."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Set - While thou liest on thy side thou shalt fix thy countenance on the portrait of besieged Jerusalem. Uncovered - Naked and stretched out as being ready to strike."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Bands - An invisible restraint assuring him, that those could no more remove from the siege, than he from that side he lay on."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Take - Provide thee corn enough: for a grievous famine will accompany the siege. Wheat - All sorts of grain are to be provided, and all will be little enough. One vessel - Mix the worst with the best to lengthen out the provision."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "By weight - Not as much as you will, but a small pittance delivered by weight to all. Twenty shekels - Ten ounces: scarce enough to maintain life. From time to time - At set hours this was weighed out."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The sixth part - About six ounces."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "As barley cakes - Because they never had enough to make a loaf with, they eat them as barley cakes. With dung - There was no wood left, nor yet dung of other creatures. This also was represented in a vision."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "May want - So because they served not God with chearfulness in the abundance of all things, He made them serve their enemies in the want of all things."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "EZK",
+  "chapter": 5
+ }
+}

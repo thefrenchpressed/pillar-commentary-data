@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "gaebelein",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Contrasts\n\n1. What the wicked is and does (Psalms 36:1-4)\n\n2. What Jehovah is and does (Psalms 36:5-9)\n\n3. Prayer and trust in His loving kindness (Psalms 36:10-12)\n\nThe wicked are described in their wickedness, with sin in the heart, no fear of God; filled with pride and flattery, speaking evil and doing evil. “But evil men and seducers shall wax worse and worse, deceiving, and being deceived” (2 Timothy 3:13). This is the divine forecast for the last days and these opening verses of this psalm show the wicked of the last days. But what a Lord He is whom they do not fear! What a contrast! And the righteous know His mercy, His faithfulness, His righteousness and His judgment. Only good is in store from His side for those who trust in Him.\n\nHis lovingkindness is excellent, He covers them with the shadow of His wings, He satisfies them abundantly with the fatness of His house. Such will be the hope and comfort of the godly when the wicked wax worse and worse, till the day comes when the workers of iniquity shall fall, unable to rise again."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PSA",
+  "chapter": 37
+ }
+}

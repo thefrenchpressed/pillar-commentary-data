@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "gaebelein",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 49,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 49\n\nConcerning Ammon, Edom, Damascus, Kedar, and Elam\n\n1. Concerning the Ammonites (Jeremiah 49:1-6)\n\n2. Concerning Edom (Jeremiah 49:7-22)\n\n3. Concerning Damascus (Jeremiah 49:23-27)\n\n4. Concerning Kedar and Hazor (Jeremiah 49:28-33)\n\n5. Against Elam (Jeremiah 49:34-39)\n\nAmmon was the younger brother of Moab, and, like the Moabites, the Ammonites were a wicked people, though they had no cities like Moab, but were restless wanderers; they were also the enemies of Israel. The predicted judgment has come. Where is Ammon today? In what tribe or nation is a remnant preserved? Only the Omniscient One knows. But their captivity, like that of Moab, will be brought back again in the days when Israel becomes the head of the nations.\n\nEdom, springing from Esau, was the most outspoken enemy of Israel. In our annotations on the prophecy of Obadiah we return to this chapter. Their complete judgment is here announced. “For, lo, I will make thee small among the nations and despised among men. Thy terribleness has deceived thee and the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill. Though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD” (Jeremiah 49:15-16). Here at least the critics concede that this is a true description of the dwelling places of Edom of old. “Its capital, Petra, lay in an amphitheater of mountains, accessible only through a narrow gorge, called the Sik, winding in with precipitous sides from the west; and the mountain sides round Petra, and the ravines about it, contain innumerable rock-hewn cavities, some being tombs, but others dwellings in which the ancient inhabitants lived” (Canon Driver). No restoration for Edom is promised.\n\nDamascus’s anguish and sorrow is predicted next, followed by a prophecy concerning various Arabian tribes; Kedar and Hazor are to be smitten.\n\nThe final prediction is as to Elam. Elam was east of South Babylonia and the lower Tigris, later known as Susians. This prophecy was given at the beginning of Zedekiah’s reign. Elam became an ally of the Persian kingdom. Here her overthrow is foretold as well as her restoration “in the latter days.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 49
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 48
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JER",
+  "chapter": 50
+ }
+}

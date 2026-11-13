@@ -1,0 +1,119 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 50,
+  "introduction": "The dereliction of the Jews is not of Christ; for he hath power to save, ver. 1-4. And was obedient in that work, and God is present with him, ver. 5-9. An exhortation not to trust in ourselves, but in God, ver. 10, 11.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Thus saith the Lord - The scope of this and the next chapter, is to vindicate God's justice and to convince the Jews that they were the causes of their own calamities. Behold - You can blame none but yourselves and your own sins, for all your captivities and miseries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Wherefore - The general accusation delivered in the last words he now proves by particular instances. When - When I, first by my prophets, came to call them to repentance. No man - That complied with my call. To answer - To come at my call. Is my hand - What is the reason of this contempt? Is it because you think I am either unwilling or unable to save you? A wilderness - As dry and fit for travelling as a wilderness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "I clothe - When it is necessary to save my people, I cover them with thick and dark clouds black as sackcloth, Rev 6:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Given me - This and the following passages may be in some sort understood of the prophet Isaiah, but they are far more evidently and eminently verified in Christ, and indeed seem to be meant directly of him. The tongue - All ability of speaking plainly, and convincingly, and persuasively. Weary - Burdened with the sense of his, deplorable condition. Wakeneth - Me, from time to time, and continually. To hear - He by his Divine power assists me to the practice of all his commands and my duties, with all attention and diligence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "I gave - I patiently yielded up myself to those who smote me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Justifieth - God will clear up my righteousness, and shew by many and mighty signs and wonders, that I lived and died his faithful servant. Let him come - l am conscious of mine own innocency, and I know that God will give sentence for me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "They - Mine accusers and enemies. The moth - Shall be cut off and consumed by a secret curse."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The voice - Of Christ, who is called God's servant, by way of eminency and to intimate that though he was God, yet he would take upon himself the form of a servant. In darkness - Not in sin, but in misery, that lives in a disconsolate and calamitous condition. No light - No comfort. Trust - Let him fix his faith and hope in the mercy, and faithfulness, of the Lord, declared in his word, and in his interest in God, who by the mediation of this servant is reconciled to him and made his God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "All ye - You that reject the light which God hath set up, and seek for comfort and safety, by your own inventions. Walk - Use your utmost endeavours to get comfort from these devices. This - This shall be the fruit of all, you shall receive nothing but vexation and misery."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 50
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 49
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 51
+ }
+}

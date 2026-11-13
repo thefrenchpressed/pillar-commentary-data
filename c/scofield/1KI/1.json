@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "scofield",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "First Kings records the death of David, the reign of Solomon, the building of the temple, death of Solomon, division of the kingdom under Rehoboam and Jeroboam, and the history of the two kingdoms to the reign of Jehoram over Judah, and Ahaziah over Samaria. Includes the mighty ministry of Elijah.\n\nThe book is in seven parts:\n\nFrom the rebellion of Adonijah to the death of David, 1:1-2:11.\n\nFrom the accession of Solomon to the dedication of the temple, 2:12-8:66.\n\nFrom the division of the kingdom to the death of Jeroboam and Rehoboam, 12:1-14:31.\n\nThe kingdoms to the accession of Ahab, 15:1-16:28.\n\nAccession of Ahab to his death, 16:29-22:40.\n\nFrom the reign of Jehoshaphat to the accession of Jehoram over Judah, and Ahaziah over Samaria, 22:41-53.\n\nThe events recorded in First Kings cover a period of 118 years (Ussher).",
+  "content": [
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "redeemed -- Exodus 14:30; Isaiah 59:20. (See Scofield \"Exodus 14:30\"). See Scofield \"Isaiah 59:20\"."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1KI",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1KI",
+  "chapter": 2
+ }
+}

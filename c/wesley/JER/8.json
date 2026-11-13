@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": "The calamity of the Jews, both dead and alive, ver. 1-3. Their brutish impenitency, ver. 4-7. Their vain boast of wisdom: their covetousness, security, impudence, ver. 8-12. Their grievous judgments, ver. 13-17. Bewailed by the prophet, ver. 18-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The bones - This denotes the utter desolation of the city, not only rasing the walls, but turning up the very sepulchres which were accounted sacred, and not to be violated."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Not arise - Will they never think of rising again? Not return - Will he wander for ever?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Deceit - Their false prophets, encouraging themselves in their wickedness, and pleasing themselves, that their miseries should not come upon them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "I - God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Appointed time - The seasons of her going and coming. The judgment - God's vengeance, hovering over Jerusalem, and Judea."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "How - These things considered where is your wisdom? He speaks to the whole body of the people. The Lord - This may have a more special eye to the priests. In vain - For any use they made of it; neither need it ever have been copied out by the scribe. A scribe was a teacher, one well versed in the scripture, or esteemed to be so."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Pass away - Shall be taken away by their enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Why - The people at length seem to bethink themselves, and thus to bespeak each other. Silent - Keep close within our walls."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The snorting - The fury of the Chaldeans march is described by the snorting of their horses, which is a noise they make through their nostrils. Heard - Even to Jerusalem. Have devoured - It is spoken in a prophetical style, who use to express the certainty of what shall be, as if it actually were already."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Shall bite - There will be no appeasing their fury by any method."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Sorrow - The prophet now seems to speak, how greatly the calamity of this people affected him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Why - As if God should seem to reply; let them not think it strange, seeing they have turned their backs upon me, and trusted to idols."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Am I hurt - The prophet here shews how deeply he is affected with the peoples misery. Black - I am as those that are clad in deep mourning."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 9
+ }
+}

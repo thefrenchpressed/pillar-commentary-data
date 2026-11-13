@@ -1,0 +1,155 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "wesley",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "THIS book is thus entitled, because of the numbers of the children of Israel, so often mentioned therein, an eminent accomplishment of God's promise to Abraham, that his seed should be as the stars of heaven for multitude. It also relates two numberings of them, one at Mount Sinai, chap. 1. the other, thirty-nine years after. And there are not three men of the same in the last account that were in the first. The book is almost equally divided, between histories and laws intermixed. An abstract of much of this book we have in a few words, Psalm xcv, 10. Forty years long was I grieved with this generation: and an application of it to ourselves, Heb. iv, 1. Let us fear lest we come short!\n\nOrders given to Moses to number the people, ver. 1-4. Persons named to assist him therein, ver. 5-16. The particular number of each tribe, ver. 17-43. The sum of all together, ver. 44-46. The Levites excepted, ver. 47-54.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In the wilderness - Where now they had been a full year or near it, as may be gathered by comparing this place with Exo 19:1 40:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Take the sum - This is not the same muster with that Exo 38:26, as plainly appears, because that was before the building of the tabernacle, which was built and set up on the first day of the first month, Exo 40:2, but this was after it, on the first day of the second month. And they were for different ends; that was to tax them for the charges of the tabernacle; but this was for other ends, partly that the great number of the people might be known to the praise of God's faithfulness, in making good his promises of multiplying them, and to their own encouragement: partly for the better ordering their camp and march, for they were now beginning their journey; and partly that this account might he compared with the other in the close of the book, where we read that not one of all this vast number, except Caleb and Joshua were left alive; a fair warning to all future generations to take heed of rebelling against the Lord. It is true, the sums and numbers agree in this and that computation, which is not strange, because there was not much time between the two numberings, and no eminent sin among the people in that interval, whereby God was provoked to diminish their numbers. Some conceive that in that number, Exo 30:11 - 16 and 38:25,26, the Levites were included, which are here excepted, Num 1:47, and that in that interval of time, there were grown up as many more men of those years as there were Levites of the same age. Israel - So the strangers mixed with them, were not numbered. Their fathers - The people were divided into twelve tribes, the tribes into great families, Num 26:5, these great families into lesser families called the houses of their fathers, because they were distinguished one from another by their fathers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Reuben - The tribes are here numbered according to the order or quality of their birth, first the children of Leah, then of Rachel, and then of the handmaids."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Deuel - Called Reuel, Num 3:14, the Hebrew letters Daleth and Resh being often changed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "He numbered them - For ought that appears in one day."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "By their generations - That is, the persons begotten of Reuben's immediate children, who are here subdivided into families, and they into houses, and they into particular persons."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Threescore and fourteen thousand - Far more than any other tribe, in accomplishing Jacob's prophecy, Gen 49:8 - 12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Ephraim - Above 8000 more than Manasseh, towards the accomplishment of that promise, Gen 48:20, which the devil in vain attempted to defeat by stirring up the men of Gath against them, 1Chr 7:21,22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Thirty five thousand - The smallest number, except one, though Benjamin had more immediate children than any of his brethren, Gen 46:21, whereas Dan had but one immediate son, Gen 46:23, yet now his number is the biggest but one of all the tribes, and is almost double to that of Benjamin. Such great and strange changes God easily can, and frequently doth make in families, 1Sam 2:5. And therefore let none boast or please themselves too much in their numerous offspring."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "Levi - Because they were not generally to go out to war, which was the thing principally eyed in this muster, Nu 1:3,20,45, but were to attend upon the service of the tabernacle. They that minister upon holy things, should not entangle themselves in secular affairs. The ministry itself is work enough for a whole man, and all little enough to be employed in it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 50,
+    "content": [
+     {
+      "text": "The tabernacle of testimony - So called here, and Exo 38:21, because it was made chiefly for the sake of the ark of the testimony, which is often called the testimony."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 51,
+    "content": [
+     {
+      "text": "That cometh nigh - The stranger elsewhere is one of another nation, here one of another tribe. So as to do the offices mentioned, Nu 1:50."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 53,
+    "content": [
+     {
+      "text": "No wrath - From God, who is very tender of his worship, and will not suffer the profaners of it go unpunished! whose wrath is called simply wrath by way of eminency, as the most terrible kind of wrath."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LEV",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "NUM",
+  "chapter": 2
+ }
+}

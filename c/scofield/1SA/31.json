@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "scofield",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "hit him -- Cf. 2 Samuel 1:10; 21:12. The order is:\n\n(1) Saul is \"hit\"--wounded mortally, potentially \"slain,\" by the Philistines;\n\n(2) either to escape agony, or insult by the enemy, he falls upon his sword, and his armour-bearer, supposing him to be dead, slew himself;\n\n(3) but Saul was not dead; raising himself upon his spear, he besought the Amalekite to put him to death. 2 Samuel 1:10; 21:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "burnt -- Contra. 2 Chronicles 16:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1SA",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "1SA",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "2SA",
+  "chapter": 1
+ }
+}

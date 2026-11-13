@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 79,
+  "introduction": "This psalm seems to have been written by the later Asaph, upon the destruction of Jerusalem by the Chaldeans. It contains, a representation of the deplorable condition of the Jews, ver. 1-5. And a petition for deliverance, ver. 6-13. A psalm of Asaph.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Prevent - Prevent our utter extirpation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The prisoner - Of thy poor people now in captivity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 79
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 78
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 80
+ }
+}

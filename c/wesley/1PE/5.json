@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "wesley",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "I who am a fellow - elder - So the first though not the head of the apostles appositely and modestly styles himself. And a witness of the sufferings of Christ - Having seen him suffer, and now suffering for him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Feed the flock - Both by doctrine and discipline. Not by constraint - Unwillingly, as a burden. Not for filthy gain - Which, if it be the motive of acting, is filthy beyond expression. O consider this, ye that leave one flock and go to another, merely because there is more gain, a large salary! Is it not astonishing that men can see no harm in this? that it is not only practised, but avowed, all over the nation?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Neither as lording over the heritage - Behaving in a haughty, domineering manner, as though you had dominion over their conscience. The word translated heritage, is, literally, the portions. There is one flock under the one chief Shepherd; but many portions of this, under many pastors. But being examples to the flock - This procures the most ready and free obedience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Ye younger, be subject to the elder - In years. And be all - Elder or younger. Subject to each other - Let every one be ready, upon all occasions, to give up his own will. Be clothed with humility - Bind it on, (so the word signifies,) so that no force may be able to tear it from you. James 4:6; Prov 3:34"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The hand of God - Is in all troubles."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Casting all your care upon him - In every want or pressure."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "But in the mean time watch. There is a close connexion between this, and the duly casting our care upon him. How deeply had St. Peter himself suffered for want of watching! Be vigilant - As if he had said, Awake, and keep awake. Sleep no more: be this your care. As a roaring lion - Full of rage. Seeking - With all subtilty likewise. Whom he may devour or swallow up - Both soul and body."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Be the more steadfast, as ye know the same kind of afflictions are accomplished in - That is, suffered by, your brethren, till the measure allotted them is filled up."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Now the God of all grace - By which alone the whole work is begun, continued, and finished in your soul. After ye have suffered a while - A very little while compared with eternity. Himself - Ye have only to watch and resist the devil: the rest God will perform. Perfect - That no defect may remain. Stablish - That nothing may overthrow you. Strengthen - That ye may conquer all adverse power. And settle you - As an house upon a rock. So the apostle, being converted, does now \"strengthen his brethren.\""
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "As I suppose - As I judge, upon good grounds, though not by immediate inspiration. I have written - That is, sent my letter by him. Adding my testimony - To that which ye before heard from Paul, that this is the true gospel of the grace of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The church that is at Babylon - Near which St. Peter probably was, when he wrote this epistle. Elected together with you - Partaking of the same faith with you. Mark - It seems the evangelist. My son - Probably converted by St. Peter. And he had occasionally served him, \"as a son in the gospel.\""
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1PE",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1PE",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "2PE",
+  "chapter": 1
+ }
+}

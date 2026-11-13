@@ -1,0 +1,182 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 102,
+  "introduction": "A complaint of pressing afflictions, ver. 1-11. Motives of comfort, ver. 12-28. A prayer of the afflicted when he is overwhelmed, and poureth out his complaint before the LORD. Title of the psalm. Complaint - This psalm contains a prayer for the use of all true Israelites, in the name and behalf of the church of Israel. It seems to have been composed in the time of their captivity, and near the end of it, ver. 13, 14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "An hearth - An hearth is heated or burnt by the coals which are laid upon it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Skin - My flesh being quite consumed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "A pelican - Is a solitary and mournful bird."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Bread - The sense is, dust and ashes are as familiar to me as the eating of my bread; I cover my head with them; I sit, yea, lie down in them, as mourners often did."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Lifted me - As a man lifts up a thing as high as he can, that he may cast it to the ground with greater force."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Remembrance - Thy name, Jehovah, which is called by this very word, God's remembrance, or memorial, and that unto all generations, Exod 3:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The set time - The end of those seventy years which thou hast fixed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "This - This wonderful deliverance shall be carefully recorded by thy people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Looked - From heaven."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "To loose - To release his poor captives out of Babylon, and from the chains of sin and eternal destruction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "To declare - That they might publish the name and praises of God in his church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "When - When the Gentiles shall gather themselves to the Jews, and join with them in the worship of the true God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "He - God. The way - In the midst of the course of our lives. Some think the psalmist here speaks of the whole commonwealth as of one man, and of its continuance, as of the life of one man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "I said - Do not wholly destroy thy people Israel. In the midst - Before they come to a full possession of thy promises and especially of that fundamental promise of the Messiah. Thy years - Though we die, yet thou art the everlasting God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Perish - As to their present nature and use."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Continue - Though the heavens and earth perish, yet we rest assured that our children, and their children after them, shall enjoy an happy restitution to, and settlement in their own land."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 102
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 101
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 103
+ }
+}

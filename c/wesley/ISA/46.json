@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "wesley",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": "The ruin of Babylon and her idols, ver. 1-2. God's love and faithfulness to the Jews. ver. 3-4. Idols not to be compared with God, ver. 5-8. for power, knowledge, and sure salvation, ver. 9- 13.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Bel - The chief idol of the Babylonians, called by profane historians Jupiter Belus. Boweth - As the Babylonians used to bow down to him to worship, so now he bows down to the victorious Persians. Nebo - Another of the famous idols, which used to deliver oracles. Their idols - Were taken and broken, and the materials of them, gold, silver, and brass, were carried upon beasts into Persia. Your carriages - O ye Persians, to whom he turns his speech."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "They - The Babylonians. Together - The Babylonians and their idols together, neither could help the other. Deliver - The Babylonians could not deliver their idols."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Carried - Whom I have nourished, ever since you were a people, and came out of Egypt; and that as tenderly, as parents bring up their own children."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Remove - He can stir neither hand nor foot to help his people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Bring it - Think of this again and again, ye who have been guilty of this foolish sin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Declaring - Foretelling from the beginning of the world, future events which should happen in succeeding ages, even to the end of the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "A bird - Cyrus, called a bird for his swiftness, and ravenous for his fierceness, and victoriousness over his enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "I bring - Tho' you are unrighteous, I will shew myself a righteous and faithful God, making good my promise of delivering you out of Babylon after seventy years. It - My work of saving you from the Babylonish captivity. Will place - I will bring my people to Zion, and save them from all their enemies. My glory - In whom I will once again glory as my people."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "ISA",
+  "chapter": 47
+ }
+}

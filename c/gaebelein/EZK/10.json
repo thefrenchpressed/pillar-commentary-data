@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "gaebelein",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ezekiel 10:1-22. Once more the glory vision appears. The linen clothed man who had done the marking in the previous chapter is now executing judgment. Who is He? Evidently more than an angel. That he is a supernatural being is clear.\n\nHe held the place of pre-eminence among the other angels (Ezekiel 9:2-4). This angel is the Angel of the Lord, the same who appeared to the patriarchs, to Moses, Joshua, Gideon, Manoah, and to others. It is the Son of God in the garb of an angel. In the same form he also appeared to Daniel on the banks of the river Hiddekel. “Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz. His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in color to polished brass, and the voice of his words like the voice of a multitude” Daniel 10:5-21. Here we have a complete description of the same person whom Ezekiel saw taking the coals of fire and scattering them over Jerusalem. judgment upon the guilty city came from His hands.\n\nWhen we turn to the book of Revelation, we find a similar scene which has not yet been enacted. A careful comparison of this scene here with Revelation 8:3-5 is suggested. This angel who presents the prayers before the throne and who casts the judgment fires on the earth is the same who received the seven-sealed book Revelation 5:11. It is the Son of God, the Lord Jesus Christ.\n\nThen the glory of the Lord departed from the threshold of the temple; over its portals “Ichabod” (the glory is departed) was now to be written."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "EZK",
+  "chapter": 11
+ }
+}

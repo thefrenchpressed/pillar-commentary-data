@@ -1,0 +1,227 @@
+{
+ "commentary": {
+  "id": "vincent",
+  "name": "Vincent's Word Studies in the New Testament",
+  "englishName": "Vincent's Word Studies in the New Testament",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Marvin_Vincent"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "vincent",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "I would that ye knew [θελωυμαςειδεναι]: Paul's more usual form of expression is, I would not have you to be ignorant. See on Romans 1:13. What great conflict I have [ηλικοναγωναεχω]. Rev., how greatly I strive. Hlikon what great, only here and James 3:5. Conflict, continuing the metaphor of ch. 1 29. Here of inward conflict, anxiety, prayer, as ch. 4 12.\n\nLaodicaea. See on Revelation 3:14.\n\nAnd for as many as [καιοσοι]. Including all who come under the same category as the Colossians and Laodicaeans. Hence equivalent to all who, like yourselves, have not seen, etc. See, for a similar usage, Acts 4:6; Revelation 18:17. Indicating that the Colossians and Laodicaeans were both personally unknown to Paul."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Comforted (paraklhqwsin). Not so much tranquilized as braced. See on John 14:16.\n\nKnit together [συμβιβασθεντες]. See on proving, Acts 9:22. In the Septuagint it means to instruct, as Exodus 18:16; Deuteronomy 4:9; Isaiah 40:13 (compare 1 Corinthians 2:16); Psalms 31:8. Used of putting together in one's mind, and so to conclude by comparison. Thus Acts 16:10, assuredly gathering, Rev., concluding.\n\nFull assurance [πληροφοριας]. Or fullness. See Hebrews 6:11; Hebrews 10:22. Of understanding [συνεσεως]. See on Mr 12:33; Luke 2:47.\n\nTo the acknowledgment [ειςεπιγνωσιν]. Wrong. Epignwsiv is the full knowledge, as ch. 1 9 (note). Rev., that they may know.\n\nOf God. The best textual authorities add Cristou of Christ. So Rev., of God, even Christ. Christ is in apposition with mystery. Compare ch. 1 27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Hid [αποκρυφοι]. Only here, Mr 4:22; Luke 8:17. Compare 1 Corinthians 2:7. Not to be joined with are, as A. V. Its position at the end of the sentence, and so far from are, shows that it is added as an emphatic secondary predicate.\n\nHence, as Rev., in whom are all the treasures, etc., hidden. For a similar construction, see ch. Colossians 3:1, \"where Christ is on the right hand of God seated (there).\" James 1:17, \"Every perfect gift is from above, coming down.\" 196 Grammatically, hidden may be taken as an attribute of treasures; \"in whom the hidden treasures are contained;\" but the other is preferable. The words which immediately follow in ver. 4, suggest the possibility that hidden may convey an allusion to the Apocrypha or secret writings of the Essenes, whose doctrines entered into the Colossian heresy. Such writings, which, later, were peculiar also to the Gnostics, contained the authoritative secret wisdom, the esoteric teaching for the learned few. If such is Paul's allusion, the word suggests a contrast with the treasures of christian wisdom which are accessible to all in Christ.\n\nWisdom and knowledge. See on Romans 11:33."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Beguile [παραλογιζηται]. Only here and James 1:22. See note. Rev., delude. So Ignatius, speaking of the duty of obedience to the bishop, says: \"He that fails in this, does not deceive the visible bishop, but attempts to cheat [παραλογιζεται] the Invisible\" (Epistle to Magnesians, 3.). The word is found in the Septuagint, Joshua 9:22; 1 Samuel 19:17; 2 Samuel 21:5.\n\nEnticing words [πιθανολογια]. Rev., persuasiveness of speech. Only here in the New Testament. In classical Greek, of probable argument as opposed to demonstration. So Plato: \"Reflect whether you are disposed to admit of probability [πιθανολογια] and figures of speech in matters of such importance\" (\" Theaetetus, \" 163). Compare 1 Corinthians 2:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Order [ταξιν]. Or orderly array. A military metaphor, quite possibly suggested by Paul's intercourse with the soldiers in his confinement. See on Phi 1:13.\n\nSteadfastness [στερεωμα]. Only here in the New Testament. See on 1 Peter 5:9. The kindred adjective stereov solid, occurs 2 Timothy 2:19; Hebrews 5:12; 1 Peter 5:9; and the verb stereow to make solid, Acts 3:7; Acts 16:5. The military metaphor is continued. Faith is represented as a host solidly drawn up: your solid front, close phalanx. The verb is found in this sense in the Apocrypha, 1 Macc. 10 50, \"ejsterewse ton polemon, he solidified the battle; massed his lines. Compare Ezekiel 13:5, where the noun has the sense of stronghold:\" They stood not ejn sterewmati in the stronghold. \"So Psalms 17:2,\" The Lord is my strength; \" stronghold or bulwark. The firmament, Genesis 1:6; Ezekiel 1:22. In Esther 9:22, of the confirmation of a letter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Ye received [παρελαβετε]. By transmission from [παρα] your teachers.\n\nChrist Jesus the Lord [τονχριστονιησουντονκυριον]. The Christ, specially defined by the following words, thus emphasizing the personal Christ rather than the Gospel, because the true doctrine of Christ's person was perverted by the Colossian teachers. The Christ, even Jesus, the Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Rooted - built up [ερριζωμενοι - εποικοδομουμενοι]. Note the change of metaphor from the solidity of military array to walking, rooting of a tree, and then to building. The metaphors of rooting and being founded occur together, Ephesians 3:17. Compare 1 Corinthians 3:9. In Jeremiah 1:10, ejkrizoun to root out is applied to a kingdom, and the words to build and to plant follow. It must be said that rJizow to cause to take root is often used in the sense of firmness or fixedness without regard to its primary meaning. Built up. The preposition ejpi upon indicates the placing of one layer upon another. See on Acts 20:32, and 1 Corinthians 3:9. Compare 1 Corinthians 3:10 - 14; Ephesians 2:20. note also the change of tenses: having been rooted (perfect participle), being (in process of) built up and strengthened (present participle).\n\nIn Him [εναυτω]. Rather than upon Him, as might have been expected. In this and in the Ephesian epistle, Christ is represented as the sphere within which the building goes on. Compare Ephesians 2:20. The whole upbuilding of the Church proceeds within the compass of Christ's personality, life, and power.\n\nThanksgiving [ευχαριστια]. For Paul's emphasis on thanksgiving, see Romans 1:21; Romans 14:6; 2 Corinthians 1:11; 2 Corinthians 4:15; 2 Corinthians 9:11, 12; Ephesians 5:20; 1 Timothy 2:1, etc. Eujcaristov thankful, eujcaristein to give thanks, eujcaristia thanksgiving, are found only in Paul's writings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Beware [βλεπετε]. Lit., see to it.\n\nLest any man spoil you [μητιςεσταιυμαςοσυλαγωγων]. The Greek is more precise and personal: lest there shall be any one that maketh spoil. So Rev. Sulagwgew to carry off booty, only here in the New Testament. A very strong, expression for the work of the false teachers; make you yourselves a booty. The A. V. is ambiguous, and might be taken to mean corrupt or damage you.\n\nPhilosophy and vain deceit [τηςφιλοσοφιαςκαικενηςαπατης]. Rev. gives the force of the article, his philosophy: kai and is explanatory, philosophy which is also vain deceit. Hence the warning is not against all philosophy. Filosofia, philosophy, only here in the New Testament. It had originally a good meaning, the love of wisdom, but is used by Paul in the sense of vain speculation and with special reference to its being the name by which the false teachers at Colossae designated not only their speculative system, but also their practical system, so that it covered their ascetic practices no less than their mysticism. Bishop Lightfoot remarks upon the fact that philosophy, by which the Greeks expressed the highest effort of the intellect, and virtue [αρετη], their expression for the highest moral excellence, are each used but once by Paul, showing \"that the Gospel had deposed the terms as inadequate to the higher standard, whether of knowledge or practice, which it had introduced.\"\n\nAfter the tradition. Connect with the whole phrase philosophy and vain deceit, as descriptive of its source and subject matter. Others connect with make spoil. The term is especially appropriate to the Judaeo - Gnostic teachings in Colossae, which depended for their authority, not on ancient writings, but on tradition. The later mystical theology or metaphysic of the Jews was called Kabbala, literally meaning reception or received doctrines, tradition.\n\nRudiments [στοιχεια]. See on 2 Peter 3:10. Rudimentary teachings, as in Hebrews 5:12; applicable alike to Jewish and to Gentile teaching.\n\nCeremonialism - meats, drinks, washings, Essenic asceticism, pagan symbolic mysteries and initiatory rites - all belonged to a rudimentary moral stage. Compare vers. 11, 21, and Galatians 4:9.\n\nOf the world. Material as contrasted with spiritual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Fullness. See on ch. Colossians 1:19.\n\nGodhead [θεοτητος]. Only here in the New Testament. See on Romans 1:20, where qeiothv divinity or godhood is used. Appropriate there, because God personally would not be known from His revelation in nature, but only His attributes - His majesty and glory. Here Paul is speaking of the essential and personal deity as belonging to Christ. So Bengel: \"Not the divine attributes, but the divine nature.\"\n\nBodily [σωματικως]. In bodily fashion or bodily - wise. The verse contains two distinct assertions: 1. That the fullness of the Godhead eternally dwells in Christ. The present tense katoikei dwelleth, is used like ejstin is (the image), ch. 1 15, to denote an eternal and essential characteristic of Christ's being. The indwelling of the divine fullness in Him is characteristic of Him as Christ, from all ages and to all ages.\n\nHence the fullness of the Godhead dwelt in Him before His incarnation, when He was \"in the form of God\" (Phi 2:6). The Word in the beginning, was with God and was God (John 1:1). It dwelt in Him during His incarnation. It was the Word that became flesh and dwelt among us, full of grace and truth, and His glory which was beheld was the glory as of the Only begotten of the Father (John 1:14; compare 1 John 1:1 - 3). The fullness of the Godhead dwells in His glorified humanity in heaven.\n\nColossians 2:2The fullness of the Godhead dwells in Him in a bodily way, clothed the body. This means that it dwells in Him as one having a human body. This could not be true of His preincarnate state, when He was \"in the form of God,\" for the human body was taken on by Him in the fullness of time, when \"He became in the likeness of men\" (Phi 2:7), when the Word became flesh. The fullness of the Godhead dwelt in His person from His birth to His ascension. He carried His human body with Him into heaven, and in His glorified body now and ever dwells the fullness of the Godhead.\n\n\" O, for a sight, a blissful sight Of our Almighty Father's throne! There sits the Savior crowned with light, Clothed in a body like our own.\n\n\"Adoring saints around Him stand, And thrones and powers before Him fall; The God shines gracious through the man, And sheds sweet glories on them all.\"\n\nWATTS\n\n\"What a contrast to the human tradition and the rudiments of the world\" (Meyer). What a contrast to the spiritual agencies conceived as intermediate between God and men, in each of which the divine fullness was abridged and the divine glory shaded, in proportion to the remoteness from God in successive emanation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Ye are complete in Him [εστεεναυτωπεπληρωμενοι]. Rev., made full. Compare John 1:16; Ephesians 1:23; Ephesians 3:19; Ephesians 4:13. Not, ye are made full in Him, but ye are in Him, made full. In Him dwells the fullness; being in Him, ye are filled. Compare John 17:21; Acts 17:28. 19 7"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Not made with hands. Compare Mr 14:58; 2 Corinthians 5:1. In allusion to the literal circumcision insisted on by the false teachers. In the putting off [εντηαπεκδυσει]. Only here in the New Testament; and the kindred verb ajpekduomai to put off only ver. 15 and ch. 3 9. The verb ejkduomai means to strip off from one's self, as clothes or armor; ejk out of, having the force of getting out of one's garments. By the addition to the verb of ajpo from, there is added to the idea of getting out of one's clothes that of getting away from them; so that the word is a strong expression for wholly putting away from one's self. In the putting off, is in the act or process of. Not by.\n\nThe body of the sins of the flesh [τουσωματοςτωναμαρτιωντηςσαρκος]. Omit of the sins. The body of the flesh (compare on ch. 1 22) is the body which consists of the flesh, flesh having its moral sense of that material part which is the seat and organ of sin, \"the flesh with its passions and lusts\" (Galatians 5:24; compare 1 John 2:16). See on ch. Colossians 1:24. For the distinction between swma body and sarx flesh, see on flesh, Romans 7:5, sec. 3.\n\nIn the circumcision of Christ [εντηπεριτομητουχριστου]. The spiritual circumcision effected through Christ. See Ephesians 2:11; Phi 3:3; Romans 2:29. In, as above. The fleshly circumcision removed only a portion of the body. In spiritual circumcision, through Christ, the whole corrupt, carnal nature is put away like a garment which is taken off and laid aside."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Buried [συνταφεντες]. See on Romans 6:4. The aorist tense puts the burial as contemporaneous with the circumcision. Ye were circumcised when ye were buried, etc.\n\nIn baptism [εντωβαπτισματιορβαπτισμω]. The article, the baptism points to the familiar rite, or may have the force of your.\n\nWherein also [ενωκαι]. Referring to baptism, not to Christ.\n\nYe were raised with Him [συνηγερθητε]. The burial and the raising are both typified in baptism. The raising is not the resurrection to eternal life at Christ's second coming, but the moral resurrection to a new life. This corresponds with the drift of the entire passage, with the figurative sense of buried, and with Romans 6:4, which is decisive.\n\nThrough the faith of the operation of God. Not the faith which God works, but your faith in God's working: faith in God's energy as displayed in Christ's resurrection. Hence the emphasis which is laid on faith in the resurrection. See 1 Corinthians 14:3, 4 (note); Romans 10:9; Ephesians 1:19. vers. 11, 12 should be compared with Romans 6:2 - 6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Dead [νεκρους]. Morally, as Ephesians 2:1 Ephesians 1:5; Romans 6:11. In your sins [εντοιςπαραπτωμασιν]. The best texts omit ejn in, and the dative is instrumental, through or by. Rev., through your trespasses. See on Matthew 6:14.\n\nThe uncircumcision of your flesh. That sinful, carnal nature of which uncircumcision was the sign, and which was the source of the trespasses. Compare Ephesians 2:11.\n\nHe quickened together [συνεζωοποιησεν]. Only here and Ephesians 2:5. Endowed with a new spiritual life, as ver. 12. This issues in immortal life. Compare Ephesians 2:6.\n\nHaving forgiven us [χαρισαμενοςημιν]. Freely (cariv grace, free gift), as Luke 7:42; 2 Corinthians 2:7, 10; Colossians 3:13. Note the change of pronoun from you to us, believers generally, embracing himself. This change from the second to the first person, or, vice versa, is common in Paul's writings. See ch. Colossians 1:10 - 13; Colossians 3:3, 4; Ephesians 2:2, 3, 13, 14; Ephesians 4:31, 32."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Blotting out [εξαλειψας]. See on Acts 3:19; compare Revelation 3:5. The simple verb ajleifw means to anoint, see on John 11:2. Hence to besmear. The compounded preposition ejx means completely. The compound verb here is used by Thucydides of whitewashing a wall; 1 Chronicles 29:4, of overlaying walls with gold. The preposition also carries the sense of removal; hence to smear out; to wipe away.\n\nThe handwriting [τοχειρογραφον]. The A. V. has simply translated according to the composition of the noun, ceir hand, grafw to write. Properly an autograph, and specially a note of hand, bond. Compare Tobit 5 3; 9 5. Transcribed, chirographus and chirographon, it appears often in Latin authors, especially in law - books. So Juvenal, of a rascally neighbor, who declares his note of hand void, and the tablets on which it is written as so much useless wood (xvi. 41). Suetonios, of the promise of marriage given by Caligula to Ennia Naevia \"under oath and bond\" (chirographo, \"Caligula,\" 12).\n\nOf ordinances [τοιςδογμασιν]. See on Luke 2:1. Lit., in ordinances; consisting in, or, as Rev., written in, as suggested by handwriting. As Paul declares this bond to be against us, including both Jews and Gentiles, the reference, while primarily to the Mosaic law, is to be taken in a wider sense, as including the moral law of God in general, which applied to the Gentiles as much as to the Jews. See Romans 3:19. The law is frequently conceived by Paul with this wider reference, as a principle which has its chief representative in the Mosaic law, but the applications of which are much wider.\n\nSee on Romans 2:12. This law is conceived here as a bond, a bill of debt, standing against those who have not received Christ. As the form of error at Colossae was largely Judaic, insisting on the Jewish ceremonial law, the phrase is probably colored by this fact. Compare Ephesians 2:15.\n\nWhich was contrary to us [οηνυπεναντιονημιν]. He has just said which was against us (to kaq' hJmwn); which stood to our debit, binding us legally. This phrase enlarges on that idea, emphasizing the hostile character of the bond, as a hindrance. Compare Romans 4:15; Romans 5:20; 1 Corinthians 14:56; Galatians 3:23. \"Law is against us, because it comes like a taskmaster, bidding us do, but neither putting the inclination into our hearts nor the power into our hands. And law is against us, because the revelation of unfulfilled duty is the accusation of the defaulter, and a revelation to him of his guilt. And law is against us, because it comes with threatenings and foretastes of penalty and pain. Thus, as standard, accuser, and avenger it is against us\" [μαχλαρεν].\n\nTook it out of the way [αυτοηρκενεκτουμεσου]. Lit., out of the midst.\n\nNailing it to His cross [προσηλωσαςαυτοτωσταυρω]. Rev., the cross. The verb occurs nowhere else. The law with its decrees was abolished in Christ's death, as if crucified with Him. It was no longer in the midst, in the foreground, as a debtor's obligation is perpetually before him, embarrassing his whole life. Ignatius: \"I perceived that ye were settled in unmovable faith, as if nailed [καθηλωμενους] upon the cross of our Lord Jesus Christ, both in flesh and spirit\" (To Smyrna, 1.)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Having spoiled principalities and powers [απεκδυσαμενοςταςαρχαςκαιταςεξουσιας]. For the verb spoiled, see on putting off, ver.\n\nColossians 2:11The principalities and powers are the angelic hosts through whose ministry the law was given. See Deuteronomy 33:2; Acts 7:53; Hebrews 2:2; Galatians 3:19. Great importance was attached, in the later rabbinical schools, to the angels who assisted in giving the law; and that fact was not without influence in shaping the doctrine of angelic mediators, one of the elements of the Colossian heresy, which was partly Judaic. This doctrine Paul strikes at in ch. Colossians 1:16; Colossians 2:10; here, and ver. 18. God put off from himself, when the bond of the law was rendered void in Christ's crucifixion, that ministry of angels which waited on the giving of the law, revealing Christ as the sole mediator, the head of every principality and power (ver. 10). The directness of the gospel ministration, as contrasted with the indirectness of the legal ministration, is touched upon by Paul in Galatians 3:19 sqq.; 2 Corinthians 3:12 sqq.; Hebrews 2:2.\n\nHe made a show of them [εδειγματισεν]. Only here and Matthew 1:19, see note. The compound paradeigmatizw to expose to public infamy, is found Hebrews 6:6; and deigma example, in Jude 1:7. The word is unknown to classical Greek. The meaning here is to make a display of, exhibit. He showed them as subordinate and subject to Christ. Compare especially Hebrews 1. throughout, where many points of contact with the first two chapters of this epistle will be found.\n\nOpenly [ενπαρρησια]. Or boldly. See on Phl 1:8. Not publicly, but as by a bold stroke putting His own ministers, chosen and employed for such a glorious and dignified office, in subjection before the eyes of the world.\n\nTriumphing over them [θραιμβευσαςαυτους]. See on 2 Corinthians 2:14. If we take this phrase in the sense which it bears in that passage, leading in triumph, there seems something incongruous in picturing the angelic ministers of the law as captives of war, subjugated and led in procession. The angels \"do His commandments and hearken unto the voice of His word.\" But while I hold to that explanation in 2 Corinthians, I see no reason why the word may not be used here less specifically in the sense of leading a festal procession in which all share the triumph; the heavenly ministers, though set aside as mediators, yet exulting in the triumph of the one and only Mediator. Even in the figure in 2 Corinthians, the captives rejoice in the triumph. Compare Revelation 19:11. Our knowledge of the word qriambeuw is not so extensive or accurate as to warrant too strict limitations in our definition.\n\nIn it [εναυτω]. The cross. Many expositors, however, render in Him, Christ. This I adopt as harmonizing with the emphatic references to Christ which occur in every verse from 5 to 14; Christ, four times; in Him, four; in whom, two; with Him, three. In it is necessary only if the subject of the sentence is Christ; but the very awkward change of subject from God (quickened us together, ver. 13) is quite unnecessary. God is the subject throughout. 198"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Therefore. Conclusion from the canceling of the bond. The allusions which follow (vers. 16 - 19) are to the practical and theoretical forms of the Colossian error, as in vers. 9 - 15; excessive ritualism, asceticism, and angelic mediation.\n\nJudge [κρινετω]. Sit in judgment.\n\nMeat - drink [βρωσει - ποσει]. Properly, eating, drinking, as 1 Corinthians 8:4; but the nouns are also used for that which is eaten or drunk, as John 4:32 (see note); John 6:27, 55; Romans 14:17. For the subject - matter compare Romans 14:17; 1 Corinthians 8:8; Hebrews 9:10, and note on Mr 7:19. The Mosaic law contained very few provisions concerning drinks. See Leviticus 10:9; Leviticus 11:34, 36; Numbers 6:3. Hence it is probable that the false teachers had extended the prohibitions as to the use of wine to all Christians. The Essenes abjured both wine and animal food. In respect [ενμερει]. See on 2 Corinthians 3:10. Lit., in the division or category.\n\nHolyday [εορτης]. Festival or feast - day. The annual festivals. The word holyday is used in its earlier sense of a sacred day.\n\nNew moon [νουμηνιας]. Only here in the New Testament. The monthly festivals. The festival of the new moon is placed beside the Sabbath, Isaiah 1:13; Ezekiel 46:1. The day was celebrated by blowing of trumpets, special sacrifices, feasting, and religious instruction. Labor was suspended, and no national or private fasts were permitted to take place.\n\nThe authorities were at great pains to fix accurately the commencement of the month denoted by the appearance of the new moon. Messengers were placed on commanding heights to watch the sky, and as soon as the new moon appeared, they hastened to communicate it to the synod, being allowed even to travel on the Sabbath for this purpose. The witnesses were assembled and examined, and when the judges were satisfied the president pronounced the words it is sanctified, and the day was declared new moon.\n\nSabbath days [σαββατων]. The weekly festivals. Rev., correctly, day, the plural being used for the singular. See on Luke 4:31; Acts 20:7. The plural is only once used in the New Testament of more than a single day (Acts 17:2). The same enumeration of sacred seasons occurs 1 Chronicles 33:31; 2 Chronicles 2:4; 2 Chronicles 31:3; Ezekiel 45:17; Hosea 2:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Which are. Explanatory. Seeing they are. Referring to all the particulars of ver. 16.\n\nShadow of things to come. Shadow, not sketch or outline, as is shown by body following. The Mosaic ritual system was to the great verities of the Gospel what the shadow is to the man, a mere general type or resemblance.\n\nThe body is Christ's. The substance belongs to the Christian economy. It is derived from Christ, and can be realized only through union with Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Beguile of reward [καταβραβευετω]. Only here in the New Testament. From kata against, brabeuw to act as a judge or umpire. Hence to decide against one, or to declare him unworthy of the prize. Bishop Lightfoot's rendering rob you of your prize, adopted by Rev., omits the judicial idea, 199 which, however, I think must be retained, in continuation of the idea of judgment in ver. 16, \"let no man judge,\" etc. The attitude of the false teachers would involve their sitting in judgment as to the future reward of those who refused their doctrine of angelic mediation. Paul speaks from the standpoint of their claim.\n\nIn a voluntary humility [θελωνενταπεινοφροσυνη]. Render delighting in humility. This rendering is well supported by Septuagint usage. See 1 Samuel 18:22; 2 Samuel 14:26; 1 Kings 10:9; 2 Chronicles 9:8. 200 It falls in, in the regular participial series, with the other declarations as to the vain conceit of the teachers; signifying not their purpose or their wish to deprive the Christians of their reward, but their vain enthusiasm for their false doctrine, and their conceited self - complacency which prompted them to sit as judges. The worship of angels involved a show of humility, an affectation of superior reverence for God, as shown in the reluctance to attempt to approach God otherwise than indirectly: in its assumption that humanity, debased by the contact with matter, must reach after God through successive grades of intermediate beings. For humility, see on Matthew 11:29.\n\nWorship of angels [θρησκεια]. See on religious, James 1:26. Defining the direction which their humility assumed. The usage of the Septuagint and of the New Testament limits the meaning to the external aspects of worship. Compare Acts 26:5; James 1:27.\n\nIntruding [εμβατευων]. Rev., dwelling in. Only here in the New Testament. It is used in three senses: 1. To step in or upon, thence to haunt or frequent. So Aeschylus: \"A certain island which Pan frequents on its beach\" (\" Persae, \" 449). 2.\n\nTo invade. So in Apocrypha, 1 Macc. 12 25; 13 20; 14 31; 14 40. 3. To enter into for examination; to investigate or discuss a subject. So 2 Macc. 2 30, and so Philo, who compares truth - seekers to well - diggers. Patristic writers use it of searching the heart, and of investigating divine mysteries. Byzantine lexicographers explain it by zhtew to seek; ejxereunaw to track out; skopew to consider.\n\nIn this last sense the word is probably used here of the false teachers who professed to see heavenly truth in visions, and to investigate and discuss philosophically the revelation they had received.\n\nWhich he hath not seen. Not must be omitted: which he imagines or professes that he has seen in vision. Ironical. \"If, as we may easily imagine, these pretenders were accustomed to say with an imposing and mysterious air, 'I have seen, ah! I have seen, ' - in relating alleged visions of heavenly things, the Colossians would understand the reference well enough\" (Findlay).\n\nVainly puffed up [εικηφυσιουμενος]. Vainly characterizes the emptiness of such pretension; puffed up, the swelling intellectual pride of those who make it. See on 1 Corinthians 4:6; and compare 1 Corinthians 8:1. The humility is thus characterized as affected, and the teachers as charlatans.\n\nBy his fleshly mind [υποτουνοοςτηςσαρκοςαυτου]. Lit., by the mind of his flesh. The intellectual faculty in its moral aspects as determined by the fleshly, sinful nature. See on Romans 8:23. Compare Romans 7:22 - 25; Romans 8:7. The teachers boasted that they were guided by the higher reason. Paul describes their higher reason as carnal. 201"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Holding the head [κρατωντηνκεφαλην]. Holding by or fast, as commonly in the New Testament. Compare Sophocles: \"If thou art to rule [αρξεις] this land, even as thou holdest it (krateiv\" Oedipus Tyrannus, \" 54). The head, Christ as contrasted with the angelic mediators.\n\nFrom whom [εξου]. Fixing the personal reference of the head to Christ. Compare Ephesians 4:16.\n\nBy joints and bands [διατωναφωνκαισυνδεσμων]. Joints [αφων] only here and Ephesians 4:16. The word means primarily touching, and is used in classical Greek of the touch upon harpstrings, or the grip of a wrestler. Not quite the same as joints in the sense of the parts in contact, but the relations between the adjacent parts. The actual connection is expressed by bands 202 or ligaments.\n\nMinistered [επιχορηγουμενον]. See on add, 2 Peter 1:5. Rev., supplied. Knit together. See on ver. 2. \"The discoveries of modern physiology have invested the apostle's language with far greater distinctness and force than it can have worn to his own contemporaries. Any exposition of the nervous system more especially reads like a commentary on the image of the relations between the body and the head.\n\nAt every turn we meet with some fresh illustration which kindles it with a flood of light. The volition communicated from the brain to the limbs, the sensations of the extremities telegraphed back to the brain, the absolute mutual sympathy between the head and the members, the instantaneous paralysis ensuing, on the interruption of continuity, all these add to the completeness and life of the image\" (Lightfoot)."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Ye be dead [απεθανετε]. Rev., more correctly, ye died; the aorist tense indicating a definite event. Paul uses the word died in many different relations, expressing that with which death dissolves the connection. Thus, died unto sin, unto self, unto the law, unto the world.\n\nRudiments of the world. Elementary teachings and practices the peculiar sphere of which is the world. World [κοσμου] has its ethical sense, the sum - total of human life in the ordered world, considered apart from, alienated from, and hostile to God, and of the earthly things which seduce from God. See on John 1:9.\n\nAre ye subject to ordinances [δογματιζεσθε]. Only here in the New Testament. Rev., subject yourselves. Better passive, as emphasizing spiritual bondage. Why do ye submit to be dictated to? See on 1 Corinthians 1:22, where the imperious attitude of the Jews appears in their demanding credentials of the Gospel as sole possessors of the truth. The ordinances include both those of the law and of philosophy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Touch - taste - handle [αψη - γευση - θιγης]. %Aptomai, A. V., touch, is properly to fasten one's self to or cling to. So John 20:17 (note). Frequently rendered touch in the New Testament, and used in most cases of Christ's touching or being touched by the diseased. To get hands on so as to injure, 1 John 5:18. To have intercourse with, 1 Corinthians 7:1; 2 Corinthians 6:17.\n\nThus, in every case, the contact described exerts a modifying influence, and a more permanent contact or effect of contact is often implied than is expressed by touch. \"The idea of a voluntary or conscious effort is often involved.\" No single English word will express all these phases of meaning. Handle comes, perhaps, as near as any other, especially in its sense of treatment, as when we say that a speaker or writer handles a subject; or that a man is roughly handled by his enemies. This wider and stronger sense does not attach to qigganein A. V., handl"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "vincent",
+  "book": "COL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "vincent",
+  "book": "COL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "vincent",
+  "book": "COL",
+  "chapter": 3
+ }
+}

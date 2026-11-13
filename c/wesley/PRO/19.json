@@ -1,0 +1,191 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Hasteth - That rashly and headily rushes into actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Perverteth - Blasts his designs and enterprises. Fretteth - He ascribes his unhappiness not to his own sin, but to God and his providence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "A friend - in profession."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Brethren - His nearest relations. Hate - Despise and shun him. Pursueth - Earnestly imploring their pity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Delight - To live in pleasure and outward glory, doth not become him, nor suit with him; because prosperity corrupts even wise men, and makes fools mad; and because it gives him more opportunity to discover his folly, and to do mischief both to himself and others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Dropping - Are like rain continually dropping upon an house."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Casteth - Makes a man careless, and like one asleep in his business."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "His ways - The commands of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "While - Before custom in sin, and thy indulgence have made him incorrigible. Let not - Forbear not to give him due and necessary correction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Great wrath - Of strong passions. Deliver - If thou forbear to punish him. Do it - Thou must deliver him again and again."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The desire - The hearty desire of being kind is accepted by God, and should be owned by men as a real kindness. A poor man - Who is not able to give what he desires to do. A liar - Than a rich man who feeds the poor with fair promises, but doth not perform what he pretends."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Satisfied - Shall be fully contented with God's favour and blessing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Bring it - To feed himself; he expects that the meat should drop into his mouth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Scorner - An obstinate and impudent transgressor. Simple - Who sin thro' ignorance, being possibly drawn to it by the scorner's evil counsel or example. Reprove - A verbal reproof will be more effectual for his reformation, than the severest punishments will be to a scorner."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Wasteth - His father's estate. Chaseth - Causes her to avoid his presence, and to go from the house where he is."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Scorneth - Hath no reverence to the place of justice, nor to the presence of God there. Devoureth - Utters it with greediness and delight."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Prepared - Although they be deferred for a time, yet they are treasured up for them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 20
+ }
+}

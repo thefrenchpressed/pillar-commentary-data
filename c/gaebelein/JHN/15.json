@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "gaebelein",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 15\n\n1. The Vine and the Branch. (John 15:1-8.)\n\n2. Communion with Him and its Conditions.(John 15:9-16.)\n\n3. Love One Another! and the Hatred of the World. (John 15:17-27.)\n\nIsrael is called a vine in the Old Testament (Psalms 80:8; Isaiah 5:1-8; Jeremiah 2:21; Hosea 10:1) and Christ here in this parable takes the place of Israel and is the true vine. His disciples are the branches. Israel under the law covenant could not bear fruit for God, as the law cannot be the source of fruit-bearing. Fruit unto God can only spring from union with Christ. (See Romans 7:4.) He as the true vine on earth brought fruit unto God. The true believer is as closely united to Him as the branch is to the vine. The branch is in Him and He is in the branch.\n\nThe life-sap of the vine circulates in the branch. And this life and nature in the believer produces the fruit. Our Lord said: “The Father who abideth in me, He doeth the works.” And believers should confess: The Lord Jesus Christ Who abideth in me and I in Him, He produces the fruit. Apart from Him we can do nothing. This vital union with Christ, dependence on Him, the result--fruit unto God, is more fully revealed in the Epistles.\n\nHe told His disciples, “now ye are clean (literally: purged) through the word that I have spoken unto you.” In Chapter 13 He said, “ye are clean, but not all.” Judas was then present, but he had gone out to betray Him. But what does it mean: “Every branch in me that beareth not fruit He taketh away,” and again, “if a man abide not in me, he is cast forth as a branch, and is withered; and men gather them and cast them into the fire, and they are burned”? These words are often taken to teach that a believer’s salvation and safety depends upon his fruit-bearing and his faithfulness. These two statements have been much perverted and misapplied as if they taught that a true branch in the vine, one who is really in Christ, may be cut off and be cast away to perish forever. If this were the meaning of these words our Lord would contradict His previous teachings. The branch in the vine which beareth not fruit is not a true believer at all, but one who by profession claims to be a branch in the vine.\n\nNote in John 15:6 the change from “ye” to “a man.” If our Lord had said “if ye abide not in me, ye shall be cast forth as a branch, etc.,” it would mean a true believer. But the change makes it clear that no true disciple is meant, but one who makes a profession without being born again.\n\n“These are awful words. They seem, however, to apply specially to backsliders and apostates, like Judas Iscariot. There must be about a man some appearance of professed faith in Christ, before he can come to the state described here. Doubtless there are those who seem to depart from grace, and to go back from union with Christ; but we need not doubt in such cases that the grace was not real, but seeming, and the union was not true, but fictitious. Once more we must remember that we are reading a parable.\n\nAfter all, the final, miserable ruin and punishment of false professors, is the great lesson which the verse teaches. Abiding in Christ leads to fruitfulness in this life and everlasting happiness in the life to come. Departure from Christ leads to the everlasting fire of hell.” --J.C. Ryle.\n\nThe secret of true fruit-bearing (the manifestation of the new nature in our life) is abiding in Christ and Christ in us. “He that saith he abideth in Him ought himself also so to walk as He walked.” The vine reproduces itself in the branch. And abiding in Christ means to walk in communion with Him and in utter dependence on Himself.\n\nThen He declared: “As the Father hath loved me, so have I loved you; continue ye in my love.” Who is able to fathom the depths of these words! As the Father loved Him so He loveth us. Continue in my love means “abide in my love.” “If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments and abide in His love.” A blessed and equally solemn contrast! When we walk in fellowship with Him, when we are obedient to Him, as He was obedient to His Father in His path down here, then we abide in His love. Obedience to His words proves our love to Him, and walking in obedience we abide in His love “and hereby we know that we know Him, if we keep His commandments.” (1 John 2:3.) Then He declares, “that my joy might remain in you” and “that your joy might be full.” For the knowledge of His joy and the fullness of joy we need to walk in obedience.\n\nOnce more He mentions the new commandment (John 13:34) “love one another.” The Holy Spirit in the first Epistle of John enlarges upon this. In the world there is no love, but hatred. It hates the true believers, as the world hated Him. The true disciple must expect the same treatment which He receives in this world. “If they have persecuted me, they will also persecute you.” Israel is in view in John 15:24. They had seen and hated both Him and the Father.\n\nOnce more He announces the coming of the Paraclete, the Comforter. In Chapter 14 our Lord said, “I will pray the Father and He shall send you another Comforter.” Here He promises to send Him from the Father. He is to testify of Himself, witnessing to Him as glorified in the presence of the Father. They were to be witnesses of Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "JHN",
+  "chapter": 16
+ }
+}

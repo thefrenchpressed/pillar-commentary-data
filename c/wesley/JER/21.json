@@ -1,0 +1,92 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "wesley",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": "King Zedekiah in the siege sends to Jeremiah to inquire of the event, ver. 1, 2. He foretells a hard siege and miserable captivity, ver. 3-7. He counsels the people to fall to the Chaldeans, ver. 8-10. And upbraids the king's house, ver. 11-14.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Enquire - Zedekiah, as he was none of the best, so he was none of the worst of the kings of Judah. Having some reverence of God, he sends the prophet to enquire of the Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Behold - I tell you the way you should take, if you would save your lives."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "His life - This is a proverbial expression, signifying a man's possession of his life as a prey, or booty recovered from the enemy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Execute judgment - That is, justice, without partiality, and do it quickly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Of the valley - The inhabitants of the city of Jerusalem are here intended. Jerusalem itself was built in part upon the rocky mountain of Zion, but a great part was in the valley, and the higher mountains, about mount Zion, made that mountain itself, in comparison with them, as a valley. The plain - Though also a rock of the plain, that is, near to the plain. Which situation of this place, made the Jews think it to be impregnable."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The forest - By the forest he either means the forest of Lebanon or their houses, made of wood cut out of that forest. And it - And this fire shall not end in the destruction of this city, but in the total destruction of all the country round Jerusalem."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 22
+ }
+}

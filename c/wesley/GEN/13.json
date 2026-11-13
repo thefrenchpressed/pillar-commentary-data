@@ -1,0 +1,110 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "wesley",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": "In this chapter we have a farther account of Abram;\n\nI. In general, of his condition and behaviour in the land of promise, which was, now, the land of his pilgrimage. (1.) His removes, ver. 1,3, 4, 18. (2.) His riches, ver. 2. (3.) His devotion, ver. 4, 18.\n\nII. A particular account of a quarrel that happened between him and Lot. (1.) The occasion of their strife, ver. 5, 6. (2.) The parties concerned in the strife, with the aggravation of it, ver. 7. (3.) The stopping of it by the prudence of Abram, ver. 8, 9.\n\nIII. Lot's departure from Abram to the plain of Sodom, ver. 10-14.\n\nIV. God's appearance to Abram, to confirm the promise of the land of Canaan to him, ver. 14-17.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "He went on to Bethel - Thither he went, not only because he was willing to go among his old acquaintance; but because there he had formerly had his altar. and though the altar was gone, probably he himself having taking it down when he left the place, lest it should be polluted by the idolatrous Canaanites; yet he came to the place of the altar, either to revive the remembrance of the sweet communion he had had with God at that place, or, perhaps, to pay the vows he had there made to God when he undertook his journey into Egypt."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "The land was not able to bear them - The place was too strait for them, and they had not room for their flocks."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "And the Canaanite and the Perizzite dwelled in the land - This made the quarrel, Very dangerous; if Abram and Lot cannot agree to feed their flocks together, it is well if the common enemy do not come upon them and plunder them both. Very scandalous: No doubt the eyes of all the neighbours were upon them, because of the singularity of their religion, and the extraordinary sanctity they professed; and notice would soon be taken of this quarrel, and improvement made of it to their reproach by the Canaanites and Perizzites."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The garden of the Lord - That is, paradise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Sinners before the Lord - That is, impudent daring sinners."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "I will make thy seed as the dust of the earth - That is, they shall increase incredibly, and take them altogether; they shall be such a great multitude as no man can number. They were so in Solomon's time, 1Kings 4:20. Judah and Israel were many as the land which is by the sea in multitude. This God here gives him the promise of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Arise, walk through the land - Enter and take possession, survey the parcels, and it will appear better than upon a distant prospect."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Then Abram removed his tent - God bid him walk through the land, that is, Do not think of fixing in it, but expect to be always unsettled, and walking through it to a better Canaan; in compliance with God's will herein, he removed his tent, conforming himself to the condition of a pilgrim. And he built there an altar - in token of his thankfulness to God for the kind visit he had made him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GEN",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GEN",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "GEN",
+  "chapter": 14
+ }
+}

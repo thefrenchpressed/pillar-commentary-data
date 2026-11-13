@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "gaebelein",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "7. Warnings and Exhortations\n\nCHAPTER 10\n\n1. Warnings from Israel’s past history. (1 Corinthians 10:4-7).\n\n2. Exhortations. (1 Corinthians 10:15-33).\n\nThe same subject is continued with this chapter. The concluding paragraph of the previous chapter is illustrated from Israel’s history, as the professing people of God. What happened unto them has a typical meaning for us. “Now all these things happened unto them for ensamples (types), and they are written for our admonition, upon whom the ends of the world (ages) are come.” He speaks of “our fathers (Israel’s fathers) were under the cloud, and all passed through the sea, and were all baptized unto Moses in the cloud and in the sea.”\n\nGod had delivered them out of Egypt; the cloud covered them and the sea divided, for their salvation and for the judgment upon the Egyptian hosts. The Lord had made them free to serve Him and it is written “they believed the Lord and His servant Moses.” In this sense they were baptized, or set apart, unto Moses as his disciples. And the person who accepts and professes Christianity is set apart to Christ. All who were under the covering and protecting cloud and who had passed through the sea, ate the same spiritual food, and drank the same spiritual drink, of the rock which followed them, and the rock was Christ. The Lord in infinite love provided for them by giving them food and water, which both are typical of Christ. All ate and drank of the miraculous supply.\n\nBut what became of the great mass of this people? “But with many of them God was not well pleased, for they were overthrown in the wilderness.” They lusted after evil things; some became idolators; some fornicators; some tempted the Lord by trying His patience and murmuring. Judgment followed. In one day 23,000 fell; others were destroyed by serpents and perished by the destroyer. (See Numbers 25:9; when 24,000 are mentioned. See for an explanation of this alleged discrepancy annotations on Numb. 25.) And all this was written for the admonition and warning of the Corinthians. It shows how those who enjoy divine privileges and lay claim to the title of being God’s people, but do not live in separation, do not please God. They that are in the flesh cannot please God, though they may profess Christianity and partake of divine things.\n\nMany of the Corinthians were in this dangerous condition. And the admonition and warning is for us as well.\n\n“The warning is for us all. We have no right to say, ‘Well, but we are true Christians, and therefore we need not trouble about these things.’ These are things which as principles are of the greatest importance for us to realize. There are evil things for which we may lust as they lusted. If God prevents the extreme result for us, that is His mercy, but the effect of our disregarding the warnings may be that our lives may be alas, how greatly spoiled and disfigured and made quite other than He would have them, by our laxity!” --Numerical Bible\n\nTwo important statements follow. “Let him that thinketh he standeth take heed lest he fall.” This is our responsibility. But how can a believer stand in this world, so dangerous and full of evil? Only by faith can we stand, and faith is confidence in God. As we have no self-confidence, but trust in Him alone and walk in fellowship with Him we shall stand and be upheld. Then there is the blessed comforting statement: “God is faithful.” He does not allow that we are tempted above that we are able, but he provides a way to escape. “Wherefore, dearly beloved, flee from idolatry.” It meant for the Corinthians the idolatry of heathendom. But there is also a more subtle idolatry.\n\nThat believer is kept from all idolatry who is wholly devoted to the Lord and who gives to Him constantly the preeminence. Devotedness to God keeps from idols.\n\nThe second half of this chapter contains exhortations about idolatry and the believer’s walk in the midst of the corruption which is in the world. The Lord’s supper is significantly introduced at this point. As we find in the next chapter, it is the memorial feast of what the Lord Jesus Christ has done for us. Blessed and precious is this feast of communion. And in eating of it there is identification with the body of Christ, for “we are all partakers of that one bread.” In the Lord’s supper, many of the essential truths of Christianity are revealed and enjoyed by faith, in the power of the Spirit, as an act of true worship. If the believer then realizes that he is a partaker of Christ and tastes afresh of His love and gazes in hope towards the coming glory, he will have nothing to do with idols, nor have any fellowship with darkness.\n\nAs he has written before, the idol is nothing, meaning the supposed gods of the heathen. However, idolatry was a horrible reality, by which the souls and bodies of men were corrupted. The heathen sacrificed in idol-worship to demons and not to God. And how can he who drinks the cup of the Lord, the Lord of all, drink also the cup of demons? Ye cannot be partakers of the Lord’s table, and of the table of demons. In doing this they would provoke the Lord to jealousy.\n\nEvery wicked doctrine and false worship is backed by demons and participation in it means identification. This is especially true of the anti-Christian movements of our times, such as Christian Science, Theosophy and others. (1 Timothy 4:1.) The instructions call for a cautious and separated walk, as it becometh those who are the Lord’s. God is to be before the heart of the believer in all things. “Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CO",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CO",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "1CO",
+  "chapter": 11
+ }
+}

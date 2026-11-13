@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "scofield",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "fifth month -- i.e. August."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "rod -- The passage is a prophecy of the future judgment upon Israel, regathered from all nations (see \"Israel,\" Isaiah 1:24-26 refs. into the old wilderness wanderings. Ezekiel 20:35. The issue of this judgment determines who of Israel in that day shall enter the land for kingdom blessing.; Psalms 50:1-7; Ezekiel 20:33-44; Malachi 3:2-5; 4:1,2 see other judgments,\n\n(See Scofield \"John 12:31\") See Scofield \"1 Corinthians 11:31\"\n\n(See Scofield \"2 Corinthians 5:10\") See Scofield \"Matthew 25:32\"\n\n(See Scofield \"Jude 1:6\") See Scofield \"Revelation 20:12\""
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EZK",
+  "chapter": 24
+ }
+}

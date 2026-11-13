@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LAM",
+  "commentaryId": "wesley",
+  "name": "Lamentations",
+  "commonName": "Lamentations",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "THIS book in Greek, Latin, and English, has its name from the subject matter of it, which is Lamentation. So also among the Hebrew writers; but in the Hebrew it takes its name from the first word of the book, as the five books of Moses have. That it was wrote by Jeremiah none can question, because in the Hebrew it is styled, The book of Jeremiah. There is little controversy about the time, or occasion of writing it. That the occasion was the miseries of the people, by reason of the famine, sword, and captivity, is evident. Probably Jeremiah began to write upon the death of Josiah, and continued to the time of the captivity, setting down all the miseries the people suffered all along to that time. The design of the writing, as to those whom it immediately concerned, is plain and obvious, namely, to affect the people with those judgments which came upon them for their sins: as to us (upon whom the ends of the world are come) to mind us to take heed of their sins, lest we be sharers in their plagues. The book is made up of complaints of their lamentable condition; petitions to God for mercy; and prophecies both of their better estate, and the ruin of their enemies. In the four first chapters are several alphabets of letters beginning the several verses, each verse beginning with a new letter, only chap. 3, every three verses begin with a new letter. It seems the chapters were so composed, for the advantage of their memories. The whole book lets us see from what an height of dignity, to what a depth misery sin may bring a nation, how much soever interested in God; and directs us to our duty in a state of affliction.\n\nJeremiah laments the former excellency and present misery of Jerusalem for her sin, ver. 1-11. She complains of her grief, ver. 12-17. Confesses God's judgments to be righteous: and prays to him, ver. 18-22.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A widow - She that had a king, or rather a God, that was an husband to her, now was forsaken of God, and her king taken from her."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Because - Because of the servitude and oppression exercised among them: oppression by their rulers, and servitude more generally; keeping their servants beyond the year of jubilee, when they ought to be set at liberty. The straits - Those that pursued them overtook them in places where they could not escape."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "She - Persons of all ages and ranks are in bitterness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Pleasant things - Has laid violent hands on them. The things of the sanctuary were always pleasant things to those that feared God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Bread - Even in a land that ordinarily flowed with milk and honey, they were at a loss for bread to eat. Given - And gave any thing for something to satisfy their hunger. Vile - Miserable or contemptible."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Is it nothing - The prophet speaks in the name of the Jewish church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Fire - A judgment as consuming, and afflictive as fire."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Is bound - Put upon my neck on account of my transgressions. Wreathed - My punishments are twisted as cords; I have a complication of judgments upon me, sword, famine, pestilence, captivity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "An assembly - God had called an assembly of Chaldeans against the city, to crush the inhabitants of it. Trodden - God had trodden upon the Jews as men use to stamp grapes in a wine - press."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The comforter - God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Jerusalem - Is become loathsome and filthy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Deceived - They did not answer my expectation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Death - By famine and pestilence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "They - The neighbouring nations. Like me - But thou hast foretold their destruction also, and hast by me proclaimed it: and thou shalt in that day bring them into as sad a condition as I am in now."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "JER",
+  "chapter": 52
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LAM",
+  "chapter": 2
+ }
+}

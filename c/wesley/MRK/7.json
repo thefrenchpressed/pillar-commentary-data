@@ -1,0 +1,164 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "wesley",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Coming from Jerusalem - Probably on purpose to find occasion against him. Mt 15:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Washing of cups and pots and brazen vessels and couches - The Greek word (baptisms) means indifferently either washing or sprinkling. The cups, pots, and vessels were washed; the couches sprinkled."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The tradition of the elders - The rule delivered down from your forefathers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Isa 29:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Ex 20:12; Ex 21:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "There is nothing entering into a man from without which can defile him - Though it is very true, a man may bring guilt, which is moral defilement, upon himself by eating what hurts his health, or by excess either in meat or drink yet even here the pollution arises from the wickedness of the heart, and is just proportionable to it. And this is all that our Lord asserts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Purging all meats - Probably the seat was usually placed over running water."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Wickedness - The word means ill natured, cruelty, inhumanity, and all malevolent affections. Foolishness - Directly contrary to sobriety of thought and discourse: all kind of wild imaginations and extravagant passions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Mt 15:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The woman was a Greek (that is, a Gentile, not a Jew) a Syrophenician or Canaanite. Canaan was also called Syrophenicia, as lying between Syria, properly so called, and Phenicia."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Mt 15:29."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "He put his fingers into his ears - Perhaps intending to teach us, that we are not to prescribe to him (as they who brought this man attempted to do) but to expect his blessing by whatsoever means he pleases: even though there should be no proportion or resemblance between the means used, and the benefit to be conveyed thereby."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Ephphatha - This was a word of SOVEREIGN AUTHORITY, not an address to God for power to heal: such an address was needless; for Christ had a perpetual fund of power residing in himself, to work all miracles whenever he pleased, even to the raising the dead, John 5:21,26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Them - The blind man and those that brought him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MRK",
+  "chapter": 8
+ }
+}

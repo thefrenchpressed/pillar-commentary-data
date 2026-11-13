@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "scofield",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Abib -- First month, i.e. April."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "firstling -- The redemption of firstlings made a memorial sign to Israel of their own redemption."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "repent -- (See Scofield \"Zechariah 8:14\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EXO",
+  "chapter": 14
+ }
+}

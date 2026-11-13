@@ -1,0 +1,245 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "wesley",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 105,
+  "introduction": "In the former psalm we praise God for his common providence; in this, for his special favours to his church. The first eleven verses of it David delivered to Asaph, (1 Chron. xvi, 7, &c.) to be used in the daily service of the sanctuary. Here is the preface, ver. 1-7. The history itself in several articles: God's covenant with the patriarchs, ver. 8-11. His care of them in a strange land, ver. 12-15. His raising up Joseph, ver. 16-22. The increase of Israel in Egypt, and their deliverance out of it, ver. 23- 38. His care of them in the wilderness, and their settlement in Canaan, ver. 39-45.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Glory - Glory in the God whom you serve, as the only true God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Seek - The Lord in his strength, in his sanctuary, or before the ark, which is called God's strength. Face - His gracious presence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Judgments - The punishments which he brought upon Egypt by his mere word."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Of Jacob - The only branch of Abraham's seed to whom the following blessings belong."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Judgments - God executes his judgments upon all nations and people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Remembered - So as to perform it. The word - The promise. Commanded - Established. Thousand generations - To all generations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Oath - Wherewith he ratified the covenant with Isaac, Gen 26:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "A law - That it might be as firm and irrevocable as a law."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Lot - The portion assigned to you by lot."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "They went - Both in Canaan, where there were seven nations, and in Egypt."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Anointed - My prophets, Abraham, Isaac, and Jacob; who are called God's anointed, because they were consecrated to be his peculiar people, and to be kings and princes in their families. And they are called prophets, because God familiarly conversed with them and revealed his will to them, and by them to others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Staff of bread - Bread, which is the staff or support of our lives."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "His word - That word or revelation which came first to Pharaoh in a dream, and then to Joseph concerning the interpretation of it. Purged - From those calamities which were cast upon him, and so prepared the way for his release."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Ham - Ham was the father of Mizraim, or the Egyptians, Gen 10:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Turned - That is, suffered them, to be turned."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "They - Moses and Aaron, who inflicted that plague after Pharaoh had threatened them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Land - Their country. In chambers - Which entered into the chambers. Kings - Of Pharaoh and his sons, and his chief nobles and governors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Coasts - In all their land, even to the utmost borders of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Feeble - Diseased or unable for his journey: which in so vast a body, and in a people who had been so dreadfully oppressed, was wonderful."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Covering - To protect them from the heat of the sun."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Quails - He speaks of the first giving of quails, Exo 16:13, which God gave them as a refreshment, notwithstanding their sin in desiring them, which he graciously pardoned. Bread - With manna which came out of the air, commonly called heaven."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "River - They flowed in channels which God provided for them, and followed the Israelites in their march."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Labour - The fruits of their labour; their cities, vineyards, olive - yards."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 105
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 104
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PSA",
+  "chapter": 106
+ }
+}

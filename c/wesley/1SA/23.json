@@ -1,0 +1,137 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "wesley",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": "David saves Keilah from the Philistines, ver. 1-6. His danger there, and deliverance from it, ver. 7-13. He remains in the wilderness of Ziph, and is visited by Jonathan, ver. 14-18. Saul pursues him, ver. 19-25. His narrow escape, ver. 26-29",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Philistines, &c. - Probably it was the departure of God and David from Saul, that encouraged the Philistines to make this inroad. When princes begin to persecute God's people and ministers, let them expect nothing but vexation on all sides."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Enquired again - Not for his own, but for his soldiers satisfaction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Ephod - With the Ephod, the high - priest's Ephod, wherein were the Urim and the Thummim, which when Ahimelech and the rest of the priests went to Saul, were probably left in his hand. This gave him the opportunity both of escaping, whilst Doeg the butcher was killing his brethren, and of bringing away the Ephod, which Saul now was justly deprived of."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Lord said - From this place it may appear that God's answer by Urim and Thummim, was not by any change in the colour or situation of the precious stones in the breast - plate of the Ephod, but by a voice or suggestion from God to the high - priest. He will - He purposeth to come, if thou continuest here. For still as David's question, so God's answer, is upon supposition."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "And strengthened - He comforted and supported him against all his fears, by minding him of God's infallible promises made to him, and his singular providence which hitherto had and still would be with him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Next to thee - Which he gathered either from David's generosity, and friendship to him; or from some promise made to him by David concerning it. So that the whole imports thus much; I do not look to be king myself (as by my birth I might expect,) but that thou shalt be king (God having so appointed) and I but in a secondary place inferior to thee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Made a covenant - They then parted, and never came together again, that we find, in this world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Ziphites - Who were of David's own tribe tho' for this their unnatural carriage to him, he calls them strangers, Ps 54:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "A rock - That is, into a cave which was in the rock; where at first he might think to hide himself, but upon farther consideration he removed from thence upon Saul's approach."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "A messenger, &c. - The wisdom of God is never at a loss for ways, and means to preserve his people."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Called, &c. - That is, The rock of divisions, because there Saul was separated, and in a manner pulled asunder from David, who was now almost within his reach."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1SA",
+  "chapter": 24
+ }
+}

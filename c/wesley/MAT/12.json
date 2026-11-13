@@ -1,0 +1,362 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "wesley",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "His disciples plucked the ears of corn, and ate - Just what sufficed for present necessity: dried corn was a common food among the Jews. Mark 2:23; Luke 6:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Have ye not read what David did - And necessity was a sufficient plea for his transgressing the law in a higher instance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "He entered into the house of God - Into the tabernacle. The temple was not yet built. The show bread - So they called the bread which the priest, who served that week, put every Sabbath day on the golden table that was in the holy place, before the Lord. The loaves were twelve in number, and represented the twelve tribes of Israel: when the new were brought, the stale were taken away, but were to be eaten by the priests only. 1Sam 21:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The priests in the temple profane the Sabbath - That is, do their ordinary work on this, as on a common day, cleansing all things, and preparing the sacrifices. A greater than the temple - If therefore the Sabbath must give way to the temple, much more must it give way to me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "I will have mercy and not sacrifice - That is, when they interfere with each other, I always prefer acts of mercy, before matters of positive institution: yea, before all ceremonial institutions whatever; because these being only means of religion, are suspended of course, if circumstances occur, wherein they clash with love, which is the end of it. Matt 9:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "For the Son of man - Therefore they are guiltless, were it only on this account, that they act by my authority, and attend on me in my ministry, as the priests attended on God in the temple: is Lord even of the Sabbath - This certainly implies, that the Sabbath was an institution of great and distinguished importance; it may perhaps also refer to that signal act of authority which Christ afterward exerted over it, in changing it from the seventh to the first day of the week. If we suppose here is a transposition of the 7th and 8th verses, then the 8th verse is a proof of the 6th. Mt 12:7,8,6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Mark 3:1; Luke 6:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "It is lawful to do good on the Sabbath day - To save a beast, much more a man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "He shall show judgment to the heathens - That is, he shall publish the merciful Gospel to them also: the Hebrew word signifies either mercy or justice. Isa 42:1, &c."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "He shall not strive, nor clamour; neither shall any man hear his voice in the streets - That is, he shall not be contentious, noisy, or ostentatious: but gentle, quiet, and lowly. We may observe each word rises above the other, expressing a still higher degree of humility and gentleness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "A bruised reed - A convinced sinner: one that is bruised with the weight of sin: smoking flax - One that has the least good desire, the faintest spark of grace: till he send forth judgment unto victory - That is, till he make righteousness completely victorious over all its enemies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "In his name - That is, in him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "A demoniac, blind and dumb - Many undoubtedly supposed these defects to be merely natural. But the Spirit of God saw otherwise, and gives the true account both of the disorder and the cure. How many disorders, seemingly natural, may even now be owing to the same cause? Luke 11:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Is not this the son of David - That is, the Messiah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Mark 3:22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Jesus knowing their thoughts - It seems they had as yet only said it in their hearts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "How shall his kingdom be established - Does not that subtle spirit know this is not the way to establish his kingdom?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "By whom do your children - That is, disciples, cast them out - It seems, some of them really did this; although the sons of Sceva could not. Therefore shall they be your judge - Ask them, if Satan will cast out Satan: let even them be judges in this matter. And they shall convict you of obstinacy and partiality, who impute that in me to Beelzebub, which in them you impute to God. Beside, how can I rob him of his subjects, till I have conquered him? The kingdom of God is come upon you - Unawares; before you expected: so the word implies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "How can one enter into the strong one's house, unless he first bind the strong one - So Christ coming into the world, which was then eminently the strong one's, Satan's house, first bound him, and then took his spoils."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "He that is not with me is against me - For there are no neuters in this war. Every one must be either with Christ or against him; either a loyal subject or a rebel. And there are none upon earth, who neither promote nor obstruct his kingdom. For he that does not gather souls to God, scatters them from him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The blasphemy against the Spirit - How much stir has been made about this? How many sermons, yea, volumes, have been written concerning it? And yet there is nothing plainer in all the Bible. It is neither more nor less than the ascribing those miracles to the power of the devil, which Christ wrought by the power of the Holy Ghost. Mark 3:28; Luke 12:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Whosoever speaketh against the Son of man - In any other respects: It shall be forgiven him - Upon his true repentance: But whosoever speaketh thus against the Holy Ghost, it shall not be forgiven, neither in this world nor in the world to come - This was a proverbial expression among the Jews, for a thing that would never be done. It here means farther, He shall not escape the punishment of it, either in this world, or in the world to come. The judgment of God shall overtake him, both here and hereafter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Either make the tree good and its fruit good: or make the tree corrupt and its fruit corrupt - That is, you must allow, they are both good, or both bad. - For if the fruit is good, so is the tree; if the fruit is evil, so is the tree also. For the tree is known by its fruit - As if he had said, Ye may therefore know me by my fruits. By my converting sinners to God, you may know that God hath sent me. Mt 7:16; Luke 6:43."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "In another kind likewise, the tree is known by its fruit - Namely, the heart by the conversation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Ye may perhaps think, God does not so much regard your words. But I say to you - That not for blasphemous and profane words only, but for every idle word which men shall speak - For want of seriousness or caution; for every discourse which is not conducive to the glory of God, they shall give account in the day of judgment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "For by thy words (as well as thy tempers and works) thou shalt then be either acquitted or condemned. Your words as well as actions shall be produced in evidence for or against you, to prove whether you was a true believer or not. And according to that evidence you will either be acquitted or condemned in the great day."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "We would see a sign - Else we will not believe this. Matt 16:1; Luke 11:16,29."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "An adulterous generation - Whose heart wanders from God, though they profess him to be their husband. Such adulterers are all those who love the world, and all who seek the friendship of it. Seeketh a sign - After all they have had already, which were abundantly sufficient to convince them, had not their hearts been estranged from God, and consequently averse to the truth. The sign of Jonah - Who was herein a type of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Three days and three nights - It was customary with the eastern nations to reckon any part of a natural day of twenty - four hours, for the whole day. Accordingly they used to say a thing was done after three or seven days, if it was done on the third or seventh day, from that which was last mentioned. Instances of this may be seen, 1Kings 20:29; and in many other places. And as the Hebrews had no word to express a natural day, they used night and day, or day and night for it. So that to say a thing happened after three days and three nights, was with them the very same, as to say, it happened after three days, or on the third day. See Esther 4:16; 5:1; Gen 7:4,12; Exod 24:18; 34:28. Jonah 2:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "She came from the uttermost parts of the earth - That part of Arabia from which she came was the uttermost part of the earth that way, being bounded by the sea. 1Kings 10:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "But how dreadful will be the consequence of their rejecting me? When the unclean spirit goeth out - Not willingly, but being compelled by one that is stronger than he. He walketh - Wanders up and down; through dry places - Barren, dreary, desolate; or places not yet watered with the Gospel: Seeking rest, and findeth none - How can he, while he carries with him his own hell? And is it not the case of his children too? Reader, is it thy case? Luke 11:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Whence he came out - He speaks as if he had come out of his own accord: See his pride! He findeth it empty - of God, of Christ, of his Spirit: Swept - from love, lowliness, meekness, and all the fruits of the Spirit: And garnished - With levity and security: so that there is nothing to keep him out, and much to invite him in."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "Seven other spirits - That is, a great many; a certain number being put for an uncertain: More wicked than himself - Whence it appears, that there are degrees of wickedness among the devils themselves: They enter in and dwell - For ever in him who is forsaken of God. So shall it be to this wicked generation - Yea, and to apostates in all ages."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "His brethren - His kinsmen: they were the sons of Mary, the wife of Cleopas, or Alpheus, his mother's sister; and came now seeking to take him, as one beside himself, Mark 3:21. Mark 3:31; Luke 8:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 48,
+    "content": [
+     {
+      "text": "And he answering, said - Our Lord's knowing why they came, sufficiently justifies his seeming disregard of them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "See the highest severity, and the highest goodness! Severity to his natural, goodness to his spiritual relations! In a manner disclaiming the former, who opposed the will of his heavenly Father, and owning the latter, who obeyed it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "MAT",
+  "chapter": 13
+ }
+}

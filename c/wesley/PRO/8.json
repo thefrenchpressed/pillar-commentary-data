@@ -1,0 +1,218 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "wesley",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": "A recommendation of Divine wisdom, ver. 1-21. The praise of the Son of God, the eternal Wisdom of the Father, ver. 22-31. An exhortation to hearken to him, ver. 32-36.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Wisdom - It is a great question what this wisdom is. Some understand it of the Divine wisdom; others of the second person in the Godhead: and it cannot be denied that some passages best agree to the former, and others to the latter opinion. Possibly both may be joined together, and the chapter may be understood of Christ considered partly in his personal capacity, and partly in regard of his office, which was to impart the mind and will of God to mankind."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "High place - Where she may be best seen and heard. Paths - Where many paths meet, where there is a great concourse, and where travellers may need direction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Gates - The places of judgment, and of the confluence of people. The entry - To invite passengers at their first coming and to conduct them to her house. The doors - Of her house."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "O men - To all men without exception."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Ye simple - Who want knowledge, and experience. Fools - Wilful sinners."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "To him - Whose mind God hath enlightened. To them - That are truly wise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "And not silver - Rather than silver."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "I dwell - My inseparable companion is prudence to govern all my actions, and to direct the actions of others. Find out - I help men to find out. Inventions - Of all ingenious contrivances for the glory of God, and for the good of men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Wisdom - All solid and substantial and useful wisdom is assential to me."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "By me - They rule their kingdoms wisely and justly, by my counsel and assistance. Their injustice is from themselves, but all the good they do, they owe to my conduct."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "I love - I do not despise their love, but kindly accept it and recompence it with my love and favour. Early - With sincere affection and diligence, which he mentions as the evidence of their love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Substance - Substantial happiness: opposed to all worldly enjoyments, which are but mere shadows."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Possessed me - As his son by eternal generation, before the beginning. Of old - His works of creation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Set up - Heb. anointed, constituted to be the person by whom the Father resolved to do all his works, to create, to uphold and govern and judge, to redeem and save the world. From the beginning - Before which, there was nothing but a vast eternity. The earth - Which together with the heaven, was the first of God's visible works."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "No depths - No abyss or deep waters. Brought forth - Begotten of my father."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The earth - The dry land called earth after it was separated from the waters Gen 1:10. Fields - The plain and open parts of the earth distinguished from the mountains. Dust - Of this lower part of the world which consists of dust."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "I was there - As co - worker with my Father. Depth - Of that great abyss of water and earth mixed together, which is called both earth and water and the deep, Gen 1:2, when he made this lower world in the form of a globe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Strengthened - When he shut up the fountains in the cavities of the earth, and kept them there as it were by a strong band. The deep - Which have their original from the deep, either from the sea, or from the abyss of waters in the bowels of the earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "My delights were - To uphold them by my power and providence, to reveal myself and my Father's will to them from age to age, to assume their nature, and to redeem and save them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Waiting - As servants or clients, wait at the doors of princes or persons of eminency."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "PRO",
+  "chapter": 9
+ }
+}

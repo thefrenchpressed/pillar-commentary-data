@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "gaebelein",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 64,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 63:7-19-64:12\n\nThe Great Intercessory Prayer\n\n1. Jehovah’s loving kindness and power in the past remembered (Isaiah 63:7-14) 2. Their deepest need (Isaiah 63:15) 3. The cry of faith, Thou art our Father (Isaiah 63:16) 4. The increasing plea (Isaiah 63:17-19) 5. The prayer for Jehovah’s manifestation (Isaiah 64:1-4) 6.\n\nConfession and humiliation (Isaiah 64:5-7) 7. The cry for mercy and help (Isaiah 64:8-12) This is one of the greatest prayers in the Bible. The prophet no doubt prayed it first of all, and the Spirit of Christ through him. But its full meaning will be reached when the faithful remnant of Israel in the end time cries for help and deliverance during the great tribulation. When Daniel discovered that the end of the Babylonian captivity was at hand, he uttered a great prayer Daniel 9:1-27. The same beautiful spirit of a contrite heart, confession of sin, trust in Jehovah, pleading for Jerusalem and expectation of deliverance, which characterizes Daniel’s prayer is seen in this great prayer.\n\nMany of the prayers in the book of Psalms are the prayers of the remnant suffering in the land before the Second Advent.\n\nThe remaining two chapters contain the answer to this prayer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 64
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 63
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "ISA",
+  "chapter": 65
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "scofield",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": "Job is in form a dramatic poem. It is probably the oldest of the Bible books, and was certainly written before the giving of the law. It would have been impossible, in a discussion covering the whole field of sin, of the providential government of God, and man's relation to Him, to avoid all reference to the law if the law had then been known. Job was a veritable personage (Ezekiel 14:20; James 5:11), and the events are historical. The book sheds a remarkable light on the philosophic breadth and intellectual culture of the patriarchal age. The problem is, Why do the godly suffer?\n\nJob is in seven parts:\n\nPrologue, 1:1-2:8.\n\nJob and his wife, 2:9,10.\n\nJob and his three friends, 2:11-31:40.\n\nJob and Elihu, 32:1-37:24.\n\nJehovah and Job, 38:1-41:34.\n\nJob's final answer, 42:1-6.\n\nEpilogue, 42:7-17.\n\nThe events recorded in Job cover a period within 1 year.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "land of Uz -- A region at the south of Edom, and west of the Arabian desert, extending to Chaldea.\n\nUz -- See Jeremiah 25:20.\n\nfear -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "sons of God -- This scene is in heaven. Cf. Job 2:1-7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "feareth -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "fear -- (See Scofield \"Psalms 19:9\")."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOB",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "EST",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "JOB",
+  "chapter": 2
+ }
+}

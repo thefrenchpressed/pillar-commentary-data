@@ -1,0 +1,101 @@
+{
+ "commentary": {
+  "id": "scofield",
+  "name": "Scofield Reference Notes (1917)",
+  "englishName": "Scofield Reference Notes (1917)",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikisource.org/wiki/Scofield_Reference_Bible_Notes"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "scofield",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")\n\nLot sat -- Cf. Daniel 2:49.\n\nLot the compromiser with Daniel the inflexible. Lot was a great man Deuteronomy 21:19,20 in a place devoted to judgment. Cf. Acts 17:31."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "And they said -- The world's contempt for a worldly believer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Lot -- Lot had utterly lost his testimony. In gaining influence Genesis 19:1 he had lost power, even in his own family."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "angel -- (See Scofield \"Hebrews 1:4\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "when God -- (See Scofield \"Genesis 19:36\")."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Come -- Lot \"pitched toward Sodom\" Genesis 13:12 for worldly advantage; then became a great man in Sodom Genesis 19:1 at the cost of his daughter's accepting the morals of Sodom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Thus were -- Abraham and Lot are contrasted characters. Of the same stock Genesis 11:31 subjected to the same environment, and both justified men; Genesis 15:6; 2 Peter 2:7,8 the contrast in character and career is shown to be the result of their respective choices at the crisis of their lives. Lot \"chose him all the plain of Jordan\" for present advantage; Abraham \"looked for a city which hath foundations\"; Hebrews 11:10; Genesis 13:18 \"came and dwelt in the plain of Mamre (fatness), which is in Hebron\" (communion). The men remain types of the worldly and spiritual believer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "scofield",
+  "book": "GEN",
+  "chapter": 20
+ }
+}

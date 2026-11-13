@@ -1,0 +1,236 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "wesley",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": "Solomon's many wives turn his heart from God, ver. 1-8. God reproves and threatens him, ver. 9-13. Stirs up Hadad and Rezon against him, ver. 14-25. An account of Jeroboam, ver. 26-40. Solomon's death and burial, ver. 41-43.",
+  "content": [
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "3. Seven hundred wives, &c. - God had particularly forbidden the kings to multiply either horses or wives, Deut. xvii, 16, 17, we saw chap. x, 29, how he broke the former law, multiplying horses: and here we see, how he broke the latter, multiplying wives. David set the example. One ill act of a good man may do more mischief than twenty of a wicked man. Besides, they were strange women, of the nations which God had expressly forbidden them to marry with. And to compleat the mischief, he clave unto these in love; was extravagantly fond of them, Solomon had much knowledge. But to what purpose, when he knew not how to govern his appetites?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "4. Was old - As having now reigned nigh thirty years. When it might have been expected that experience would have made him wiser: then God permitted him to fall so shamefully, that he might be to all succeeding generations an example of the folly, and weakness of the wisest and the best men, when left to themselves. Turned his heart - Not that they changed his mind about the true God, and idols, which is not credible; but they obtained from him a publick indulgence for their worship, and possibly persuaded him to join with them in the outward act of idol-worship; or, at least, in their feasts upon their sacrifices, which was a participation of their idolatry."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "5. Milcom - Called also Moloch."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "6. Did evil - That is, did not worship God wholly, but joined idols with him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "7. An high place - That is, an altar upon the high place, as the manner of the Heathens was. The hill - In the mount of olives, which was nigh unto Jerusalem, 2 Sam. xv, 30, and from this act was called the mount of corruption, 2 Kings xxiii, 13. As it were, to confront the temple."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "8. And sacrificed, &c. - See what need those have to stand upon their guard, who have been eminent for religion. The devil will set upon them most violently: and if they miscarry, the reproach is the greater. It is the evening that commends the day. Let us therefore fear, lest having run well, we come short."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "12. Fathers sake - For my promise made to him, 2 Sam. vii, 12-15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "13. One tribe - Benjamin was not entirely his, but part of it adhered to Jeroboam, as Bethel, chap. xii, 29, and Hephron, 2 Chron. xiii, 19, both which were towns of Benjamin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "15. In Edom - By his army, to war against it. To bury - The Israelites who were slain in the battle, 2 Sam. viii, 13, 14, whom he honourably interred in some certain place, to which he is said to go up for that end. And this gave Hadad the opportunity of making his escape, whilst Joab and his men were employed in that solemnity. Had smitten - Or, and he smote, as it is in the Hebrew: which is here noted as the cause of Hadad's flight; he understood what Joab had done in part, and intended farther to do, even to kill all the males and therefore fled for his life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "18. Midian - He fled at first with an intent to go into Egypt, but took Midian, a neighbouring country, in his way, and staid there a while, possibly 'till he had by some of his servants tried Pharaoh's mind, and prepared the way for his reception. Paran - Another country in the road from Edom to Egypt, where he hired men to attend him, that making his entrance there something like a prince, he might find more favour from that king and people. Land - To support himself and his followers out of the profits of it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "19. Found favour - God so disposing his heart, that Hadad might be a scourge to Solomon for his impieties."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "21. Joab - Whom he feared as much as David himself. Own country - Whither accordingly he came; and was there, even from the beginning of Solomon's reign. And it is probable, by the near relation which was between his wife and Solomon's; and, by Pharaoh's intercession, he obtained his kingdom with condition of subjection and tribute to be paid by him to Solomon; which condition he kept 'till Solomon fell from God, and then began to be troublesome, and dangerous to his house and kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "23. Who fled - When David had defeated him. Zobah - A part of Syria, between Damascus and Euphrates."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "24. A band - Of soldiers, who fled upon that defeat, 2 Sam. x, 18, and others who readily joined them, and lived by robbery; as many Arabians did. Damascus - And took it, whilst Solomon was wallowing in luxury."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "25. All adversity - He was a secret enemy, all that time; and when Solomon had forsaken God, he shewed himself openly. Beside - This infelicity was added to the former; whilst Hadad molested him in the south, Rezon threatened him in the north. But what hurt could Hadad or Rezon have done, to so powerful a king as Solomon, if he had not by sin made himself mean and weak? If God be on our side, we need not fear the greatest adversary. But if he be against us, he can make us fear the least: yea, the grasshopper shall be a burden. Syria - Over all that part of Syria, enlarging his empire the more, and thereby laying a foundation for much misery to Solomon's kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "28. Charge - The taxes and tributes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "29. Went - Probably to execute his charge. Were alone - Having gone aside for private conference; for otherwise it is most likely that he had servants attending him, who, though they hear not the words, yet might see the action, and the rending of Jeroboam's coat; and thus it came to Solomon's ears, who being so wise, could easily understand the thing by what he heard of the action, especially when a prophet did it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "39. For this - For this cause, which I mentioned ver. 33. Not forever - There shall a time come when the seed of David shall not be molested by the kingdom of Israel, but that kingdom shall be destroyed, and the kings of the house of David shall be uppermost, as it was in the days of Asa, Hezekiah and Judah. And at last the Messiah shall come, who shall unite together the broken sticks of Judah and Joseph, and rule over all the Jews and Gentiles too."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "40. Solomon - To whose ears this had come. Shishak - Solomon's brother-in-law, who yet might be jealous of him, or alienated from him, because he had taken so many other wives to his sister, might cast a greedy eye upon the great riches which Solomon had amassed together, and upon which, presently after Solomon's death, he laid violent hands, 2 Chron. xii, 9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "41. The book - In the publick records, where the lives and actions of kings were registered from time to time, so this was only a political, not a sacred book."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "42. Forty years - His reign was as long as his father's, but not his life; sin shortened his days."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "43. Slept - This expression is promiscuously used concerning good and bad; and signifies only, that they died as their fathers did. But did he repent before he died? This seems to be put out of dispute by the book of Ecclesiastes; written after his fall; as is evident, not only from the unanimous testimony of the Hebrew writers, but also, from the whole strain of that book, which was written long after he had finished all his works, and after he had liberally drunk of all sorts of sensual pleasures, and sadly experienced the bitter effects of his love of women, Eccles vii, 17, &c. which makes it more than probable, that as David writ Psalm li, 1-19. So Solomon wrote this book as a publick testimony and profession of his repentance."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1KI",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1KI",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "1KI",
+  "chapter": 12
+ }
+}

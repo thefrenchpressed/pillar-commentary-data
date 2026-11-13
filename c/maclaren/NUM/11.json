@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "maclaren",
+  "name": "Alexander Maclaren's Expositions of Holy Scripture",
+  "englishName": "Alexander Maclaren's Expositions of Holy Scripture",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Alexander_Maclaren"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "maclaren",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "MOSES\n\nNumbers 11:14.\n\nDetail the circumstances.\n\nThe leader speaks the truth in his despondency. He is pressed with the feeling of his incapacity for his work. We may take his words here as teaching us what men need in him who is to be their guide, and how impossible it is to find what they need in mere men.\n\nI. What men need in their guide.\n\nThese Israelites were wandering in the wilderness; they were without natural supplies for their daily necessities; they had a long hard journey before them, an unknown road, at the terminus of which was a land where they should rest. We have precisely the same necessities as those which Moses despairingly said that they had.\n\nLike them, we wander hungry, and need a Leader who can satisfy our desires and evermore give us bread for our souls even more than for our bodies. We need One to whom we can ‘weep,’ as the Israelites did to Moses, and not weep in vain. We need One who can do for us what Moses felt that the Israelites needed, and that he could not give them, when he almost indignantly put to God the despairing question, ‘Can I carry them in my bosom as a nursing father beareth the sucking child?’ Our weakness, our ignorance, our heart-hunger, cry out for One who can ‘bear all this people alone.’ who in his single Self has resources of strength, wisdom, and sufficiency to meet not only the wants of one soul but those of the world. For He who can satisfy the poorest single soul must be able to satisfy all men.\n\nII. The impossibility of finding this in men.\n\nMoses’ experience here is that of all leaders and great men. He is overwhelmed with the work; feels his own utter impotence; has himself to be strengthened; loathes his work; longs for release from it. See how he confesses\n\nHis human dependence.\n\nHis incapacity to do and be what is needed.\n\nHis impatience with the people\n\nHis longing to be rid of it all.\n\nThat is a true picture of the experience of the best of men-a true picture of the limitations of the noblest leaders.\n\nBut it is not only the leaders who confess their inadequacy, but the followers feel it, for even the most enthusiastic of them come sooner or later to find that their Oracle had not learned all wisdom, nor was fit to be taken as sole guide, much less as sole defence or satisfaction. He who looks to find all that he needs in men must take many men to find it, and no multiplicity of men will bring him what he seeks. The Milky Way is no substitute for the sun. Our hearts cry out for One great light, for One spacious home. Endless strings of pearls do not reach the preciousness of One pearl of price.\n\nIII. The failures of human leaders prophesy the true Leader.\n\nMoses was prophetic of Christ by his failures as by his successes. He could not do what the people clamoured to have done, and what he in the mood of despair in which the text shows him, sadly owned that he could not. In that very confession he becomes an unconscious prophet. For that he should have so vividly set forth the qualifications of a leader of men, as defined by the people’s cries, and should have so bitterly felt his incapacity to supply them, is a witness, if there is a God at all, that somewhere the needed Ideal will be realised in ‘a Leader and Commander of the people,’ God-sent and ‘worthy of more glory than Moses.’\n\nThe best service that all human leaders, helpers or lovers, can do us, is to confess their own insufficiency, and to point us to Jesus.\n\nAll that men need is found in Him and in Him alone. All that men have failed, and must always fail, to be, He is. Those eyes are blessed that ‘see no man any more save Jesus only.’ We need One who can satisfy our desires and fill our hungry souls, and Jesus speaks a promise, confirmed by the experience of all who have tested it when He declares: ‘He that cometh unto Me shall never hunger.’ We need One who will dry our tears, and Jesus, when He says ‘Weep not,’ wipes them away and stanches their sources, giving ‘the oil of joy for mourning.’ We need One who can hold us up in our journey, and minister strength to fainting hearts and vigour to weary feet, and Jesus ‘strengthens us with might in the inner man.’ We need One who will bring us to the promised land of rest, and Jesus brings many sons to glory, and wills that they be ‘with Him where He is.’ So let us turn away from the multiplicity of human insufficiencies to Him who is our one only help and hope, because He is all-sufficient and eternal."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "maclaren",
+  "book": "NUM",
+  "chapter": 13
+ }
+}

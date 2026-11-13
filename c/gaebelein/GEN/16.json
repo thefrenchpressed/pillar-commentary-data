@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "gaebelein",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 16 Abraham and Hagar\n\n1. Sarai’s suggestion (Genesis 16:1-3)\n\n2. Abram’s action (Genesis 16:4)\n\n3. Sarai and Hagar (Genesis 16:5-6)\n\n4. Hagar in the wilderness (Genesis 16:7-9)\n\n5. The birth of Ishmael announced (Genesis 16:10-14)\n\n6. Ishmael born (Genesis 16:15-16)\n\nThe fifteenth chapter may be called Abram’s faith chapter. The sixteenth is the chapter of unbelief. It was impatience which forced Sarai and Abram to act for themselves. Unbelief is impatience and impatience is unbelief. Faith waits patiently for the Lord, and on the Lord, to act. “He that believeth shall not make haste.” Abram and Sarai attempted to help the Lord to fulfill His promise. What a failure they made of it! On account of it there was great trouble in his house.\n\nBut the incident has a deeper meaning. Read Galatians 4:21-31. This gives us the typical meaning and how the Lord overruled even this failure. Sarai represents the covenant of grace; Hagar the law covenant. Hagar was an Egyptian; Sarai a princess. The law brings into bondage, grace makes free.\n\nAbram was eighty-six years old when Ishmael was born. The next chapter tells us that Abram was ninety and nine years old when the Lord spoke to him again. Thus for thirteen years Abram’s life seems to have been barren of communications from the Lord. What a harvest of the flesh."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "GEN",
+  "chapter": 17
+ }
+}

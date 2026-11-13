@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "gaebelein",
+  "name": "Arno Gaebelein's Annotated Bible",
+  "englishName": "Arno Gaebelein's Annotated Bible",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/Arno_Clemens_Gaebelein"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "gaebelein",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "CHAPTER 17 Diverse Proverbs\n\nOf the twenty-eight proverbs found in this chapter we point out but a few. “The fining pot is for silver and the furnace for gold; but the LORD trieth the hearts” (Proverbs 17:3). Man may try silver and gold, but God only the hearts. And He tries the hearts by the refining process, trials and afflictions, the process which rests in His own hands. (See Psalms 66:10-12; Malachi 3:3-18; 1 Peter 1:7.)\n\n“He that covereth a transgression seeketh love, but he that repeateth a matter separateth very friends” (Proverbs 17:9). To cover a transgression does not mean to ignore sin. How he who has sinned and is in transgression is to be dealt with is given to us in Galatians 6:1-5. To act in the spirit of love towards one who has sinned is Christ-like. To repeat the matter, gossip about it, harp on the shortcomings and failure, is Satan-like, for he is the accuser of the brethren.\n\n“A friend loveth at all times, and a brother is born for adversity” Proverbs 17:17). This is beautifully illustrated in the case of David and Jonathan 1 Samuel 18:1-30; 1 Samuel 19:1-24; 1 Samuel 20:1-42). And the great Friend, the brother born for adversity, is the Lord Jesus Christ. He loveth at all times; His love is limitless and timeless. It is the love which passeth knowledge."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "gaebelein",
+  "book": "PRO",
+  "chapter": 18
+ }
+}

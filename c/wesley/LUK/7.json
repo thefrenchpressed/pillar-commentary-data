@@ -1,0 +1,200 @@
+{
+ "commentary": {
+  "id": "wesley",
+  "name": "John Wesley's Explanatory Notes",
+  "englishName": "John Wesley's Explanatory Notes",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://www.ccel.org/ccel/wesley/notes.html"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "wesley",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Mt 8:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 3,
+    "content": [
+     {
+      "text": "Hearing of Jesus - Of his miracles, and of his arrival at Capernaum."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Mt 11:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "To the poor the Gospel is preached - Which is the greatest mercy, and the greatest miracle of all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "When the messengers were departed - He did not speak the following things in the hearing of John's disciples, lest he should seem to flatter John, or to compliment him into an adherence to his former testimony. To avoid all suspicion of this kind, he deferred his commendation of him, till the messengers were gone; and then delivered it to the people, to prevent all imaginations, as if John were wavering in his judgment, and had sent the two disciples for his own, rather than their satisfaction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Mal 3:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "There is not a greater prophet than John - A greater teacher. But he that is least in the kingdom of God - The least teacher whom I send forth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "And all the people - Our Lord continues his discourse: justified God - Owned his wisdom and mercy in thus calling them to repentance, and preparing them for Him that was to come."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "But the Pharisees and scribes - The good, learned, honourable men: made void the counsel, the gracious design, of God toward them - They disappointed all these methods of his love, and would receive no benefit from them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "They are like children sitting in the market place - So froward and perverse, that no contrivance can be found to please them. It is plain our Lord means, that they were like the children complained of, not like those that made the complaint."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "But wisdom is justified by all her children - The children of wisdom are those who are truly wise unto salvation. The wisdom of God in all these dispensations, these various methods of calling sinners to repentance, is owned and heartily approved by all these."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "And one of the Pharisees asked him to eat with him - Let the candour with which our Lord accepted this invitation, and his gentleness and prudence at this ensnaring entertainment, teach us to mingle the wisdom of the serpent, with the innocence and sweetness of the dove. Let us neither absolutely refuse all favours, nor resent all neglects, from those whose friendship is at best very doubtful, and their intimacy by no means safe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "A woman - Not the same with Mary of Bethany, who anointed him six days before his last passover."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "And Jesus said, Simon, I have somewhat to say to thee - So tender and courteous an address does our Lord use even to a proud, censorious Pharisee!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "Which of them will love him most? - Neither of them will love him at all, before he has forgiven them. An insolvent debtor, till he is forgiven, does not love, but fly his creditor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Thou gavest me no water - It was customary with the Jews to show respect and kindness to their welcome guests, by saluting them with a kiss, by washing their feet, and anointing their heads with oil, or some fine ointment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Those many sins of hers are forgiven; therefore she loveth much - The fruit of her having had much forgiven. It should carefully be observed here, that her love is mentioned as the effect and evidence, not the cause of her pardon. She knew that much had been forgiven her, and therefore she loved much."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 50,
+    "content": [
+     {
+      "text": "Thy faith hath saved thee - Not thy love. Love is salvation."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "wesley",
+  "book": "LUK",
+  "chapter": 8
+ }
+}
