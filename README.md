@@ -39,6 +39,20 @@ intentionally omitted: the source module attaches book/chapter front matter
 per-verse comment, and it isn't reliably separable from genuine commentary —
 shown as missing rather than risk showing the wrong thing.
 
+**A section is stored once, under its first verse.** The SWORD module links one
+section to every verse it covers — a whole psalm's exposition to each of its
+verses — and the first conversion wrote it out under all of them: 14.6 MB of
+the same text again, which took this repository past the 50 MB that jsDelivr
+will serve. A reader should find the comment for a verse as *the last block
+that starts at or before it*; The Pillar does on both platforms.
+`Scripts/dedupe_commentary_sections.py` in the app repo made the change and
+checks, verse by verse, that the lookup returns the same text as before.
+
+**Keep this repository under 50 MB.** Over it, jsDelivr answers
+"Package size exceeded the configured limit of 50 MB" with a 403 for any file
+an edge has not cached. Measure before adding anything:
+`git ls-tree -r -l HEAD | awk '{s+=$4} END {print s/1e6 " MB"}'`.
+
 ## License
 
 The underlying commentary text is public domain. This repository's conversion
