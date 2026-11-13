@@ -94,6 +94,13 @@ drop real portions (Psalms 139:14-24 among them).
 
 ### scofield — Scofield Reference Notes (1917)
 
+*Listed in the app as "C. I. Scofield Bible Commentary".* The catalog name is chosen for the app's title
+bar, not as the work's title: builds before 1.12 shorten a name only by
+stripping an ending such as " Bible Commentary", and the work's own title left
+a 30-character label that pushed the book's name off the bar. Name any new
+catalog entry the same way. The chapter files still carry the earlier name in
+their `commentary` block; the apps do not read it.
+
 C. I. Scofield's notes from the 1917 edition of the Scofield Reference Bible
 (Oxford University Press, New York; first edition 1909). Published in the
 United States in 1917: public domain. Not the 1967 New Scofield, which is in
@@ -109,6 +116,13 @@ first has a note. The digital text omits at least one note found in print
 (Genesis 1:1, "created").
 
 ### gaebelein — Arno Gaebelein's Annotated Bible
+
+*Listed in the app as "Arno Gaebelein Bible Commentary".* The catalog name is chosen for the app's title
+bar, not as the work's title: builds before 1.12 shorten a name only by
+stripping an ending such as " Bible Commentary", and the work's own title left
+a 30-character label that pushed the book's name off the bar. Name any new
+catalog entry the same way. The chapter files still carry the earlier name in
+their `commentary` block; the apps do not read it.
 
 Arno C. Gaebelein, *The Annotated Bible*, nine volumes, New York: "Our Hope",
 1913–1922: public domain. Source: the SWORD module SermonIndex builds of its
